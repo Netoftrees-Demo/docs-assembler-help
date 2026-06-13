@@ -52,3 +52,18 @@
 - How to create an account
 - How to download a release
 
+
+
+
+## Notes:
+
+Need a white paper on CORS and the solution.
+
+Want to print out the full readme from here to md and copy it over to vsc repo
+Say if need more steps or don't hace vscode installed then these give the full isntructions from downloading and installing vscode onwards.
+
+TODO add image that opens when you click it => see hal robotics for an exmaple
+TODO you can check to see if vscode is installed by search vscode
+
+Have apple and linux options but say have no apple or linux devices.
+If you are interested in contributing and adding these sections email us

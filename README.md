@@ -19,5 +19,3 @@ Use the Docs Assembler extension:
  - Wait for the GitHub Action `pages build and deployment` to complete.
  - Browse to the repo's GitHub pages url.
 
-
-

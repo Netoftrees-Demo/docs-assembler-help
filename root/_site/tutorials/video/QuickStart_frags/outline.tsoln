@@ -37,7 +37,13 @@
                                                                 "o": [
                                                                     {
                                                                         "i": "1CvXvNs00vH",
-                                                                        "c": 5
+                                                                        "c": 5,
+                                                                        "o": [
+                                                                            {
+                                                                                "i": "1D4244102DY",
+                                                                                "x": "1D3wjIz02GN"
+                                                                            }
+                                                                        ]
                                                                     },
                                                                     {
                                                                         "i": "1CvXzZJ01AD"
@@ -59,7 +65,13 @@
                     },
                     {
                         "i": "1CmDqDS02aE",
-                        "c": 5
+                        "c": 5,
+                        "o": [
+                            {
+                                "i": "1D41mqQ01MI",
+                                "x": "1D3wjIz02GN"
+                            }
+                        ]
                     }
                 ]
             },
@@ -99,12 +111,12 @@
             "p": "explanations/ThirdPartyGuides_frags"
         },
         {
-            "p": "https://netoftrees.github.io/docs-assembler-demo/DocumentationHell_frags",
-            "b": "https://netoftrees.github.io/docs-assembler-demo/"
+            "p": "https://netoftrees.com/docs-assembler-demo/Technical/DocumentationHellContents_frags",
+            "b": "https://netoftrees.com/docs-assembler-demo/"
         },
         {
-            "p": "https://netoftrees.github.io/docs-assembler-demo/Technical/Hallucinations_frags",
-            "b": "https://netoftrees.github.io/docs-assembler-demo/"
+            "p": "https://netoftrees.com/docs-assembler-demo/Technical/Hallucinations_frags",
+            "b": "https://netoftrees.com/docs-assembler-demo/"
         },
         {
             "i": "1CP8y0V01Io",
