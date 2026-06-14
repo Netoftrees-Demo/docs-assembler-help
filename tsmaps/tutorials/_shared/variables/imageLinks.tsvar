@@ -14,3 +14,48 @@
 ¬DA_install_dialogue_url: ../../../assets/images/vscode_install_vsix_dialogue.png
 ¬DA_install_dialogue_img: ![Install Docs Assembler dialogue in vscode]({{::DA_install_dialogue_url}})
 
+¬WindowsButton_desktop_url: ../../../assets/images/WindowsButton_desktop.png
+¬WindowsButton_desktop_img: ![Windows button]({{::WindowsButton_desktop_url}})
+
+¬WindowsStartMenuSearch_url: ../../../assets/images/WindowsStartMenuSearch.png
+¬WindowsStartMenuSearch_img: ![Windows start menu search]({{::WindowsStartMenuSearch_url}})
+
+¬WindowsStartMenuSearch_vscode_url: ../../../assets/images/WindowsStartMenuSearch_vscode.png
+¬WindowsStartMenuSearch_vscode_img: ![Windows start menu search for vscode]({{::WindowsStartMenuSearch_vscode_url}})
+
+¬WindowsStartMenuSearch_chrome_url: ../../../assets/images/WindowsStartMenuSearch_chrome.png
+¬WindowsStartMenuSearch_chrome_img: ![Windows start menu search for vscode]({{::WindowsStartMenuSearch_chrome_url}})
+
+¬Vscode_empty_url: ../../../assets/images/Vscode_empty.png
+¬Vscode_empty_img: ![Vscode - empty]({{::Vscode_empty_url}})
+
+¬Firefox_vscode_url: ../../../assets/images/Firefox-vscode.png
+¬Firefox_vscode_img: ![Vscode - empty]({{::Firefox_vscode_url}})
+
+¬Firefox_vscode_downloaded_url: ../../../assets/images/Firefox-vscode_downloaded.png
+¬Firefox_vscode_downloaded_img: ![Vscode - empty]({{::Firefox_vscode_downloaded_url}})
+
+¬Vscode_InstallDialogueStart_url: ../../../assets/images/Vscode_InstallDialogueStart.png
+¬Vscode_InstallDialogueStart_img: ![Vscode - empty]({{::Vscode_InstallDialogueStart_url}})
+
+¬Vscode_InstallDialogueLocation_url: ../../../assets/images/Vscode_InstallDialogueLocation.png
+¬Vscode_InstallDialogueLocation_img: ![Vscode - empty]({{::Vscode_InstallDialogueLocation_url}})
+
+¬Vscode_InstallDialogueStartFolder_url: ../../../assets/images/Vscode_InstallDialogueStartFolder.png
+¬Vscode_InstallDialogueStartFolder_img: ![Vscode - empty]({{::Vscode_InstallDialogueStartFolder_url}})
+
+¬Vscode_InstallDialogueCompleted_url: ../../../assets/images/Vscode_InstallDialogueCompleted.png
+¬Vscode_InstallDialogueCompleted_img: ![Vscode - empty]({{::Vscode_InstallDialogueCompleted_url}})
+
+¬Vscode_InstallDialogueSummary_url: ../../../assets/images/Vscode_InstallDialogueSummary.png
+¬Vscode_InstallDialogueSummary_img: ![Vscode - empty]({{::Vscode_InstallDialogueSummary_url}})
+
+¬Vscode_InstallDialogueTasks_url: ../../../assets/images/Vscode_InstallDialogueTasks.png
+¬Vscode_InstallDialogueTasks_img: ![Vscode - empty]({{::Vscode_InstallDialogueTasks_url}})
+
+¬Vscode_InstallDialogueTasks_2_url: ../../../assets/images/Vscode_InstallDialogueTasks_2.png
+¬Vscode_InstallDialogueTasks_2_img: ![Vscode - empty]({{::Vscode_InstallDialogueTasks_2_url}})
+
+¬Vscode_FreshlyInstalled_url: ../../../assets/images/Vscode_FreshlyInstalled.png
+¬Vscode_FreshlyInstalled_img: ![Vscode - empty]({{::Vscode_FreshlyInstalled_url}})
+

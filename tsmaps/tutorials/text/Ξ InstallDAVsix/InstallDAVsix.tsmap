@@ -4,7 +4,7 @@
     "name": "InstallDAVsix",
     "created": "2026-05-17T22:43:49.264Z",
     "list": true,
-    "cachedPath": "d:/GitHub/netoftrees/docs-assembler-help/tsmaps/tutorials/text/Ξ InstallDAVsix/InstallDAVsix.tsmap",
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Ξ InstallDAVsix/InstallDAVsix.tsmap",
     "iText": "Link to 'InstallDAVsix'",
     "iExits": [
         {
@@ -14,13 +14,21 @@
         }
     ],
     "___rΩΩt___": {
-        "key": "1GvmqUG002I",
+        "key": "1JYSKfS015u",
+        "sharedAssetKey": "1JYSLMQ01vE",
         "nodes": [
             {
-                "key": "1GvmtJ500Ts",
+                "key": "1GvmqUG002I",
                 "order": 1,
-                "option": "Next",
-                "exitKey": "1Gw871S01Sw"
+                "option": "Root",
+                "nodes": [
+                    {
+                        "key": "1GvmtJ500Ts",
+                        "order": 1,
+                        "sharedAssetKey": "1JYT7od0124",
+                        "isLeaf": true
+                    }
+                ]
             }
         ]
     },
@@ -28,11 +36,21 @@
         {
             "key": "δ-1GvmqUG002I",
             "relativePath": "./δ steps/δ-1GvmqUG002I.tsstp"
+        },
+        {
+            "key": "1JYSLMQ01vE",
+            "relativePath": "../../_shared/steps/InstallDAVsix_start.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "1JYT7od0124",
+            "relativePath": "../../_shared/steps/InstallDAVsix_end.tsstp",
+            "isShared": true
         }
     ],
     "___εdit___": {
-        "id": "1Gw88Xt01Y3",
-        "editorID": "car_77a067227e7644c39a6a4486d993c272",
-        "ticks": 1779062927861
+        "id": "1JYTG3a00pf",
+        "editorID": "car_aa070fbc96584c4287bc11a9155e3185",
+        "ticks": 1781461728054
     }
 }

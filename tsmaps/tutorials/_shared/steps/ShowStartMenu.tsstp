@@ -1,0 +1,13 @@
+¬import il from "../variables/imageLinks"
+
+
+#### Show Start Menu
+
+1. In the taskbar click the Windows button. *- red circle*
+
+{{::il.WindowsButton_desktop_img}}
+
+2. The Start Menu opens with the search box at the top. *- red circle*
+
+{{::il.WindowsStartMenuSearch_img}}
+

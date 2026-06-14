@@ -1,0 +1,75 @@
+{
+    "key": "1JYRKAN01m3 ",
+    "token": "Installdocsassemblerfromopenvsx",
+    "name": "InstallDocsAssemblerFromOpenVsx",
+    "created": "2026-06-14T18:21:07.195Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Ξ InstallDocsAssemblerFromOpenVsx/InstallDocsAssemblerFromOpenVsx.tsmap",
+    "iText": "Link to 'InstallDocsAssemblerFromOpenVsx'",
+    "iExits": [
+        {
+            "key": "1JYTq7y00Jd",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "1JYRQAV01Vw",
+        "iKey": "1GuplRE01RI",
+        "nodes": [
+            {
+                "key": "1JYRnPa00DU",
+                "order": 1,
+                "option": "Exit",
+                "sharedAssetKey": "1JYSZLt019N",
+                "iExitKey": "1Guq5T700TI",
+                "nodes": [
+                    {
+                        "key": "1JYSYlt00hc",
+                        "order": 1,
+                        "nodes": [
+                            {
+                                "key": "1JYSd0Y01s4",
+                                "order": 1,
+                                "sharedAssetKey": "1JYTimn01TO",
+                                "nodes": [
+                                    {
+                                        "key": "1JYTnR901AI",
+                                        "order": 1,
+                                        "option": "Next",
+                                        "exitKey": "1JYTq7y00Jd"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1JYRQAV01Vw",
+            "relativePath": "./δ steps/δ-1JYRQAV01Vw.tsstp"
+        },
+        {
+            "key": "1JYSZLt019N",
+            "relativePath": "../../_shared/steps/ShowStartMenu.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1JYSYlt00hc",
+            "relativePath": "./δ steps/δ-1JYSYlt00hc.tsstp"
+        },
+        {
+            "key": "1JYTimn01TO",
+            "relativePath": "../../_shared/steps/InstallDAVsix_end.tsstp",
+            "isShared": true
+        }
+    ],
+    "___εdit___": {
+        "id": "1JYTrOk01hm",
+        "editorID": "car_df6256dcd3aa402aae5e57562cb95710",
+        "ticks": 1781461871594
+    }
+}

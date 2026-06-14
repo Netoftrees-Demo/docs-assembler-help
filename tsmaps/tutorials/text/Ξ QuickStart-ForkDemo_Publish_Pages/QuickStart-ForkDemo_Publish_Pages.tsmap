@@ -1,0 +1,55 @@
+{
+    "key": "1JWS9AD01uc ",
+    "token": "Quickstartforkdemopublishpages",
+    "name": "QuickStart-ForkDemo_Publish_Pages",
+    "created": "2026-06-14T10:11:50.557Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Ξ QuickStart-ForkDemo_Publish_Pages/QuickStart-ForkDemo_Publish_Pages.tsmap",
+    "iText": "Link to 'QuickStart-ForkDemo_Publish_Pages'",
+    "___rΩΩt___": {
+        "key": "1JWSiRo01ru",
+        "nodes": [
+            {
+                "key": "1JWSkR900RY",
+                "order": 1,
+                "iKey": "1JWkxJb024e",
+                "nodes": [
+                    {
+                        "key": "1JY457F00uu",
+                        "order": 1,
+                        "option": "Exit",
+                        "iKey": "1JYRKAN01m3",
+                        "iExitKey": "1JWpPnm00qh",
+                        "nodes": [
+                            {
+                                "key": "1JYU1lm01Ns",
+                                "order": 1,
+                                "option": "Exit",
+                                "iExitKey": "1JYTq7y00Jd"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1JWSiRo01ru",
+            "relativePath": "./δ steps/δ-1JWSiRo01ru.tsstp"
+        },
+        {
+            "key": "δ-1JWSkR900RY",
+            "relativePath": "./δ steps/δ-1JWSkR900RY.tsstp"
+        },
+        {
+            "key": "δ-1JY457F00uu",
+            "relativePath": "./δ steps/δ-1JY457F00uu.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1JYU1lm01oI",
+        "editorID": "car_8e1438aef35e4900afa423d7d70debbc",
+        "ticks": 1781461911462
+    }
+}

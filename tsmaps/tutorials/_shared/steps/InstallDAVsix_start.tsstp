@@ -1,0 +1,14 @@
+¬import il from "../../../_shared/variables/imageLinks"
+
+
+#### Install Docs Assembler in vscode
+
+1. In vscode click the extensions icon in the Activity Bar. *- red circle*
+2. The Extensions panel opens.
+3. In the top right corner of the Extensions Panel click the three dots `...`. *- yellow circle*
+4. In the menu that drops down click `Install from VSIX...`. *- green circle*
+
+{{::il.DA_install_img}}
+
+5. The `Install from VSIX` dialogue opens.
+
