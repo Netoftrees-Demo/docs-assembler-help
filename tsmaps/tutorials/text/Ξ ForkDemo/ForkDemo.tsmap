@@ -1,1 +1,65 @@
-{"key":"1JYULrC00X6 ","token":"Forkdemo","name":"ForkDemo","created":"2026-06-14T18:33:08.679Z","list":true,"iText":"Link to 'ForkDemo'","___rΩΩt___":{"key":"1JYUQ3u01nI"},"___αssεts___":[]}
+{
+    "key": "1JYULrC00X6 ",
+    "token": "Forkdemo",
+    "name": "ForkDemo",
+    "created": "2026-06-14T18:33:08.679Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Ξ ForkDemo/ForkDemo.tsmap",
+    "iText": "Link to 'ForkDemo'",
+    "iExits": [
+        {
+            "key": "1JZCnxy01BL",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "1JYUQ3u01nI",
+        "nodes": [
+            {
+                "key": "1Jeijy700CL",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1JejoIi013a",
+                        "order": 1
+                    },
+                    {
+                        "key": "1JekFyH01Ag",
+                        "order": 2,
+                        "option": "browser?",
+                        "isAncillary": true,
+                        "iKey": "1JWsJzB00Aj",
+                        "nodes": [
+                            {
+                                "key": "1JekLaM013R",
+                                "order": 1,
+                                "option": "Exit",
+                                "iExitKey": "1JXLma501nR"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1JYUQ3u01nI",
+            "relativePath": "./δ steps/δ-1JYUQ3u01nI.tsstp"
+        },
+        {
+            "key": "δ-1Jeijy700CL",
+            "relativePath": "./δ steps/δ-1Jeijy700CL.tsstp"
+        },
+        {
+            "key": "δ-1JekFyH01Ag",
+            "relativePath": "./δ steps/δ-1JekFyH01Ag.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1JekLaM01Kg",
+        "editorID": "car_782d0cf41e994afe9880ad546ccb1c0a",
+        "ticks": 1781554458898
+    }
+}
