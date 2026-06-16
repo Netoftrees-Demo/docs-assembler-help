@@ -22,22 +22,63 @@
                 "nodes": [
                     {
                         "key": "1JejoIi013a",
-                        "order": 1
+                        "order": 1,
+                        "nodes": [
+                            {
+                                "key": "1JkrjAj00DU",
+                                "order": 1,
+                                "nodes": [
+                                    {
+                                        "key": "1JktdP700Qv",
+                                        "order": 1,
+                                        "nodes": [
+                                            {
+                                                "key": "1Jl4cKB01UL",
+                                                "order": 1,
+                                                "nodes": [
+                                                    {
+                                                        "key": "1Jl4vGM02Ci",
+                                                        "order": 1,
+                                                        "option": "Next"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "key": "1Jl4kX901bX",
+                                                "order": 2,
+                                                "option": "vscode?",
+                                                "isAncillary": true,
+                                                "iKey": "1JWkxJb024e",
+                                                "nodes": [
+                                                    {
+                                                        "key": "1Jl4s1G0244",
+                                                        "order": 1,
+                                                        "option": "Exit",
+                                                        "iExitKey": "1JWpPnm00qh"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "key": "1JkrvsR026b",
+                                "order": 2,
+                                "option": "login?",
+                                "isLeaf": true,
+                                "isAncillary": true,
+                                "iKey": "1Jkstd400tu"
+                            }
+                        ]
                     },
                     {
                         "key": "1JekFyH01Ag",
                         "order": 2,
                         "option": "browser?",
+                        "isLeaf": true,
                         "isAncillary": true,
-                        "iKey": "1JWsJzB00Aj",
-                        "nodes": [
-                            {
-                                "key": "1JekLaM013R",
-                                "order": 1,
-                                "option": "Exit",
-                                "iExitKey": "1JXLma501nR"
-                            }
-                        ]
+                        "iKey": "1JWsJzB00Aj"
                     }
                 ]
             }
@@ -53,13 +94,37 @@
             "relativePath": "./δ steps/δ-1Jeijy700CL.tsstp"
         },
         {
+            "key": "δ-1JejoIi013a",
+            "relativePath": "./δ steps/δ-1JejoIi013a.tsstp"
+        },
+        {
             "key": "δ-1JekFyH01Ag",
             "relativePath": "./δ steps/δ-1JekFyH01Ag.tsstp"
+        },
+        {
+            "key": "δ-1JkrvsR026b",
+            "relativePath": "./δ steps/δ-1JkrvsR026b.tsstp"
+        },
+        {
+            "key": "δ-1JkrjAj00DU",
+            "relativePath": "./δ steps/δ-1JkrjAj00DU.tsstp"
+        },
+        {
+            "key": "δ-1JktdP700Qv",
+            "relativePath": "./δ steps/δ-1JktdP700Qv.tsstp"
+        },
+        {
+            "key": "δ-1Jl4cKB01UL",
+            "relativePath": "./δ steps/δ-1Jl4cKB01UL.tsstp"
+        },
+        {
+            "key": "δ-1Jl4kX901bX",
+            "relativePath": "./δ steps/δ-1Jl4kX901bX.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "1JekLaM01Kg",
-        "editorID": "car_782d0cf41e994afe9880ad546ccb1c0a",
-        "ticks": 1781554458898
+        "id": "1Jl4wHl02R2",
+        "editorID": "car_7f53232e1d3c445eb890c7ad7fcfdfd5",
+        "ticks": 1781648024549
     }
 }

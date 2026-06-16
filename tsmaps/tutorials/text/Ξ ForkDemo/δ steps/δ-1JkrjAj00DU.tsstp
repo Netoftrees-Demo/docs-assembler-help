@@ -1,0 +1,24 @@
+¬import il from "../../../_shared/variables/imageLinks"
+
+
+3. Navigate to **https://github.com/netoftrees/docs-assembler-demo**. This is the Docs Assembler Demo repository (repo for short).
+
+4. Click the Fork button. *- red circle*
+
+{{::il.GitHub_ForkButton_img}}
+
+5. The **Create a new fork** page is displayed.
+When you click **Create fork**, GitHub creates a copy of the docs-assembler-demo repository in your GitHub account. The fork will be fully independent of the original, and you'll have full read/write access.
+
+6. You can optionally change the repository name before creating the fork. *- red circle*
+
+7. Click **Create fork**. *- yellow circle*
+
+{{::il.GitHub_CreateForkView_img}}
+
+8. GitHub takes a moment to create the fork, then opens the new repository in your account.
+
+9. Copy your new repository's URL from the browser's address bar. *- red circle*
+
+{{::il.GitHub_NewForkedRepo_img}}
+

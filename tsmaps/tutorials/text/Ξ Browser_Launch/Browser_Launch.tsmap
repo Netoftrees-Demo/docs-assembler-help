@@ -6,13 +6,6 @@
     "list": true,
     "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Ξ Browser_Launch/Browser_Launch.tsmap",
     "iText": "Link to 'Browser_Launch'",
-    "iExits": [
-        {
-            "key": "1JXLma501nR",
-            "text": "Exit",
-            "order": 1
-        }
-    ],
     "___rΩΩt___": {
         "key": "1JWsP2E01EH",
         "nodes": [
@@ -26,14 +19,8 @@
                         "order": 1,
                         "nodes": [
                             {
-                                "key": "1JXGXVo00ix",
-                                "order": 1,
-                                "option": "Next",
-                                "exitKey": "1JXLma501nR"
-                            },
-                            {
                                 "key": "1JXLqxV00Ct",
-                                "order": 2,
+                                "order": 1,
                                 "option": "Install browsers",
                                 "isHeadless": true,
                                 "isAncillary": true,
@@ -80,8 +67,8 @@
         }
     ],
     "___εdit___": {
-        "id": "1JXMFxV01jq",
-        "editorID": "car_00a0f149944b4cdd965f1af3e6f9c14e",
-        "ticks": 1781445283045
+        "id": "1JksfRs01ce",
+        "editorID": "car_147cb7b06c37458e86956d88d53806e8",
+        "ticks": 1781645099892
     }
 }

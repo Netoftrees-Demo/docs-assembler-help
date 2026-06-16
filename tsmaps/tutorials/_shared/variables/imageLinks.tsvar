@@ -59,3 +59,12 @@
 ¬Vscode_FreshlyInstalled_url: ../../../assets/images/Vscode_FreshlyInstalled.png
 ¬Vscode_FreshlyInstalled_img: ![Vscode - empty]({{::Vscode_FreshlyInstalled_url}})
 
+¬GitHub_ForkButton_url: ../../../assets/images/GitHub_ForkButton_img.png
+¬GitHub_ForkButton_img: ![Vscode - empty]({{::GitHub_ForkButton_url}})
+
+¬GitHub_CreateForkView_url: ../../../assets/images/GitHub_CreateForkView_img
+¬GitHub_CreateForkView_img: ![Vscode - empty]({{::GitHub_CreateForkView_url}})
+
+¬GitHub_NewForkedRepo_url: ../../../assets/images/GitHub_NewForkedRepo_img
+¬GitHub_NewForkedRepo_img: ![Vscode - empty]({{::GitHub_NewForkedRepo_url}})
+

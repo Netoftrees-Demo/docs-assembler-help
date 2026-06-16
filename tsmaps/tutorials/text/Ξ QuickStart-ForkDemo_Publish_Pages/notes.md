@@ -14,3 +14,9 @@ YYYYY
 For launching a browser offer options of laucnhing default or choosing one so add the following to the launch browser map (remember be helpful without being intrusive or annoying):
 Start menu search: Press the Windows key, type a web address (e.g., google.com), and press Enter — it opens in your default browser.
 
+Clone a repo - it is a good idea to close any open repo first - in case vscode launches with an open repo. It reduces the chances of mistakes.
+
+Shoula sk at the beginning which editor they use pr would prefer to install if they use vscodium use this through out the tutorial otherwise use vscode.
+Explain the choices. Say this tutorial can guide you through running docs assembler through vscodium or vscode
+All the tutorial are built just with text editors, no code.
+
