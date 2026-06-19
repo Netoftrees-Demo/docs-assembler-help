@@ -59,6 +59,27 @@
 ¬Vscode_FreshlyInstalled_url: ../../../assets/images/Vscode_FreshlyInstalled.png
 ¬Vscode_FreshlyInstalled_img: ![Vscode - empty]({{::Vscode_FreshlyInstalled_url}})
 
+¬Vscode_FolderClose_url: ../../../assets/images/vscode_FolderClose.png
+¬Vscode_FolderClose_img: ![Vscode - empty]({{::Vscode_FolderClose_url}})
+
+¬Vscode_FolderIsOpen_url: ../../../assets/images/vscode_FolderIsOpen.png
+¬Vscode_FolderIsOpen_img: ![Vscode - empty]({{::Vscode_FolderIsOpen_url}})
+
+¬Vscode_FolderNotOpen_url: ../../../assets/images/vscode_FolderNotOpen.png
+¬Vscode_FolderNotOpen_img: ![Vscode - empty]({{::Vscode_FolderNotOpen_url}})
+
+¬Vscode_CloneForkedDemo_url: ../../../assets/images/vscode_CloneForkedDemo.png
+¬Vscode_CloneForkedDemo_img: ![Vscode - empty]({{::Vscode_CloneForkedDemo_url}})
+
+¬Vscode_CloneForkedDemo_Location_url: ../../../assets/images/vscode_CloneForkedDemo_Location.png
+¬Vscode_CloneForkedDemo_Location_img: ![Vscode - empty]({{::Vscode_CloneForkedDemo_Location_url}})
+
+¬Vscode_CloneForkedDemo_Url_url: ../../../assets/images/vscode_CloneForkedDemo_Url.png
+¬Vscode_CloneForkedDemo_Url_img: ![Vscode - empty]({{::Vscode_CloneForkedDemo_Url_url}})
+
+¬Vscode_OpenClonedRepo_url: ../../../assets/images/vscode_OpenClonedRepo.png
+¬Vscode_OpenClonedRepo_img: ![Vscode - empty]({{::Vscode_OpenClonedRepo_url}})
+
 ¬GitHub_ForkButton_url: ../../../assets/images/GitHub_ForkButton_img.png
 ¬GitHub_ForkButton_img: ![Vscode - empty]({{::GitHub_ForkButton_url}})
 

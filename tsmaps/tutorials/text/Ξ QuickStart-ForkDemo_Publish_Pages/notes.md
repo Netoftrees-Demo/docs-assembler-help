@@ -5,6 +5,9 @@ CURRENTLY the minimal instruction is not given the whole lot is...
         - Navigate to github.com in a browser is a minmal instruction.
             - For those that are running on an unfamilar machine add the auxilliary 'browser?'
 
+Not minimal instructions. They are coming here for help. So they know the basics. They will need to know how to fork.
+The basic one should be used for the readme with a note that the guide will geive you more help and also give you an example of what you can do with documentation that branches.
+
 
 'The quickest option is to launch the default browser'
 XXXXX
@@ -16,7 +19,12 @@ Start menu search: Press the Windows key, type a web address (e.g., google.com),
 
 Clone a repo - it is a good idea to close any open repo first - in case vscode launches with an open repo. It reduces the chances of mistakes.
 
-Shoula sk at the beginning which editor they use pr would prefer to install if they use vscodium use this through out the tutorial otherwise use vscode.
+Should ask at the beginning which editor they use pr would prefer to install if they use vscodium use this through out the tutorial otherwise use vscode.
 Explain the choices. Say this tutorial can guide you through running docs assembler through vscodium or vscode
 All the tutorial are built just with text editors, no code.
 
+Need to sort out opening headings and sub headings in referenced maps especially for ancillaries
+
+All the img in imageLinks variable file have the alt text 'Vscode - empty' from copying a pasting - need to make sure all alt text are set correctly.
+
+In a tree if there is no title above an sintruction then count on from previous instructions. If there is a title then can start again from 1.

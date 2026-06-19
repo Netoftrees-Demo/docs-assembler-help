@@ -1,0 +1,23 @@
+¬import il from "../variables/imageLinks"
+
+
+#### Close a folder open in vscode
+
+1. If vscode is empty the **Explorer** you will see the section header **NO FOLDER OPENED** *- green circle*  
+and an **Open folder button**. *- yellow circle*
+
+2. If **Explorer** is not open click the **Eplorer** icon in the **Activity Bar** to show it. *- red circle*
+
+{{::il.Vscode_FolderNotOpen_img}}
+
+3. If a folder is open in vscode the file explorer will show the folder and its files. *- red circle*
+
+{{::il.Vscode_FolderIsOpen_img}}
+
+4. To close an open folder clisk the **File** menu and then **Close Folder**
+
+{{::il.Vscode_FolderClose_img}}
+
+
+*VS Code restores your last session on relaunch. If you exit with a folder open, it will reopen automatically - unless you launch a new empty window.*
+

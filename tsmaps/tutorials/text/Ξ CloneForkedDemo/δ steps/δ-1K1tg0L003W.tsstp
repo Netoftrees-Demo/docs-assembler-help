@@ -1,0 +1,31 @@
+¬import il from "../../../_shared/variables/imageLinks"
+
+
+2. Click the **Source Control** icon in the **Activity Bar**. *- red circle*
+
+3. The **Source Control** sidebar displays. If the sidebar disappears click the icon again to re-display it.
+
+4. In the **Source Control** click the **Clone Repository** button. *- yellow circle*
+
+{{::il.Vscode_CloneForkedDemo_img}}
+
+5. A text input box appears at the top of the vscode window, {{::_.repositoryUrl}}. *- red circle*
+
+6. Make sure **Clone from URL** with your repo URL is highlighted. *- yellow circle*
+
+7. Click **Enter** on the keyboard
+
+{{::il.Vscode_CloneForkedDemo_Url_img}}
+
+8. The file picker dialogue is displayed.
+
+9. Navigate to the location where you want to locate the cloned repo. *- red circle*
+
+10. Click **Selectas Repository Destination**. *- yellow circle*
+
+{{::il.Vscode_CloneForkedDemo_Url_img}}
+
+11. After cloning completes, vscode will ask if you want to open the cloned repository. Click **Open** to start working with it.
+
+{{::il.Vscode_OpenClonedRepo_img}}
+

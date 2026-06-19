@@ -6,13 +6,6 @@
     "list": true,
     "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Ξ Vscode_Launch/Vscode_Launch.tsmap",
     "iText": "Link to 'Vscode_Launch'",
-    "iExits": [
-        {
-            "key": "1JWpPnm00qh",
-            "text": "Exit",
-            "order": 1
-        }
-    ],
     "___rΩΩt___": {
         "key": "1JX7CzE00ZA",
         "nodes": [
@@ -26,14 +19,8 @@
                         "order": 1,
                         "nodes": [
                             {
-                                "key": "1JY4Vb001ab",
-                                "order": 1,
-                                "option": "Next",
-                                "exitKey": "1JWpPnm00qh"
-                            },
-                            {
                                 "key": "1JWm6Kz01mn",
-                                "order": 2,
+                                "order": 1,
                                 "option": "Install vscode",
                                 "isLeaf": true,
                                 "isAncillary": true,
@@ -65,8 +52,8 @@
         }
     ],
     "___εdit___": {
-        "id": "1JYPyj401XE",
-        "editorID": "car_ec88223eac6c41c9a061dbb8b891e4cb",
-        "ticks": 1781460946450
+        "id": "1JwnVK300Gt",
+        "editorID": "car_e013e82bd8ac423c99d7887067ace256",
+        "ticks": 1781821185359
     }
 }

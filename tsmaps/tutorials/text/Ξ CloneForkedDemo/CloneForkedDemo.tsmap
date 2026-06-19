@@ -1,0 +1,47 @@
+{
+    "key": "1K1tXYi01gX ",
+    "token": "Cloneforkeddemo",
+    "name": "CloneForkedDemo",
+    "created": "2026-06-19T19:15:05.605Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Ξ CloneForkedDemo/CloneForkedDemo.tsmap",
+    "iText": "Link to 'CloneForkedDemo'",
+    "___rΩΩt___": {
+        "key": "1K1teiK029W",
+        "nodes": [
+            {
+                "key": "1K1tg0L003W",
+                "order": 1,
+                "isLeaf": true
+            },
+            {
+                "key": "1K28N0T00Dv",
+                "order": 2,
+                "option": "close folder?",
+                "sharedAssetKey": "1K296bY025P",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1K1teiK029W",
+            "relativePath": "./δ steps/δ-1K1teiK029W.tsstp"
+        },
+        {
+            "key": "δ-1K1tg0L003W",
+            "relativePath": "./δ steps/δ-1K1tg0L003W.tsstp"
+        },
+        {
+            "key": "1K296bY025P",
+            "relativePath": "../../_shared/steps/VscodeCloseFolder.tsstp",
+            "isShared": true
+        }
+    ],
+    "___εdit___": {
+        "id": "1K299pq02Ap",
+        "editorID": "car_1967d21bbb5f488f856f496b49c50062",
+        "ticks": 1781900227658
+    }
+}

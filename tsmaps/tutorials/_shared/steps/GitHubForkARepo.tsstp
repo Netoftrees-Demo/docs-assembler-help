@@ -1,0 +1,20 @@
+¬import il from "../variables/imageLinks"
+
+
+#### Fork a GitHub repo
+
+1. Click the Fork button. *- red circle*
+
+{{::il.GitHub_ForkButton_img}}
+
+2. The **Create a new fork** page is displayed.
+When you click **Create fork**, GitHub creates a copy of the docs-assembler-demo repository in your GitHub account. The fork will be fully independent of the original, and you'll have full read/write access.
+
+3. You can optionally change the repository name before creating the fork. *- red circle*
+
+4. Click **Create fork**. *- yellow circle*
+
+{{::il.GitHub_CreateForkView_img}}
+
+5. GitHub takes a moment to create the fork, then opens the new repository in your account.
+
