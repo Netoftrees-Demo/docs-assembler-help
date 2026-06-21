@@ -14,6 +14,27 @@
 ¬DA_install_dialogue_url: ../../../assets/images/vscode_install_vsix_dialogue.png
 ¬DA_install_dialogue_img: ![Install Docs Assembler dialogue in vscode]({{::DA_install_dialogue_url}})
 
+¬DA_ShowControlView_url: ../../../assets/images/DA_ShowControlView.png
+¬DA_ShowControlView_img: ![Install Docs Assembler dialogue in vscode]({{::DA_ShowControlView_url}})
+
+¬DA_Initialise_url: ../../../assets/images/DA_Initialise.png
+¬DA_Initialise_img: ![Install Docs Assembler dialogue in vscode]({{::DA_Initialise_url}})
+
+¬DA_InitialiseCompleted_url: ../../../assets/images/DA_InitialiseCompleted.png
+¬DA_InitialiseCompleted_img: ![Install Docs Assembler dialogue in vscode]({{::DA_InitialiseCompleted_url}})
+
+¬DA_InitialiseCompleted_Explorer_url: ../../../assets/images/DA_InitialiseCompleted_Explorer.png
+¬DA_InitialiseCompleted_Explorer_img: ![Install Docs Assembler dialogue in vscode]({{::DA_InitialiseCompleted_Explorer_url}})
+
+¬DA_InitialiseCompleted_Git_url: ../../../assets/images/DA_InitialiseCompleted_Git.png
+¬DA_InitialiseCompleted_Git_img: ![Install Docs Assembler dialogue in vscode]({{::DA_InitialiseCompleted_Git_url}})
+
+¬DA_InitialiseCompleted_Sync_url: ../../../assets/images/DA_InitialiseCompleted_Sync.png
+¬DA_InitialiseCompleted_Sync_img: ![Install Docs Assembler dialogue in vscode]({{::DA_InitialiseCompleted_Sync_url}})
+
+¬DA_InitialiseCompleted_Commit_url: ../../../assets/images/DA_InitialiseCompleted_Commit.png
+¬DA_InitialiseCompleted_Commit_img: ![Install Docs Assembler dialogue in vscode]({{::DA_InitialiseCompleted_Commit_url}})
+
 ¬WindowsButton_desktop_url: ../../../assets/images/WindowsButton_desktop.png
 ¬WindowsButton_desktop_img: ![Windows button]({{::WindowsButton_desktop_url}})
 

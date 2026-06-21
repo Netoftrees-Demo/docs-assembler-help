@@ -1,0 +1,32 @@
+¬import il from "../../../_shared/variables/imageLinks"
+
+
+8. If **Explorer** is not open click the **Explorer** icon in the **Activity Bar** to show it. *- yellow circle*
+
+9. The **Explorer** panel displays. If the panel disappears click the icon again to re-display it.
+
+10. **Explorer** shows the files folders created of modified in the initialisation. *- red circles*
+
+{{::il.DA_InitialiseCompleted_Explorer_img}}
+
+
+8. Click the **Source Control** icon in the **Activity Bar**. *- red circle*
+
+9. The **Source Control** panel is shown, revealing all the modified files. *- yellow circle*
+
+{{::il.DA_InitialiseCompleted_Git_img}}
+
+
+10. Type a commit message in the message box at the top of the **Source Control** panel.  *- red circle*  
+A commit message is a note to your future self (and teammates) explaining why or what change was made in 50 characters or less.
+
+11. Click the **Commit** button.
+
+{{::il.DA_InitialiseCompleted_Commit_img}}
+
+
+12. Click the **Sync Changes** button to push the commit to GitHub.
+
+{{::il.DA_InitialiseCompleted_Sync_img}}
+
+TODO Login to GitHub on vscode

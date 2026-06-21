@@ -14,12 +14,45 @@
         }
     ],
     "___rΩΩt___": {
-        "key": "1JZDKxx02Ei"
+        "key": "1JZDKxx02Ei",
+        "nodes": [
+            {
+                "key": "1K7T8PM02Wl",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1K7p2Gg00dQ",
+                        "order": 1,
+                        "option": "Next",
+                        "nodes": [
+                            {
+                                "key": "1K91ivA01PH",
+                                "order": 1,
+                                "option": "Next"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
     },
-    "___αssεts___": [],
+    "___αssεts___": [
+        {
+            "key": "δ-1JZDKxx02Ei",
+            "relativePath": "./δ steps/δ-1JZDKxx02Ei.tsstp"
+        },
+        {
+            "key": "δ-1K7T8PM02Wl",
+            "relativePath": "./δ steps/δ-1K7T8PM02Wl.tsstp"
+        },
+        {
+            "key": "δ-1K7p2Gg00dQ",
+            "relativePath": "./δ steps/δ-1K7p2Gg00dQ.tsstp"
+        }
+    ],
     "___εdit___": {
-        "id": "1JZDOGi01VQ",
-        "editorID": "car_436df790d7824a8a88bd2f60fd8ed5e2",
-        "ticks": 1781472722708
+        "id": "1K91lxZ01oz",
+        "editorID": "car_3860fa2d2f0d475c91fa4d8222fc8ee2",
+        "ticks": 1782001901937
     }
 }

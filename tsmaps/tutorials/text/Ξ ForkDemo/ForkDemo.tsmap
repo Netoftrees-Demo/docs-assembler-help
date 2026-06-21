@@ -43,12 +43,8 @@
                                                             {
                                                                 "key": "1JwLw6Z02AK",
                                                                 "order": 1,
-                                                                "nodes": [
-                                                                    {
-                                                                        "key": "1K1s15Z00RS",
-                                                                        "order": 1
-                                                                    }
-                                                                ]
+                                                                "option": "Next",
+                                                                "exitKey": "1JZCnxy01BL"
                                                             },
                                                             {
                                                                 "key": "1JwgczX015r",
@@ -162,17 +158,13 @@
             "relativePath": "./δ steps/δ-1JwlXFS026f.tsstp"
         },
         {
-            "key": "δ-1JwLw6Z02AK",
-            "relativePath": "./δ steps/δ-1JwLw6Z02AK.tsstp"
-        },
-        {
             "key": "δ-1JwgczX015r",
             "relativePath": "./δ steps/δ-1JwgczX015r.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "1K285tn01kX",
-        "editorID": "car_ba7f7df19d8e4439b444c1576c228410",
-        "ticks": 1781899974199
+        "id": "1K7QAzZ02Jw",
+        "editorID": "car_2cf0c08b27f54da08d2abf7a1cce68b2",
+        "ticks": 1781978165361
     }
 }

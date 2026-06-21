@@ -8,6 +8,9 @@ CURRENTLY the minimal instruction is not given the whole lot is...
 Not minimal instructions. They are coming here for help. So they know the basics. They will need to know how to fork.
 The basic one should be used for the readme with a note that the guide will geive you more help and also give you an example of what you can do with documentation that branches.
 
+Commit should a separate map in the chain and not an ancillary
+    - It needs to explain what a commit message is for ie when reading the history of commits an short message list is good if yoiu are looking a set point etc for a rollback or create a new git branch You'll work out what works for you or your team.
+
 
 'The quickest option is to launch the default browser'
 XXXXX
@@ -28,3 +31,19 @@ Need to sort out opening headings and sub headings in referenced maps especially
 All the img in imageLinks variable file have the alt text 'Vscode - empty' from copying a pasting - need to make sure all alt text are set correctly.
 
 In a tree if there is no title above an sintruction then count on from previous instructions. If there is a title then can start again from 1.
+
+Make sure all major maps and ancillaries have a starting header that indicates what they do.
+
+Don't forget to explain how to do Custom Domain for GitHub Pages
+
+## TODO
+ - Configure repo for Pages
+ - Make an edit
+ - Save
+ - Publish
+ - Commit
+
+ if you want a guide tailored for you, that inserts the instructions you need ....
+ Add install GitHUb Extension
+ Add install Git to vscode
+ When sync need to handle if git was not installed or if it was not logged into GtiHub
