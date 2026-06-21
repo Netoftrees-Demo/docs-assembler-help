@@ -1,0 +1,21 @@
+¬import il from "../../../../_shared/variables/imageLinks"
+
+
+3. In the Search box type the name of the browser to open, in this image **chrome** has been typed. *- red circle*
+4. Click the **App** button **Google Chrome App**. *- yellow circle*
+
+*If the button **App** is not shown, the browser is not installed or the text typed doesn't match the App name. You can try other browsers using the table below*
+
+
+| Search text | Browser app name |
+| ------------- | -------------- |
+| chrome | Google Chrome |
+| edge | Microsoft Edge |
+| firefox | Firefox |
+| brave | Brave |
+| opera | Opera |
+
+
+{{::il.WindowsStartMenuSearch_chrome_img}}
+
+

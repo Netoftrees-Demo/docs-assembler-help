@@ -1,0 +1,74 @@
+{
+    "key": "1JWsJzB00Aj ",
+    "token": "Browserlaunch",
+    "name": "Browser_Launch",
+    "created": "2026-06-21T12:14:32.946Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Browser/Ξ Browser_Launch/Browser_Launch.tsmap",
+    "iText": "Link to 'Browser_Launch'",
+    "___rΩΩt___": {
+        "key": "1JWsP2E01EH",
+        "nodes": [
+            {
+                "key": "1JWsWMh02Tb",
+                "order": 1,
+                "sharedAssetKey": "1JXGOHc02J6",
+                "nodes": [
+                    {
+                        "key": "1JXGNnz01p5",
+                        "order": 1,
+                        "nodes": [
+                            {
+                                "key": "1JXLqxV00Ct",
+                                "order": 1,
+                                "option": "Install browsers",
+                                "isHeadless": true,
+                                "isAncillary": true,
+                                "nodes": [
+                                    {
+                                        "key": "1JXM2qY01Dx",
+                                        "order": 1,
+                                        "option": "Chrome",
+                                        "isAncillary": true
+                                    },
+                                    {
+                                        "key": "1JXM9Yy00Vj",
+                                        "order": 2,
+                                        "option": "Firefox",
+                                        "isAncillary": true
+                                    },
+                                    {
+                                        "key": "1JXMBkh006Z",
+                                        "order": 3,
+                                        "option": "Brave",
+                                        "isAncillary": true
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1JWsP2E01EH",
+            "relativePath": "./δ steps/δ-1JWsP2E01EH.tsstp"
+        },
+        {
+            "key": "1JXGOHc02J6",
+            "relativePath": "../../../_shared/steps/ShowStartMenu.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1JXGNnz01p5",
+            "relativePath": "./δ steps/δ-1JXGNnz01p5.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1JksfRs01ce",
+        "editorID": "car_147cb7b06c37458e86956d88d53806e8",
+        "ticks": 1781645099892
+    }
+}

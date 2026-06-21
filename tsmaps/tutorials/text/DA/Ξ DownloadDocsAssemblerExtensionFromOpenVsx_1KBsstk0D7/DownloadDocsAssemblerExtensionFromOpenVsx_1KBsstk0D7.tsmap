@@ -1,0 +1,65 @@
+{
+    "key": "1GuplRE01RI ",
+    "token": "Downloaddocsassemblerextensionfromopenvsx1kbsstk0d7",
+    "name": "DownloadDocsAssemblerExtensionFromOpenVsx_1KBsstk0D7",
+    "created": "2026-06-21T12:15:12.668Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/DA/Ξ DownloadDocsAssemblerExtensionFromOpenVsx_1KBsstk0D7/DownloadDocsAssemblerExtensionFromOpenVsx_1KBsstk0D7.tsmap",
+    "iText": "Link to 'DownloadDocsAssemblerExtensionFromOpenVsx_1KBsstk0D7'",
+    "iExits": [
+        {
+            "key": "1Guq5T700TI",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "1GuptHl00fy",
+        "sharedAssetKey": "1GviFxX024p",
+        "nodes": [
+            {
+                "key": "1Gupxcj02GV",
+                "order": 1,
+                "sharedAssetKey": "1GvlR4B00BB",
+                "nodes": [
+                    {
+                        "key": "1Guq2f600W0",
+                        "order": 1,
+                        "option": "Next",
+                        "exitKey": "1Guq5T700TI"
+                    }
+                ]
+            },
+            {
+                "key": "1Gvkxcn02ME",
+                "order": 2,
+                "option": "Avoid using link",
+                "sharedAssetKey": "1GvlGx502A2",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "1GviFxX024p",
+            "relativePath": "../../../../../../../netoftrees/docs-assembler-help/tsmaps/tutorials/_shared/steps/DownloadDAOpenVsxLink.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "1GvlR4B00BB",
+            "relativePath": "../../../../../../../netoftrees/docs-assembler-help/tsmaps/tutorials/_shared/steps/CopyVsixToDesktop.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "1GvlGx502A2",
+            "relativePath": "../../../../../../../netoftrees/docs-assembler-help/tsmaps/tutorials/_shared/steps/DownloadDAOpenVsx.tsstp",
+            "isShared": true
+        }
+    ],
+    "___εdit___": {
+        "id": "1GvleBy00f3",
+        "editorID": "car_db94111459c9440db7d46f81b2dc6592",
+        "ticks": 1779057567966
+    }
+}

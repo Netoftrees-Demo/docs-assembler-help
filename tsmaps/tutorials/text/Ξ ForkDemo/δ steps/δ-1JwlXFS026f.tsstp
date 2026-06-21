@@ -1,9 +1,0 @@
-¬import il from "../variables/imageLinks"
-
-
-4. GitHub takes a moment to create the fork, then opens the new repository in your account.
-
-5. Copy your new repository's URL from the browser's address bar. *- red circle*
-
-{{::il.GitHub_NewForkedRepo_img}}
-

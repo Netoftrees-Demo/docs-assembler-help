@@ -1,0 +1,58 @@
+{
+    "key": "1JZDEjx026w ",
+    "token": "Initialiseforkeddemo",
+    "name": "InitialiseForkedDemo",
+    "created": "2026-06-21T12:15:30.474Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/DA/Ξ InitialiseForkedDemo/InitialiseForkedDemo.tsmap",
+    "iText": "Link to 'InitialiseForkedDemo'",
+    "iExits": [
+        {
+            "key": "1JZDNmQ029j",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "1JZDKxx02Ei",
+        "nodes": [
+            {
+                "key": "1K7T8PM02Wl",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1K7p2Gg00dQ",
+                        "order": 1,
+                        "option": "Next",
+                        "nodes": [
+                            {
+                                "key": "1K91ivA01PH",
+                                "order": 1,
+                                "option": "Next"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1JZDKxx02Ei",
+            "relativePath": "./δ steps/δ-1JZDKxx02Ei.tsstp"
+        },
+        {
+            "key": "δ-1K7T8PM02Wl",
+            "relativePath": "./δ steps/δ-1K7T8PM02Wl.tsstp"
+        },
+        {
+            "key": "δ-1K7p2Gg00dQ",
+            "relativePath": "./δ steps/δ-1K7p2Gg00dQ.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1K91lxZ01oz",
+        "editorID": "car_3860fa2d2f0d475c91fa4d8222fc8ee2",
+        "ticks": 1782001901937
+    }
+}
