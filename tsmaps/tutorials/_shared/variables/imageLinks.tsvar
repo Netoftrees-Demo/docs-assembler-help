@@ -101,6 +101,87 @@
 ¬Vscode_OpenClonedRepo_url: ../../../assets/images/vscode_OpenClonedRepo.png
 ¬Vscode_OpenClonedRepo_img: ![Vscode - empty]({{::Vscode_OpenClonedRepo_url}})
 
+¬Vscode_GitInstall_url: ../../../assets/images/Vscode_GitInstall.png
+¬Vscode_GitInstall_img: ![Vscode - empty]({{::Vscode_GitInstall_url}})
+
+¬Vscode_GitInstall_Website_url: ../../../assets/images/Vscode_GitInstall_Website.png
+¬Vscode_GitInstall_Website_img: ![Vscode - empty]({{::Vscode_GitInstall_Website_url}})
+
+¬Vscode_GitInstall_Webpage_url: ../../../assets/images/Vscode_GitInstall_Webpage.png
+¬Vscode_GitInstall_Webpage_img: ![Vscode - empty]({{::Vscode_GitInstall_Webpage_url}})
+
+¬Vscode_GitInstall_SSH_url: ../../../assets/images/Vscode_GitInstall_SSH.png
+¬Vscode_GitInstall_SSH_img: ![Vscode - empty]({{::Vscode_GitInstall_SSH_url}})
+
+¬Vscode_GitInstall_ScmRun_url: ../../../assets/images/Vscode_GitInstall_ScmRun.png
+¬Vscode_GitInstall_ScmRun_img: ![Vscode - empty]({{::Vscode_GitInstall_ScmRun_url}})
+
+¬Vscode_GitInstall_Scm_url: ../../../assets/images/Vscode_GitInstall_Scm.png
+¬Vscode_GitInstall_Scm_img: ![Vscode - empty]({{::Vscode_GitInstall_Scm_url}})
+
+¬Vscode_GitInstall_Path_url: ../../../assets/images/Vscode_GitInstall_Path.png
+¬Vscode_GitInstall_Path_img: ![Vscode - empty]({{::Vscode_GitInstall_Path_url}})
+
+¬Vscode_GitInstall_Options_url: ../../../assets/images/Vscode_GitInstall_Options.png
+¬Vscode_GitInstall_Options_img: ![Vscode - empty]({{::Vscode_GitInstall_Options_url}})
+
+¬Vscode_GitInstall_Message_url: ../../../assets/images/Vscode_GitInstall_Message.png
+¬Vscode_GitInstall_Message_img: ![Vscode - empty]({{::Vscode_GitInstall_Message_url}})
+
+¬Vscode_GitInstall_Location_url: ../../../assets/images/Vscode_GitInstall_Location.png
+¬Vscode_GitInstall_Location_img: ![Vscode - empty]({{::Vscode_GitInstall_Location_url}})
+
+¬Vscode_GitInstall_HTTPS_url: ../../../assets/images/Vscode_GitInstall_HTTPS.png
+¬Vscode_GitInstall_HTTPS_img: ![Vscode - empty]({{::Vscode_GitInstall_HTTPS_url}})
+
+¬Vscode_GitInstall_Helper_url: ../../../assets/images/Vscode_GitInstall_Helper.png
+¬Vscode_GitInstall_Helper_img: ![Vscode - empty]({{::Vscode_GitInstall_Helper_url}})
+
+¬Vscode_GitInstall_Folder_url: ../../../assets/images/Vscode_GitInstall_Folder.png
+¬Vscode_GitInstall_Folder_img: ![Vscode - empty]({{::Vscode_GitInstall_Folder_url}})
+
+¬Vscode_GitInstall_Finish_url: ../../../assets/images/Vscode_GitInstall_Finish.png
+¬Vscode_GitInstall_Finish_img: ![Vscode - empty]({{::Vscode_GitInstall_Finish_url}})
+
+¬Vscode_GitInstall_Emulator_url: ../../../assets/images/Vscode_GitInstall_Emulator.png
+¬Vscode_GitInstall_Emulator_img: ![Vscode - empty]({{::Vscode_GitInstall_Emulator_url}})
+
+¬Vscode_GitInstall_Editor_url: ../../../assets/images/Vscode_GitInstall_Editor.png
+¬Vscode_GitInstall_Editor_img: ![Vscode - empty]({{::Vscode_GitInstall_Editor_url}})
+
+¬Vscode_GitInstall_Dialogue_url: ../../../assets/images/Vscode_GitInstall_Dialogue.png
+¬Vscode_GitInstall_Dialogue_img: ![Vscode - empty]({{::Vscode_GitInstall_Dialogue_url}})
+
+¬Vscode_GitInstall_Components_url: ../../../assets/images/Vscode_GitInstall_Components.png
+¬Vscode_GitInstall_Components_img: ![Vscode - empty]({{::Vscode_GitInstall_Components_url}})
+
+¬Vscode_GitInstall_Browser_url: ../../../assets/images/Vscode_GitInstall_Browser.png
+¬Vscode_GitInstall_Browser_img: ![Vscode - empty]({{::Vscode_GitInstall_Browser_url}})
+
+¬Vscode_GitInstall_Branch_url: ../../../assets/images/Vscode_GitInstall_Branch.png
+¬Vscode_GitInstall_Branch_img: ![Vscode - empty]({{::Vscode_GitInstall_Branch_url}})
+
+¬Vscode_GitInstall_Behaviour_url: ../../../assets/images/Vscode_GitInstall_Behaviour.png
+¬Vscode_GitInstall_Behaviour_img: ![Vscode - empty]({{::Vscode_GitInstall_Behaviour_url}})
+
+¬Vscode_GitHubSignIn_url: ../../../assets/images/Vscode_GitHubSignIn.png
+¬Vscode_GitHubSignIn_img: ![Vscode - empty]({{::Vscode_GitHubSignIn_url}})
+
+¬Vscode_GitHubSignIn_webpage2_url: ../../../assets/images/Vscode_GitHubSignIn_webpage2.png_
+¬Vscode_GitHubSignIn_webpage2_img: ![Vscode - empty]({{::Vscode_GitHubSignIn_webpage2_url}})
+
+¬Vscode_GitHubSignIn_webpage_url: ../../../assets/images/Vscode_GitHubSignIn_webpage.png_
+¬Vscode_GitHubSignIn_webpage_img: ![Vscode - empty]({{::Vscode_GitHubSignIn_webpage_url}})
+
+¬Vscode_GitHubSignIn_continue_url: ../../../assets/images/Vscode_GitHubSignIn_continue.png_
+¬Vscode_GitHubSignIn_continue_img: ![Vscode - empty]({{::Vscode_GitHubSignIn_continue_url}})
+
+¬Vscode_GitHubSignIn_authorise_url: ../../../assets/images/Vscode_GitHubSignIn_authorise.png_
+¬Vscode_GitHubSignIn_authorise_img: ![Vscode - empty]({{::Vscode_GitHubSignIn_authorise_url}})
+
+¬Vscode_GitHubSignIn_allow_url: ../../../assets/images/Vscode_GitHubSignIn_allow.png_
+¬Vscode_GitHubSignIn_allow_img: ![Vscode - empty]({{::Vscode_GitHubSignIn_allow_url}})
+
 ¬GitHub_ForkButton_url: ../../../assets/images/GitHub_ForkButton_img.png
 ¬GitHub_ForkButton_img: ![Vscode - empty]({{::GitHub_ForkButton_url}})
 
