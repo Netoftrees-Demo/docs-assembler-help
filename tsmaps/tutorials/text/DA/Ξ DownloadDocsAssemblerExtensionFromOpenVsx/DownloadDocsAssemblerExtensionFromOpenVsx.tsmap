@@ -1,11 +1,11 @@
 {
     "key": "1GuplRE01RI ",
-    "token": "Downloaddocsassemblerextensionfromopenvsx1kbsstk0d7",
-    "name": "DownloadDocsAssemblerExtensionFromOpenVsx_1KBsstk0D7",
+    "token": "Downloaddocsassemblerextensionfromopenvsx",
+    "name": "DownloadDocsAssemblerExtensionFromOpenVsx",
     "created": "2026-06-21T12:15:12.668Z",
     "list": true,
-    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/DA/Ξ DownloadDocsAssemblerExtensionFromOpenVsx_1KBsstk0D7/DownloadDocsAssemblerExtensionFromOpenVsx_1KBsstk0D7.tsmap",
-    "iText": "Link to 'DownloadDocsAssemblerExtensionFromOpenVsx_1KBsstk0D7'",
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/DA/Ξ DownloadDocsAssemblerExtensionFromOpenVsx/DownloadDocsAssemblerExtensionFromOpenVsx.tsmap",
+    "iText": "Link to 'DownloadDocsAssemblerExtensionFromOpenVsx'",
     "iExits": [
         {
             "key": "1Guq5T700TI",
@@ -13,6 +13,11 @@
             "order": 1
         }
     ],
+    "___εdit___": {
+        "id": "1KBy1C700bg",
+        "editorID": "exp_9cdacc0d4ce4416b8aa8ca408731c7cd",
+        "ticks": 1782045336195
+    },
     "___rΩΩt___": {
         "key": "1GuptHl00fy",
         "sharedAssetKey": "1GviFxX024p",
@@ -56,10 +61,5 @@
             "relativePath": "../../../../../../../netoftrees/docs-assembler-help/tsmaps/tutorials/_shared/steps/DownloadDAOpenVsx.tsstp",
             "isShared": true
         }
-    ],
-    "___εdit___": {
-        "id": "1GvleBy00f3",
-        "editorID": "car_db94111459c9440db7d46f81b2dc6592",
-        "ticks": 1779057567966
-    }
+    ]
 }

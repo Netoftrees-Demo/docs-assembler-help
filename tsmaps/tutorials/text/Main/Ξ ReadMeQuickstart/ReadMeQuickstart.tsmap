@@ -1,11 +1,16 @@
 {
     "key": "1GiypVA011z ",
-    "token": "Readmequickstart1kbxqau0ad",
-    "name": "ReadMeQuickstart_1KBxQAu0ad",
+    "token": "Readmequickstart",
+    "name": "ReadMeQuickstart",
     "created": "2026-06-21T12:33:13.892Z",
     "list": true,
-    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Main/Ξ ReadMeQuickstart_1KBxQAu0ad/ReadMeQuickstart_1KBxQAu0ad.tsmap",
-    "iText": "Link to 'ReadMeQuickstart_1KBxQAu0ad'",
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Main/Ξ ReadMeQuickstart/ReadMeQuickstart.tsmap",
+    "iText": "Link to 'ReadMeQuickstart'",
+    "___εdit___": {
+        "id": "1KBxtyp01Ky",
+        "editorID": "exp_9cdacc0d4ce4416b8aa8ca408731c7cd",
+        "ticks": 1782045308463
+    },
     "___rΩΩt___": {
         "key": "1GiywNM02Ln",
         "nodes": [
@@ -57,10 +62,5 @@
             "key": "δ-1GvmCt801bE",
             "relativePath": "./δ steps/δ-1GvmCt801bE.tsstp"
         }
-    ],
-    "___εdit___": {
-        "id": "1Gw8Crl00l1",
-        "editorID": "car_1d4f8310a7ed4c79a55c36a2c2c770d5",
-        "ticks": 1779062944469
-    }
+    ]
 }
