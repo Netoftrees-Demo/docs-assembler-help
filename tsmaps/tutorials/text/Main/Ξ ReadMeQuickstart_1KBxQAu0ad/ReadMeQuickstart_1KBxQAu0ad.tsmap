@@ -1,11 +1,11 @@
 {
     "key": "1GiypVA011z ",
-    "token": "Readmequickstart",
-    "name": "ReadMeQuickstart",
-    "created": "2026-05-15T18:10:17.336Z",
+    "token": "Readmequickstart1kbxqau0ad",
+    "name": "ReadMeQuickstart_1KBxQAu0ad",
+    "created": "2026-06-21T12:33:13.892Z",
     "list": true,
-    "cachedPath": "d:/GitHub/netoftrees/docs-assembler-help/tsmaps/tutorials/text/Ξ ReadMeQuickstart/ReadMeQuickstart.tsmap",
-    "iText": "Link to 'ReadMeQuickstart'",
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Main/Ξ ReadMeQuickstart_1KBxQAu0ad/ReadMeQuickstart_1KBxQAu0ad.tsmap",
+    "iText": "Link to 'ReadMeQuickstart_1KBxQAu0ad'",
     "___rΩΩt___": {
         "key": "1GiywNM02Ln",
         "nodes": [
@@ -45,12 +45,12 @@
         },
         {
             "key": "1Gvm8880025",
-            "relativePath": "../../_shared/steps/DownloadDAOpenVsxLink.tsstp",
+            "relativePath": "../../../../../../../netoftrees/docs-assembler-help/tsmaps/tutorials/_shared/steps/DownloadDAOpenVsxLink.tsstp",
             "isShared": true
         },
         {
             "key": "1GvmE9K00ji",
-            "relativePath": "../../_shared/steps/CopyVsixToDesktop.tsstp",
+            "relativePath": "../../../../../../../netoftrees/docs-assembler-help/tsmaps/tutorials/_shared/steps/CopyVsixToDesktop.tsstp",
             "isShared": true
         },
         {
