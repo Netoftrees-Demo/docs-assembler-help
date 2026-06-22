@@ -167,20 +167,26 @@
 ¬Vscode_GitHubSignIn_url: ../../../assets/images/Vscode_GitHubSignIn.png
 ¬Vscode_GitHubSignIn_img: ![Vscode - empty]({{::Vscode_GitHubSignIn_url}})
 
-¬Vscode_GitHubSignIn_webpage2_url: ../../../assets/images/Vscode_GitHubSignIn_webpage2.png_
+¬Vscode_GitHubSignIn_webpage2_url: ../../../assets/images/Vscode_GitHubSignIn_webpage2.png
 ¬Vscode_GitHubSignIn_webpage2_img: ![Vscode - empty]({{::Vscode_GitHubSignIn_webpage2_url}})
 
-¬Vscode_GitHubSignIn_webpage_url: ../../../assets/images/Vscode_GitHubSignIn_webpage.png_
+¬Vscode_GitHubSignIn_webpage_url: ../../../assets/images/Vscode_GitHubSignIn_webpage.png
 ¬Vscode_GitHubSignIn_webpage_img: ![Vscode - empty]({{::Vscode_GitHubSignIn_webpage_url}})
 
-¬Vscode_GitHubSignIn_continue_url: ../../../assets/images/Vscode_GitHubSignIn_continue.png_
+¬Vscode_GitHubSignIn_continue_url: ../../../assets/images/Vscode_GitHubSignIn_continue.png
 ¬Vscode_GitHubSignIn_continue_img: ![Vscode - empty]({{::Vscode_GitHubSignIn_continue_url}})
 
-¬Vscode_GitHubSignIn_authorise_url: ../../../assets/images/Vscode_GitHubSignIn_authorise.png_
+¬Vscode_GitHubSignIn_authorise_url: ../../../assets/images/Vscode_GitHubSignIn_authorise.png
 ¬Vscode_GitHubSignIn_authorise_img: ![Vscode - empty]({{::Vscode_GitHubSignIn_authorise_url}})
 
-¬Vscode_GitHubSignIn_allow_url: ../../../assets/images/Vscode_GitHubSignIn_allow.png_
+¬Vscode_GitHubSignIn_allow_url: ../../../assets/images/Vscode_GitHubSignIn_allow.png
 ¬Vscode_GitHubSignIn_allow_img: ![Vscode - empty]({{::Vscode_GitHubSignIn_allow_url}})
+
+¬Vscode_Themes_url: ../../../assets/images/Vscode_Themes.png
+¬Vscode_Themes_img: ![Vscode - empty]({{::Vscode_Themes_url}})
+
+¬Vscode_Theme_Dark_url: ../../../assets/images/Vscode_Theme_Dark.png
+¬Vscode_Theme_Dark_img: ![Vscode - empty]({{::Vscode_Theme_Dark_url}})
 
 ¬GitHub_ForkButton_url: ../../../assets/images/GitHub_ForkButton_img.png
 ¬GitHub_ForkButton_img: ![Vscode - empty]({{::GitHub_ForkButton_url}})

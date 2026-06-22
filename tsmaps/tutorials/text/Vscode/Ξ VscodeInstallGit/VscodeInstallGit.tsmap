@@ -6,8 +6,20 @@
     "list": true,
     "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/Ξ VscodeInstallGit/VscodeInstallGit.tsmap",
     "iText": "Link to 'VscodeInstallGit'",
+    "iExits": [
+        {
+            "key": "1KJmj1l02H8",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
     "___rΩΩt___": {
         "key": "1KBjsIP00O4"
     },
-    "___αssεts___": []
+    "___αssεts___": [],
+    "___εdit___": {
+        "id": "1KJmjTt02CN",
+        "editorID": "car_5f3ef3dab0234c57b897cad278891a8d",
+        "ticks": 1782160857185
+    }
 }

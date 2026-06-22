@@ -1,0 +1,20 @@
+¬import il from "../variables/imageLinks"
+
+
+#### Check Vscode theme
+
+1. In vscode click the **Manage** icon in the **Activity Bar**. *- red circle* 
+
+2. The **Manage** menu is displayed. *- yellow circle* 
+
+3. Click **Themes**. *- green circle* 
+
+{{::il.Vscode_Themes_img}}
+
+4. The **Quick Pick** drop down is displayed at the top of vscode listing the themes.
+
+5. Make sure the selected theme is **Dark+**. *- red circle*
+
+{{::il.Vscode_Theme_Dark_img}}
+
+

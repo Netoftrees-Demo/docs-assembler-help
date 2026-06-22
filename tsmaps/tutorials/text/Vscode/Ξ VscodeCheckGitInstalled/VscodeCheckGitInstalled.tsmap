@@ -6,6 +6,13 @@
     "list": true,
     "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/Ξ VscodeCheckGitInstalled/VscodeCheckGitInstalled.tsmap",
     "iText": "Link to 'VscodeCheckGitInstalled'",
+    "iExits": [
+        {
+            "key": "1KJmtYo01rp",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
     "___rΩΩt___": {
         "key": "1KBkyUC01dh",
         "nodes": [
@@ -17,9 +24,16 @@
                     {
                         "key": "1KBnDMS00Tg",
                         "order": 1,
-                        "option": "Next",
-                        "isLeaf": true,
-                        "iKey": "1KBromu001x"
+                        "iKey": "1KBromu001x",
+                        "nodes": [
+                            {
+                                "key": "1KJmgVx000P",
+                                "order": 1,
+                                "option": "Exit",
+                                "iExitKey": "1KJmYrY01Ti",
+                                "exitKey": "1KJmtYo01rp"
+                            }
+                        ]
                     }
                 ]
             },
@@ -27,8 +41,16 @@
                 "key": "1KBlmjd01Q1",
                 "order": 2,
                 "option": "Install Git",
-                "isLeaf": true,
-                "iKey": "1KBjlsG00S1"
+                "iKey": "1KBjlsG00S1",
+                "nodes": [
+                    {
+                        "key": "1KJmpvQ01k7",
+                        "order": 1,
+                        "option": "Exit",
+                        "iExitKey": "1KJmj1l02H8",
+                        "exitKey": "1KJmtYo01rp"
+                    }
+                ]
             }
         ]
     },
@@ -51,8 +73,8 @@
         }
     ],
     "___εdit___": {
-        "id": "1KBs1Wd00aR",
-        "editorID": "car_9f34ec05d5d941d09534b0fe4ddbb7ef",
-        "ticks": 1782043907499
+        "id": "1KJmwjI00Wk",
+        "editorID": "car_0847ddf137df45308c8f3393dee8b8bc",
+        "ticks": 1782160908112
     }
 }

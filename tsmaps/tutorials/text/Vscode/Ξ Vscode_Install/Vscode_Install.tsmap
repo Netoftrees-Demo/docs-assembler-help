@@ -23,8 +23,17 @@
                             {
                                 "key": "1KBkjit00Jj",
                                 "order": 1,
-                                "isLeaf": true,
-                                "iKey": "1KBku2602Ir"
+                                "iKey": "1KBku2602Ir",
+                                "nodes": [
+                                    {
+                                        "key": "1KJn2ZL01ik",
+                                        "order": 1,
+                                        "option": "Exit",
+                                        "sharedAssetKey": "1KJt0GC00l0",
+                                        "isLeaf": true,
+                                        "iExitKey": "1KJmtYo01rp"
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -48,11 +57,16 @@
         {
             "key": "δ-1KBkjit00Jj",
             "relativePath": "./δ steps/δ-1KBkjit00Jj.tsstp"
+        },
+        {
+            "key": "1KJt0GC00l0",
+            "relativePath": "../../../_shared/steps/VscodeCheckTheme.tsstp",
+            "isShared": true
         }
     ],
     "___εdit___": {
-        "id": "1KBl5Wl00EY",
-        "editorID": "car_b1dcfcd03043411fae2bdabe3852e315",
-        "ticks": 1782042254587
+        "id": "1KJt4Cn01SK",
+        "editorID": "car_76cc2f18b82a4f749ef10fac612b27f0",
+        "ticks": 1782162366818
     }
 }
