@@ -47,3 +47,5 @@ Don't forget to explain how to do Custom Domain for GitHub Pages
  Add install GitHUb Extension
  Add install Git to vscode
  When sync need to handle if git was not installed or if it was not logged into GtiHub
+
+ Need to set the theme too as docs assembler only works with one theme
