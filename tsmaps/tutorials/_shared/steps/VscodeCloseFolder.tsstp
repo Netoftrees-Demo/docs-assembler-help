@@ -3,16 +3,16 @@
 
 #### Close a folder open in vscode
 
-1. If vscode is empty the **Explorer** you will see the section header **NO FOLDER OPENED** *- green circle*  
-and an **Open folder button**. *- yellow circle*
+1. If vscode is empty the **Explorer** you will see the section header **NO FOLDER OPENED** *- green ring*  
+and an **Open folder button**. *- yellow ring*
 
-2. If **Explorer** is not open click the **Explorer** icon in the **Activity Bar** to show it. *- red circle*
+2. If **Explorer** is not open click the **Explorer** icon in the **Activity Bar** to show it. *- red ring*
 
 3. The **Explorer** panel displays. If the panel disappears click the icon again to re-display it.
 
 {{::il.Vscode_FolderNotOpen_img}}
 
-4. If a folder is open in vscode the file explorer will show the folder and its files. *- red circle*
+4. If a folder is open in vscode the file explorer will show the folder and its files. *- red ring*
 
 {{::il.Vscode_FolderIsOpen_img}}
 

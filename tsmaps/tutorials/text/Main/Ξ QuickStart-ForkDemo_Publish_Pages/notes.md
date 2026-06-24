@@ -40,6 +40,8 @@ The map needs to make clear these are the instructions for Windows 11 running on
 
 mention adding a spell checker to vscode markdown files: https://chat.deepseek.com/share/pszn6rrugbkcazws0y
 
+each time need a browser include the how to launch a browser help
+
 ## TODO
  - Configure repo for Pages
  - Make an edit

@@ -1,11 +1,11 @@
 ¬import il from "../../../_shared/variables/imageLinks"
 
 
-7. Click the `Install` button in the bottom right corner. *- red circle*
+7. Click the `Install` button in the bottom right corner. *- red ring*
 
 {{::il.DA_install_dialogue_img}}
 
-8. Docs Assembler is installed in vscode. *- red circle*
+8. Docs Assembler is installed in vscode. *- red ring*
 
 {{::il.DA_installed_img}}
 

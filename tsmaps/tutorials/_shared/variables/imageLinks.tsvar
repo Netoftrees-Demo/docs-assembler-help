@@ -194,12 +194,15 @@
 ¬Vscode_Theme_Dark_url: ../../../assets/images/Vscode_Theme_Dark.png
 ¬Vscode_Theme_Dark_img: ![Vscode - empty]({{::Vscode_Theme_Dark_url}})
 
-¬GitHub_ForkButton_url: ../../../assets/images/GitHub_ForkButton_img.png
+¬GitHub_ForkButton_url: ../../../assets/images/GitHub_ForkButton.png
 ¬GitHub_ForkButton_img: ![Vscode - empty]({{::GitHub_ForkButton_url}})
 
-¬GitHub_CreateForkView_url: ../../../assets/images/GitHub_CreateForkView_img
+¬GitHub_CreateForkView_url: ../../../assets/images/GitHub_CreateForkView.png
 ¬GitHub_CreateForkView_img: ![Vscode - empty]({{::GitHub_CreateForkView_url}})
 
-¬GitHub_NewForkedRepo_url: ../../../assets/images/GitHub_NewForkedRepo_img
+¬GitHub_NewForkedRepo_url: ../../../assets/images/GitHub_NewForkedRepo.png
 ¬GitHub_NewForkedRepo_img: ![Vscode - empty]({{::GitHub_NewForkedRepo_url}})
+
+¬GitHub_ConfigurePages_Browser_url: ../../../assets/images/GitHub_ConfigurePages_Browser.png
+¬GitHub_ConfigurePages_Browser_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Browser_url}})
 

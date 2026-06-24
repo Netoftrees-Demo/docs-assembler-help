@@ -3,13 +3,13 @@
 
 #### Install Docs Assembler in vscode
 
-1. In vscode click the **Extensions** icon in the **Activity Bar**. *- red circle*
+1. In vscode click the **Extensions** icon in the **Activity Bar**. *- red ring*
 
 2. The **Extensions** panel displays. If the panel disappears click the icon again to re-display it.
 
-3. In the top right corner of the **Extensions** panel click the three dots `...`. *- yellow circle*
+3. In the top right corner of the **Extensions** panel click the three dots `...`. *- yellow ring*
 
-4. In the menu that drops down click **Install from VSIX...**. *- green circle*
+4. In the menu that drops down click **Install from VSIX...**. *- green ring*
 
 {{::il.DA_install_img}}
 

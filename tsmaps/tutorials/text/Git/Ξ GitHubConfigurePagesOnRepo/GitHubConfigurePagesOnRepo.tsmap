@@ -14,12 +14,24 @@
         }
     ],
     "___rΩΩt___": {
-        "key": "1K7dMaV01NP"
+        "key": "1K7dMaV01NP",
+        "nodes": [
+            {
+                "key": "1KUSOls01lM",
+                "order": 1,
+                "option": "Next"
+            }
+        ]
     },
-    "___αssεts___": [],
+    "___αssεts___": [
+        {
+            "key": "δ-1K7dMaV01NP",
+            "relativePath": "./δ steps/δ-1K7dMaV01NP.tsstp"
+        }
+    ],
     "___εdit___": {
-        "id": "1K7g4jo01fC",
-        "editorID": "car_4fcc00b03557430794aedc77904530af",
-        "ticks": 1781981954568
+        "id": "1KUU2KW01Qp",
+        "editorID": "car_87ec94e6e3de46428a4f4524cd4ac833",
+        "ticks": 1782318941104
     }
 }

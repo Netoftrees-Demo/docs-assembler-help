@@ -3,17 +3,17 @@
 
 #### Initialise a repo for documentation maps
 
-1. In vscode if **Docs Assembler** is not open click the **Docs Assembler** icon in the **Activity Bar**. *- red circle*
+1. In vscode if **Docs Assembler** is not open click the **Docs Assembler** icon in the **Activity Bar**. *- red ring*
 
 2. The **Docs Assembler** panel displays. If the panel disappears click the icon again to re-display it.
 
 {{::il.DA_ShowControlView_img}}
 
-3. OPTIONAL: Either leave blank or enter an organisation name. This is used if you publish your guides as a bank for other documentation writers to reference in their maps. *- red circle*
+3. OPTIONAL: Either leave blank or enter an organisation name. This is used if you publish your guides as a bank for other documentation writers to reference in their maps. *- red ring*
 
-4. OPTIONAL: Either leave blank or enter contact details. This is used if you publish your guides as a bank for other documentation writers to reference in their maps. *- green circle*
+4. OPTIONAL: Either leave blank or enter contact details. This is used if you publish your guides as a bank for other documentation writers to reference in their maps. *- green ring*
 
-5. Click **Initialise**. *- green circle*
+5. Click **Initialise**. *- green ring*
 
 {{::il.DA_Initialise_img}}
 

@@ -1,27 +1,27 @@
 ¬import il from "../variables/imageLinks"
 
 
-1. In vscode click the **Source Control** icon in the **Activity Bar**. *- red circle*
+1. In vscode click the **Source Control** icon in the **Activity Bar**. *- red ring*
 
 2. The **Source Control** sidebar displays, if the sidebar disappears click the icon again to re-display it. 
 
-3. If Git is not installed on the pc you will see the button **Download Git for Windows**, click it. *- yellow circle*
+3. If Git is not installed on the pc you will see the button **Download Git for Windows**, click it. *- yellow ring*
 
 {{::il.Vscode_GitInstall_img}}
 
-4. A dialogue box is shown, asking if you want vscode to open the **https://git-scm.com/download/win**  website, click **Open**. *- red circle*
+4. A dialogue box is shown, asking if you want vscode to open the **https://git-scm.com/download/win**  website, click **Open**. *- red ring*
 
 {{::il.Vscode_GitInstall_Website_img}}
 
 5. If there is more than one browser installed a dialogue asking you which browser you want to use to open the website will be displayed. 
-Here the default browser Firefox is the selected. *- red circle*
+Here the default browser Firefox is the selected. *- red ring*
 
-6. Click the **Just once** button if you want the choice next time. *- yellow circle*
+6. Click the **Just once** button if you want the choice next time. *- yellow ring*
 Alternatively click the **Always** button if you always want to use the selected browser to be used.
 
 {{::il.Vscode_GitInstall_Browser_img}}
 
-7. The browser launches with the webpage **https://git-scm.com/download/win**. From the options there click **Standalone Installer, Git for Windows/x64 Setup**. *- red circle*
+7. The browser launches with the webpage **https://git-scm.com/download/win**. From the options there click **Standalone Installer, Git for Windows/x64 Setup**. *- red ring*
 
 {{::il.Vscode_GitInstall_Scm_img}}
 
@@ -30,35 +30,35 @@ Alternatively click the **Always** button if you always want to use the selected
 9. When it has completed it will show the file name and the word **Completed** beneath it.  
 The file name should start with **Git** followed by the version number. 
 
-If the file is not shown click the downloads button to show the downloads. *- yellow circle*
+If the file is not shown click the downloads button to show the downloads. *- yellow ring*
 
-10. Click the downloaded file to run it and start the Git installation. *- red circle*
+10. Click the downloaded file to run it and start the Git installation. *- red ring*
 
 {{::il.Vscode_GitInstall_ScmRun_img}}
 
 11. The dialogue **Do you want to allow this app to make changes to your device?** is displayed.
 
-12. Click **Yes**. *- red circle*
+12. Click **Yes**. *- red ring*
 
 {{::il.Vscode_GitInstall_Dialogue_img}}
 
 13. The installer launches showing the **Licence** page.
 
-14. Click **Next**. *- red circle*
+14. Click **Next**. *- red ring*
 
 {{::il.Vscode_GitInstall_Licence_img}}
 
 15. Next the installer shows the **Select Destination Location** page. Here you can set where Git is installed.
 
-16. The default location is fine. Click **Browse** if you want to install **Git** somewhere else. *- green circle*
+16. The default location is fine. Click **Browse** if you want to install **Git** somewhere else. *- green ring*
 
-17. Click **Next**. *- red circle*
+17. Click **Next**. *- red ring*
 
 {{::il.Vscode_GitInstall_Location_img}}
 
 18. The next page is **Select Components**.
 
-19. Select the following components. *- yellow circle*
+19. Select the following components. *- yellow ring*
     - Windows Explorer integration.
         - Open Git Bash here
         - Open Git GUI here
@@ -67,13 +67,13 @@ If the file is not shown click the downloads button to show the downloads. *- ye
     - Associate .sh files to be run with Bash
     - Scalar (Git add-on to manage large-scale repositories)
 
-20. Click **Next**. *- red circle*
+20. Click **Next**. *- red ring*
 
 {{::il.Vscode_GitInstall_Location_img}}
 
 21. The next page is **Select Start Menu Folder**. 
 
-22. Click **Next**. *- red circle*
+22. Click **Next**. *- red ring*
 
 {{::il.Vscode_GitInstall_Folder_img}}
 
@@ -81,7 +81,7 @@ If the file is not shown click the downloads button to show the downloads. *- ye
 
 24. Leave **Let Git decide** selected.
 
-24. Click **Next**. *- red circle*
+24. Click **Next**. *- red ring*
 
 {{::il.Vscode_GitInstall_Editor_img}}
 
@@ -89,7 +89,7 @@ If the file is not shown click the downloads button to show the downloads. *- ye
 
 26. Leave **Git from the command line and also 3rd-party software** selected.
 
-27. Click **Next**. *- red circle*
+27. Click **Next**. *- red ring*
 
 {{::il.Vscode_GitInstall_Editor_img}}
 
@@ -97,7 +97,7 @@ If the file is not shown click the downloads button to show the downloads. *- ye
 
 29. Leave **Use bundled OpenSSH** selected.
 
-30. Click **Next**. *- red circle*
+30. Click **Next**. *- red ring*
 
 {{::il.Vscode_GitInstall_SSH_img}}
 
@@ -105,7 +105,7 @@ If the file is not shown click the downloads button to show the downloads. *- ye
 
 32. Leave **Use the native Windows Secure Channel library** selected.
 
-33. Click **Next**. *- red circle*
+33. Click **Next**. *- red ring*
 
 {{::il.Vscode_GitInstall_HTTPS_img}}
 
@@ -113,7 +113,7 @@ If the file is not shown click the downloads button to show the downloads. *- ye
 
 35. Leave **Checkout Windows-style, commit Uix-style line endings** selected.
 
-36. Click **Next**. *- red circle*
+36. Click **Next**. *- red ring*
 
 {{::il.Vscode_GitInstall_Line_img}}
 
@@ -121,7 +121,7 @@ If the file is not shown click the downloads button to show the downloads. *- ye
 
 38. Leave **Use MinTTY (the default terminal of MSYS2)** selected.
 
-39. Click **Next**. *- red circle*
+39. Click **Next**. *- red ring*
 
 {{::il.Vscode_GitInstall_Emulator_img}}
 
@@ -129,7 +129,7 @@ If the file is not shown click the downloads button to show the downloads. *- ye
 
 41. Leave **Fast-forward or merge** selected.
 
-42. Click **Next**. *- red circle*
+42. Click **Next**. *- red ring*
 
 {{::il.Vscode_GitInstall_Emulator_img}}
 
@@ -137,7 +137,7 @@ If the file is not shown click the downloads button to show the downloads. *- ye
 
 44. Leave **Git Credential Manager** selected.
 
-45. Click **Next**. *- red circle*
+45. Click **Next**. *- red ring*
 
 {{::il.Vscode_GitInstall_Helper_img}}
 
@@ -145,7 +145,7 @@ If the file is not shown click the downloads button to show the downloads. *- ye
 
 47. Leave **Enable file system caching** selected.
 
-48. Click **Install**. *- red circle*
+48. Click **Install**. *- red ring*
 
 {{::il.Vscode_GitInstall_Options_img}}
 
@@ -153,16 +153,16 @@ If the file is not shown click the downloads button to show the downloads. *- ye
 
 50. When finished it displays the **Completed** page.
 
-51. Click **Finish**. *- red circle*
+51. Click **Finish**. *- red ring*
 
 {{::il.Vscode_GitInstall_Finish_img}}
 
 52. Git is installed.
 
 53. If there is more than one browser installed a dialogue asking you which browser you want to use to open the website will be displayed. 
-Here the default browser Firefox is the selected. *- red circle*
+Here the default browser Firefox is the selected. *- red ring*
 
-54. Click the **Just once** button if you want the choice next time. *- yellow circle*
+54. Click the **Just once** button if you want the choice next time. *- yellow ring*
 Alternatively click the **Always** button if you always want to use the selected browser to be used.
 
 {{::il.Vscode_GitInstall_Message_img}}

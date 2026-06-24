@@ -2,37 +2,37 @@
 
 
 7. The vscode installer dialogue is displayed showing the licence agreement.
-8. Click the **I accept the agreement** to enable the **Next** button. *- red circle* 
-9. Then click the **Next** button. *- green circle* 
+8. Click the **I accept the agreement** to enable the **Next** button. *- red ring* 
+9. Then click the **Next** button. *- green ring* 
 
 {{::il.Vscode_InstallDialogueStart_img}}
 
 10. The dialogue displays the **Select Destination Location** view.
-11. Unless you want to install vscode somewhere other than the default location click **Next**. *- red circle* 
+11. Unless you want to install vscode somewhere other than the default location click **Next**. *- red ring* 
 
 {{::il.Vscode_InstallDialogueLocation_img}}
 
 12. The dialogue displays the **Select Start Menu Folder** view.
-13. Click **Next**. *- red circle* 
+13. Click **Next**. *- red ring* 
 
 {{::il.Vscode_InstallDialogueLocation_img}}
 
 14. The dialogue displays the **Select Additional Tasks** view.
-15. If they are not already selected select the following - they make opening files from File Explorer easier: *- red circle* 
+15. If they are not already selected select the following - they make opening files from File Explorer easier: *- red ring* 
     - **Add "Open with Code" action to Windows Explorer file context menu**
     - **Add "Open with Code" action to Windows Explorer directory context menu**
-16. Click **Next**. *- green circle* 
+16. Click **Next**. *- green ring* 
 
 {{::il.Vscode_InstallDialogueTasks_img}}
 
 17. The installation will take a couple of minutes and when finished dialogue displays the **Ready to Install** view.
-18. Click **Install**. *- green circle* 
+18. Click **Install**. *- green ring* 
 
 {{::il.Vscode_InstallDialogueSummary_img}}
 
 17. The installation will take a couple of minutes and when finished dialogue displays the following view.
-18. If the checkbox **Launch Visual Studio Code** is checked then vscode is launched when you click the **Finish** button. *- green circle* 
-19. Click **Finish** button. *- red circle* 
+18. If the checkbox **Launch Visual Studio Code** is checked then vscode is launched when you click the **Finish** button. *- green ring* 
+19. Click **Finish** button. *- red ring* 
 
 {{::il.Vscode_InstallDialogueCompleted_img}}
 
