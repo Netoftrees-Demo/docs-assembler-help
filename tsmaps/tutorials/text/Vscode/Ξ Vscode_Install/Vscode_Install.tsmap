@@ -21,17 +21,15 @@
                         "order": 1,
                         "nodes": [
                             {
-                                "key": "1KBkjit00Jj",
+                                "key": "1KUCicR01nM",
                                 "order": 1,
-                                "iKey": "1KBku2602Ir",
+                                "sharedAssetKey": "1KUDXYw0242",
                                 "nodes": [
                                     {
-                                        "key": "1KJn2ZL01ik",
+                                        "key": "1KUCp1u00Yn",
                                         "order": 1,
-                                        "option": "Exit",
-                                        "sharedAssetKey": "1KJt0GC00l0",
-                                        "isLeaf": true,
-                                        "iExitKey": "1KJmtYo01rp"
+                                        "sharedAssetKey": "1KUDsS301IX",
+                                        "isLeaf": true
                                     }
                                 ]
                             }
@@ -55,18 +53,19 @@
             "relativePath": "./δ steps/δ-1JXMcuW00ux.tsstp"
         },
         {
-            "key": "δ-1KBkjit00Jj",
-            "relativePath": "./δ steps/δ-1KBkjit00Jj.tsstp"
+            "key": "1KUDXYw0242",
+            "relativePath": "../../../_shared/steps/InstallVscodeGit.tsstp",
+            "isShared": true
         },
         {
-            "key": "1KJt0GC00l0",
+            "key": "1KUDsS301IX",
             "relativePath": "../../../_shared/steps/VscodeCheckTheme.tsstp",
             "isShared": true
         }
     ],
     "___εdit___": {
-        "id": "1KJt4Cn01SK",
-        "editorID": "car_76cc2f18b82a4f749ef10fac612b27f0",
-        "ticks": 1782162366818
+        "id": "1KUECRW01mN",
+        "editorID": "car_22023954f1714026b25c9eed3ef54617",
+        "ticks": 1782315166730
     }
 }

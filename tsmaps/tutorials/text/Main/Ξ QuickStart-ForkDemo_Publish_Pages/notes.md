@@ -36,6 +36,10 @@ Make sure all major maps and ancillaries have a starting header that indicates w
 
 Don't forget to explain how to do Custom Domain for GitHub Pages
 
+The map needs to make clear these are the instructions for Windows 11 running on a pc. For Mac or otherwise we don't have access to these machines but if you would like to contribute instructions please drop us a line @ team@etc
+
+mention adding a spell checker to vscode markdown files: https://chat.deepseek.com/share/pszn6rrugbkcazws0y
+
 ## TODO
  - Configure repo for Pages
  - Make an edit

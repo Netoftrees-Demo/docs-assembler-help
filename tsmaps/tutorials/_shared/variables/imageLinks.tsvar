@@ -164,6 +164,12 @@
 ¬Vscode_GitInstall_Behaviour_url: ../../../assets/images/Vscode_GitInstall_Behaviour.png
 ¬Vscode_GitInstall_Behaviour_img: ![Vscode - empty]({{::Vscode_GitInstall_Behaviour_url}})
 
+¬Vscode_GitInstall_Licence_url: ../../../assets/images/Vscode_GitInstall_Licence.png
+¬Vscode_GitInstall_Licence_img: ![Vscode - empty]({{::Vscode_GitInstall_Licence_url}})
+
+¬Vscode_GitInstall_Line_url: ../../../assets/images/Vscode_GitInstall_Line.png
+¬Vscode_GitInstall_Line_img: ![Vscode - empty]({{::Vscode_GitInstall_Line_url}})
+
 ¬Vscode_GitHubSignIn_url: ../../../assets/images/Vscode_GitHubSignIn.png
 ¬Vscode_GitHubSignIn_img: ![Vscode - empty]({{::Vscode_GitHubSignIn_url}})
 
