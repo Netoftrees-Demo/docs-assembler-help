@@ -3,14 +3,18 @@
 
 #### Configure Pages on GitHub repo
 
-1. In a browser navigate to the **GitHub** repository on which you want to configure **Pages**. *- red ring*
+1. In a browser navigate to the **GitHub** repository on which you want to configure **Pages**. *- red ring*  
 
-The url should be of the format: https://github.com/`account-name`/`repo-name`
+    e.g. **https://github.com/referenced-not-copied**
 
-e.g. **https://github.com/referenced-not-copied**
+    The url should be of the format: **https://github.com/`account-name`/`repo-name`**  
+    - **`acount-name`** is repository owner, account name, or organization handle.  
+    It refers to the user or organization that created and owns this repository.  
+    - **`repo-name`** is the project name.    
 
-`acount-name`: is repository owner, account name, or organization handle. It refers to the user or organization that created and owns this repository.
-`repo-name`: is the project name.
+{{::il.GitHub_ConfigurePages_Browser_img}}
+
+2. Click **Settings**. *- red ring*  
 
 {{::il.GitHub_ConfigurePages_Browser_img}}
 
