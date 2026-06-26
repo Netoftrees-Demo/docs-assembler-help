@@ -5,7 +5,7 @@
 
 1. In a browser navigate to the **GitHub** repository on which you want to configure **Pages**. *- red ring*  
 
-    e.g. **https://github.com/referenced-not-copied**
+    e.g. **https://github.com/referenced-not-copied/docs-assembler-demo**
 
     The url should be of the format: **https://github.com/`account-name`/`repo-name`**  
     - **`acount-name`** is repository owner, account name, or organization handle.  
@@ -16,5 +16,65 @@
 
 2. Click **Settings**. *- red ring*  
 
-{{::il.GitHub_ConfigurePages_Browser_img}}
+{{::il.GitHub_ConfigurePages_Repo_img}}
+
+3. The repo's **Settings** web page is displayed.
+
+4. From the **Code and automation** options click **Pages**. *- red ring*  
+
+{{::il.GitHub_ConfigurePages_Settings_img}}
+
+5. The repo's **Pages** web page is displayed.
+
+6. In the section **Build and deployment**, sub-section **Source**:
+    - Ensure the drop down shows **Deploy from a branch**. *- red ring*  
+
+7. In the section **Build and deployment**, sub-section **Branch**:
+    - Ensure the first drop down shows the Git branch that you intend to be source for the files.  
+    In this case **main**. *- green ring*  
+    - Ensure the second drop down shows the folder **docs**. *- yellow ring*  
+
+8. Click **Save**. *- purple ring*  
+
+{{::il.GitHub_ConfigurePages_Save_img}}
+
+9. Once the changes have been saved:
+    - The Save button will be greyed out. *- red ring*   
+    - And the **GitHub Pages source saved** banner will appear at the top. *- green ring*   
+
+10. Click the **Actions** tab. *- red ring*  
+
+{{::il.GitHub_ConfigurePages_Saved_img}}
+
+11. The **Actions** web page is displayed.
+
+12. If an action is running it will have an orange animated gif icon. *- red ring*  
+
+{{::il.GitHub_ConfigurePages_ActionsRunning_img}}
+
+13. When that action has completed it will have a green tick icon. *- red ring*  
+
+14. Click **Settings**. *- yellow ring*  
+
+{{::il.GitHub_ConfigurePages_ActionsFinished_img}}
+
+15. The repo's **Settings** web page is displayed.
+
+16. From the **Code and automation** options click **Pages**. *- red ring*  
+
+{{::il.GitHub_ConfigurePages_Settings_img}}
+
+17. The repo's **Pages** web page is displayed:   
+    - It should now have a button to view the website in a new browser tab. *- red ring*   
+    - And a link. *- yellow ring*   
+
+18. Click either.
+
+{{::il.GitHub_ConfigurePages_Refreshed_img}}
+
+19. You are now running your own version of the **docs-assembler-demo** repo. *- red ring*   
+
+20. You can make any changes you want to it, publish them to GitHub, and view the impact on the published material.
+
+{{::il.GitHub_ConfigurePages_Completed_img}}
 

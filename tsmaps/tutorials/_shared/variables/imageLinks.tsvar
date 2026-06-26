@@ -206,3 +206,36 @@
 ¬GitHub_ConfigurePages_Browser_url: ../../../assets/images/GitHub_ConfigurePages_Browser.png
 ¬GitHub_ConfigurePages_Browser_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Browser_url}})
 
+¬GitHub_ConfigurePages_ActionsRunning_url: ../../../assets/images/GitHub_ConfigurePages_ActionsRunning.png
+¬GitHub_ConfigurePages_ActionsRunning_img: ![Vscode - empty]({{::GitHub_ConfigurePages_ActionsRunning_url}})
+
+¬GitHub_ConfigurePages_ActionsFinished_url: ../../../assets/images/GitHub_ConfigurePages_ActionsFinished.png
+¬GitHub_ConfigurePages_ActionsFinished_img: ![Vscode - empty]({{::GitHub_ConfigurePages_ActionsFinished_url}})
+
+¬GitHub_ConfigurePages_Branch_url: ../../../assets/images/GitHub_ConfigurePages_Branch.png
+¬GitHub_ConfigurePages_Branch_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Branch_url}})
+
+¬GitHub_ConfigurePages_Completed_url: ../../../assets/images/GitHub_ConfigurePages_Completed.png
+¬GitHub_ConfigurePages_Completed_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Completed_url}})
+
+¬GitHub_ConfigurePages_Folder_url: ../../../assets/images/GitHub_ConfigurePages_Folder.png
+¬GitHub_ConfigurePages_Folder_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Folder_url}})
+
+¬GitHub_ConfigurePages_Pages_url: ../../../assets/images/GitHub_ConfigurePages_Pages.png
+¬GitHub_ConfigurePages_Pages_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Pages_url}})
+
+¬GitHub_ConfigurePages_Refreshed_url: ../../../assets/images/GitHub_ConfigurePages_Refreshed.png
+¬GitHub_ConfigurePages_Refreshed_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Refreshed_url}})
+
+¬GitHub_ConfigurePages_Repo_url: ../../../assets/images/GitHub_ConfigurePages_Repo.png
+¬GitHub_ConfigurePages_Repo_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Repo_url}})
+
+¬GitHub_ConfigurePages_Save_url: ../../../assets/images/GitHub_ConfigurePages_Save.png
+¬GitHub_ConfigurePages_Save_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Save_url}})
+
+¬GitHub_ConfigurePages_Saved_url: ../../../assets/images/GitHub_ConfigurePages_Saved.png
+¬GitHub_ConfigurePages_Saved_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Saved_url}})
+
+¬GitHub_ConfigurePages_Settings_url: ../../../assets/images/GitHub_ConfigurePages_Settings.png
+¬GitHub_ConfigurePages_Settings_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Settings_url}})
+
