@@ -68,7 +68,14 @@
     - It should now have a button to view the website in a new browser tab. *- red ring*   
     - And a link. *- yellow ring*   
 
-18. Click either.
+    e.g. **https://referenced-not-copied.github.io/docs-assembler-demo**
+
+    The url should be of the format: **https://`account-name`.github.io/`repo-name`**  
+    - **`acount-name`** is repository owner, account name, or organization handle.  
+    It refers to the user or organization that created and owns this repository.  
+    - **`repo-name`** is the project name.   
+
+18. Click either the link or the button to open the published website.
 
 {{::il.GitHub_ConfigurePages_Refreshed_img}}
 

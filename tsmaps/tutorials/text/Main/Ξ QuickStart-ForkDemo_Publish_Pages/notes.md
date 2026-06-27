@@ -18,7 +18,7 @@ XXXXX
 YYYYY
 
 For launching a browser offer options of laucnhing default or choosing one so add the following to the launch browser map (remember be helpful without being intrusive or annoying):
-Start menu search: Press the Windows key, type a web address (e.g., google.com), and press Enter — it opens in your default browser.
+Start menu search: Press the Windows key, type a web address (e.g., google.com), and press Enter - it opens in your default browser.
 
 Clone a repo - it is a good idea to close any open repo first - in case vscode launches with an open repo. It reduces the chances of mistakes.
 
@@ -42,12 +42,15 @@ mention adding a spell checker to vscode markdown files: https://chat.deepseek.c
 
 each time need a browser include the how to launch a browser help
 
+fractal of complexity - This single guide has more possible paths than Wikipedia has pages.
+
 ## TODO
- - Configure repo for Pages
  - Make an edit
  - Save
  - Publish
  - Commit
+
+If you want the full instructions - but need to indicate to them why this is powerful by giving them the full works
 
  if you want a guide tailored for you, that inserts the instructions you need ....
  Add install GitHUb Extension
@@ -55,3 +58,54 @@ each time need a browser include the how to launch a browser help
  When sync need to handle if git was not installed or if it was not logged into GtiHub
 
  Need to set the theme too as docs assembler only works with one theme
+
+-----------------------------
+Need to show a before and after of the edits alongside each other
+
+To '## See the Networks in Action' add at the end of the step: 
+\tsmaps\Technical\Ξ DemoIntroduction\δ steps\δ-u5gkFx00HL.tsstp 
+this text:
+"
+The demo below is embedded directly into this guide. It's one small example of the complexity these systems can manage - and the numbers behind it are staggering:
+
+**This single guide has more possible paths than Wikipedia has pages.**
+
+*Choose your location, power, climate, and crops. Behind each choice, the tree branches - but to you, it will feel like plain prose.*
+
+Yet you build and maintain it with nothing more than a text editor. No database. No SaaS dashboard. Just Markdown and JSON in your repo.
+"
+
+And this ancillary:
+"How is this possible?"
+
+Leading to this step:
+"
+#### How is this possible?
+The explosion happens because each of the 4 frames can independently host 1 or 2 completely independent growing modules. With 130 crop configurations per module, a single 4-frame tower has 84 quadrillion possible states.
+
+This count only includes the core garden configuration. It does not include the ancillary branches - cooking guides, science deep-dives, troubleshooting paths - which add further orders of magnitude.
+
+If every possible path were a grain of sand, it would exceed all the sand on every beach and desert on Earth combined. Yet the reader sees only one smooth sentence at a time.
+"
+
+Which has this ancillary:
+"Here's the maths"
+
+Which expands when clicked to insert the text:
+"
+#### The maths
+| Level                | Options                         |
+| -------------------- | ------------------------------- |
+| Location             | 4                               |
+| Power source         | 2                               |
+| Climate / insulation | 5                               |
+| Support package      | 3                               |
+| Tower type           | 3 (1, 2, or 4 frames)           |
+| Modules per frame    | 2 (1 or 2)                      |
+| Crops per module     | 130 (10 varieties × 13 species) |
+Total pathways: ~10 quintillion
+1.01 × 10¹⁹ possible paths (10,093,454,727,221,751,600)
+That is 1.47 trillion times the number of English Wikipedia articles (~6.9 million).
+
+"
+

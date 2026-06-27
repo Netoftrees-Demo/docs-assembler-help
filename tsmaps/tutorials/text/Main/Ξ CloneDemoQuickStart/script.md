@@ -80,7 +80,7 @@ The video is 46 seconds long but if it aids narration it can be 'paused' by maki
 
 This single guide has more possible paths than Wikipedia has pages. 
 /// Fades from black to demo website at top
-// https://netoftrees.com/docs-assembler-demo/
+// https://netoftrees.com/docs-assembler-demo
 But to the reader, it is just prose. 
 Watch.
 
