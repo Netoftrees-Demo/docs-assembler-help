@@ -1,0 +1,7 @@
+¬import il from "../../../../_shared/variables/imageLinks"
+
+
+{{::il.Vscode_OpenEditors_img}}
+
+4. If **OPEN EDITORS** is not expanded expand it by clicking the down angle button. *- orange ring*
+

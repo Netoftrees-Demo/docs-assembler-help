@@ -1,0 +1,73 @@
+{
+    "key": "1KqyUbW01Hs ",
+    "token": "Addstepspublishcommitwikipediacomment",
+    "name": "AddStepsPublishCommit_WikipediaComment",
+    "created": "2026-06-28T12:54:39.022Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/DA/Ξ AddStepsPublishCommit_WikipediaComment/AddStepsPublishCommit_WikipediaComment.tsmap",
+    "iText": "Link to 'AddStepsPublishCommit_WikipediaComment'",
+    "___rΩΩt___": {
+        "key": "1Kqysua01Yv",
+        "nodes": [
+            {
+                "key": "1Kqytpk00l9",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1Kr8vtr008b",
+                        "order": 1,
+                        "nodes": [
+                            {
+                                "key": "1Kr9aAW01U2",
+                                "order": 1,
+                                "nodes": [
+                                    {
+                                        "key": "1LMFfQW01sY",
+                                        "order": 1,
+                                        "option": "Next"
+                                    }
+                                ]
+                            },
+                            {
+                                "key": "1LMFX6f01Bw",
+                                "order": 2,
+                                "option": "Save?",
+                                "sharedAssetKey": "1LMGXgO02B9",
+                                "isLeaf": true,
+                                "isAncillary": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1Kqysua01Yv",
+            "relativePath": "./δ steps/δ-1Kqysua01Yv.tsstp"
+        },
+        {
+            "key": "δ-1Kqytpk00l9",
+            "relativePath": "./δ steps/δ-1Kqytpk00l9.tsstp"
+        },
+        {
+            "key": "δ-1Kr8vtr008b",
+            "relativePath": "./δ steps/δ-1Kr8vtr008b.tsstp"
+        },
+        {
+            "key": "δ-1Kr9aAW01U2",
+            "relativePath": "./δ steps/δ-1Kr9aAW01U2.tsstp"
+        },
+        {
+            "key": "1LMGXgO02B9",
+            "relativePath": "../../../_shared/steps/VscodeSaveFile.tsstp",
+            "isShared": true
+        }
+    ],
+    "___εdit___": {
+        "id": "1LMGb5Z005C",
+        "editorID": "car_b594292b768e43019b960953f36c2e74",
+        "ticks": 1783113660269
+    }
+}

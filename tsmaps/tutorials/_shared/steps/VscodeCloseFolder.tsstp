@@ -1,4 +1,5 @@
 ¬import il from "../variables/imageLinks"
+¬import vs from "../variables/Vscode_Snippets"
 
 
 #### Close a folder open in vscode
@@ -6,9 +7,9 @@
 1. If vscode is empty the **Explorer** you will see the section header **NO FOLDER OPENED** *- green ring*  
 and an **Open folder button**. *- yellow ring*
 
-2. If **Explorer** is not open click the **Explorer** icon in the **Activity Bar** to show it. *- red ring*
+2. {{::vs.Vscode_OpenExplorer_1}} *- red ring*
 
-3. The **Explorer** panel displays. If the panel disappears click the icon again to re-display it.
+3. {{::vs.Vscode_OpenExplorer_2}}
 
 {{::il.Vscode_FolderNotOpen_img}}
 

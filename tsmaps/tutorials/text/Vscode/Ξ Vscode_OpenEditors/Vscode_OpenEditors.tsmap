@@ -1,0 +1,49 @@
+{
+    "key": "1LWHgi301yK ",
+    "token": "Vscodeopeneditors",
+    "name": "Vscode_OpenEditors",
+    "created": "2026-07-05T14:28:03.564Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/Ξ Vscode_OpenEditors/Vscode_OpenEditors.tsmap",
+    "iText": "Link to 'Vscode_OpenEditors'",
+    "___rΩΩt___": {
+        "key": "1LWHjgf02IA",
+        "nodes": [
+            {
+                "key": "1LWHkag00sr",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1LWHzcv00FE",
+                        "order": 1
+                    }
+                ]
+            },
+            {
+                "key": "1LWKSBK00kB",
+                "order": 2,
+                "option": "OPEN EDITORS is not visible",
+                "isLeaf": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1LWHjgf02IA",
+            "relativePath": "./δ steps/δ-1LWHjgf02IA.tsstp"
+        },
+        {
+            "key": "δ-1LWHkag00sr",
+            "relativePath": "./δ steps/δ-1LWHkag00sr.tsstp"
+        },
+        {
+            "key": "δ-1LWKSBK00kB",
+            "relativePath": "./δ steps/δ-1LWKSBK00kB.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1LWNFQR00dI",
+        "editorID": "car_7841c95152c34ad7bbac6253744e1596",
+        "ticks": 1783263008651
+    }
+}

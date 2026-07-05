@@ -1,0 +1,11 @@
+
+#### Demo: add steps, publish, commit and view result
+
+##### Overview
+
+1. Opendemo guide in a browser and leave that window open as our baseline. 
+
+2. Then we'll switch to vscode, make the edits to the source files, republish the guide and commit the changes to Git and sync GitHub. 
+
+3. Finally, we'll open the updated guide in a new browser window so we can compare the original and the changed version side by side.
+

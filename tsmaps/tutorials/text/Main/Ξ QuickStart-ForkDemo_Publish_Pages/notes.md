@@ -45,10 +45,10 @@ each time need a browser include the how to launch a browser help
 fractal of complexity - This single guide has more possible paths than Wikipedia has pages.
 
 ## TODO
- - Make an edit
- - Save
- - Publish
- - Commit
+- Need to change tutorial to new text
+- show where changes will appear in browser, tell them to leave it open.
+- Copy the heading and search for it in vscode
+- Follow video.
 
 If you want the full instructions - but need to indicate to them why this is powerful by giving them the full works
 
@@ -59,7 +59,12 @@ If you want the full instructions - but need to indicate to them why this is pow
 
  Need to set the theme too as docs assembler only works with one theme
 
+
+
 -----------------------------
+
+
+
 Need to show a before and after of the edits alongside each other
 
 To '## See the Networks in Action' add at the end of the step: 

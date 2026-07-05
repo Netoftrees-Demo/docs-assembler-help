@@ -35,6 +35,18 @@
 ¬DA_InitialiseCompleted_Commit_url: ../../../assets/images/DA_InitialiseCompleted_Commit.png
 ¬DA_InitialiseCompleted_Commit_img: ![Install Docs Assembler dialogue in vscode]({{::DA_InitialiseCompleted_Commit_url}})
 
+¬DA_EditTitle_BrowserInitial_url: ../../../assets/images/DA_EditTitle_BrowserInitial.png
+¬DA_EditTitle_BrowserInitial_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditTitle_BrowserInitial_url}})
+
+¬DA_EditTitle_Browser_NetworksInAction_url: ../../../assets/images/DA_EditTitle_Browser_NetworksInAction.png
+¬DA_EditTitle_Browser_NetworksInAction_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditTitle_Browser_NetworksInAction_url}})
+
+¬DA_EditTitle_Browser_NetworksInAction2_url: ../../../assets/images/DA_EditTitle_Browser_NetworksInAction2.png
+¬DA_EditTitle_Browser_NetworksInAction2_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditTitle_Browser_NetworksInAction2_url}})
+
+¬DA_EditTitle_Vscode_Search_url: ../../../assets/images/DA_EditTitle_Vscode_Search.png
+¬DA_EditTitle_Vscode_Search_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditTitle_Vscode_Search_url}})
+
 ¬WindowsButton_desktop_url: ../../../assets/images/WindowsButton_desktop.png
 ¬WindowsButton_desktop_img: ![Windows button]({{::WindowsButton_desktop_url}})
 
@@ -193,6 +205,15 @@
 
 ¬Vscode_Theme_Dark_url: ../../../assets/images/Vscode_Theme_Dark.png
 ¬Vscode_Theme_Dark_img: ![Vscode - empty]({{::Vscode_Theme_Dark_url}})
+
+¬Vscode_SaveFile_url: ../../../assets/images/Vscode_SaveFile.png
+¬Vscode_SaveFile_img: ![Vscode - empty]({{::Vscode_SaveFile_url}})
+
+¬Vscode_UnSaveFile_url: ../../../assets/images/Vscode_UnSaveFile.png
+¬Vscode_UnSaveFile_img: ![Vscode - empty]({{::Vscode_UnSaveFile_url}})
+
+¬Vscode_OpenEditors_url: ../../../assets/images/Vscode_OpenEditors.png
+¬Vscode_OpenEditors_img: ![Vscode - empty]({{::Vscode_OpenEditors_url}})
 
 ¬GitHub_ForkButton_url: ../../../assets/images/GitHub_ForkButton.png
 ¬GitHub_ForkButton_img: ![Vscode - empty]({{::GitHub_ForkButton_url}})

@@ -1,0 +1,13 @@
+¬import il from "../variables/imageLinks"
+
+
+##### Vscode -  easily indetifying unsaved files
+
+1. Unsaved files open in vscode will have:
+
+    - a white dot after the file name in the **Editor Tab**. *- red ring*
+
+    - a white dot before the file name in the **Open Editors** section of the *Explorer*. *- red ring*
+
+{{::il.Vscode_UnSaveFile_img}}
+

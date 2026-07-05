@@ -1,0 +1,26 @@
+¬import il from "../../../../_shared/variables/imageLinks"
+
+
+##### Open the demo guide in a browser
+
+1. Open demo guide from your forked repo in a browser. *- yellow ring*  
+
+    The url should be of the format: **https://`account-name`.github.io/`repo-name`**  
+    - **`acount-name`** is repository owner, account name, or organization handle.  
+    It refers to the user or organization that created and owns this repository.  
+    - **`repo-name`** is the project name.   
+
+    e.g. **https://referenced-not-copied.github.io/docs-assembler-demo**
+
+{{::il.DA_EditTitle_BrowserInitial_img}}
+
+2. Scroll down to the bottom of the page and click the option: **See the Networks in Action**. *- red ring*
+
+{{::il.DA_EditTitle_Browser_NetworksInAction_img}}
+
+3. The result:
+
+{{::il.DA_EditTitle_Browser_NetworksInAction2_img}}
+
+4. Leave this browser window open as our baseline.
+

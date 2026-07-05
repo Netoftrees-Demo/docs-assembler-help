@@ -1,9 +1,10 @@
 ¬import il from "../../../../_shared/variables/imageLinks"
+¬import vs from "../../../../_shared/variables/Vscode_Snippets"
 
 
-8. If **Explorer** is not open click the **Explorer** icon in the **Activity Bar** to show it. *- yellow ring*
+8. {{::vs.Vscode_OpenExplorer_1}} *- yellow ring*
 
-9. The **Explorer** panel displays. If the panel disappears click the icon again to re-display it.
+9. {{::vs.Vscode_OpenExplorer_2}}
 
 10. **Explorer** shows the files folders created of modified in the initialisation. *- red circles*
 
