@@ -38,14 +38,63 @@
 ¬DA_EditTitle_BrowserInitial_url: ../../../assets/images/DA_EditTitle_BrowserInitial.png
 ¬DA_EditTitle_BrowserInitial_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditTitle_BrowserInitial_url}})
 
-¬DA_EditTitle_Browser_NetworksInAction_url: ../../../assets/images/DA_EditTitle_Browser_NetworksInAction.png
-¬DA_EditTitle_Browser_NetworksInAction_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditTitle_Browser_NetworksInAction_url}})
+¬DA_EditStep_Browser_NetworksInAction_url: ../../../assets/images/DA_EditStep_Browser_NetworksInAction.png
+¬DA_EditStep_Browser_NetworksInAction_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_Browser_NetworksInAction_url}})
 
-¬DA_EditTitle_Browser_NetworksInAction2_url: ../../../assets/images/DA_EditTitle_Browser_NetworksInAction2.png
-¬DA_EditTitle_Browser_NetworksInAction2_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditTitle_Browser_NetworksInAction2_url}})
+¬DA_EditStep_Browser_NetworksInAction2_url: ../../../assets/images/DA_EditStep_Browser_NetworksInAction2.png
+¬DA_EditStep_Browser_NetworksInAction2_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_Browser_NetworksInAction2_url}})
 
 ¬DA_EditTitle_Vscode_Search_url: ../../../assets/images/DA_EditTitle_Vscode_Search.png
 ¬DA_EditTitle_Vscode_Search_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditTitle_Vscode_Search_url}})
+
+¬DA_EditStep_Browser_NetworksInAction2_Highlight_url: ../../../assets/images/DA_EditStep_Browser_NetworksInAction2_Highlight.png
+¬DA_EditStep_Browser_NetworksInAction2_Highlight_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_Browser_NetworksInAction2_Highlight_url}})
+
+¬DA_EditStep_Search_url: ../../../assets/images/DA_EditStep_Search.png
+¬DA_EditStep_Search_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_Search_url}})
+
+¬DA_EditStep_GetMapFromStep_url: ../../../assets/images/DA_EditStep_GetMapFromStep.png
+¬DA_EditStep_GetMapFromStep_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_GetMapFromStep_url}})
+
+¬DA_EditStep_OpenMapFromStep_url: ../../../assets/images/DA_EditStep_OpenMapFromStep.png
+¬DA_EditStep_OpenMapFromStep_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_OpenMapFromStep_url}})
+
+¬DA_EditStep_InsertStep_url: ../../../assets/images/DA_EditStep_InsertStep.png
+¬DA_EditStep_InsertStep_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_InsertStep_url}})
+
+¬DA_EditStep_InsertedStep_url: ../../../assets/images/DA_EditStep_InsertedStep.png
+¬DA_EditStep_InsertedStep_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_InsertedStep_url}})
+
+¬DA_EditStep_NewStep_url: ../../../assets/images/DA_EditStep_NewStep.png
+¬DA_EditStep_NewStep_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_NewStep_url}})
+
+¬DA_EditStep_NewStep_1_url: ../../../assets/images/DA_EditStep_NewStep_1.png
+¬DA_EditStep_NewStep_1_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_NewStep_1_url}})
+
+¬DA_EditStep_NewStep_2_url: ../../../assets/images/DA_EditStep_NewStep_2.png
+¬DA_EditStep_NewStep_2_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_NewStep_2_url}})
+
+¬DA_EditStep_NewStep_3_url: ../../../assets/images/DA_EditStep_NewStep_3.png
+¬DA_EditStep_NewStep_3_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_NewStep_3_url}})
+
+¬DA_EditStep_NewOption_1_url: ../../../assets/images/DA_EditStep_NewOption_1.png
+¬DA_EditStep_NewOption_1_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_NewOption_1_url}})
+
+¬DA_EditStep_NewOption_2_url: ../../../assets/images/DA_EditStep_NewOption_2.png
+¬DA_EditStep_NewOption_2_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_NewOption_2_url}})
+
+¬DA_EditStep_HoleActions_url: ../../../assets/images/DA_EditStep_HoleActions.png
+¬DA_EditStep_HoleActions_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_HoleActions_url}})
+
+¬DA_EditStep_NewAncillarySolution_1_url: ../../../assets/images/DA_EditStep_NewAncillarySolution_1.png
+¬DA_EditStep_NewAncillarySolution_1_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_NewAncillarySolution_1_url}})
+
+¬DA_EditStep_NewAncillarySolution_2_url: ../../../assets/images/DA_EditStep_NewAncillarySolution_2.png
+¬DA_EditStep_NewAncillarySolution_2_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_NewAncillarySolution_2_url}})
+
+
+
+
 
 ¬WindowsButton_desktop_url: ../../../assets/images/WindowsButton_desktop.png
 ¬WindowsButton_desktop_img: ![Windows button]({{::WindowsButton_desktop_url}})

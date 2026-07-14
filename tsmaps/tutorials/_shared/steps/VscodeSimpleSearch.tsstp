@@ -1,0 +1,25 @@
+¬import il from "../variables/imageLinks"
+
+
+##### Vscode - simple text search
+
+1. If **Search** is not open click the **Search** icon in the **Activity Bar** to show it. *- red ring*
+
+2. The **Search** panel displays. If the panel disappears click the icon again to re-display it.
+
+3. In the search box type or paste the text you want to search for, in this case the search text is **From Doubt to Direction**. *- yellow ring*
+
+4. Make sure the 3 search type buttons are unchecked. *- brown ring*
+
+5. Press the **Return** key on the keyboard to run the search.
+
+6. The search results display. *- green ring*
+
+7. Searches are listed by file, with the name first and the path afterwards. *- blue ring*
+
+8. The instances in the file where the searched text appears are listed beneath the file name. To view an instance click it. *- mauve ring*
+
+9. The file opens at that line with the instance highlighted. *- orange ring*
+
+{{::il.DA_EditStep_Search_img}}
+

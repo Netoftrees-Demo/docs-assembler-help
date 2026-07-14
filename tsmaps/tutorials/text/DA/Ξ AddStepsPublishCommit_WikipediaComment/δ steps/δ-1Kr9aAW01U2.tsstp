@@ -1,4 +1,14 @@
+¬import il from "../../../../_shared/variables/imageLinks"
 
 
 #### Add steps to a guide
 
+1. In the browser window with **https://referenced-not-copied.github.io/docs-assembler-demo** that was opened earlier, copy the phrase **From Doubt to Direction**. *- red ring*
+
+{{::il.DA_EditStep_Browser_NetworksInAction2_Highlight_img}}
+
+2. In vscode search for that phrase.
+
+3. Select the step file, located in the tsmaps folder.
+
+4. The step file, which has the **##### From Doubt to Direction** in it, opens.

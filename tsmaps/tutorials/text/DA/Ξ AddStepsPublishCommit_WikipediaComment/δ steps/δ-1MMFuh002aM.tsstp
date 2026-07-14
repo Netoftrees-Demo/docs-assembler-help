@@ -1,0 +1,50 @@
+¬import il from "../../../../_shared/variables/imageLinks"
+
+
+23. With the new step open in the lens step tab, scroll to the bottom and click **Add option**. *- red ring*
+
+{{::il.DA_EditStep_NewStep_3_img}}
+
+24. A new option is added to the step. *- red ring*
+
+{{::il.DA_EditStep_NewOption_1_img}}
+
+25. In the option texbox type **What does that mean?**. *- red ring*
+
+26. The text simultaneously appears in the option in the branches view.
+
+27. When the mouse is over the option its buttons appear. Click the **Start ancillary chain** button so it is selected for this option. This marks the chain that follows as an ancillary branch, which if the user selects it, inserts text into the main branch. *- red ring*
+
+{{::il.DA_EditStep_NewOption_2_img}}
+
+28. Click the option in the branches view. The lens shows the **Hole Actions** tab. *- red ring*
+
+29. Click the **Add a solution** button. *- yellow ring*
+
+{{::il.DA_EditStep_HoleActions_img}}
+
+30. A new **Solution** is added to the ancillary option. A **Solution** has no options so it terminates a branch. *- yellow ring*
+
+31. The **Create Step** tab is displayed in the lens.
+
+{{::il.DA_EditStep_NewAncillarySolution_1_img}}
+
+32. Scroll down the lens **Create Step** tab.
+
+33. In the **Instructions** textbox add the following text: *- red ring*
+
+```
+##### What it means
+
+In a traditional wiki, you copy-paste the same warning into five articles. Six months later, the product changes. You search through the wiki, update two of them, and miss the other three. They stay wrong until a customer emails you. Here, you maintain one warning. Five guides reference it. One edit. Every instance updated.
+
+
+```
+You can quickly edit the step **Instructions** from the lens if the step file is not open in the editor. But it has drawbacks, there is no undo function at present except through the markdown editor.
+
+34. In the branches view the step is updated with the same text. *- yellow ring*
+
+{{::il.DA_EditStep_NewAncillarySolution_2_img}}
+
+22. Save all the files.
+

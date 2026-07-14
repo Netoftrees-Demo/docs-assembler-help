@@ -1,21 +1,7 @@
 ¬import il from "../../../../_shared/variables/imageLinks"
 
 
-##### Edit the Guide Header
-
-1. With the forked, cloned and intialised repo **docs-assembler-demo** open in vscode, click the **Search** icon in the **Activity Bar** to show it. *- red ring*
-
-2. The **Search** panel displays. If the panel disappears click the icon again to re-display it.
-
-3. Type **Escape Documentation Hell** into the search box. *- yellow ring*
-
-4. Make sure the 3 search type buttons are unchecked. *- blue ring*
-
-5. Press **Return** on your keyboard.
-
-6. A list of files with the phrase **Escape Documentation Hell** are displayed. *- green ring*
-
-7. You are looking for a map file so the path should start with your maps folder usually **tsmaps/**. *- mauve ring*
+2. In the search results look for a map file - the path should start with your maps folder usually **tsmaps/**. *- mauve ring*
 
 8. Click the entry underneath the file which is the line in the file where the phrase appears. *- green ring*
 

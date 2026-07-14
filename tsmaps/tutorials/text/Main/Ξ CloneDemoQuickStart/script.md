@@ -151,13 +151,13 @@ One edit. Every branch updated.
 The detail is there. Never in the way.
 Docs Assembler handles the complexity in the background—so the reader never sees the machinery.
 
-*In the 1st option: 'Skyline Romaine' click the single auxilliary 'Skyline Romaine - a deeper dive'*
-*That auxilliary's branch's text is displayed, it ends with 2 auxxiliaries*
-*Click the 1st auxilliary - 'Culinary Profile & Uses'*
-*That auxilliary's branch's text is displayed*
-*Click the 2nd auxilliary 'The Science & Story Behind It'*
-*That auxilliary's branch's text is displayed*
-*Close the upper most auxilliary to close all auxilliary text*
+*In the 1st option: 'Skyline Romaine' click the single ancillary 'Skyline Romaine - a deeper dive'*
+*That ancillary's branch's text is displayed, it ends with 2 auxxiliaries*
+*Click the 1st ancillary - 'Culinary Profile & Uses'*
+*That ancillary's branch's text is displayed*
+*Click the 2nd ancillary 'The Science & Story Behind It'*
+*That ancillary's branch's text is displayed*
+*Close the upper most ancillary to close all ancillary text*
 *Click the 1st option: 'Skyline Romaine' to select it*
 
 *SPLIT - The single chrome view splits into 2 chrome browsers side by side at the same point*

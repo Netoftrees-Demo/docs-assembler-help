@@ -1,0 +1,61 @@
+¬import il from "../../../../_shared/variables/imageLinks"
+
+
+5. In **Explorer** the step file should be highlighted with all its ancestor folders open. *- red ring*
+
+6. Click the parent map to open it. *- yellow ring*
+
+{{::il.DA_EditStep_GetMapFromStep_img}}
+
+7. The map **DemoIntroduction.tsmap** opens in the **Map editor** showing the branches view. *- yellow rings*
+
+8. In the branches view collapse the chain of steps beneath the option **How is this possible?** by clicking it. *- red ring*
+
+{{::il.DA_EditStep_OpenMapFromStep_img}}
+
+9. In the branches view right click the node **Link to 'FoodGrowingSpacePlan'**. *- red ring*
+
+10. In the step menu that is displayed, select **Insert step above**. *- yellow rings*
+
+{{::il.DA_EditStep_InsertStep_img}}
+
+11. An empty step is inserted above the node **Link to 'FoodGrowingSpacePlan'**. Empty steps fail validation, which is why it and the child step are outlined in red. *- blue ring*
+
+12. The new step opens in the **lens** step tab. *- red ring*
+
+12. Any step can be opened in the lens by clicking it in the branches view.
+
+13. The new step is a **Discussion** with **Instructions + options**. Here **Instructions** cannot be empty hence the validation warning. *- yellow rings*
+
+14. Scroll down the lens step tab.
+
+{{::il.DA_EditStep_InsertedStep_img}}
+
+15. In the **Instructions** textbox type any letter so it is not empty. *- red ring*
+
+16. The validation warning disappears. *- yellow ring*
+
+{{::il.DA_EditStep_NewStep_img}}
+
+17. Right click the new node. *- red ring*
+
+18. In the step menu that is displayed, select **Open step in markdown editor**. *- yellow rings*
+
+{{::il.DA_EditStep_NewStep_1_img}}
+
+19. The new step is open in the **markdown editor**. *- red rings*
+
+20. Add the following text to the markdown file:
+
+```
+##### Referenced, not copied
+
+Every piece of text lives in one place. Guides borrow it by reference. Change the source, and every guide that uses it updates instantly.
+```
+
+21. Both the markdown and map editors, and lens step tab, are updated with the new text. *- yellow rings*
+
+{{::il.DA_EditStep_NewStep_2_img}}
+
+22. Save all the files.
+

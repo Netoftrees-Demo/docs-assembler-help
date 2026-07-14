@@ -14,27 +14,82 @@
                 "order": 1,
                 "nodes": [
                     {
-                        "key": "1Kr8vtr008b",
+                        "key": "1MMvrRv01A8",
                         "order": 1,
                         "nodes": [
                             {
-                                "key": "1Kr9aAW01U2",
+                                "key": "1Kr8vtr008b",
                                 "order": 1,
                                 "nodes": [
                                     {
-                                        "key": "1LMFfQW01sY",
+                                        "key": "1Kr9aAW01U2",
                                         "order": 1,
-                                        "option": "Next"
+                                        "nodes": [
+                                            {
+                                                "key": "1LMFfQW01sY",
+                                                "order": 1,
+                                                "nodes": [
+                                                    {
+                                                        "key": "1MMFuh002aM",
+                                                        "order": 1,
+                                                        "nodes": [
+                                                            {
+                                                                "key": "1MNW4N401ec",
+                                                                "order": 1,
+                                                                "nodes": [
+                                                                    {
+                                                                        "key": "1MO5wJJ02GL",
+                                                                        "order": 1,
+                                                                        "option": "Next"
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "key": "1MO5hDw015v",
+                                                                "order": 2,
+                                                                "option": "Save all?",
+                                                                "sharedAssetKey": "1MO5mLW00Jk",
+                                                                "isLeaf": true,
+                                                                "isAncillary": true
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "key": "1MNUPqg00eo",
+                                                        "order": 2,
+                                                        "option": "Save all files?",
+                                                        "sharedAssetKey": "1MNVGbx01wm",
+                                                        "isLeaf": true,
+                                                        "isAncillary": true
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "key": "1LjYatQ024p",
+                                                "order": 2,
+                                                "option": "Search?",
+                                                "sharedAssetKey": "1MMFSjI02Pz",
+                                                "isLeaf": true,
+                                                "isAncillary": true
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "key": "1LMFX6f01Bw",
+                                        "order": 2,
+                                        "option": "Save?",
+                                        "sharedAssetKey": "1LMGXgO02B9",
+                                        "isLeaf": true,
+                                        "isAncillary": true
                                     }
                                 ]
                             },
                             {
-                                "key": "1LMFX6f01Bw",
+                                "key": "1MMvygz02T1",
                                 "order": 2,
-                                "option": "Save?",
-                                "sharedAssetKey": "1LMGXgO02B9",
-                                "isLeaf": true,
-                                "isAncillary": true
+                                "option": "Search?",
+                                "sharedAssetKey": "1MMw3tC00KY",
+                                "isLeaf": true
                             }
                         ]
                     }
@@ -63,11 +118,47 @@
             "key": "1LMGXgO02B9",
             "relativePath": "../../../_shared/steps/VscodeSaveFile.tsstp",
             "isShared": true
+        },
+        {
+            "key": "δ-1LMFfQW01sY",
+            "relativePath": "./δ steps/δ-1LMFfQW01sY.tsstp"
+        },
+        {
+            "key": "1MMFSjI02Pz",
+            "relativePath": "../../../_shared/steps/VscodeSimpleSearch.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1MMFuh002aM",
+            "relativePath": "./δ steps/δ-1MMFuh002aM.tsstp"
+        },
+        {
+            "key": "δ-1MMvrRv01A8",
+            "relativePath": "./δ steps/δ-1MMvrRv01A8.tsstp"
+        },
+        {
+            "key": "1MMw3tC00KY",
+            "relativePath": "../../../_shared/steps/VscodeSimpleSearch.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "1MNVGbx01wm",
+            "relativePath": "../../../_shared/steps/VscodeSaveAllOpenFiles.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1MNW4N401ec",
+            "relativePath": "./δ steps/δ-1MNW4N401ec.tsstp"
+        },
+        {
+            "key": "1MO5mLW00Jk",
+            "relativePath": "../../../_shared/steps/VscodeSaveAllOpenFiles.tsstp",
+            "isShared": true
         }
     ],
     "___εdit___": {
-        "id": "1LMGb5Z005C",
-        "editorID": "car_b594292b768e43019b960953f36c2e74",
-        "ticks": 1783113660269
+        "id": "1MO61Z502Tm",
+        "editorID": "car_247c7d6b0b6d481d931f38e6c1ca13e2",
+        "ticks": 1784056825939
     }
 }

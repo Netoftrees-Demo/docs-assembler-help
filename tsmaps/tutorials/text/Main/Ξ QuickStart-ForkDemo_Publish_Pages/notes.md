@@ -3,7 +3,7 @@
 CURRENTLY the minimal instruction is not given the whole lot is...
     - The instructions MUST not make smart chaps or old hands get irritated they must be minimal for them. the purpose of auxilliaries is to add to the basic instructions
         - Navigate to github.com in a browser is a minmal instruction.
-            - For those that are running on an unfamilar machine add the auxilliary 'browser?'
+            - For those that are running on an unfamilar machine add the ancillary 'browser?'
 
 Not minimal instructions. They are coming here for help. So they know the basics. They will need to know how to fork.
 The basic one should be used for the readme with a note that the guide will geive you more help and also give you an example of what you can do with documentation that branches.
