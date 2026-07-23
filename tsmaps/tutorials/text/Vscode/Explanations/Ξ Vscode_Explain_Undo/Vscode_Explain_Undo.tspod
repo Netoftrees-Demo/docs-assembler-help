@@ -1,32 +1,32 @@
 {
-    "key": "1NEBXXN0Qn  ",
-    "token": "Vscodeundo",
-    "name": "Vscode_Undo",
-    "created": "2026-07-23T17:08:29.830Z",
+    "key": "1MqC1Vp00Fs ",
+    "token": "Vscodeexplainundo",
+    "name": "Vscode_Explain_Undo",
+    "created": "2026-07-23T17:06:48.596Z",
     "list": true,
-    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/Explanations/Ξ Vscode_Explain_Undo/Vscode_Undo.tspod",
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/Explanations/Ξ Vscode_Explain_Undo/Vscode_Explain_Undo.tspod",
     "isPod": true,
-    "iText": "Link to 'Vscode_Undo'",
+    "iText": "Link to 'Vscode_Explain_Undo'",
     "___rΩΩt___": {
-        "key": "1NEBXXN04X",
+        "key": "1MqC4nH01SQ",
         "nodes": [
             {
-                "key": "1NEBXXN1XE",
+                "key": "1MqC5lX01CV",
                 "order": 1,
                 "option": "More details?",
                 "isLeaf": true,
                 "isAncillary": true
             },
             {
-                "key": "1NEBXXN0wP",
+                "key": "1NE6Fiu0193",
                 "order": 2,
                 "nodes": [
                     {
-                        "key": "1NEBXXN0XK",
+                        "key": "1MrjRal01YO",
                         "order": 1,
                         "nodes": [
                             {
-                                "key": "1NEBXXN29D",
+                                "key": "1MrjUBV026x",
                                 "order": 1,
                                 "option": "Git?",
                                 "isLeaf": true,
@@ -36,7 +36,7 @@
                         ]
                     },
                     {
-                        "key": "1NEBXXN17l",
+                        "key": "1NE6PyA02PU",
                         "order": 2,
                         "option": "Local history?",
                         "isLeaf": true,
@@ -49,33 +49,33 @@
     },
     "___αssεts___": [
         {
-            "key": "δ-1NEBXXN04X",
+            "key": "δ-1MqC4nH01SQ",
             "relativePath": "./δ steps/δ-1MqC4nH01SQ.tsstp"
         },
         {
-            "key": "δ-1NEBXXN1XE",
+            "key": "δ-1MqC5lX01CV",
             "relativePath": "./δ steps/δ-1MqC5lX01CV.tsstp"
         },
         {
-            "key": "δ-1NEBXXN0XK",
+            "key": "δ-1MrjRal01YO",
             "relativePath": "./δ steps/δ-1MrjRal01YO.tsstp"
         },
         {
-            "key": "δ-1NEBXXN29D",
+            "key": "δ-1MrjUBV026x",
             "relativePath": "./δ steps/δ-1MrjUBV026x.tsstp"
         },
         {
-            "key": "δ-1NEBXXN0wP",
+            "key": "δ-1NE6Fiu0193",
             "relativePath": "./δ steps/δ-1NE6Fiu0193.tsstp"
         },
         {
-            "key": "δ-1NEBXXN17l",
+            "key": "δ-1NE6PyA02PU",
             "relativePath": "./δ steps/δ-1NE6PyA02PU.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "1NE6qnP00JO",
-        "editorID": "car_7ce157a159384cf68329b4e4efcddd08",
-        "ticks": 1784825392343
+        "id": "1NECutY00iQ",
+        "editorID": "me_e7d3bb1e0f4642a08d8a1e980c88af17",
+        "ticks": 1784826838068
     }
 }

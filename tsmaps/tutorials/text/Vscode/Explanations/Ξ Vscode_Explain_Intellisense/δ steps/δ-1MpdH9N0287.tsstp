@@ -1,54 +1,94 @@
+¬import li from "../../../../../_shared/variables/imageLinks"
+
+
 ### How IntelliSense Works in Practice
 
-Here is a common scenario. You want to import a variable file called `imageLinks` and reference its `garden_image` variable.
+Here is a common scenario. You want to import a variable file called `imageLinks` and reference its `logo_image` variable.
 
-Without IntelliSense, you would need to remember the exact file path and variable name, typing them perfectly every time. A single typo - `garden_iamge`, for example - would break your build.
+Without IntelliSense, you would need to remember the exact file path and variable name, typing them perfectly every time. A single typo - `logo_image`, for example - would break your build.
 
 With Docs Assembler, the process is guided at every step.
 
-**Importing the variable file**
+#### Importing the variable file
 
-1. On the first line of your step file, type `¬`. If the line is empty, a dropdown appears listing your options. Select `import`.
+1. On the first line of your step file, type `¬`. *- red ring*
 
-2. Type an alias for the file - `il` in this case, though any shorthand works. The line now reads:
+2. If the line is empty, a dropdown appears listing your options. Select `import`. *- yellow ring*
+
+{{::li.Vscode_importCompletion_img}}
+
+
+3. Type an alias for the file - `il` in this case, though any shorthand works. *- red ring*
+
+4. The line now reads:
 
    ```
    ¬import il
    ```
 
-3. Type a space. The dropdown reappears with options including `from`. Select it. The line becomes:
+5. Type a space. The dropdown reappears with options including `from`. Select it. *- yellow ring*
+
+6. The line becomes:
 
    ```
    ¬import il from "
    ```
 
-4. Type a path prefix to navigate:
+{{::li.Vscode_fromCompletion_img}}
+
+
+7. Type a path prefix to navigate:
    - `../` to go to the parent folder
    - `./` to look in the current folder
-   - `folderName/` to open a specific folder
+   - `folderName/` to open a specific folder. *- red ring*
 
-5. The dropdown shows the files and folders at that location. Select one, or type `../` again to go up another level.
+8. The dropdown shows the files and folders at that location. Select one, or type `../` again to go up another level. *- yellow ring*
 
-6. Repeat until you reach the file, then select it. The completed import line might look like this:
+{{::li.Vscode_foldersCompletion_img}}
+
+
+9. Repeat until you reach the file, then select it. The completed import line might look like this:
 
    ```
    ¬import il from "../../../../_shared/variables/imageLinks"
    ```
 
+{{::li.Vscode_imageLinksCompletion_img}}
+
+{{::li.Vscode_importCompleted_img}}
+
+
 > **Note:** Leave two blank lines after import statements before you start the body text.
 
-**Referencing a variable**
 
-7. Anywhere in your text, type `{{::`. IntelliSense recognises this as the start of a variable reference and displays a dropdown of import aliases defined at the top of the file. Select `il`.
+#### Referencing a variable
 
-8. The text becomes `{{::il.` and the dropdown now shows every variable in `imageLinks.tsvar`.
+10. Anywhere in your text, type `{{::`. IntelliSense recognises this as the start of a variable reference and displays a dropdown of import aliases defined at the top of the file. 
 
-9. Type `ga` to filter the list to `garden_image`, then select it. The complete reference is inserted automatically:
+11. Select `il`. *- yellow ring*
+
+{{::li.Vscode_importCompleted_img}}
+
+
+12. The text becomes `{{::il.` and the dropdown now shows every variable in `imageLinks.tsvar`.
+
+13. Type `lo` to filter the list. *- red ring*
+
+14. Select `logo_image`. *- yellow ring*
+
+{{::li.Vscode_importCompleted_img}}
+
+
+The complete reference is inserted automatically:
+
    ```
-   ¬{{::il.garden_image}}
+   ¬{{::il.logo_image}}
    ```
 
-**The safety net**
+{{::li.Vscode_varRefCompleted_img}}
+
+
+#### The safety net
 
 If you reference a variable that does not exist - `¬{{::il.variable_does_not_exist}}`, for example - the system flags it immediately with a red-squiggly diagnostic warning. This real-time feedback prevents you from publishing broken documentation.
 

@@ -1,4 +1,7 @@
 
+¬logo_url: ../../../assets/images/netOfTreesIcon.png
+¬logo_image: [<img class="nt-fr-logo" src="{{::logo_url}}">]({{::logo_url}})
+
 ¬DA_select_openVsx_url: ../../../assets/images/open-vsx_docs-select.png
 ¬DA_select_openVsx_img: ![Select Docs Assembler on open-vsx.org]({{::DA_select_openVsx_url}})
 
@@ -263,6 +266,27 @@
 
 ¬Vscode_OpenEditors_url: ../../../assets/images/Vscode_OpenEditors.png
 ¬Vscode_OpenEditors_img: ![Vscode - empty]({{::Vscode_OpenEditors_url}})
+
+¬Vscode_importCompletion_url: ../../../assets/images/Vscode_importCompletion.png
+¬Vscode_importCompletion_img: ![Vscode - empty]({{::Vscode_importCompletion_url}})
+
+¬Vscode_fromCompletion_url: ../../../assets/images/Vscode_fromCompletion.png
+¬Vscode_fromCompletion_img: ![Vscode - empty]({{::Vscode_fromCompletion_url}})
+
+¬Vscode_foldersCompletion_url: ../../../assets/images/Vscode_foldersCompletion.png
+¬Vscode_foldersCompletion_img: ![Vscode - empty]({{::Vscode_foldersCompletion_url}})
+
+¬Vscode_importCompleted_url: ../../../assets/images/Vscode_importCompleted.png
+¬Vscode_importCompleted_img: ![Vscode - empty]({{::Vscode_importCompleted_url}})
+
+¬Vscode_imageLinksCompletion_url: ../../../assets/images/Vscode_imageLinksCompletion.png
+¬Vscode_imageLinksCompletion_img: ![Vscode - empty]({{::Vscode_imageLinksCompletion_url}})
+
+¬Vscode_logoCompletion_url: ../../../assets/images/Vscode_logoCompletion.png
+¬Vscode_logoCompletion_img: ![Vscode - empty]({{::Vscode_logoCompletion_url}})
+
+¬Vscode_varRefCompleted_url: ../../../assets/images/Vscode_varRefCompleted.png
+¬Vscode_varRefCompleted_img: ![Vscode - empty]({{::Vscode_varRefCompleted_url}})
 
 ¬GitHub_ForkButton_url: ../../../assets/images/GitHub_ForkButton.png
 ¬GitHub_ForkButton_img: ![Vscode - empty]({{::GitHub_ForkButton_url}})
