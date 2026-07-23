@@ -1,0 +1,48 @@
+{
+    "key": "1MpYjJh02Sc ",
+    "token": "Vscodeexplainintellisense",
+    "name": "Vscode_Explain_Intellisense",
+    "created": "2026-07-23T17:01:15.122Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/Explanations/Ξ Vscode_Explain_Intellisense/Vscode_Explain_Intellisense.tsmap",
+    "isPod": true,
+    "iText": "Link to 'Vscode_Explain_Intellisense'",
+    "___εdit___": {
+        "id": "1NEBO1m022A",
+        "editorID": "exp_a0ef5e499e0f4e43859a28234d3d8ded",
+        "ticks": 1784826473398
+    },
+    "___rΩΩt___": {
+        "key": "1MpYoKs00dA",
+        "nodes": [
+            {
+                "key": "1MpYpDu01YQ",
+                "order": 1,
+                "option": "More detail?",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "1MpdH9N0287",
+                "order": 2,
+                "option": "Example?",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1MpYoKs00dA",
+            "relativePath": "./δ steps/δ-1MpYoKs00dA.tsstp"
+        },
+        {
+            "key": "δ-1MpYpDu01YQ",
+            "relativePath": "./δ steps/δ-1MpYpDu01YQ.tsstp"
+        },
+        {
+            "key": "δ-1MpdH9N0287",
+            "relativePath": "./δ steps/δ-1MpdH9N0287.tsstp"
+        }
+    ]
+}

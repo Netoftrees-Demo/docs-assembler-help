@@ -1,0 +1,13 @@
+## What are Undo and Redo?
+
+**Undo** and **Redo** are fundamental editing commands that let you reverse or reapply your recent changes.
+
+- **Undo** - `Ctrl+Z` (or `Cmd+Z`) - reverses your last action - whether that was typing text, deleting a block, or moving a file.
+- **Redo** - `Ctrl+Y` (or `Cmd+Shift+Z`) - reapplies an action you just undid.
+
+Think of it as a time machine for your edits. You can step backwards to fix a mistake, and if you change your mind, step forwards again to restore what you had. This simple safety net gives you the freedom to experiment, make bold changes, and correct errors instantly - without fear of losing work.
+
+**In short:** Undo and Redo let you safely navigate your editing history, providing a safety net for every change you make.
+
+> **Note:** Step instruction edits made in the map editor lens cannot currently be undone from the lens itself.
+

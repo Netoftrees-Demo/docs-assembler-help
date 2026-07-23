@@ -1,0 +1,11 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
+##### Vscode - save a file using the menu
+
+1. In vscode click the **File** menu. *- red ring*
+
+2. In the menu that appears click **Save**. *- yellow ring*
+
+{{::il.Vscode_SaveFile_img}}
+

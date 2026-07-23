@@ -1,0 +1,16 @@
+### Engineering Rigour through IntelliSense
+
+At the heart of Docs Assembler's rigour is deep **IntelliSense** integration. If you have ever used autocomplete in a word processor, you have seen the basic idea - but IntelliSense goes much further. It does not just finish words; it understands how your entire documentation project fits together. It knows which files you have imported, which reusable text snippets you have defined, and how they all link. 
+
+Docs Assembler's IntelliSense is built on a real-time understanding of your entire project structure. It provides context-aware assistance for several key tasks:
+
+1. **Writing import statements** - When you start typing `¬import` at the top of a file, IntelliSense helps you complete the statement quickly and accurately, including suggesting existing file paths.
+
+2. **Referencing variables** - When you type the alias for an imported variable file (e.g., `{{::il.`), IntelliSense displays every variable defined in that file. This eliminates the need to remember exact names, which is especially helpful in large projects with hundreds of variables.
+
+3. **Defining variables** - Within a `.tsvar` file, IntelliSense ensures your syntax is correct and flags potential errors. If a variable contains a relative URL, IntelliSense validates that the target file exists, giving you an early warning for broken links.
+
+4. **Code navigation** - Right-click any variable reference and select **"Go to Definition"** to jump instantly to the exact line where the content is defined. This makes it easy to trace where information originates and understand how your documentation fits together.
+
+This level of language-aware tooling transforms your documentation from a collection of static text files into a well-engineered system. It reduces the cognitive load of managing complex dependencies, accelerates authoring, and eliminates entire classes of errors - typos, broken links, and inconsistencies - that plague traditional documentation. It is how Docs Assembler ensures your documentation is as robust and maintainable as the systems it describes.
+

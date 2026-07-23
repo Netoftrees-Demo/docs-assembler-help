@@ -1,0 +1,37 @@
+{
+    "key": "1NEBJDK0tT  ",
+    "token": "Vscodeexplainsyntaxhighlighting",
+    "name": "Vscode_Explain_SyntaxHighlighting",
+    "created": "2026-07-23T17:06:43.445Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/Explanations/Ξ Vscode_Explain_SyntaxHighlighting/Vscode_Explain_SyntaxHighlighting.tsmap",
+    "isPod": true,
+    "iText": "Link to 'Vscode_Explain_SyntaxHighlighting'",
+    "___εdit___": {
+        "id": "1NEBJAB00XI",
+        "editorID": "exp_a0ef5e499e0f4e43859a28234d3d8ded",
+        "ticks": 1784826454699
+    },
+    "___rΩΩt___": {
+        "key": "1NEBJDK05B",
+        "nodes": [
+            {
+                "key": "1NEBJDK2AE",
+                "order": 1,
+                "option": "More detail?",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1NEBJDK05B",
+            "relativePath": "./δ steps/δ-1MpwYmo01wc.tsstp"
+        },
+        {
+            "key": "δ-1NEBJDK2AE",
+            "relativePath": "./δ steps/δ-1MpwZaR01P3.tsstp"
+        }
+    ]
+}

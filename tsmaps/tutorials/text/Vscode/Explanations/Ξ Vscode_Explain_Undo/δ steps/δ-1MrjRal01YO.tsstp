@@ -1,0 +1,8 @@
+### Beyond Undo: Git Commits for Long-Term Confidence
+
+Powerful as Undo and Redo are, they have a limit. Close a file, restart VS Code, and your undo history is gone. For changes you need to preserve, revisit, or share with your team, you need something more permanent.
+
+That is where **Git commits** come in. While Undo handles the last few minutes or hours of changes, Git commits capture permanent snapshots of your entire project - with timestamps, author attribution, and descriptive messages.
+
+**In short:** Undo and Redo are not just a convenience - they are an essential part of the software engineering mindset. They give you the confidence to build, refine, and maintain your documentation system, knowing you can always step back and try again. And when you are ready to think bigger, Git commits give you that same confidence across days, weeks, and years.
+

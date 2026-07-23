@@ -1,0 +1,34 @@
+### Syntax Highlighting - Seeing Your Structure
+
+When you open a code file, you are immediately greeted with a world of colors: blue for keywords, orange for strings, green for comments. This is **syntax highlighting** at work, and it is one of the most fundamental yet powerful tools in a developer's arsenal.
+
+In Docs Assembler, we apply this same principle to your documentation. The Docs Assembler extension for vscode provides rich syntax highlighting for all the file types you work with, making the structure of your documentation visually explicit.
+
+
+### The Benefits of Syntax Highlighting
+
+1. **Improved readability** - A file with syntax highlighting is much easier to scan and understand. Your eyes quickly learn to find what they are looking for, whether it is a specific variable name or the start of a new step.
+
+2. **Instant error detection** - Typos and syntax errors often stand out immediately because they will not be coloured correctly. For example, if you forget to close a quote in a variable definition, the text will stay one colour (as a string) rather than returning to the default colour, giving you a visual clue that something is wrong.
+
+3. **Faster navigation** - The visual distinction between different elements helps you mentally parse a file much faster. This is especially valuable for complex JSON or Markdown step files, where the structure is deeply nested, or for large variable files with many entries.
+
+4. **Increased confidence** - When you see the correct colours appear as you type, it provides positive visual feedback that what you are typing is being correctly interpreted by the system, reducing the cognitive load and helping you focus on the content.
+
+
+### Syntax Highlighting in Action
+
+Here is what you can expect to see when working with Docs Assembler:
+
+- **JSON step (`.tsmap`) files** - The keys, values, and structural symbols (like `{`, `}`, `[`, `]`) are highlighted in different colours. The extension also provides semantic highlighting, going a step further to colour-code specific, meaningful elements like the `$type` of a step.
+
+- **Markdown step (`.md`) files** - Standard Markdown syntax - like headings (`#`), bold/italic (`**` or `__`), blockquotes (`&gt;`), lists (`*`), and code fences (````) - is highlighted according to your VS Code Markdown theme. This means your step content is rendered beautifully in the editor, just as it will be on your published site.
+
+- **Variable (`.tsvar`) files** - The syntax used to define variables is given specific colours, so you can easily distinguish between the variable name and the content it holds. This makes it quick to verify the structure of your definitions.
+
+- **Import statements** - In your step and variable files, the special `¬import` syntax is highlighted, making it clear where your dependencies are coming from and allowing you to quickly scan a file to see its relationships with other parts of your project.
+
+- **Variable referencing:** In your variable files, as well as json and markdown step files, reference syntax is highlighted, so you can quickly scan for file alias and variable name.
+
+By incorporating syntax highlighting, Docs Assembler ensures that writing and editing documentation feels as polished and productive as writing code, making complex structures clearer and simpler to maintain.
+

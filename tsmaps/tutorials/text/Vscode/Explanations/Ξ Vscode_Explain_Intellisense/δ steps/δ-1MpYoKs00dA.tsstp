@@ -1,0 +1,10 @@
+### What is IntelliSense?
+
+IntelliSense is a feature of VS Code that helps you write code - or, in our case, documentation - faster and with fewer errors.
+
+Think of it as intelligent autocomplete. As you start typing, a dropdown appears suggesting completions based on the structure of your file, the files you have imported, and the variables defined in them.
+
+The suggestions are context-aware. They know, for example, that you are writing an import statement or referencing a variable, and they only show valid options.
+
+**In short:** IntelliSense provides smart completion for your documentation, reducing typos, helping you discover available features, and ensuring your syntax is correct.
+

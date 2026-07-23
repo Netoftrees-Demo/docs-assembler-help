@@ -1,0 +1,25 @@
+{
+    "key": "1MlywCA01qX ",
+    "token": "Stepeditquick",
+    "name": "StepEditQuick",
+    "created": "2026-07-18T21:22:49.066Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/DA/Ξ StepEditQuick/StepEditQuick.tspod",
+    "isPod": true,
+    "iText": "Link to 'StepEditQuick'",
+    "___rΩΩt___": {
+        "key": "1Mlz0aS015M",
+        "isLeaf": true
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1Mlz0aS015M",
+            "relativePath": "./δ steps/δ-1Mlz0aS015M.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1Mlz2FY025Q",
+        "editorID": "car_dbe172f1d36f44efa533b5579e7e1e18",
+        "ticks": 1784409792340
+    }
+}

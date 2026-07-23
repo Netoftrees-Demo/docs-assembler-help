@@ -1,0 +1,140 @@
+{
+    "key": "1MYz0xa01uB ",
+    "token": "Editingstepinstructions",
+    "name": "EditingStepInstructions",
+    "created": "2026-07-16T16:01:35.014Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/DA/Ξ EditingStepInstructions/EditingStepInstructions.tsmap",
+    "iText": "Link to 'EditingStepInstructions'",
+    "___rΩΩt___": {
+        "key": "1Mlc1uk010v",
+        "nodes": [
+            {
+                "key": "1MYz6oC00hM",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1MlXf8400Wn",
+                        "order": 1,
+                        "option": "Step file - you know which file you want to edit"
+                    },
+                    {
+                        "key": "1Mm03pf01Oc",
+                        "order": 2,
+                        "nodes": [
+                            {
+                                "key": "1MleFfa009B",
+                                "order": 1,
+                                "nodes": [
+                                    {
+                                        "key": "1MYz8WK023o",
+                                        "order": 1,
+                                        "nodes": [
+                                            {
+                                                "key": "1MlWhTb010g",
+                                                "order": 1,
+                                                "option": "vscode markdown editor",
+                                                "podKey": "1MlywCA01qX",
+                                                "podText": "Link to 'StepEditQuick'",
+                                                "nodes": [
+                                                    {
+                                                        "key": "1MlWm0c00Pm",
+                                                        "order": 1
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "key": "1Mlg5Hn02Ec",
+                                                "order": 2,
+                                                "option": "map editor and the lens",
+                                                "podKey": "1Mlz4cC02Nu",
+                                                "podText": "Link to 'StepEditControl'",
+                                                "nodes": [
+                                                    {
+                                                        "key": "1Mm0zFg01jr",
+                                                        "order": 1
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "key": "1MlfCEx01z9",
+                                        "order": 2,
+                                        "option": "Open map?",
+                                        "isLeaf": true,
+                                        "isAncillary": true,
+                                        "iKey": "1MlfGOE00L5"
+                                    }
+                                ]
+                            },
+                            {
+                                "key": "1Mm0AU202CY",
+                                "order": 2,
+                                "option": "Open map?",
+                                "isLeaf": true,
+                                "isAncillary": true,
+                                "iKey": "1MlfGOE00L5"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "1Mlc9uL00iX",
+                "order": 2,
+                "option": "Markdown?",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "1MYe3uA00ba"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1MYz6oC00hM",
+            "relativePath": "./δ steps/δ-1MYz6oC00hM.tsstp"
+        },
+        {
+            "key": "δ-1MYz8WK023o",
+            "relativePath": "./δ steps/δ-1MYz8WK023o.tsstp"
+        },
+        {
+            "key": "δ-1MlWhTb010g",
+            "relativePath": "./δ steps/δ-1MlWhTb010g.tsstp"
+        },
+        {
+            "key": "δ-1Mlc1uk010v",
+            "relativePath": "./δ steps/δ-1Mlc1uk010v.tsstp"
+        },
+        {
+            "key": "δ-1Mlc9uL00iX",
+            "relativePath": "./δ steps/δ-1Mlc9uL00iX.tsstp"
+        },
+        {
+            "key": "δ-1MleFfa009B",
+            "relativePath": "./δ steps/δ-1MleFfa009B.tsstp"
+        },
+        {
+            "key": "δ-1MlfCEx01z9",
+            "relativePath": "./δ steps/δ-1MlfCEx01z9.tsstp"
+        },
+        {
+            "key": "δ-1Mlg5Hn02Ec",
+            "relativePath": "./δ steps/δ-1Mlg5Hn02Ec.tsstp"
+        },
+        {
+            "key": "δ-1Mm03pf01Oc",
+            "relativePath": "./δ steps/δ-1Mm03pf01Oc.tsstp"
+        },
+        {
+            "key": "δ-1Mm0AU202CY",
+            "relativePath": "./δ steps/δ-1Mm0AU202CY.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1Mm4ICo02Mi",
+        "editorID": "car_6ec6e2ce6dc8435880efa2135dbaa494",
+        "ticks": 1784411045314
+    }
+}

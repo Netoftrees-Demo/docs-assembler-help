@@ -1,0 +1,81 @@
+{
+    "key": "1NEBXXN0Qn  ",
+    "token": "Vscodeundo",
+    "name": "Vscode_Undo",
+    "created": "2026-07-23T17:08:29.830Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/Explanations/Ξ Vscode_Explain_Undo/Vscode_Undo.tspod",
+    "isPod": true,
+    "iText": "Link to 'Vscode_Undo'",
+    "___rΩΩt___": {
+        "key": "1NEBXXN04X",
+        "nodes": [
+            {
+                "key": "1NEBXXN1XE",
+                "order": 1,
+                "option": "More details?",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "1NEBXXN0wP",
+                "order": 2,
+                "nodes": [
+                    {
+                        "key": "1NEBXXN0XK",
+                        "order": 1,
+                        "nodes": [
+                            {
+                                "key": "1NEBXXN29D",
+                                "order": 1,
+                                "option": "Git?",
+                                "isLeaf": true,
+                                "isAncillary": true,
+                                "iKey": "1Mrjo5Z00Ik"
+                            }
+                        ]
+                    },
+                    {
+                        "key": "1NEBXXN17l",
+                        "order": 2,
+                        "option": "Local history?",
+                        "isLeaf": true,
+                        "isAncillary": true,
+                        "iKey": "1NE6dTC00Gm"
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1NEBXXN04X",
+            "relativePath": "./δ steps/δ-1MqC4nH01SQ.tsstp"
+        },
+        {
+            "key": "δ-1NEBXXN1XE",
+            "relativePath": "./δ steps/δ-1MqC5lX01CV.tsstp"
+        },
+        {
+            "key": "δ-1NEBXXN0XK",
+            "relativePath": "./δ steps/δ-1MrjRal01YO.tsstp"
+        },
+        {
+            "key": "δ-1NEBXXN29D",
+            "relativePath": "./δ steps/δ-1MrjUBV026x.tsstp"
+        },
+        {
+            "key": "δ-1NEBXXN0wP",
+            "relativePath": "./δ steps/δ-1NE6Fiu0193.tsstp"
+        },
+        {
+            "key": "δ-1NEBXXN17l",
+            "relativePath": "./δ steps/δ-1NE6PyA02PU.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1NE6qnP00JO",
+        "editorID": "car_7ce157a159384cf68329b4e4efcddd08",
+        "ticks": 1784825392343
+    }
+}

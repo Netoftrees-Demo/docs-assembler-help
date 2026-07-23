@@ -1,0 +1,23 @@
+¬import il from "../../../../_shared/variables/imageLinks"
+
+
+#### 2. With more control using the vscode markdown editor
+
+Open the step file:
+ - Using step context menu
+ - Using lens and button in Instructions
+
+Edit normally.
+    Has undo
+
+    link to tree telling you how to edit in vscode markdown editor
+    Also explain how to add spelling extension.
+    How to create variable files
+    How to create shared step files
+    Understanding validation errors
+    etc
+    Don't want all of this in this tree but want a link to the main help for markdown content ie creating files why, when etc
+
+
+{{::il.DA_EditStep_NewStep_3_img}}
+

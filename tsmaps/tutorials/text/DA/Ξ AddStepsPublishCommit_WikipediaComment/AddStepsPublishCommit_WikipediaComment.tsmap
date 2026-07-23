@@ -38,19 +38,26 @@
                                                                 "order": 1,
                                                                 "nodes": [
                                                                     {
+                                                                        "key": "1MYZlO501Rg",
+                                                                        "order": 1
+                                                                    },
+                                                                    {
                                                                         "key": "1MO5wJJ02GL",
-                                                                        "order": 1,
-                                                                        "option": "Next"
+                                                                        "order": 2,
+                                                                        "option": "Save all?",
+                                                                        "sharedAssetKey": "1MYZhBo00NM",
+                                                                        "isLeaf": true,
+                                                                        "isAncillary": true
                                                                     }
                                                                 ]
                                                             },
                                                             {
                                                                 "key": "1MO5hDw015v",
                                                                 "order": 2,
-                                                                "option": "Save all?",
-                                                                "sharedAssetKey": "1MO5mLW00Jk",
+                                                                "option": "Editing step instructions?",
                                                                 "isLeaf": true,
-                                                                "isAncillary": true
+                                                                "isAncillary": true,
+                                                                "iKey": "1MYz0xa01uB"
                                                             }
                                                         ]
                                                     },
@@ -151,14 +158,18 @@
             "relativePath": "./δ steps/δ-1MNW4N401ec.tsstp"
         },
         {
-            "key": "1MO5mLW00Jk",
+            "key": "1MYZhBo00NM",
             "relativePath": "../../../_shared/steps/VscodeSaveAllOpenFiles.tsstp",
             "isShared": true
+        },
+        {
+            "key": "δ-1MO5hDw015v",
+            "relativePath": "./δ steps/δ-1MO5hDw015v.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "1MO61Z502Tm",
-        "editorID": "car_247c7d6b0b6d481d931f38e6c1ca13e2",
-        "ticks": 1784056825939
+        "id": "1MYzvo502BT",
+        "editorID": "car_d05011b2566a48fc9efe85592e7879a1",
+        "ticks": 1784217913533
     }
 }

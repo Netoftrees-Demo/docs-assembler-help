@@ -1,0 +1,62 @@
+{
+    "key": "1Mlz4cC02Nu ",
+    "token": "Stepeditcontrol",
+    "name": "StepEditControl",
+    "created": "2026-07-18T21:23:21.432Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/DA/Ξ StepEditControl/StepEditControl.tspod",
+    "isPod": true,
+    "iText": "Link to 'StepEditControl'",
+    "___rΩΩt___": {
+        "key": "1Mlz6i8015Z",
+        "nodes": [
+            {
+                "key": "1MpM8Kp00oc",
+                "order": 1,
+                "option": "Intellisense?",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "1MpYjJh02Sc"
+            },
+            {
+                "key": "1MpMDgf00eC",
+                "order": 2,
+                "option": "Syntax highlighting?",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "1MpwVCy00bm"
+            },
+            {
+                "key": "1MpMHy800zG",
+                "order": 3,
+                "option": "Undo?",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "1MqC1Vp00Fs"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1Mlz6i8015Z",
+            "relativePath": "./δ steps/δ-1Mlz6i8015Z.tsstp"
+        },
+        {
+            "key": "δ-1MpM8Kp00oc",
+            "relativePath": "./δ steps/δ-1MpM8Kp00oc.tsstp"
+        },
+        {
+            "key": "δ-1MpMDgf00eC",
+            "relativePath": "./δ steps/δ-1MpMDgf00eC.tsstp"
+        },
+        {
+            "key": "δ-1MpMHy800zG",
+            "relativePath": "./δ steps/δ-1MpMHy800zG.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1MrkEt200BH",
+        "editorID": "car_1257e85a5ade450cbe0cd25ac75eb723",
+        "ticks": 1784494924012
+    }
+}

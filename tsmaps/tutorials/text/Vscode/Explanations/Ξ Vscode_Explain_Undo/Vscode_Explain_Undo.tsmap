@@ -1,0 +1,81 @@
+{
+    "key": "1MqC1Vp00Fs ",
+    "token": "Vscodeexplainundo",
+    "name": "Vscode_Explain_Undo",
+    "created": "2026-07-23T17:06:48.596Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/Explanations/Ξ Vscode_Explain_Undo/Vscode_Explain_Undo.tsmap",
+    "isPod": true,
+    "iText": "Link to 'Vscode_Explain_Undo'",
+    "___εdit___": {
+        "id": "1NEBXQZ01Az",
+        "editorID": "exp_a0ef5e499e0f4e43859a28234d3d8ded",
+        "ticks": 1784826509531
+    },
+    "___rΩΩt___": {
+        "key": "1MqC4nH01SQ",
+        "nodes": [
+            {
+                "key": "1MqC5lX01CV",
+                "order": 1,
+                "option": "More details?",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "1NE6Fiu0193",
+                "order": 2,
+                "nodes": [
+                    {
+                        "key": "1MrjRal01YO",
+                        "order": 1,
+                        "nodes": [
+                            {
+                                "key": "1MrjUBV026x",
+                                "order": 1,
+                                "option": "Git?",
+                                "isLeaf": true,
+                                "isAncillary": true,
+                                "iKey": "1Mrjo5Z00Ik"
+                            }
+                        ]
+                    },
+                    {
+                        "key": "1NE6PyA02PU",
+                        "order": 2,
+                        "option": "Local history?",
+                        "isLeaf": true,
+                        "isAncillary": true,
+                        "iKey": "1NE6dTC00Gm"
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1MqC4nH01SQ",
+            "relativePath": "./δ steps/δ-1MqC4nH01SQ.tsstp"
+        },
+        {
+            "key": "δ-1MqC5lX01CV",
+            "relativePath": "./δ steps/δ-1MqC5lX01CV.tsstp"
+        },
+        {
+            "key": "δ-1MrjRal01YO",
+            "relativePath": "./δ steps/δ-1MrjRal01YO.tsstp"
+        },
+        {
+            "key": "δ-1MrjUBV026x",
+            "relativePath": "./δ steps/δ-1MrjUBV026x.tsstp"
+        },
+        {
+            "key": "δ-1NE6Fiu0193",
+            "relativePath": "./δ steps/δ-1NE6Fiu0193.tsstp"
+        },
+        {
+            "key": "δ-1NE6PyA02PU",
+            "relativePath": "./δ steps/δ-1NE6PyA02PU.tsstp"
+        }
+    ]
+}

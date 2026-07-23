@@ -59,8 +59,9 @@ If you want the full instructions - but need to indicate to them why this is pow
 
  Need to set the theme too as docs assembler only works with one theme
 
-
-
+ Need to provide a tutorial to show how intellisense works and a video and this needs to be added the intellisense explanation map.
+ 
+ 
 -----------------------------
 
 

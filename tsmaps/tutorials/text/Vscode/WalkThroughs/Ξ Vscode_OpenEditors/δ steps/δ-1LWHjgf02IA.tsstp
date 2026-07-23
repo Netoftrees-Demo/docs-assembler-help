@@ -1,0 +1,9 @@
+¬import vs from "../../../../../_shared/variables/Vscode_Snippets"
+
+
+1. {{::vs.Vscode_OpenExplorer_1}} *- red ring*
+
+2. {{::vs.Vscode_OpenExplorer_2}}
+
+3. **OPEN EDITORS** is one of the collapsible sections in the **Explorer**. *- blue ring*
+

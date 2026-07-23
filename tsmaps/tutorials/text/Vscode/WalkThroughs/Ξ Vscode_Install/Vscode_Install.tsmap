@@ -1,0 +1,71 @@
+{
+    "key": "1JWpeCs02E3 ",
+    "token": "Vscodeinstall",
+    "name": "Vscode_Install",
+    "created": "2026-07-23T17:02:40.501Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_Install/Vscode_Install.tsmap",
+    "iText": "Link to 'Vscode_Install'",
+    "___rΩΩt___": {
+        "key": "1JXMP3t02Dh",
+        "iKey": "1JWsJzB00Aj",
+        "nodes": [
+            {
+                "key": "1JXMZCd00xd",
+                "order": 1,
+                "option": "Exit",
+                "iExitKey": "1JXLma501nR",
+                "nodes": [
+                    {
+                        "key": "1JXMcuW00ux",
+                        "order": 1,
+                        "nodes": [
+                            {
+                                "key": "1KUCicR01nM",
+                                "order": 1,
+                                "sharedAssetKey": "1KUDXYw0242",
+                                "nodes": [
+                                    {
+                                        "key": "1KUCp1u00Yn",
+                                        "order": 1,
+                                        "sharedAssetKey": "1KUDsS301IX",
+                                        "isLeaf": true
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1JXMP3t02Dh",
+            "relativePath": "./δ steps/δ-1JXMP3t02Dh.tsstp"
+        },
+        {
+            "key": "δ-1JXMZCd00xd",
+            "relativePath": "./δ steps/δ-1JXMZCd00xd.tsstp"
+        },
+        {
+            "key": "δ-1JXMcuW00ux",
+            "relativePath": "./δ steps/δ-1JXMcuW00ux.tsstp"
+        },
+        {
+            "key": "1KUDXYw0242",
+            "relativePath": "../../../../_shared/steps/InstallVscodeGit.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "1KUDsS301IX",
+            "relativePath": "../../../../_shared/steps/VscodeCheckTheme.tsstp",
+            "isShared": true
+        }
+    ],
+    "___εdit___": {
+        "id": "1KUECRW01mN",
+        "editorID": "car_22023954f1714026b25c9eed3ef54617",
+        "ticks": 1782315166730
+    }
+}

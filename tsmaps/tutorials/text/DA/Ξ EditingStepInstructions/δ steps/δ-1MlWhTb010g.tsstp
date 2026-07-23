@@ -1,0 +1,12 @@
+¬import il from "../../../../_shared/variables/imageLinks"
+
+
+#### 1. Quickly using the lens
+
+Click the step in the branches view to open in the lens
+Scroll down to the **Instructions** section
+Edit the markdown.
+    No undo
+
+{{::il.DA_EditStep_NewStep_3_img}}
+

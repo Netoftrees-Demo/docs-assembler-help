@@ -1,0 +1,80 @@
+{
+    "key": "1KBku2602Ir ",
+    "token": "VscodecheckeDgZ4pCt",
+    "name": "Vscode_CheckGitInstalled",
+    "created": "2026-07-23T17:02:06.342Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_CheckGitInstalled/Vscode_CheckGitInstalled.tsmap",
+    "iText": "Link to 'Vscode_CheckGitInstalled'",
+    "iExits": [
+        {
+            "key": "1KJmtYo01rp",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___εdit___": {
+        "id": "1NEAQHn02Po",
+        "editorID": "exp_d8547675523f4b6c8ba3f3516c9a65a9",
+        "ticks": 1784826243751
+    },
+    "___rΩΩt___": {
+        "key": "1KBkyUC01dh",
+        "nodes": [
+            {
+                "key": "1KBlCSw01LH",
+                "order": 1,
+                "option": "Git is installed",
+                "nodes": [
+                    {
+                        "key": "1KBnDMS00Tg",
+                        "order": 1,
+                        "iKey": "1KBromu001x",
+                        "nodes": [
+                            {
+                                "key": "1KJmgVx000P",
+                                "order": 1,
+                                "option": "Exit",
+                                "iExitKey": "1KJmYrY01Ti",
+                                "exitKey": "1KJmtYo01rp"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "1KBlmjd01Q1",
+                "order": 2,
+                "option": "Install Git",
+                "iKey": "1KBjlsG00S1",
+                "nodes": [
+                    {
+                        "key": "1KJmpvQ01k7",
+                        "order": 1,
+                        "option": "Exit",
+                        "iExitKey": "1KJmj1l02H8",
+                        "exitKey": "1KJmtYo01rp"
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1KBkyUC01dh",
+            "relativePath": "./δ steps/δ-1KBkyUC01dh.tsstp"
+        },
+        {
+            "key": "δ-1KBlCSw01LH",
+            "relativePath": "./δ steps/δ-1KBlCSw01LH.tsstp"
+        },
+        {
+            "key": "δ-1KBlmjd01Q1",
+            "relativePath": "./δ steps/δ-1KBlmjd01Q1.tsstp"
+        },
+        {
+            "key": "δ-1KBnDMS00Tg",
+            "relativePath": "./δ steps/δ-1KBnDMS00Tg.tsstp"
+        }
+    ]
+}

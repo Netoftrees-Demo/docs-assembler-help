@@ -1,0 +1,17 @@
+## Undo and Redo - The Safety Net You Didn't Know You Needed
+
+If IntelliSense helps you write correctly and Syntax Highlighting helps you read clearly, then **Undo and Redo** give you the freedom to write fearlessly. They are the invisible safety net that every professional tool provides, allowing you to experiment, restructure, and refine your work without risk.
+
+In the world of documentation, where a single change can propagate across dozens of guides, the ability to confidently edit and instantly reverse mistakes is essential. Docs Assembler inherits the full power of VS Code's robust undo and redo system, and extends it in ways that matter for complex, interconnected documentation projects.
+
+
+### Why Undo and Redo Matter in Documentation
+
+1. **Fearless editing** - When you know you can undo any change, you are more willing to try things. You can reorganise a map, rewrite a complex step, or update a variable without hesitation. The worst that can happen is you undo it and try again.
+
+2. **Accident recovery** - We all make mistakes. You might accidentally delete a step, overwrite a variable, or paste content in the wrong place. Rather than panicking or trying to manually reconstruct what you lost, you simply press `Ctrl+Z` and the mistake is gone.
+
+3. **Branching exploration** - Undo and Redo allow you to explore alternatives. You might try a different phrasing for a step, see how it reads, and if you do not like it, undo it. It is an iterative, low-risk way to refine your content.
+
+4. **Batched operations** - Modern editors like VS Code combine multiple actions into single undo steps. For instance, when you use a Docs Assembler feature to "move a step to a new map," that entire operation is batched into a single undo step. One press of `Ctrl+Z` and the entire move is reversed.
+

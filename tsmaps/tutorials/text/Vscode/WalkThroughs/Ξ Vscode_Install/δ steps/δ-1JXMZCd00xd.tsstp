@@ -1,0 +1,17 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
+## Download vscode
+
+1. In the browser address bar type *https://code.visualstudio.com/* and presee the **Return** key on the keyboard. *- red ring* 
+2. The vscode website is displayed.
+3. Click the **Download** button. *- yellow ring* 
+
+{{::il.Firefox_vscode_img}}
+
+4. The download page is displayed and the download starts.
+5. When vscode has finished downloading the browser should show notify you like Firefox does in image below. *- red ring* 
+6. Click the downloaded file to run the installer. *- yellow ring* 
+
+{{::il.Firefox_vscode_downloaded_img}}
+

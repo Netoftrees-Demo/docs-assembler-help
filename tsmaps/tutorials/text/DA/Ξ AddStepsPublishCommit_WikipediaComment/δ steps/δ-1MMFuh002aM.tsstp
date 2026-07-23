@@ -40,11 +40,6 @@ In a traditional wiki, you copy-paste the same warning into five articles. Six m
 
 
 ```
-You can quickly edit the step **Instructions** from the lens if the step file is not open in the editor. But it has drawbacks, there is no undo function at present except through the markdown editor.
+You can quickly edit the step **Instructions** from the lens if the step file is not open in markdown editor. However, there is no undo for text edits via the lens. If you need undo use the markdown editor.
 
-34. In the branches view the step is updated with the same text. *- yellow ring*
-
-{{::il.DA_EditStep_NewAncillarySolution_2_img}}
-
-22. Save all the files.
 

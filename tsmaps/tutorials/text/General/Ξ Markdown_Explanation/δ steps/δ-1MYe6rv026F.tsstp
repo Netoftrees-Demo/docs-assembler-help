@@ -1,0 +1,6 @@
+# What is Markdown?
+
+Markdown is a **plain-text formatting syntax** designed to be both easy to read in its raw form and easy to convert into structurally valid HTML. Think of it as a middle ground between writing a plain email and coding a webpage.
+
+Instead of clicking toolbar buttons to make text bold or italic, you wrap it in simple characters (like `**bold**` or `*italic*`). It’s what powers README files on GitHub, comments on Reddit, Discord messages, and note-taking apps like Obsidian (natively) and Notion (via shortcuts) — and, yes, even this very document. The core promise: **write once, publish anywhere**, without taking your fingers off the keyboard.
+

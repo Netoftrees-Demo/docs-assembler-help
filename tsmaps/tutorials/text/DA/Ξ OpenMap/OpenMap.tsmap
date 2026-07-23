@@ -1,0 +1,30 @@
+{
+    "key": "1MlfGOE00L5 ",
+    "token": "Openmap",
+    "name": "OpenMap",
+    "created": "2026-07-18T20:04:40.134Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/DA/Ξ OpenMap/OpenMap.tsmap",
+    "iText": "Link to 'OpenMap'",
+    "___rΩΩt___": {
+        "key": "1MlfHtx01e6",
+        "nodes": [
+            {
+                "key": "1MlfJ6t01dZ",
+                "order": 1,
+                "option": "Next"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1MlfHtx01e6",
+            "relativePath": "./δ steps/δ-1MlfHtx01e6.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1MlfLJl01sY",
+        "editorID": "car_a961e385bce9475da2bcc03939afd8c4",
+        "ticks": 1784405099077
+    }
+}

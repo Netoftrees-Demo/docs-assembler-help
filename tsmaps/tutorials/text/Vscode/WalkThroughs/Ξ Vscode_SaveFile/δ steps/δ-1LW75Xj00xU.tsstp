@@ -1,0 +1,6 @@
+¬import vs from "../../../../../_shared/variables/Vscode_Snippets"
+
+
+1. {{::vs.Vscode_OpenExplorer_1}} *- red ring*
+
+2. {{::vs.Vscode_OpenExplorer_2}}

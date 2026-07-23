@@ -1,0 +1,9 @@
+¬import il from "../../../../_shared/variables/imageLinks"
+
+#### Editing the step markdown file
+
+The step instructions are in markdown
+You can edit the step instructions in two different ways:
+
+###### 1. Editing the step instructions
+{{::il.DA_EditStep_NewStep_3_img}}

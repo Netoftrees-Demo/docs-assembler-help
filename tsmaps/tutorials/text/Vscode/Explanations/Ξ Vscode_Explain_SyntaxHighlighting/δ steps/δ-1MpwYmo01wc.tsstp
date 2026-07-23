@@ -1,0 +1,8 @@
+### What is Syntax Highlighting?
+
+Syntax highlighting is a feature in text editors that displays different parts of a file in different colours and type styles. This makes the structure of the code or markup visually obvious at a glance.
+
+Think of it like a colour-coded map for your text. Keywords, variables, strings, comments, and other elements are each given a distinct visual treatment. This is not just for aesthetics - it dramatically improves readability, helps you spot errors instantly, and makes navigating complex files much faster.
+
+**In short:** Syntax highlighting uses colour to differentiate the parts of your file, turning a wall of monochrome text into a visually structured document that is easier to read and edit.
+

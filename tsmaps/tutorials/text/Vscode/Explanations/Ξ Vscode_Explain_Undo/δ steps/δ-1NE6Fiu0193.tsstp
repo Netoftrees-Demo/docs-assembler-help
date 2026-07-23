@@ -1,0 +1,8 @@
+### Local History: Your Safety Net Goes Even Deeper
+
+Beyond the standard Undo and Redo, VS Code also provides **Local History**. This automatically saves versions of your files as you work, even if you have not committed them to Git.
+
+If you make a change, save, and then later realise you need to go back to an earlier version, you can view the Local History timeline and restore any previous saved state - even after closing and reopening the file.
+
+This is particularly valuable for documentation authors. You might make a series of changes over an hour, save regularly, and then decide you want to revert to how things were 45 minutes ago. With Local History, you can do that easily.
+

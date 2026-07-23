@@ -1,0 +1,60 @@
+{
+    "key": "1K7dCn201ds ",
+    "token": "GithubconfipbG7X0cR",
+    "name": "GitHub_ConfigurePagesOnRepo",
+    "created": "2026-06-21T12:13:35.532Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Git/Ξ GitHub_ConfigurePagesOnRepo/GitHub_ConfigurePagesOnRepo.tsmap",
+    "iText": "Link to 'GitHub_ConfigurePagesOnRepo'",
+    "iExits": [
+        {
+            "key": "1K7g44O00GP",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___εdit___": {
+        "id": "1NEAgaf00ek",
+        "editorID": "exp_d8547675523f4b6c8ba3f3516c9a65a9",
+        "ticks": 1784826306425
+    },
+    "___rΩΩt___": {
+        "key": "1K7dMaV01NP",
+        "nodes": [
+            {
+                "key": "1KUSOls01lM",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1KhrWM301lx",
+                        "order": 1,
+                        "option": "Next",
+                        "exitKey": "1K7g44O00GP"
+                    },
+                    {
+                        "key": "1KhrcCM026B",
+                        "order": 2,
+                        "option": "Custom domain?",
+                        "isLeaf": true,
+                        "isAncillary": true,
+                        "iKey": "1K7dOEg00CP"
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1K7dMaV01NP",
+            "relativePath": "./δ steps/δ-1K7dMaV01NP.tsstp"
+        },
+        {
+            "key": "δ-1KUSOls01lM",
+            "relativePath": "./δ steps/δ-1KUSOls01lM.tsstp"
+        },
+        {
+            "key": "δ-1KhrcCM026B",
+            "relativePath": "./δ steps/δ-1KhrcCM026B.tsstp"
+        }
+    ]
+}
