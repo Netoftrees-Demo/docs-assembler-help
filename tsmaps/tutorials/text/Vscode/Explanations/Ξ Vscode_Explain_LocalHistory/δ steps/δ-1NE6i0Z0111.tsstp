@@ -1,1 +1,17 @@
-t
+### How Local History Works in Practice
+
+VS Code creates a Local History entry automatically whenever you save a file - whether by pressing `Ctrl+S` (or `Cmd+S`), through Auto Save, or when an external tool writes to the file. It will not create a duplicate snapshot if the content has not actually changed.
+
+These snapshots live in a hidden cache folder on your machine, not inside your project. This means they travel with your VS Code installation, not your Git repository. If you delete your project folder and clone it again from GitHub, the Local History for those files is gone.
+
+This leads to an important distinction:
+
+| Tool | Scope | Persistence | Best for |
+| :--- | :--- | :--- | :--- |
+| **Undo** | Current session | Until file is closed | Fixing immediate mistakes |
+| **Local History** | Saved versions | Days or weeks (configurable) | Recovering earlier drafts |
+| **Git commits** | Entire project | Permanent and shareable | Long-term history and collaboration |
+
+Local History is particularly powerful for Docs Assembler projects because your documentation spans many interconnected files - maps, variables, and markdown steps. You might edit a `.tsvar` file, save it, and see the effects ripple through your guides. If the result is not what you wanted, Local History lets you restore the variable file to its previous state without touching Git.
+
+> **Important:** Local History is local. It is not a backup system and it is not shared with your team. For anything you need to keep permanently, commit with Git.

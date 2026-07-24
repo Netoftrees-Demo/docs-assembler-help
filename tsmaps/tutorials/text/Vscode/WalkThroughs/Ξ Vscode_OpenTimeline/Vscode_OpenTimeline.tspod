@@ -1,0 +1,58 @@
+{
+    "key": "1NLOuDz01U8 ",
+    "token": "Vscodeopentimeline",
+    "name": "Vscode_OpenTimeline",
+    "created": "2026-07-24T22:45:29.779Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_OpenTimeline/Vscode_OpenTimeline.tspod",
+    "isPod": true,
+    "iText": "Link to 'Vscode_OpenTimeline'",
+    "___rΩΩt___": {
+        "key": "1NLP1Gy026Z",
+        "sharedAssetKey": "1NLP5Mw01DM",
+        "nodes": [
+            {
+                "key": "1NLP4yl01YK",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1NLPgF700se",
+                        "order": 1,
+                        "option": "TIMELINE is not visible",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "1NLQfRk00Ml",
+                        "order": 2,
+                        "isLeaf": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "1NLP5Mw01DM",
+            "relativePath": "../../../../_shared/steps/VscodeOpenExplorer.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1NLP4yl01YK",
+            "relativePath": "./δ steps/δ-1NLP4yl01YK.tsstp"
+        },
+        {
+            "key": "δ-1NLPgF700se",
+            "relativePath": "./δ steps/δ-1NLPgF700se.tsstp"
+        },
+        {
+            "key": "δ-1NLQfRk00Ml",
+            "relativePath": "./δ steps/δ-1NLQfRk00Ml.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1NLQhCa01mh",
+        "editorID": "car_0e2bfdcb34e140e4b74b96b60f6820bf",
+        "ticks": 1784933556376
+    }
+}

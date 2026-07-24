@@ -1,0 +1,7 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
+{{::il.Vscode_Timeline_img}}
+
+4. If **TIMELINE** is not expanded expand it by clicking the down angle button. *- orange ring*
+

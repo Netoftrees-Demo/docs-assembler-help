@@ -1,0 +1,52 @@
+{
+    "key": "1NKdDMY00CX ",
+    "token": "Vscodelocalhistoryaccess",
+    "name": "Vscode_LocalHistory_Access",
+    "created": "2026-07-24T19:36:03.602Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_LocalHistory_Access/Vscode_LocalHistory_Access.tspod",
+    "isPod": true,
+    "iText": "Link to 'Vscode_LocalHistory_Access'",
+    "___rΩΩt___": {
+        "key": "1NKdIM302Rr",
+        "nodes": [
+            {
+                "key": "1NKdK5d00BT",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1NLU3hj00eQ",
+                        "order": 1
+                    }
+                ]
+            },
+            {
+                "key": "1NLUBFN00Oe",
+                "order": 2,
+                "option": "Explorer?",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "1NLOuDz01U8"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1NKdIM302Rr",
+            "relativePath": "./δ steps/δ-1NKdIM302Rr.tsstp"
+        },
+        {
+            "key": "δ-1NKdK5d00BT",
+            "relativePath": "./δ steps/δ-1NKdK5d00BT.tsstp"
+        },
+        {
+            "key": "δ-1NLUBFN00Oe",
+            "relativePath": "./δ steps/δ-1NLUBFN00Oe.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1NLUNag02GF",
+        "editorID": "car_8355f790a5834e9bac74fc823904f6d9",
+        "ticks": 1784934434302
+    }
+}

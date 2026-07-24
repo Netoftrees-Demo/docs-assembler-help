@@ -1,0 +1,16 @@
+### Managing Space and Settings
+
+Because Local History stores every version of every file, it can use significant disk space. You can control this through VS Code settings.
+
+Open Settings (`Ctrl+,` / `Cmd+,`) and search for `Local History`. The most useful settings are:
+
+| Setting | What it controls | Default |
+| :--- | :--- | :--- |
+| `files.localHistory.enabled` | Turns Local History on or off | `true` |
+| `files.localHistory.maxEntries` | Maximum snapshots per file | `50` |
+| `files.localHistory.maxFileSize` | Largest file size to track (in KB) | `256` |
+| `files.localHistory.exclude` | File patterns to ignore | - |
+| `files.localHistory.delay` | Milliseconds to wait before saving a snapshot | `500` |
+
+To clean up old snapshots, open the Command Palette and run **Local History: Delete All Entries** or **Local History: Delete Entries Older Than...**
+

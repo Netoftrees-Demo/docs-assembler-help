@@ -13,7 +13,7 @@
             {
                 "key": "1MqC5lX01CV",
                 "order": 1,
-                "option": "More details?",
+                "option": "More detail?",
                 "isLeaf": true,
                 "isAncillary": true
             },
@@ -28,7 +28,7 @@
                             {
                                 "key": "1MrjUBV026x",
                                 "order": 1,
-                                "option": "Git?",
+                                "option": "Git...",
                                 "isLeaf": true,
                                 "isAncillary": true,
                                 "iKey": "1Mrjo5Z00Ik"
@@ -38,7 +38,7 @@
                     {
                         "key": "1NE6PyA02PU",
                         "order": 2,
-                        "option": "Local history?",
+                        "option": "Local history...",
                         "isLeaf": true,
                         "isAncillary": true,
                         "iKey": "1NE6dTC00Gm"
@@ -74,8 +74,8 @@
         }
     ],
     "___εdit___": {
-        "id": "1NECutY00iQ",
-        "editorID": "me_e7d3bb1e0f4642a08d8a1e980c88af17",
-        "ticks": 1784826838068
+        "id": "1NKXEGp02NY",
+        "editorID": "car_7d5bc0bfbe244499a44411d7216e6441",
+        "ticks": 1784920337123
     }
 }

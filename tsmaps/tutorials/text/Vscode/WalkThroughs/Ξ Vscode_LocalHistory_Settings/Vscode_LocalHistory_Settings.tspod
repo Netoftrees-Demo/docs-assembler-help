@@ -1,0 +1,30 @@
+{
+    "key": "1NL7E7t02A6 ",
+    "token": "Vscodelocalhistorysettings",
+    "name": "Vscode_LocalHistory_Settings",
+    "created": "2026-07-24T21:35:16.377Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_LocalHistory_Settings/Vscode_LocalHistory_Settings.tspod",
+    "isPod": true,
+    "iText": "Link to 'Vscode_LocalHistory_Settings'",
+    "___rΩΩt___": {
+        "key": "1NL7JPj00QX",
+        "nodes": [
+            {
+                "key": "1NL7KJZ018X",
+                "order": 1
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1NL7JPj00QX",
+            "relativePath": "./δ steps/δ-1NL7JPj00QX.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1NL7Mjk00eo",
+        "editorID": "car_a32eead0b86e4c3cae3c195c4457e0f7",
+        "ticks": 1784928949476
+    }
+}

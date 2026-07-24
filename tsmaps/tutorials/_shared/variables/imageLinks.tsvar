@@ -95,10 +95,6 @@
 ¬DA_EditStep_NewAncillarySolution_2_url: ../../../assets/images/DA_EditStep_NewAncillarySolution_2.png
 ¬DA_EditStep_NewAncillarySolution_2_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_NewAncillarySolution_2_url}})
 
-
-
-
-
 ¬WindowsButton_desktop_url: ../../../assets/images/WindowsButton_desktop.png
 ¬WindowsButton_desktop_img: ![Windows button]({{::WindowsButton_desktop_url}})
 
@@ -266,6 +262,9 @@
 
 ¬Vscode_OpenEditors_url: ../../../assets/images/Vscode_OpenEditors.png
 ¬Vscode_OpenEditors_img: ![Vscode - empty]({{::Vscode_OpenEditors_url}})
+
+¬Vscode_Timeline_url: ../../../assets/images/Vscode_Timeline.png
+¬Vscode_Timeline_img: ![Vscode - empty]({{::Vscode_Timeline_url}})
 
 ¬Vscode_importCompletion_url: ../../../assets/images/Vscode_importCompletion.png
 ¬Vscode_importCompletion_img: ![Vscode - empty]({{::Vscode_importCompletion_url}})

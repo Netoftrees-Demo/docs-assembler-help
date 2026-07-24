@@ -1,6 +1,2 @@
-¬import vs from "../../../../../_shared/variables/Vscode_Snippets"
+Link to 'Vscode_OpenEditors'
 
-
-1. {{::vs.Vscode_OpenExplorer_1}} *- red ring*
-
-2. {{::vs.Vscode_OpenExplorer_2}}
