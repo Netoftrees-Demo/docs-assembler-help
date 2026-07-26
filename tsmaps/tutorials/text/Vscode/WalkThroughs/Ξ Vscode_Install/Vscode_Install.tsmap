@@ -1,71 +1,76 @@
 {
-    "key": "1JWpeCs02E3 ",
+    "key": "1NWyJ4t2XH  ",
     "token": "Vscodeinstall",
     "name": "Vscode_Install",
-    "created": "2026-07-23T17:02:40.501Z",
+    "created": "2026-07-26T22:16:42.949Z",
     "list": true,
     "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_Install/Vscode_Install.tsmap",
     "iText": "Link to 'Vscode_Install'",
+    "iExits": [
+        {
+            "key": "1NX1ANm00M2",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
     "___rΩΩt___": {
-        "key": "1JXMP3t02Dh",
-        "iKey": "1JWsJzB00Aj",
+        "key": "1NWyJ4t0uz",
+        "sharedAssetKey": "1NX1XMu00Yg",
         "nodes": [
             {
-                "key": "1JXMZCd00xd",
+                "key": "1NWyJ4t0CO",
                 "order": 1,
-                "option": "Exit",
-                "iExitKey": "1JXLma501nR",
+                "sharedAssetKey": "1NX1d8O016t",
                 "nodes": [
                     {
-                        "key": "1JXMcuW00ux",
+                        "key": "1NWyJ4t2YB",
                         "order": 1,
+                        "sharedAssetKey": "1NX1hCd019a",
                         "nodes": [
                             {
-                                "key": "1KUCicR01nM",
+                                "key": "1NX0yNh01ju",
                                 "order": 1,
-                                "sharedAssetKey": "1KUDXYw0242",
-                                "nodes": [
-                                    {
-                                        "key": "1KUCp1u00Yn",
-                                        "order": 1,
-                                        "sharedAssetKey": "1KUDsS301IX",
-                                        "isLeaf": true
-                                    }
-                                ]
+                                "option": "Exit",
+                                "exitKey": "1NX1ANm00M2"
                             }
                         ]
                     }
                 ]
+            },
+            {
+                "key": "1NWyJ4t1bm",
+                "order": 2,
+                "option": "Browser?",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "1JWsJzB00Aj"
             }
         ]
     },
     "___αssεts___": [
         {
-            "key": "δ-1JXMP3t02Dh",
-            "relativePath": "./δ steps/δ-1JXMP3t02Dh.tsstp"
-        },
-        {
-            "key": "δ-1JXMZCd00xd",
-            "relativePath": "./δ steps/δ-1JXMZCd00xd.tsstp"
-        },
-        {
-            "key": "δ-1JXMcuW00ux",
-            "relativePath": "./δ steps/δ-1JXMcuW00ux.tsstp"
-        },
-        {
-            "key": "1KUDXYw0242",
-            "relativePath": "../../../../_shared/steps/InstallVscodeGit.tsstp",
+            "key": "1NX1XMu00Yg",
+            "relativePath": "../../_shared/steps/Vscode_Install_1.tsstp",
             "isShared": true
         },
         {
-            "key": "1KUDsS301IX",
-            "relativePath": "../../../../_shared/steps/VscodeCheckTheme.tsstp",
+            "key": "1NX1d8O016t",
+            "relativePath": "../../_shared/steps/Vscode_Install_2.tsstp",
             "isShared": true
+        },
+        {
+            "key": "1NX1hCd019a",
+            "relativePath": "../../_shared/steps/Vscode_Install_3.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1NWyJ4t1bm",
+            "relativePath": "./δ steps/δ-1NWukC501ce.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "1KUECRW01mN",
-        "editorID": "car_22023954f1714026b25c9eed3ef54617",
-        "ticks": 1782315166730
+        "id": "1NX1jeh01QH",
+        "editorID": "car_9323f5d24cb84ddc94655b3624dc72ac",
+        "ticks": 1785104923639
     }
 }

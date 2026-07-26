@@ -1,0 +1,56 @@
+¬import il from "../../../../_shared/variables/imageLinks"
+
+
+8. The vscode installer dialogue is displayed showing the licence agreement.
+
+9. Click the **I accept the agreement** to enable the **Next** button. *- red ring* 
+
+10. Then click the **Next** button. *- green ring* 
+
+{{::il.Vscode_InstallDialogueStart_img}}
+
+
+11. The dialogue displays the **Select Destination Location** view.
+
+12. Unless you want to install vscode somewhere other than the default location click **Next**. *- red ring* 
+
+{{::il.Vscode_InstallDialogueLocation_img}}
+
+
+13. The dialogue displays the **Select Start Menu Folder** view.
+
+14. Click **Next**. *- red ring* 
+
+{{::il.Vscode_InstallDialogueLocation_img}}
+
+
+15. The dialogue displays the **Select Additional Tasks** view.
+
+16. If they are not already selected select the following - they make opening files from File Explorer easier: *- red ring* 
+    - **Add "Open with Code" action to Windows Explorer file context menu**
+    - **Add "Open with Code" action to Windows Explorer directory context menu**
+
+17. Click **Next**. *- green ring* 
+
+{{::il.Vscode_InstallDialogueTasks_img}}
+
+18. The installation will take a couple of minutes and when finished dialogue displays the **Ready to Install** view.
+
+19. Click **Install**. *- green ring* 
+
+{{::il.Vscode_InstallDialogueSummary_img}}
+
+
+20. The installation will take a couple of minutes and when finished dialogue displays the following view.
+
+21. If the checkbox **Launch Visual Studio Code** is checked then vscode is launched when you click the **Finish** button. *- green ring* 
+
+22. Click **Finish** button. *- red ring* 
+
+{{::il.Vscode_InstallDialogueCompleted_img}}
+
+
+23. If the checkbox **Launch Visual Studio Code** was checked vscode launches. 
+
+{{::il.Vscode_FreshlyInstalled_img}}
+

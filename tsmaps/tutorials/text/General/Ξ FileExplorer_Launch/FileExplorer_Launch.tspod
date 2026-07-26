@@ -1,0 +1,47 @@
+{
+    "key": "1NVXujC00lw ",
+    "token": "Fileexplorerlaunch",
+    "name": "FileExplorer_Launch",
+    "created": "2026-07-26T16:24:00.026Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/General/Ξ FileExplorer_Launch/FileExplorer_Launch.tspod",
+    "isPod": true,
+    "iText": "Link to 'FileExplorer_Launch'",
+    "___rΩΩt___": {
+        "key": "1NVY39o029z",
+        "nodes": [
+            {
+                "key": "1NVYCtc00aj",
+                "order": 1,
+                "sharedAssetKey": "1NVYIxl01fy",
+                "nodes": [
+                    {
+                        "key": "1NVYIWw02CD",
+                        "order": 1,
+                        "isLeaf": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1NVY39o029z",
+            "relativePath": "./δ steps/δ-1NVY39o029z.tsstp"
+        },
+        {
+            "key": "1NVYIxl01fy",
+            "relativePath": "../../../_shared/steps/ShowStartMenu.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1NVYIWw02CD",
+            "relativePath": "./δ steps/δ-1NVYIWw02CD.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1NVZyDI00XV",
+        "editorID": "car_df4c480b31d8475cbfa9b90853822b62",
+        "ticks": 1785083530080
+    }
+}

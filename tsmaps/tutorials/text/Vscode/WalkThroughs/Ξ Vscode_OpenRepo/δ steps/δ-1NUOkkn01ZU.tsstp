@@ -1,0 +1,13 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
+#### From the File menu
+
+1. Click **File** in the top menu bar. *- red ring*
+
+2. Select **Open Folder...**. *- yellow ring*
+
+3. Navigate to your project folder and select it.
+
+{{::il.Vscode_OpenRepo_img}}
+

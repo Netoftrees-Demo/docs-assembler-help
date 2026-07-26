@@ -1,0 +1,18 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
+#### From the Welcome screen
+
+1. On the welcome screen, click **Open Folder...**. *- red ring*
+
+{{::il.Vscode_WelcomeOpenFolder_img}}
+
+
+2. A file dialog appears. 
+
+3. Navigate to your project folder (the one containing your `tsmaps`, `docs`, and other folders). *- red ring*
+
+4. Click **Select Folder**. *- yellow ring*
+
+{{::il.Vscode_OpenFolderDialogue_img}}
+

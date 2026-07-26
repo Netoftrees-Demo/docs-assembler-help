@@ -287,6 +287,18 @@
 ¬Vscode_varRefCompleted_url: ../../../assets/images/Vscode_varRefCompleted.png
 ¬Vscode_varRefCompleted_img: ![Vscode - empty]({{::Vscode_varRefCompleted_url}})
 
+¬Vscode_OpenRepo_url: ../../../assets/images/Vscode_OpenRepo.png
+¬Vscode_OpenRepo_img: ![Vscode - empty]({{::Vscode_OpenRepo_url}})
+
+¬Vscode_WelcomeOpenFolder_url: ../../../assets/images/Vscode_WelcomeOpenFolder.png
+¬Vscode_WelcomeOpenFolder_img: ![Vscode - empty]({{::Vscode_WelcomeOpenFolder_url}})
+
+¬Vscode_OpenFolderDialogue_url: ../../../assets/images/Vscode_OpenFolderDialogue.png
+¬Vscode_OpenFolderDialogue_img: ![Vscode - empty]({{::Vscode_OpenFolderDialogue_url}})
+
+¬Vscode_ExplorerOpenWithCode_url: ../../../assets/images/Vscode_ExplorerOpenWithCode.png
+¬Vscode_ExplorerOpenWithCode_img: ![Vscode - empty]({{::Vscode_ExplorerOpenWithCode_url}})
+
 ¬GitHub_ForkButton_url: ../../../assets/images/GitHub_ForkButton.png
 ¬GitHub_ForkButton_img: ![Vscode - empty]({{::GitHub_ForkButton_url}})
 
@@ -331,4 +343,7 @@
 
 ¬GitHub_ConfigurePages_Settings_url: ../../../assets/images/GitHub_ConfigurePages_Settings.png
 ¬GitHub_ConfigurePages_Settings_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Settings_url}})
+
+¬FileExplorer_Launch_url: ../../../assets/images/FileExplorer_Launch.png
+¬FileExplorer_Launch_img: ![Vscode - empty]({{::FileExplorer_Launch_url}})
 

@@ -1,0 +1,29 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
+1. In **Windows Explorer** navigate to your project folder (the one containing your `tsmaps`, `docs`, and other folders). *- red ring*
+
+2. Right-click the repo folder. *- yellow ring*
+
+3. The **Context Menu displays**.
+
+4. Click **Open with Code**. *- green ring*
+
+{{::il.Vscode_ExplorerOpenWithCode_img}}
+
+
+**Enabling "Open with Code" in the context menu**
+
+If you do not see **Open with Code** when you right-click a folder, you likely skipped the option during installation. The easiest way to add it is to reinstall VS Code - your settings and extensions will be preserved.
+
+You do not need to uninstall the old version first - the installer will update it in place.
+
+During installation, ensure you tick these options:
+- **Add "Open with Code" action to Windows Explorer file context menu**
+- **Add "Open with Code" action to Windows Explorer directory context menu**
+
+If you prefer not to reinstall, you can open any folder from the command line. Open your system's terminal in the project folder and type:
+```
+code .
+```
+

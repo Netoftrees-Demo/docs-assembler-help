@@ -4,7 +4,8 @@
     "name": "Browser_Launch",
     "created": "2026-06-21T12:14:32.946Z",
     "list": true,
-    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Browser/Ξ Browser_Launch/Browser_Launch.tsmap",
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Browser/Ξ Browser_Launch/Browser_Launch.tspod",
+    "isPod": true,
     "iText": "Link to 'Browser_Launch'",
     "___rΩΩt___": {
         "key": "1JWsP2E01EH",
@@ -67,8 +68,8 @@
         }
     ],
     "___εdit___": {
-        "id": "1JksfRs01ce",
-        "editorID": "car_147cb7b06c37458e86956d88d53806e8",
-        "ticks": 1781645099892
+        "id": "1NUWBXQ02Bo",
+        "editorID": "me_ce192c1aa477432faec8fa54402c15f0",
+        "ticks": 1785067851652
     }
 }

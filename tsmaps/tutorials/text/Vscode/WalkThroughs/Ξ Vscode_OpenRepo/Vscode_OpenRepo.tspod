@@ -1,0 +1,112 @@
+{
+    "key": "1NUNrwc027G ",
+    "token": "Vscodeopenrepo",
+    "name": "Vscode_OpenRepo",
+    "created": "2026-07-26T11:37:49.710Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_OpenRepo/Vscode_OpenRepo.tspod",
+    "isPod": true,
+    "iText": "Link to 'Vscode_OpenRepo'",
+    "___rΩΩt___": {
+        "key": "1NUNxW100xk",
+        "nodes": [
+            {
+                "key": "1NUOkkn01ZU",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1NUQJ5O006j",
+                        "order": 1,
+                        "isLeaf": true
+                    },
+                    {
+                        "key": "1NUX18J02MP",
+                        "order": 2,
+                        "option": "Open from Welcome screen?",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "1NUX8mP01Ie",
+                        "order": 3,
+                        "option": "Open from Windows File Explorer?",
+                        "isAncillary": true,
+                        "nodes": [
+                            {
+                                "key": "1NVaNlc01Sh",
+                                "order": 1,
+                                "nodes": [
+                                    {
+                                        "key": "1NVaQIr00ih",
+                                        "order": 1
+                                    },
+                                    {
+                                        "key": "1NVggkB00zT",
+                                        "order": 2,
+                                        "option": "Reinstall Vscode?",
+                                        "isAncillary": true
+                                    }
+                                ]
+                            },
+                            {
+                                "key": "1NVal3U0234",
+                                "order": 2,
+                                "option": "Windows File Explorer?",
+                                "isLeaf": true,
+                                "isAncillary": true,
+                                "iKey": "1NVXujC00lw"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "1NUVXyi01tG",
+                "order": 2,
+                "option": "Open vscode?",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "1JWkxJb024e"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1NUNxW100xk",
+            "relativePath": "./δ steps/δ-1NUNxW100xk.tsstp"
+        },
+        {
+            "key": "δ-1NUOkkn01ZU",
+            "relativePath": "./δ steps/δ-1NUOkkn01ZU.tsstp"
+        },
+        {
+            "key": "δ-1NUVXyi01tG",
+            "relativePath": "./δ steps/δ-1NUVXyi01tG.tsstp"
+        },
+        {
+            "key": "δ-1NUQJ5O006j",
+            "relativePath": "./δ steps/δ-1NUQJ5O006j.tsstp"
+        },
+        {
+            "key": "δ-1NUX18J02MP",
+            "relativePath": "./δ steps/δ-1NUX18J02MP.tsstp"
+        },
+        {
+            "key": "δ-1NUX8mP01Ie",
+            "relativePath": "./δ steps/δ-1NUX8mP01Ie.tsstp"
+        },
+        {
+            "key": "δ-1NVaNlc01Sh",
+            "relativePath": "./δ steps/δ-1NVaNlc01Sh.tsstp"
+        },
+        {
+            "key": "δ-1NVal3U0234",
+            "relativePath": "./δ steps/δ-1NVal3U0234.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1NVglPn020N",
+        "editorID": "car_e461011761b84098818fb38126dcdab0",
+        "ticks": 1785085149179
+    }
+}

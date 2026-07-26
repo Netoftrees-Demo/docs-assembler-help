@@ -1,0 +1,8 @@
+### Opening a Repository Folder in Vscode
+
+To work on a Docs Assembler project, you need to open the entire folder that contains it - not just individual files. VS Code calls this **opening a folder**. When you do this, the editor treats the folder as a **workspace**, which means it can index all your files, resolve imports between them, and run extensions like Docs Assembler across the entire project. The Explorer sidebar shows your whole project structure, and Docs Assembler can read your maps, variables, and steps as a connected system.
+
+You can open a folder from the welcome screen, the File menu, the Explorer context menu, or by dragging the folder onto the VS Code icon.
+
+**In short:** Always open the project folder, not a single file, so Docs Assembler can see your whole documentation system.
+
