@@ -16,7 +16,21 @@
                 "nodes": [
                     {
                         "key": "1NLU3hj00eQ",
-                        "order": 1
+                        "order": 1,
+                        "nodes": [
+                            {
+                                "key": "1NXD10y01Ws",
+                                "order": 1
+                            }
+                        ]
+                    },
+                    {
+                        "key": "1NXD99X014j",
+                        "order": 2,
+                        "option": "Open file?",
+                        "isLeaf": true,
+                        "isAncillary": true,
+                        "iKey": "1NUI2M502B3"
                     }
                 ]
             },
@@ -42,11 +56,19 @@
         {
             "key": "δ-1NLUBFN00Oe",
             "relativePath": "./δ steps/δ-1NLUBFN00Oe.tsstp"
+        },
+        {
+            "key": "δ-1NLU3hj00eQ",
+            "relativePath": "./δ steps/δ-1NLU3hj00eQ.tsstp"
+        },
+        {
+            "key": "δ-1NXD99X014j",
+            "relativePath": "./δ steps/δ-1NXD99X014j.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "1NUHhvu01yu",
-        "editorID": "car_776cb621348f439086de9db02d6fc741",
-        "ticks": 1785064401258
+        "id": "1NXDEju02GC",
+        "editorID": "car_b69679e3bf944b279dcde52b92dd1bc1",
+        "ticks": 1785107664734
     }
 }

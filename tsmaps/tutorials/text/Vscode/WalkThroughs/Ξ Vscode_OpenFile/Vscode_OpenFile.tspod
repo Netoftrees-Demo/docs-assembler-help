@@ -8,7 +8,74 @@
     "isPod": true,
     "iText": "Link to 'Vscode_OpenFile'",
     "___rΩΩt___": {
-        "key": "1NUMvCm008a"
+        "key": "1NUMvCm008a",
+        "nodes": [
+            {
+                "key": "1NX95lH00Vp",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1NX9fpg01Os",
+                        "order": 1,
+                        "option": "Search by file name?",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "1NXBkxB02PA",
+                        "order": 2,
+                        "option": "Open recently closed files?",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "1NXC62r00pm",
+                        "order": 3,
+                        "option": "Open references?",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            },
+            {
+                "key": "1NXAKHn01Kt",
+                "order": 2,
+                "option": "Project folder open?",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "1NUNrwc027G"
+            }
+        ]
     },
-    "___αssεts___": []
+    "___αssεts___": [
+        {
+            "key": "δ-1NUMvCm008a",
+            "relativePath": "./δ steps/δ-1NUMvCm008a.tsstp"
+        },
+        {
+            "key": "δ-1NX95lH00Vp",
+            "relativePath": "./δ steps/δ-1NX95lH00Vp.tsstp"
+        },
+        {
+            "key": "δ-1NX9fpg01Os",
+            "relativePath": "./δ steps/δ-1NX9fpg01Os.tsstp"
+        },
+        {
+            "key": "δ-1NXAKHn01Kt",
+            "relativePath": "./δ steps/δ-1NXAKHn01Kt.tsstp"
+        },
+        {
+            "key": "δ-1NXBkxB02PA",
+            "relativePath": "./δ steps/δ-1NXBkxB02PA.tsstp"
+        },
+        {
+            "key": "δ-1NXC62r00pm",
+            "relativePath": "./δ steps/δ-1NXC62r00pm.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1NXCZto01zu",
+        "editorID": "car_276b390dba67489db39ef2f4cfe3a22b",
+        "ticks": 1785107507744
+    }
 }

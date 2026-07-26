@@ -1,0 +1,6 @@
+#### Opening a recently closed file
+
+1. Press `Ctrl+Tab` (or `Cmd+Tab`) to cycle through your recently opened files.
+2. Alternatively, click the file name in the tab bar at the top of the editor. If you have closed the tab, it will still appear dimmed in the tab bar until you open something else - click it to reopen.
+
+> **Note:** VS Code distinguishes between opening a file in the current tab and opening it in a new tab. A single click in the Explorer opens the file in the current tab, replacing whatever was there. A double-click opens it in a new tab, keeping the previous file open. If you find your files keep disappearing when you click another, double-click instead.

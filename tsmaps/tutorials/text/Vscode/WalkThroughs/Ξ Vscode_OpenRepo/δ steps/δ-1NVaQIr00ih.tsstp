@@ -1,0 +1,7 @@
+¬TODO - open folder from command line
+
+
+Open your system's terminal in the project folder and type:
+```
+code .
+```

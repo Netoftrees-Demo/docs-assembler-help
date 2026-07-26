@@ -1,4 +1,4 @@
-**What you should see**
+#### What you should see
 
 Once the folder is open, the Explorer sidebar shows the folder name at the top, with a tree of all files and subfolders beneath it. You should see your `.tsmap`, `.tsvar`, and `.md` files listed. If Docs Assembler is installed, these files will have their own icons and syntax highlighting.
 

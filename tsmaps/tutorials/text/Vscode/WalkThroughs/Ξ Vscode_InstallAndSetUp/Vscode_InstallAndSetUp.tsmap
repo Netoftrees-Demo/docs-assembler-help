@@ -1,0 +1,49 @@
+{
+    "key": "1NWyiDF1jr  ",
+    "token": "Vscodeinstallandsetup",
+    "name": "Vscode_InstallAndSetUp",
+    "created": "2026-07-23T17:02:40.501Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_InstallAndSetUp/Vscode_InstallAndSetUp.tsmap",
+    "iText": "Link to 'Vscode_InstallAndSetUp'",
+    "___rΩΩt___": {
+        "key": "1NWyiDG24a",
+        "iKey": "1NWyJ4t2XH",
+        "nodes": [
+            {
+                "key": "1NWyiDG0Wd",
+                "order": 1,
+                "sharedAssetKey": "1KUDXYw0242",
+                "nodes": [
+                    {
+                        "key": "1NWyiDG0QF",
+                        "order": 1,
+                        "sharedAssetKey": "1KUDsS301IX",
+                        "isLeaf": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1NWyiDG24a",
+            "relativePath": "./δ steps/δ-1JXMP3t02Dh.tsstp"
+        },
+        {
+            "key": "1KUDXYw0242",
+            "relativePath": "../../../../_shared/steps/InstallVscodeGit.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "1KUDsS301IX",
+            "relativePath": "../../../../_shared/steps/VscodeCheckTheme.tsstp",
+            "isShared": true
+        }
+    ],
+    "___εdit___": {
+        "id": "1NX5H5U01Zj",
+        "editorID": "car_b69292f1b5484b64b19763a81e2297ac",
+        "ticks": 1785105767136
+    }
+}

@@ -38,13 +38,23 @@
                                 "nodes": [
                                     {
                                         "key": "1NVaQIr00ih",
-                                        "order": 1
+                                        "order": 1,
+                                        "option": "Command line open folder?",
+                                        "isAncillary": true,
+                                        "nodes": [
+                                            {
+                                                "key": "1NX7eDa00Nx",
+                                                "order": 1
+                                            }
+                                        ]
                                     },
                                     {
                                         "key": "1NVggkB00zT",
                                         "order": 2,
                                         "option": "Reinstall Vscode?",
-                                        "isAncillary": true
+                                        "isLeaf": true,
+                                        "isAncillary": true,
+                                        "iKey": "1NX1w3j02Z1"
                                     }
                                 ]
                             },
@@ -102,11 +112,19 @@
         {
             "key": "δ-1NVal3U0234",
             "relativePath": "./δ steps/δ-1NVal3U0234.tsstp"
+        },
+        {
+            "key": "δ-1NVggkB00zT",
+            "relativePath": "./δ steps/δ-1NVggkB00zT.tsstp"
+        },
+        {
+            "key": "δ-1NVaQIr00ih",
+            "relativePath": "./δ steps/δ-1NVaQIr00ih.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "1NVglPn020N",
-        "editorID": "car_e461011761b84098818fb38126dcdab0",
-        "ticks": 1785085149179
+        "id": "1NX7hrN008j",
+        "editorID": "car_3f83d00b73a3445f9360347427a429ae",
+        "ticks": 1785106346705
     }
 }

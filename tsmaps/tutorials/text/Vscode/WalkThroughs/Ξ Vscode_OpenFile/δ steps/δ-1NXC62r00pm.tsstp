@@ -1,0 +1,8 @@
+#### From a reference in another file
+
+When you are editing a Docs Assembler file, you can jump directly to a referenced file:
+
+- **Variable references** - Hold `Ctrl` (or `Cmd`) and click any `¬{{::alias.variable}}` reference. VS Code opens the variable file at the exact line where that variable is defined.
+- **Import paths** - Hold `Ctrl` (or `Cmd`) and click the file path in any `¬import` statement. VS Code opens that file immediately.
+- **Go to Definition** - Right-click any variable reference or import path and select **Go to Definition**.
+

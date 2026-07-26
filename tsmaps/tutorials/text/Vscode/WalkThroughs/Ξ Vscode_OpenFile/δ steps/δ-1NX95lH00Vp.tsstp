@@ -1,0 +1,13 @@
+#### From the Explorer sidebar
+
+¬TODO - add images etc
+
+1. Click the **Explorer** icon in the left sidebar (or press `Ctrl+Shift+E` / `Cmd+Shift+E`).
+
+2. Navigate through your folder tree to the file you want.
+
+3. Click the file name. It opens in the editor pane to the right.
+
+If the file is a `.tsmap`, `.tsvar`, or `.md` file, Docs Assembler will activate its syntax highlighting and IntelliSense automatically.
+
+

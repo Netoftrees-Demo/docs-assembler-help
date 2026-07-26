@@ -22,8 +22,4 @@ During installation, ensure you tick these options:
 - **Add "Open with Code" action to Windows Explorer file context menu**
 - **Add "Open with Code" action to Windows Explorer directory context menu**
 
-If you prefer not to reinstall, you can open any folder from the command line. Open your system's terminal in the project folder and type:
-```
-code .
-```
-
+If you prefer not to reinstall, you can open any folder from the command line. 

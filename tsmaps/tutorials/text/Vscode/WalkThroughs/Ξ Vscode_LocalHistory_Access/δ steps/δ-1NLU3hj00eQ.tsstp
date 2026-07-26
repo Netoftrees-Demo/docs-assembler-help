@@ -1,0 +1,26 @@
+
+TODO - context menu
+        - options in menu describe each one with 
+        each one should have its own shared step with an image
+        each one should flow into the next for this help 
+    - Local History Settings
+
+2. In the left sidebar, click the **Explorer** icon (or press `Ctrl+Shift+E` / `Cmd+Shift+E`).
+3. At the bottom of the Explorer pane, find the **Timeline** section and expand it.
+4. You will see two groups:
+   - **Git History** - commits from your repository (if you use Git).
+   - **Local History** - snapshots with a clock icon and a timestamp.
+
+Click any Local History entry to preview its contents in a read-only tab.
+
+
+### Working with a Snapshot
+
+Hover over any entry in the Timeline to reveal three icons:
+
+- **Compare with Current** (blue diff icon) - Opens a side-by-side comparison. Red lines show removed content; green lines show added content.
+- **Restore Contents** (circular arrow icon) - Overwrites your current file with the snapshot. Be careful - this discards your current unsaved changes.
+- **Delete** (trash can icon) - Permanently removes that snapshot.
+
+You can also click an entry directly to preview it without restoring.
+
