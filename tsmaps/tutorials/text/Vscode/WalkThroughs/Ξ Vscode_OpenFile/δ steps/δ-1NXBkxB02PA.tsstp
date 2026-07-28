@@ -1,5 +1,7 @@
 #### Opening a recently closed file
 
+¬TODO - add images etc
+
 1. Press `Ctrl+Tab` (or `Cmd+Tab`) to cycle through your recently opened files.
 2. Alternatively, click the file name in the tab bar at the top of the editor. If you have closed the tab, it will still appear dimmed in the tab bar until you open something else - click it to reopen.
 

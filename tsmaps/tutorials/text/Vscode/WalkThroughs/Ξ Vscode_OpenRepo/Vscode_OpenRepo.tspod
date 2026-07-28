@@ -43,8 +43,17 @@
                                         "isAncillary": true,
                                         "nodes": [
                                             {
+                                                "key": "1NihnaH011l",
+                                                "order": 1,
+                                                "isLeaf": true
+                                            },
+                                            {
                                                 "key": "1NX7eDa00Nx",
-                                                "order": 1
+                                                "order": 2,
+                                                "option": "Windows Explorer?",
+                                                "isLeaf": true,
+                                                "isAncillary": true,
+                                                "iKey": "1NVXujC00lw"
                                             }
                                         ]
                                     },
@@ -120,11 +129,19 @@
         {
             "key": "δ-1NVaQIr00ih",
             "relativePath": "./δ steps/δ-1NVaQIr00ih.tsstp"
+        },
+        {
+            "key": "δ-1NX7eDa00Nx",
+            "relativePath": "./δ steps/δ-1NX7eDa00Nx.tsstp"
+        },
+        {
+            "key": "δ-1NihnaH011l",
+            "relativePath": "./δ steps/δ-1NihnaH011l.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "1NX7hrN008j",
-        "editorID": "car_3f83d00b73a3445f9360347427a429ae",
-        "ticks": 1785106346705
+        "id": "1Nil78K012o",
+        "editorID": "car_0848ef84de59403c971e6cf4780dc87a",
+        "ticks": 1785278278345
     }
 }

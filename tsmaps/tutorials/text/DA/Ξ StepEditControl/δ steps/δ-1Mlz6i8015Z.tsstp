@@ -1,6 +1,6 @@
-Quick edit - **map editor** and the **lens**:
- - no undo or redo
- - less tab clutter
+More control - **vscode markdown editor**:
+    - intellisense
+    - markdown syntax highlighting
+    - undo and redo
 
- ¬TODO - explain what these two mean!!!
- 
+¬TODO - explain what these three mean!!!

@@ -1,7 +1,4 @@
-¬TODO - open folder from command line
+#### From Windows Explorer and command line
 
+1. Open Windows **File Explorer**
 
-Open your system's terminal in the project folder and type:
-```
-code .
-```
