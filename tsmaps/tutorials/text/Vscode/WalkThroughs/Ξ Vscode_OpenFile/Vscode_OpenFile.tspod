@@ -11,39 +11,67 @@
         "key": "1NUMvCm008a",
         "nodes": [
             {
-                "key": "1NX95lH00Vp",
+                "key": "1NXAKHn01Kt",
                 "order": 1,
+                "option": "Open project folder?",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "1NUNrwc027G"
+            },
+            {
+                "key": "1NuGJF901ac",
+                "order": 2,
                 "nodes": [
                     {
-                        "key": "1NX9fpg01Os",
+                        "key": "1NuHGUc02Am",
                         "order": 1,
-                        "option": "Search by file name?",
-                        "isLeaf": true,
-                        "isAncillary": true
+                        "nodes": [
+                            {
+                                "key": "1NX95lH00Vp",
+                                "order": 1,
+                                "nodes": [
+                                    {
+                                        "key": "1NX9fpg01Os",
+                                        "order": 1,
+                                        "option": "Search by file name?",
+                                        "isLeaf": true,
+                                        "isAncillary": true
+                                    },
+                                    {
+                                        "key": "1NXBkxB02PA",
+                                        "order": 2,
+                                        "option": "Open recently closed files?",
+                                        "isLeaf": true,
+                                        "isAncillary": true
+                                    },
+                                    {
+                                        "key": "1NXC62r00pm",
+                                        "order": 3,
+                                        "option": "Open references?",
+                                        "isLeaf": true,
+                                        "isAncillary": true
+                                    }
+                                ]
+                            },
+                            {
+                                "key": "1NuHWaq00sh",
+                                "order": 2,
+                                "option": "Navigating Explorer?",
+                                "isLeaf": true,
+                                "isAncillary": true,
+                                "iKey": "1NuHdBb0060"
+                            }
+                        ]
                     },
                     {
-                        "key": "1NXBkxB02PA",
+                        "key": "1NuGiZn02Xt",
                         "order": 2,
-                        "option": "Open recently closed files?",
-                        "isLeaf": true,
-                        "isAncillary": true
-                    },
-                    {
-                        "key": "1NXC62r00pm",
-                        "order": 3,
-                        "option": "Open references?",
+                        "option": "Explorer?",
+                        "sharedAssetKey": "1NuIb2c003g",
                         "isLeaf": true,
                         "isAncillary": true
                     }
                 ]
-            },
-            {
-                "key": "1NXAKHn01Kt",
-                "order": 2,
-                "option": "Project folder open?",
-                "isLeaf": true,
-                "isAncillary": true,
-                "iKey": "1NUNrwc027G"
             }
         ]
     },
@@ -71,11 +99,28 @@
         {
             "key": "δ-1NXC62r00pm",
             "relativePath": "./δ steps/δ-1NXC62r00pm.tsstp"
+        },
+        {
+            "key": "δ-1NuGJF901ac",
+            "relativePath": "./δ steps/δ-1NuGJF901ac.tsstp"
+        },
+        {
+            "key": "1NuIb2c003g",
+            "relativePath": "../../../../_shared/steps/VscodeOpenExplorer.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1NuHGUc02Am",
+            "relativePath": "./δ steps/δ-1NuHGUc02Am.tsstp"
+        },
+        {
+            "key": "δ-1NuHWaq00sh",
+            "relativePath": "./δ steps/δ-1NuHWaq00sh.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "1NXCZto01zu",
-        "editorID": "car_276b390dba67489db39ef2f4cfe3a22b",
-        "ticks": 1785107507744
+        "id": "1NuKOJV02YE",
+        "editorID": "car_e744d27074c541fe8e1e2a4a17e0be49",
+        "ticks": 1785449225561
     }
 }

@@ -70,3 +70,8 @@ Other important unique features:
 - All content lives in your Git repositories. You control them completely. There are no subscriptions.
 - You publish your maps into guides. These are standard markdown files. If you uninstall the extension you can continue editing you guides with a markdown editor. There is no lock-in.
 - Guides can be hosted for free on GitHub Pages, or any static hosting you choose. And you can use other people's guides in buidling yours.
+
+## WORKING ON...
+ - EditingStepInstructions.tsmap
+    - Vscode_OpenFile.tspod
+

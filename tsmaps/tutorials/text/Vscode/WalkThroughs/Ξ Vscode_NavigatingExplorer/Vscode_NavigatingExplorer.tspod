@@ -1,0 +1,30 @@
+{
+    "key": "1NuHdBb0060 ",
+    "token": "Vscodenavigatingexplorer",
+    "name": "Vscode_NavigatingExplorer",
+    "created": "2026-07-30T21:56:07.747Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_NavigatingExplorer/Vscode_NavigatingExplorer.tspod",
+    "isPod": true,
+    "iText": "Link to 'Vscode_NavigatingExplorer'",
+    "___rΩΩt___": {
+        "key": "1NuHh0q014I",
+        "nodes": [
+            {
+                "key": "1NuHhur016H",
+                "order": 1
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1NuHh0q014I",
+            "relativePath": "./δ steps/δ-1NuHh0q014I.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1NuHjhi01Fu",
+        "editorID": "car_6e0b0ad0cedc40da8a51329351b8a96f",
+        "ticks": 1785448592802
+    }
+}

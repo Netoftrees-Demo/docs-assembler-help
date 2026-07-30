@@ -1,0 +1,30 @@
+{
+    "key": "1NuLZEy00u6 ",
+    "token": "Editingstepjsonfile",
+    "name": "EditingStepJsonFile",
+    "created": "2026-07-30T22:11:45.892Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/DA/Ξ EditingStepJsonFile/EditingStepJsonFile.tspod",
+    "isPod": true,
+    "iText": "Link to 'EditingStepJsonFile'",
+    "___rΩΩt___": {
+        "key": "1NuLdPr02NW",
+        "nodes": [
+            {
+                "key": "1NuLe4d02Y7",
+                "order": 1
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1NuLdPr02NW",
+            "relativePath": "./δ steps/δ-1NuLdPr02NW.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1NuLfN600PI",
+        "editorID": "car_67b2bfad73d24db59369bbd3fdd4f267",
+        "ticks": 1785449529460
+    }
+}

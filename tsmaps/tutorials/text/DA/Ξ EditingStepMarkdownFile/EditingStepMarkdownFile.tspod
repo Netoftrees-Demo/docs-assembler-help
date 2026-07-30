@@ -1,0 +1,30 @@
+{
+    "key": "1NuKx8e02XQ ",
+    "token": "Editingstepmarkdownfile",
+    "name": "EditingStepMarkdownFile",
+    "created": "2026-07-30T22:09:19.428Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/DA/Ξ EditingStepMarkdownFile/EditingStepMarkdownFile.tspod",
+    "isPod": true,
+    "iText": "Link to 'EditingStepMarkdownFile'",
+    "___rΩΩt___": {
+        "key": "1NuL5d801EZ",
+        "nodes": [
+            {
+                "key": "1NuL6OR00nJ",
+                "order": 1
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1NuL5d801EZ",
+            "relativePath": "./δ steps/δ-1NuL5d801EZ.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1NuL8Bw01kB",
+        "editorID": "car_4a5e529d7df34f27906b94730b26dc2c",
+        "ticks": 1785449401916
+    }
+}

@@ -1,6 +1,8 @@
 ¬import vs from "../variables/Vscode_Snippets"
 
 
+### Open Vscode Explorer
+
 1. {{::vs.Vscode_OpenExplorer_1}} *- red ring*
 
 2. {{::vs.Vscode_OpenExplorer_2}}

@@ -1,4 +1,9 @@
 ## Opening a File in VS Code
 
-Once you have opened your Docs Assembler project folder in VS Code, you will spend most of your time opening and editing individual files - maps, steps and variable files. You can open a file by clicking it in the **Explorer** sidebar, by searching for it by name or by its contents, or by jumping to it from a reference elsewhere in your project.
+You can open a file by:
+ - Clicking it in the vscode **Explorer** sidebar
+ - Searching for it by name or by its contents
+ - Jumping to it from a reference elsewhere in a project.
+
+1. To open a file in Docs Assembler you must have the project that has the file open in vscode.
 
