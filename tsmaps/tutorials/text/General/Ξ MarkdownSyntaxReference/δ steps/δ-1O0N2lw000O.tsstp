@@ -1,0 +1,234 @@
+#### Headings
+
+Use `#` symbols to create headings. One `#` is a top-level heading, six `######` is the smallest.
+
+```markdown
+# Installation Guide
+## System Requirements
+### Windows
+### macOS
+## Configuration
+#### Network Settings
+```
+
+
+#### Text Styling
+
+| Style | Syntax | Example |
+|-------|--------|---------|
+| Bold | `**text**` or `__text__` | **bold text** |
+| Italic | `*text*` or `_text_` | *italic text* |
+| Bold and italic | `***text***` | ***bold and italic*** |
+| Strikethrough | `~~text~~` | ~~strikethrough text~~ |
+
+**Note:** GFM ignores underscores within words (e.g., `wow_great_stuff` renders without becoming italic), so you can safely use underscores in variable names and code.
+
+
+#### Lists
+
+**Unordered lists** (use `-`, `*`, or `+`):
+
+```markdown
+- First item
+- Second item
+  - Indented sub-item
+  - Another sub-item
+- Third item
+```
+
+**Ordered lists** (use numbers followed by a period):
+
+```markdown
+1. Open the application
+2. Select the settings menu
+3. Click Save
+    1. Confirm the changes
+    2. Restart if prompted
+4. Verify the update
+```
+
+
+#### Links
+
+**Inline links:**
+
+```markdown
+[Docs Assembler documentation](https://netoftrees.com)
+```
+
+**Automatic links:** GFM automatically converts URLs into clickable links.
+
+```markdown
+https://netoftrees.com
+```
+
+
+#### Images
+
+```markdown
+![Alt text describing the image](./assets/screenshot.png)
+```
+
+> **Tip:** In Docs Assembler, image paths are often stored as variables rather than hard-coded strings. This lets the system track and resolve the path correctly when files are moved, copied, or published. See [Variables and Imports] for details.
+
+
+#### Blockquotes
+
+Use `>` to create quoted text.
+
+```markdown
+> Important: Save your changes before proceeding.
+>
+> This applies to all users.
+```
+
+
+#### Code
+
+**Inline code:** Use backticks for code or commands within a sentence.
+
+```markdown
+Press `Ctrl+S` to save the file.
+```
+
+**Fenced code blocks:** Use three backticks ` ``` ` to create a code block. Unlike standard Markdown, you don't need to indent by four spaces.
+
+````markdown
+```
+npm install
+npm run build
+```
+````
+
+**Syntax highlighting:** Add a language identifier after the opening backticks.
+
+````markdown
+```json
+{
+  "name": "example",
+  "version": "1.0.0"
+}
+```
+````
+
+
+##### Common language identifiers
+
+**Docs Assembler / Web:** `markdown`, `html`, `css`, `javascript`, `js`, `json`, `jsonc`, `typescript`, `ts`, `yaml`, `xml`
+
+**Shell / Ops:** `bash`, `shell`, `powershell`, `ps1`, `dockerfile`, `ini`
+
+**Data:** `csv`, `sql`, `regex`
+
+**General:** `python`, `java`, `csharp`, `cpp`, `rust`, `go`, `ruby`, `php`
+
+*Tip: If unsure, `text` is always safe and will not apply any highlighting.*
+
+
+#### Tables
+
+Create tables using pipes (`|`) and hyphens (`-`).
+
+```markdown
+| Feature | Description | Status |
+|---------|-------------|--------|
+| Import | Load external files | ✅ Complete |
+| Export | Generate output | 🚧 In progress |
+| Validate | Check for errors | ✅ Complete |
+```
+
+**Column alignment:**
+
+| Alignment | Syntax |
+|-----------|--------|
+| Left | `:---` |
+| Center | `:---:` |
+| Right | `---:` |
+
+```markdown
+| Left | Center | Right |
+|:-----|:------:|------:|
+| Text | Text   | Text  |
+```
+
+##### Advanced table tips & troubleshooting
+
+**Line breaks inside a cell:** Use `<br>` HTML:
+
+```markdown
+| Step | Action |
+|------|--------|
+| 1 | Open the menu<br>Click Settings |
+```
+
+**Merged cells:** GFM does not support `colspan` or `rowspan` in pure Markdown. Use raw HTML if you need merged cells.
+
+**Table not rendering?** Common causes:
+- Missing blank line before the table
+- Inconsistent column counts across rows
+- Missing leading or trailing pipes on some rows
+
+
+#### Task Lists
+
+Create interactive checklists using `- [ ]` for incomplete items and `- [x]` for completed items.
+
+```markdown
+- [x] Install the extension
+- [ ] Configure the settings
+- [ ] Test the publish workflow
+- [ ] Review the output
+```
+
+
+#### Horizontal Rules
+
+Use three or more hyphens, asterisks, or underscores on a new line.
+
+```markdown
+---
+```
+
+
+#### Escaping Special Characters
+
+Use a backslash (`\`) to display literal characters that would otherwise be interpreted as Markdown syntax or Docs Assembler directives.
+
+```markdown
+\*This is not italic\*
+\_This is not italic either\_
+\# This is not a heading
+```
+
+This is essential when writing documentation *about* Docs Assembler syntax. For example, if you want to show the literal text `¬{{::il.logo_image}}` or `¬import` without triggering variable resolution or import processing, escaping ensures the characters appear exactly as typed.
+
+##### Full list of escapable characters
+
+| Character | Name |
+|-----------|------|
+| `\` | backslash |
+| `` ` `` | backtick |
+| `*` | asterisk |
+| `_` | underscore |
+| `{ }` | curly braces |
+| `[ ]` | square brackets |
+| `< >` | angle brackets |
+| `( )` | parentheses |
+| `#` | hash |
+| `+` | plus |
+| `-` | minus / hyphen |
+| `.` | dot |
+| `!` | exclamation mark |
+| `|` | pipe |
+
+
+#### Raw HTML
+
+GFM allows inline HTML when you need markup that Markdown syntax cannot express — for example, complex table layouts or image attributes like `width`.
+
+```markdown
+<img src="./assets/diagram.png" width="400" alt="System diagram">
+```
+
+Use this sparingly; standard Markdown is preferred for portability.
+

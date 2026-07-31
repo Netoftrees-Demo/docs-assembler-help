@@ -1,0 +1,6 @@
+#### The safety net
+
+If you reference a variable that does not exist - `¬{{::il.variable_does_not_exist}}`, for example - the system flags it immediately with a red-squiggly diagnostic warning. This real-time feedback prevents you from publishing broken documentation.
+
+This simple example shows how Docs Assembler applies software engineering principles to documentation, keeping your content accurate and your builds robust.
+

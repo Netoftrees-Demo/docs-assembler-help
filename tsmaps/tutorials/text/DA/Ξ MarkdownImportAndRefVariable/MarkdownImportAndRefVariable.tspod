@@ -1,0 +1,60 @@
+{
+    "key": "1Nys9zK013o ",
+    "token": "Markdownimportandrefvariable",
+    "name": "MarkdownImportAndRefVariable",
+    "created": "2026-07-31T16:46:18.990Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/DA/Ξ MarkdownImportAndRefVariable/MarkdownImportAndRefVariable.tspod",
+    "isPod": true,
+    "iText": "Link to 'MarkdownImportAndRefVariable'",
+    "___rΩΩt___": {
+        "key": "1NysjS802UK",
+        "nodes": [
+            {
+                "key": "1NysGlt0228",
+                "order": 1,
+                "option": "Root",
+                "sharedAssetKey": "1NysICz02JI",
+                "nodes": [
+                    {
+                        "key": "1NysHs3025t",
+                        "order": 1,
+                        "sharedAssetKey": "1NysLYs02TO",
+                        "nodes": [
+                            {
+                                "key": "1NysL3F02He",
+                                "order": 1,
+                                "isLeaf": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "1NysICz02JI",
+            "relativePath": "../../../_shared/steps/MarkdownImportVariableFile.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "1NysLYs02TO",
+            "relativePath": "../../../_shared/steps/MarkdownRefVariableIDefVariableFile.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1NysL3F02He",
+            "relativePath": "./δ steps/δ-1NysL3F02He.tsstp"
+        },
+        {
+            "key": "δ-1NysjS802UK",
+            "relativePath": "./δ steps/δ-1NysjS802UK.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1NyslLk01sg",
+        "editorID": "car_a2e23452b4f443bdbb1415dd1d6257ea",
+        "ticks": 1785516522608
+    }
+}

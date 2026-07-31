@@ -1,0 +1,8 @@
+### GitHub Flavoured Markdown (GFM)
+
+GitHub Flavoured Markdown (GFM) is the dialect of Markdown used across GitHub. It extends standard Markdown with additional features commonly used in documentation.
+
+Docs Assembler's `.tsstp` and `.tsvar` files are Markdown files. `.tsstp` files contain step-by-step guide content; `.tsvar` files hold reusable variable definitions. You write them using the standard VS Code Markdown editor, which supports all GFM syntax.
+
+> **Note:** Docs Assembler extends GFM with its own directives — such as `¬import` statements and variable definitions — which you write directly in these files alongside standard Markdown. This guide covers the GFM foundation only; see the [Variables and Imports] section for Docs Assembler-specific syntax.
+

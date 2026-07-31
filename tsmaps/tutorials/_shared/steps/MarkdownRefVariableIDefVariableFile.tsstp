@@ -1,0 +1,29 @@
+¬import li from "../variables/imageLinks"
+
+
+#### Referencing a variable
+
+10. Anywhere in your text, type `{{::`. IntelliSense recognises this as the start of a variable reference and displays a dropdown of import aliases defined at the top of the file. 
+
+11. Select `il`. *- yellow ring*
+
+{{::li.Vscode_importCompleted_img}}
+
+
+12. The text becomes `{{::il.` and the dropdown now shows every variable in `imageLinks.tsvar`.
+
+13. Type `lo` to filter the list. *- red ring*
+
+14. Select `logo_image`. *- yellow ring*
+
+{{::li.Vscode_importCompleted_img}}
+
+
+The complete reference is inserted automatically:
+
+   ```
+   ¬{{::il.logo_image}}
+   ```
+
+{{::li.Vscode_varRefCompleted_img}}
+

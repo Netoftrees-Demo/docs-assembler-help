@@ -1,0 +1,61 @@
+¬import li from "../variables/imageLinks"
+
+
+#### Importing the variable file
+
+In this example: 
+ - Import a variable file called `imageLinks.tsvar` 
+ - Reference a variable defined in that file called `logo_image`. 
+ 
+ This variable contains the markdown for an image - but the same workflow applies whether the text is a paragraph, a disclaimer, or any other reusable content.
+
+1. On the first line of your step file, type `¬`. *- red ring*
+
+2. If the line is empty, a dropdown appears listing your options. Select `import`. *- yellow ring*
+
+{{::li.Vscode_importCompletion_img}}
+
+
+3. Type an alias for the file - `il` in this case, though any shorthand works. *- red ring*
+
+4. The line now reads:
+
+   ```
+   ¬import il
+   ```
+
+5. Type a space. The dropdown reappears with options including `from`. Select it. *- yellow ring*
+
+6. The line becomes:
+
+   ```
+   ¬import il from "
+   ```
+
+{{::li.Vscode_fromCompletion_img}}
+
+
+7. Type a path prefix to navigate:
+   - `../` to go to the parent folder
+   - `./` to look in the current folder
+   - `folderName/` to open a specific folder. *- red ring*
+
+8. The dropdown shows the files and folders at that location. Select one, or type `../` again to go up another level. *- yellow ring*
+
+{{::li.Vscode_foldersCompletion_img}}
+
+
+9. Repeat until you reach the file, then select it. The completed import line might look like this:
+
+   ```
+   ¬import il from "../../../../_shared/variables/imageLinks"
+   ```
+
+{{::li.Vscode_imageLinksCompletion_img}}
+
+{{::li.Vscode_importCompleted_img}}
+
+
+> **Note:** Leave two blank lines after import statements before you start the body text.
+
+

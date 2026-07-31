@@ -1,0 +1,10 @@
+### Writing in VS Code
+
+When editing `.tsstp` or `.tsvar` files in VS Code, you get:
+
+- **Syntax highlighting** - colours for headings, lists, code blocks, and other Markdown elements
+- **Live preview** - open the Markdown preview pane (`Ctrl+Shift+V` / `Cmd+Shift+V`) to see how your content will render
+- **IntelliSense** - autocomplete for Markdown syntax and Docs Assembler - specific features such as import paths and variable references. See [How IntelliSense Works in Practice] for a walkthrough.
+
+The editor treats these files as standard Markdown, so all GFM features work exactly as they would in any other Markdown file.
+

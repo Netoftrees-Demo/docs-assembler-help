@@ -95,6 +95,9 @@
 ¬DA_EditStep_NewAncillarySolution_2_url: ../../../assets/images/DA_EditStep_NewAncillarySolution_2.png
 ¬DA_EditStep_NewAncillarySolution_2_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_NewAncillarySolution_2_url}})
 
+¬DA_ExampleMarkdownFile_url: ../../../assets/images/DA_ExampleMarkdownFile.png
+¬DA_ExampleMarkdownFile_img: ![Install Docs Assembler dialogue in vscode]({{::DA_ExampleMarkdownFile_url}})
+
 ¬WindowsButton_desktop_url: ../../../assets/images/WindowsButton_desktop.png
 ¬WindowsButton_desktop_img: ![Windows button]({{::WindowsButton_desktop_url}})
 

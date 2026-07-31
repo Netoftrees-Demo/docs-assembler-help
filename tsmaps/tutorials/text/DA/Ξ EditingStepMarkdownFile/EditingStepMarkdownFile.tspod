@@ -11,8 +11,20 @@
         "key": "1NuL5d801EZ",
         "nodes": [
             {
-                "key": "1NuL6OR00nJ",
-                "order": 1
+                "key": "1NyuV4H01Z0",
+                "order": 1,
+                "option": "Markdown Syntax Reference?",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "1O0MxGA02Kl"
+            },
+            {
+                "key": "1O0UE9801IW",
+                "order": 2,
+                "option": "Referencing a variable?",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "1Nys9zK013o"
             }
         ]
     },
@@ -20,11 +32,19 @@
         {
             "key": "δ-1NuL5d801EZ",
             "relativePath": "./δ steps/δ-1NuL5d801EZ.tsstp"
+        },
+        {
+            "key": "δ-1NyuV4H01Z0",
+            "relativePath": "./δ steps/δ-1NyuV4H01Z0.tsstp"
+        },
+        {
+            "key": "δ-1O0UE9801IW",
+            "relativePath": "./δ steps/δ-1O0UE9801IW.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "1NuL8Bw01kB",
-        "editorID": "car_4a5e529d7df34f27906b94730b26dc2c",
-        "ticks": 1785449401916
+        "id": "1O0UNoH00mi",
+        "editorID": "car_193830ff643748b0aa3f26cc3ca0bea6",
+        "ticks": 1785540264921
     }
 }

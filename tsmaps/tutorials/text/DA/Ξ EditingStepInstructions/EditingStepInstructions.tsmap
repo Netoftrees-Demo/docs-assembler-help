@@ -16,7 +16,7 @@
                     {
                         "key": "1MlXf8400Wn",
                         "order": 1,
-                        "option": "You know the file name - open the markdown file directly",
+                        "option": "You know the file name - open the file directly",
                         "nodes": [
                             {
                                 "key": "1No5A2O01iU",
@@ -53,7 +53,7 @@
                     {
                         "key": "1Mm03pf01Oc",
                         "order": 2,
-                        "option": "You know which map contains the step - open the map and navigate to the file from there",
+                        "option": "You know which map contains the step - open the map",
                         "nodes": [
                             {
                                 "key": "1MYz8WK023o",
@@ -164,8 +164,8 @@
         }
     ],
     "___εdit___": {
-        "id": "1NuLjLD017a",
-        "editorID": "car_06f99ee3caea411584a3ac4a0b2e79ad",
-        "ticks": 1785449544719
+        "id": "1NzdkWV00JZ",
+        "editorID": "car_c565a2310af24d92b4bf77fe30f9aabf",
+        "ticks": 1785527720847
     }
 }

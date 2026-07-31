@@ -1,0 +1,45 @@
+{
+    "key": "1O0MxGA02Kl ",
+    "token": "Markdownsyntaxreference",
+    "name": "MarkdownSyntaxReference",
+    "created": "2026-07-31T22:54:54.566Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/General/Ξ MarkdownSyntaxReference/MarkdownSyntaxReference.tspod",
+    "isPod": true,
+    "iText": "Link to 'MarkdownSyntaxReference'",
+    "___rΩΩt___": {
+        "key": "1O0N1vl00BC",
+        "nodes": [
+            {
+                "key": "1O0N2lw000O",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1O0NXMc012b",
+                        "order": 1,
+                        "isLeaf": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1O0N1vl00BC",
+            "relativePath": "./δ steps/δ-1O0N1vl00BC.tsstp"
+        },
+        {
+            "key": "δ-1O0N2lw000O",
+            "relativePath": "./δ steps/δ-1O0N2lw000O.tsstp"
+        },
+        {
+            "key": "δ-1O0NXMc012b",
+            "relativePath": "./δ steps/δ-1O0NXMc012b.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1O0ONVC01TE",
+        "editorID": "car_56dca50b6ddc4627b6268f36b99f7f5e",
+        "ticks": 1785538833770
+    }
+}

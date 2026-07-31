@@ -1,6 +1,11 @@
-¬TODO - need to link to a map that explains how to edit a step file
- - Markdown
-     - Maybe notes on markdown? Explaining what you can do with GitHub flavoured markdown
-     - How to write a heading etc
- - How to reference a variable from a varible file
+¬import il from "../../../../_shared/variables/imageLinks"
+
+
+2. The step file opens in its vscode editor. *- green outline box*
+
+There are 2 types of step file:
+ - Markdown step files (.tsstp) - open in the Markdown editor for writing text. 
+ - Json step files (.tsjsn) - open in the JSON editor for configuring specialised steps, e.g. video step.
+
+{{::il.DA_ExampleMarkdownFile_img}}
 
