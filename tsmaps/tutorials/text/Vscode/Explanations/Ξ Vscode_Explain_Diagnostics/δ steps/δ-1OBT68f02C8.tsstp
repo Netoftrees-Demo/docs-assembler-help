@@ -1,0 +1,23 @@
+#### Diagnostics in Docs Assembler
+
+Diagnostics are vscode's way of alerting you to problems in your files as you type. They appear as coloured underlines - red for errors and yellow for warnings - and are also listed in the **Problems** panel.
+
+Docs Assembler uses diagnostics to validate your documentation structure in real time.
+
+
+#### What Gets Checked
+
+- **Import statements:** Checks that the statement syntax is correct, the file path exists, and the imported file is free of errors.
+- **Variable references:** Verifies that the alias matches a valid import statement and that the variable exists in the imported file.
+- **Variable definitions:** Checks that the syntax is correct. 
+- **File references:** If a variable defines a relative URL - such as image paths like `../../../assets/images/screenshot.png` - diagnostics validate that the target file exists, and additionally will ensure the file is published when the referencing step is published.
+
+
+#### How They Appear
+
+Problems are shown in two places:
+
+1. **Inline in the editor** - a coloured squiggle under the problematic text. Hover over it to see a description of the issue. 
+
+2. **The Problems panel** - a dedicated view listing all errors and warnings across your project, with file names and line numbers for easy navigation.
+

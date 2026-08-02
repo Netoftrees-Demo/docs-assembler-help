@@ -1,2 +1,8 @@
-¬TODO
+### What is Diagnostics?
+
+Diagnostics are real-time warnings and errors that appear in vscode as you edit. They highlight problems like missing files, broken references, or syntax errors - before you publish.
+
+In Docs Assembler, diagnostics flag issues with imports, variable references, and file paths. A coloured squiggly line under a problem lets you fix it immediately, preventing broken documentation from reaching your readers.
+
+**In short:** Real-time error checking that catches problems before publish.
 

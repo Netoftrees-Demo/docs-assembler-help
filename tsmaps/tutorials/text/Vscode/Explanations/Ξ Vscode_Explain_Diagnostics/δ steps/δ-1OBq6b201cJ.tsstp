@@ -1,0 +1,23 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
+#### Example
+
+If you reference a variable that doesn't exist:
+
+```text
+¬{{::il.goToVariableDefinition_image_XX}}
+```
+
+Docs Assembler immediately flags it with a red squiggle. *- orange ring*
+ - **Explorer** also flags the file as having errors. *- green rectangle*
+    - And all the containing folders. *- yellow rectangle*
+ - The editor tab also flags the file as having errors. *- mauve rectangle*
+
+Hovering over the problem text in the editor shows: 
+*Cannot find variable 'goToVariableDefinition_image_XX' in file 'c:/GitHub/docs-assembler-demo/tsmaps/shared/imageLinks.tsvar'. (AD:322)(AD:322)*. *- blue rectangle*
+
+This prevents you from publishing broken documentation and guides you to fix the issue without having to debug the output.
+
+{{::il.DA_BranchesStep_img}}
+

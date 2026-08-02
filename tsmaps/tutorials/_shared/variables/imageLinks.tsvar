@@ -101,6 +101,9 @@
 ¬DA_BranchesStep_url: ../../../assets/images/DA_BranchesStep.png
 ¬DA_BranchesStep_img: ![Install Docs Assembler dialogue in vscode]({{::DA_BranchesStep_url}})
 
+¬DA_DiagnosticsExample_url: ../../../assets/images/DA_DiagnosticsExample.png
+¬DA_DiagnosticsExample_img: ![Install Docs Assembler dialogue in vscode]({{::DA_DiagnosticsExample_url}})
+
 ¬WindowsButton_desktop_url: ../../../assets/images/WindowsButton_desktop.png
 ¬WindowsButton_desktop_img: ![Windows button]({{::WindowsButton_desktop_url}})
 
