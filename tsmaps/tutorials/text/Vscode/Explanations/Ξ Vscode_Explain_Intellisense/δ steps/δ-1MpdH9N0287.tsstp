@@ -2,7 +2,7 @@
 
 Here is a common scenario. You have a block of text defined in a variable file elsewhere in your project - it might be a paragraph, a product name, or a markdown table - and you want to reuse it in your current file. By referencing the variable instead of copying and pasting, you keep the source in one place: update it there, and every reference updates automatically. You also avoid the drift that happens when multiple copies of the same text are edited independently.
 
-> **Note:** When you define a URL as a variable, Docs Assembler tracks the path. If you move, copy, or clone the file, the URL is automatically corrected for the new location. This also applies when a map is referenced inside another map - however deeply nested - or reused across dozens of maps in different locations. When published to a guide, every URL is resolved relative to the top-level guide, so links remain valid regardless of where they originated.
+> **Note:** When you define a relative filepath as a variable, Docs Assembler tracks it. If you move, copy, or clone a file that references it, the relative URL is automatically corrected for the new location. This also applies when a map is referenced inside another map - however deeply nested - or reused across dozens of maps in different locations. When published to a guide, that filepath is resolved relative to the top-level guide, so links remain valid regardless of where they originated.
 
 Without IntelliSense, you would need to remember the exact file path and variable name, typing them perfectly every time. A single typo - `logo_image` mistyped as `logo_img`, for example - would break your build.
 

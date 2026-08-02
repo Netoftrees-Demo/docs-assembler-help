@@ -1,0 +1,30 @@
+{
+    "key": "1OBT20k00xp ",
+    "token": "Vscodeexplaindiagnostics",
+    "name": "Vscode_Explain_Diagnostics",
+    "created": "2026-08-02T20:28:02.494Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/Explanations/Ξ Vscode_Explain_Diagnostics/Vscode_Explain_Diagnostics.tspod",
+    "isPod": true,
+    "iText": "Link to 'Vscode_Explain_Diagnostics'",
+    "___rΩΩt___": {
+        "key": "1OBT5CN01Hd",
+        "nodes": [
+            {
+                "key": "1OBT68f02C8",
+                "order": 1
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1OBT5CN01Hd",
+            "relativePath": "./δ steps/δ-1OBT5CN01Hd.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1OBT82R00p5",
+        "editorID": "car_a12449859f4849f1990caf84545f4bfb",
+        "ticks": 1785702505663
+    }
+}

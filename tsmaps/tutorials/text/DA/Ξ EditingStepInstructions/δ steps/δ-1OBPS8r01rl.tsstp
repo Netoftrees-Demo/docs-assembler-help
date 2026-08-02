@@ -1,0 +1,6 @@
+#### There are two ways to edit a step's instructions
+
+ - **Quick access** - Edit the instructions directly in the instructions field of the **map editor lens**. This is useful for a fast, minor change, but note that there is no **syntax highlighting**, **diagnostics**, or **IntelliSense**. Also, **undo** in the map editor (.tsmap file) does not currently apply to the **instructions** field, because they live in athe separate step markdown file.
+
+ - **Open in Markdown editor** - With full **syntax recognition**, **diagnostics**, **IntelliSense**, and rich **undo** history. Use this for anything more than a quick typo fix.
+

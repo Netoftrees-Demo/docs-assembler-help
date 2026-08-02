@@ -20,6 +20,14 @@
                         "isLeaf": true
                     }
                 ]
+            },
+            {
+                "key": "1OAUs0p00d6",
+                "order": 2,
+                "option": "Markdown?",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "1MYe3uA00ba"
             }
         ]
     },
@@ -35,11 +43,15 @@
         {
             "key": "δ-1O0NXMc012b",
             "relativePath": "./δ steps/δ-1O0NXMc012b.tsstp"
+        },
+        {
+            "key": "δ-1OAUs0p00d6",
+            "relativePath": "./δ steps/δ-1OAUs0p00d6.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "1O0ONVC01TE",
-        "editorID": "car_56dca50b6ddc4627b6268f36b99f7f5e",
-        "ticks": 1785538833770
+        "id": "1OAUxLW01UT",
+        "editorID": "car_3431f6150d014ccfacffb93a76039996",
+        "ticks": 1785688164882
     }
 }

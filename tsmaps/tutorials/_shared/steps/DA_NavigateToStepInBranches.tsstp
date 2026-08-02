@@ -1,0 +1,19 @@
+¬import il from "../variables/imageLinks"
+
+
+##### Navigate to map step
+
+1. The main window in the **map editor** is the **branches view**. *- blue rectangle*
+
+2. Scroll the **branches view**. *- yellow ring* 
+ 
+3. A **step** is a rectangle block a dark background. *- mauve rectangle*
+
+4. An **option** is a rounded rectangle block with a white background. *- brown rectangle*
+
+5. An **ancillary** is a rectangle block with a white background. *- pink rectangle*
+
+> **Note:** To simplify the view an option can be collapsed to hide the **branch** of **steps** that follows it. To collapse/expand an option and hide/show the steps beneath click the chevron. *- green ring*
+
+{{::il.DA_BranchesStep_img}}
+
