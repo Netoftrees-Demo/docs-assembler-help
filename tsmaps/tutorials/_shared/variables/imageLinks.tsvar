@@ -104,6 +104,15 @@
 ¬DA_DiagnosticsExample_url: ../../../assets/images/DA_DiagnosticsExample.png
 ¬DA_DiagnosticsExample_img: ![Install Docs Assembler dialogue in vscode]({{::DA_DiagnosticsExample_url}})
 
+¬DA_GoToDefinition_Alias_url: ../../../assets/images/DA_GoToDefinition_Alias.png
+¬DA_GoToDefinition_Alias_img: ![Install Docs Assembler dialogue in vscode]({{::DA_GoToDefinition_Alias_url}})
+
+¬DA_GoToDefinition_File_url: ../../../assets/images/DA_GoToDefinition_File.png
+¬DA_GoToDefinition_File_img: ![Install Docs Assembler dialogue in vscode]({{::DA_GoToDefinition_File_url}})
+
+¬DA_GoToDefinition_Variable_url: ../../../assets/images/DA_GoToDefinition_Variable.png
+¬DA_GoToDefinition_Variable_img: ![Install Docs Assembler dialogue in vscode]({{::DA_GoToDefinition_Variable_url}})
+
 ¬WindowsButton_desktop_url: ../../../assets/images/WindowsButton_desktop.png
 ¬WindowsButton_desktop_img: ![Windows button]({{::WindowsButton_desktop_url}})
 

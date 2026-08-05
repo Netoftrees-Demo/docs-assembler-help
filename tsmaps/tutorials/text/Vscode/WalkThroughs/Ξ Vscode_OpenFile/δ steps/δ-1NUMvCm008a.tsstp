@@ -2,8 +2,8 @@
 
 Docs Assembler works within your VS Code workspace. Before you can edit a documentation file, make sure the repository containing it is open in VS Code (this is what activates the extension). Once your project is loaded, you can open any file just as you normally would:
 
- - Find and click it in the Explorer view.
- - Trigger the Command Palette and search for the file by name.
+ - Find and click it in the **Explorer** view.
+ - Trigger the **Quick Open Palette** and search for the file by name.
  - Navigate to it directly from a map or variable reference.
 
  

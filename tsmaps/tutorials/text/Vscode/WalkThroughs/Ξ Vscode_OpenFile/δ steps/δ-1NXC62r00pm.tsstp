@@ -1,10 +1,35 @@
-#### Open a file from a reference in another file
+¬import il from "../../../../../_shared/variables/imageLinks"
 
-¬TODO - add images etc
+
+#### Open a file from a reference in another file
 
 When you are editing a Docs Assembler file, you can jump directly to a referenced file:
 
-- **Variable references** - Hold `Ctrl` (or `Cmd`) and click any `¬{{::alias.variable}}` reference. VS Code opens the variable file at the exact line where that variable is defined.
-- **Import paths** - Hold `Ctrl` (or `Cmd`) and click the file path in any `¬import` statement. VS Code opens that file immediately.
-- **Go to Definition** - Right-click any variable reference or import path and select **Go to Definition**.
+- **Variable references**: 
+
+    1. Hold `Ctrl` and click the **variable** from `¬{{::alias.variable}}` reference. *- red rectangle*
+
+    2. The **context menu** appears.
+
+    3. Select **Go to Definition**. *- yellow rectangle*
+
+    4. VS Code opens the variable file at the exact line where that variable is defined.
+
+{{::il.DA_GoToDefinition_Variable_img}}
+
+
+- **Alias/path references** - 
+
+    1. Hold `Ctrl` and click:
+        - The **alias** from `¬{{::alias.variable}}` reference. *- red rectangle*
+        - The **alias** from an `¬import` statement. *- orange rectangle*
+        - The **file path** in an `¬import` statement. *- blue rectangle*
+    
+    2. The **context menu** appears.
+
+    3. Select **Go to Definition**. *- yellow rectangle*
+
+    4. VS Code opens the variable file with the cursor at the very top of the file.
+
+{{::il.DA_GoToDefinition_Alias_img}}
 
