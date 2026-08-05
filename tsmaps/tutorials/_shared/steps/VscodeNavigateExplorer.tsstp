@@ -1,0 +1,25 @@
+¬import il from "../../../_shared/variables/imageLinks"
+
+
+### Navigating vscode Explorer
+
+#### Expand folders
+
+By clicking the arrow next to a folder name. *- red rectangle*
+
+Or press `Right Arrow` when a folder is focused.
+
+{{::il.Vscode_Folder_Expand_img}}
+
+
+#### Collapse folders
+
+By clicking the arrow again. *- red rectangle*
+
+Or press `Left Arrow` when a folder is focused.
+
+{{::il.Vscode_Folder_Collapse_img}}
+
+
+**Scroll** through the tree, or start typing a file name while the Explorer is focused to jump to matching files in the current folder.
+

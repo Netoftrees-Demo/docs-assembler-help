@@ -338,6 +338,18 @@
 ¬Vscode_QuickOpenPallet_File_url: ../../../assets/images/Vscode_QuickOpenPallet_File.png
 ¬Vscode_QuickOpenPallet_File_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_QuickOpenPallet_File_url}})
 
+¬Vscode_Folder_Expand_url: ../../../assets/images/Vscode_Folder_Expand.png
+¬Vscode_Folder_Expand_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_Folder_Expand_url}})
+
+¬Vscode_Folder_Collapse_url: ../../../assets/images/Vscode_Folder_Collapse.png
+¬Vscode_Folder_Collapse_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_Folder_Collapse_url}})
+
+¬Vscode_OpenFile_Right_url: ../../../assets/images/Vscode_OpenFile_Right.png
+¬Vscode_OpenFile_Right_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_OpenFile_Right_url}})
+
+¬Vscode_OpenFile_Split_url: ../../../assets/images/Vscode_OpenFile_Split.png
+¬Vscode_OpenFile_Split_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_OpenFile_Split_url}})
+
 ¬GitHub_ForkButton_url: ../../../assets/images/GitHub_ForkButton.png
 ¬GitHub_ForkButton_img: ![Vscode - empty]({{::GitHub_ForkButton_url}})
 

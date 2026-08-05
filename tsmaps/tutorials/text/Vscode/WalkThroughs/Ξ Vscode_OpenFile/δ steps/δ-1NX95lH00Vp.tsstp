@@ -1,9 +1,40 @@
 ¬import il from "../../../../../_shared/variables/imageLinks"
 
 
-4. Click the file name. *- green ring*
+**Single click**:
 
-5. The file opens in the editor pane to the right. *- orange rectangle*
+1. Single-click the file name. *- green ring*
+
+2. The file opens in the editor pane to the right as a **Preview Tab**. The tab title appears in italics and will be replaced if you single-click another file. *- orange rectangle*
+
+    Alternatively, select the file and press `Enter` to open it in Preview Mode.
+
+**Double click**:
+
+1. Double-click the file name. *- green ring*
+
+2. The file opens in the editor pane to the right as a **Persistent Tab** that stays open until you close it. *- orange rectangle*
+
+    Alternatively, select the file and press `Ctrl+Enter` to open it in a persistent tab.
 
 {{::il.Vscode_ExplorerOpenFile_img}}
+
+
+> **Tip:** If your files keep disappearing when you click another in the **Explorer**, **double-clic instead of single-clicking.
+
+
+**Right click**:
+
+1. Right-click the file name. *- red ring*
+
+2. The **Context menu** displays.
+
+3. Select **Open to the Side** *- yellow ring*
+
+{{::il.Vscode_OpenFile_Right_img}}
+
+
+4. The file opens in a split editor next to the current file. *- red rectangle*
+
+{{::il.Vscode_OpenFile_Split_img}}
 

@@ -50,9 +50,9 @@
                                 "key": "1NuHWaq00sh",
                                 "order": 2,
                                 "option": "Navigating Explorer?",
+                                "sharedAssetKey": "1OT3hwX00np",
                                 "isLeaf": true,
-                                "isAncillary": true,
-                                "iKey": "1NuHdBb0060"
+                                "isAncillary": true
                             }
                         ]
                     },
@@ -103,13 +103,14 @@
             "relativePath": "./δ steps/δ-1NuHGUc02Am.tsstp"
         },
         {
-            "key": "δ-1NuHWaq00sh",
-            "relativePath": "./δ steps/δ-1NuHWaq00sh.tsstp"
+            "key": "1OT3hwX00np",
+            "relativePath": "../../../../_shared/steps/VscodeNavigateExplorer.tsstp",
+            "isShared": true
         }
     ],
     "___εdit___": {
-        "id": "1ORpb6e02bH",
-        "editorID": "car_c618630045fc440bbde9e8fce610c4c2",
-        "ticks": 1785944281992
+        "id": "1OT3nUo00Pm",
+        "editorID": "car_5d0e49ba2555414181bbc738c7fb11a5",
+        "ticks": 1785962442546
     }
 }
