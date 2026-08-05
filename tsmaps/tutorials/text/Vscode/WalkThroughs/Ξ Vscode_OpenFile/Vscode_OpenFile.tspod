@@ -13,7 +13,7 @@
             {
                 "key": "1NXAKHn01Kt",
                 "order": 1,
-                "option": "Open project folder?",
+                "option": "Open a repository?",
                 "isLeaf": true,
                 "isAncillary": true,
                 "iKey": "1NUNrwc027G"
@@ -119,8 +119,8 @@
         }
     ],
     "___εdit___": {
-        "id": "1NuKOJV02YE",
-        "editorID": "car_e744d27074c541fe8e1e2a4a17e0be49",
-        "ticks": 1785449225561
+        "id": "1OQDl4x00Z1",
+        "editorID": "car_5668310ef3674bad83c80a75b77863c5",
+        "ticks": 1785920487527
     }
 }

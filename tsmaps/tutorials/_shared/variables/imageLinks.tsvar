@@ -317,6 +317,9 @@
 ¬Vscode_Vscode_OpenUsingTerminal_3_url: ../../../assets/images/Vscode_OpenUsingTerminal_3.png
 ¬Vscode_Vscode_OpenUsingTerminal_3_img: ![Vscode - empty]({{::Vscode_Vscode_OpenUsingTerminal_3_url}})
 
+¬Vscode_ExplorerOpenFile_url: ../../../assets/images/Vscode_ExplorerOpenFile.png
+¬Vscode_ExplorerOpenFile_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_ExplorerOpenFile_url}})
+
 ¬GitHub_ForkButton_url: ../../../assets/images/GitHub_ForkButton.png
 ¬GitHub_ForkButton_img: ![Vscode - empty]({{::GitHub_ForkButton_url}})
 

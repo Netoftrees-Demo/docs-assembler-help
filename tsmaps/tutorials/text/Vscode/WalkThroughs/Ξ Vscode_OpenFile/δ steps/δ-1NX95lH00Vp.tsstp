@@ -1,4 +1,9 @@
-4. Click the file name.
+¬import il from "../../../../../_shared/variables/imageLinks"
 
-5. The file opens in the editor pane to the right.
+
+4. Click the file name. *- green ring*
+
+5. The file opens in the editor pane to the right. *- orange rectangle*
+
+{{::il.Vscode_ExplorerOpenFile_img}}
 
