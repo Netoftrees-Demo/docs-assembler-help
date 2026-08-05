@@ -1,10 +1,30 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
 #### Quick Open a file (fastest for large projects)
 
-¬TODO - add images etc
-
-1. Press `Ctrl+P` (or `Cmd+P`).
-2. Start typing the file name. VS Code searches across your entire open folder.
-3. Use the arrow keys to highlight the file you want, then press Enter.
-
 This is the quickest way to open a file when you already know its name. It works for any file type in your project.
+
+1. In vscode press `Ctrl+P`. 
+
+2. The **Quick Open Pallet** appears. *- red rectangle*
+
+3. If there is a Chevron showing delete it. *- yellow ring*
+
+{{::il.Vscode_QuickOpenPallet_img}}
+
+
+4. Start typing the file name. *- red ring*
+
+5. VS Code searches across your entire open folder and displays matching files. 
+
+7. Use the arrow keys to highlight the file you want, then press Enter.
+Or use the mouse to click the file. *- yellow ring*
+
+{{::il.Vscode_QuickOpenPallet_FileSearch_img}}
+
+
+7. The file opens in the editor. *- red rectangle*
+
+{{::il.Vscode_QuickOpenPallet_File_img}}
 
