@@ -1,0 +1,10 @@
+### Working with a Snapshot
+
+Hover over any entry in the Timeline to reveal three icons:
+
+- **Compare with Current** (blue diff icon) - Opens a side-by-side comparison. Red lines show removed content; green lines show added content.
+- **Restore Contents** (circular arrow icon) - Overwrites your current file with the snapshot. Be careful - this discards your current unsaved changes.
+- **Delete** (trash can icon) - Permanently removes that snapshot.
+
+You can also click an entry directly to preview it without restoring.
+

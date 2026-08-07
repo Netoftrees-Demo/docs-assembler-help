@@ -1,0 +1,28 @@
+### Git for Documentation
+
+Git is a *distributed* version control system. Unlike older *centralized* systems - where one server held the master copy and everyone checked files in and out - Git gives every contributor a complete local copy of the entire project history. You can work offline, commit changes locally, and synchronise with others when you are ready.
+
+
+#### A Brief History
+
+Git was created in **2005** by **Linus Torvalds**, the developer of the Linux kernel. At the time, the Linux project was using a commercial version control system called BitKeeper, but the free licence was withdrawn. Torvalds needed a replacement that was fast, supported distributed workflows, and could handle the scale of Linux kernel development. He wrote Git in a matter of weeks.
+
+The name "Git" is British slang for an unpleasant person - Torvalds joked that he names all his projects after himself. Despite the joke, Git quickly became the dominant version control system in software development.
+
+
+#### Core Concepts
+
+| Concept | What It Means |
+|---------|---------------|
+| **Repository (repo)** | A folder that Git watches. It contains your files and the hidden `.git` directory where the full history is stored. |
+| **Commit** | A snapshot of your files at a specific moment. Each commit has a unique hash, a message describing the change, and a pointer to the previous commit. |
+| **Branch** | An independent line of development. The default branch is usually called `main` (or historically `master`). You create branches to experiment or isolate work. |
+| **Merge** | The act of combining changes from one branch into another. |
+| **Clone** | Copying a remote repository to your local machine. |
+| **Push / Pull** | Sending your local commits to a remote repository (`push`), or fetching someone else's commits from it (`pull`). |
+
+
+#### Why Git Matters for Documentation
+
+Docs Assembler projects are text-based - Markdown, JSON, and configuration files. Git handles text exceptionally well. It shows exactly which lines changed, who changed them, and when. This makes it ideal for documentation teams: you can review edits, revert mistakes, and collaborate without emailing files back and forth.
+

@@ -1,0 +1,32 @@
+### GitHub for Documentation
+
+GitHub is a web-based platform built around Git. Founded in **2008** by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett, it took Git's powerful but command-line-heavy workflow and wrapped it in a visual interface that made collaboration accessible. Microsoft acquired GitHub in **2018**, but it remains the largest host of source code in the world.
+
+While Git is the engine, GitHub is the workshop. It provides the tools teams use to review, discuss, and deploy their work.
+
+#### Key Features
+
+| Feature | Purpose |
+|---------|---------|
+| **Repositories** | Host your Git repos online, public or private. |
+| **Pull Requests** | Propose changes, discuss them, and review code (or documentation) before merging. |
+| **Issues** | Track bugs, tasks, and feature requests. |
+| **Actions** | Automate workflows - testing, building, and deploying - when code is pushed. |
+| **GitHub Pages** | Publish static websites directly from a repository. |
+
+#### GitHub Pages
+
+**GitHub Pages** is the feature most relevant to Docs Assembler. It takes the static files in your repository and publishes them as a live website, free of charge.
+
+How it works:
+
+1. You push your Docs Assembler project to a GitHub repository.
+2. You enable GitHub Pages in the repository settings, choosing which branch and folder to publish from (typically `main` or a dedicated `gh-pages` branch).
+3. GitHub serves your built documentation at a URL like `https://yourusername.github.io/repository-name/`.
+
+Because Docs Assembler generates static Markdown and HTML output, it is a natural fit for GitHub Pages. There is no server to manage, no hosting bill, and every change you push to GitHub can be reflected on the live site within minutes.
+
+#### GitHub and VS Code
+
+VS Code has built-in Git support. You can stage changes, write commit messages, push to GitHub, and even create pull requests without leaving the editor. For Docs Assembler users, this means your writing, editing, version control, and publishing workflows all happen in one place.
+

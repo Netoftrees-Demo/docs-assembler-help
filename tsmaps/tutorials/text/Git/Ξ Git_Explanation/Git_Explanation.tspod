@@ -12,7 +12,28 @@
         "nodes": [
             {
                 "key": "1MrjsPh02QK",
-                "order": 1
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1Odfqps00lR",
+                        "order": 1,
+                        "isLeaf": true
+                    },
+                    {
+                        "key": "1OdgWqX02SH",
+                        "order": 2,
+                        "option": "More on GitHub?",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            },
+            {
+                "key": "1Odg68V00QN",
+                "order": 2,
+                "option": "More on Git?",
+                "isLeaf": true,
+                "isAncillary": true
             }
         ]
     },
@@ -20,11 +41,27 @@
         {
             "key": "δ-1Mrjr6F026w",
             "relativePath": "./δ steps/δ-1Mrjr6F026w.tsstp"
+        },
+        {
+            "key": "δ-1MrjsPh02QK",
+            "relativePath": "./δ steps/δ-1MrjsPh02QK.tsstp"
+        },
+        {
+            "key": "δ-1Odfqps00lR",
+            "relativePath": "./δ steps/δ-1Odfqps00lR.tsstp"
+        },
+        {
+            "key": "δ-1Odg68V00QN",
+            "relativePath": "./δ steps/δ-1Odg68V00QN.tsstp"
+        },
+        {
+            "key": "δ-1OdgWqX02SH",
+            "relativePath": "./δ steps/δ-1OdgWqX02SH.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "1OT4gAY007z",
-        "editorID": "car_d13d5bedf3734b9b927cddf53500eb1b",
-        "ticks": 1785962652710
+        "id": "1Oe0KvX02Qz",
+        "editorID": "car_e0442177c7134233b7fefef34fa17e10",
+        "ticks": 1786124157439
     }
 }

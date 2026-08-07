@@ -1,17 +1,8 @@
-¬import il from "../../../../../_shared/variables/imageLinks"
-¬import vs from "../../../../../_shared/variables/Vscode_Snippets"
-
-
-8. {{::vs.Vscode_OpenExplorer_1}} *- yellow ring*
-
-9. {{::vs.Vscode_OpenExplorer_2}}
-
-10. **Explorer** shows the files folders created of modified in the initialisation. *- red circles*
-
-{{::il.DA_InitialiseCompleted_Explorer_img}}
-
-
-
+¬TODO 1111 - context menu
+        - options in menu describe each one with 
+        each one should have its own shared step with an image
+        each one should flow into the next for this help 
+    - Local History Settings
 
 2. In the left sidebar, click the **Explorer** icon (or press `Ctrl+Shift+E` / `Cmd+Shift+E`).
 3. At the bottom of the Explorer pane, find the **Timeline** section and expand it.
