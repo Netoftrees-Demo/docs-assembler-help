@@ -16,10 +16,15 @@
             }
         ]
     },
-    "___αssεts___": [],
+    "___αssεts___": [
+        {
+            "key": "δ-1Mrjr6F026w",
+            "relativePath": "./δ steps/δ-1Mrjr6F026w.tsstp"
+        }
+    ],
     "___εdit___": {
-        "id": "1MrjsPh000Q",
-        "editorID": "car_3801c24955bd4178a0b876225ff456b8",
-        "ticks": 1784494837625
+        "id": "1OT4gAY007z",
+        "editorID": "car_d13d5bedf3734b9b927cddf53500eb1b",
+        "ticks": 1785962652710
     }
 }
