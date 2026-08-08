@@ -8,43 +8,89 @@
     "isPod": true,
     "iText": "Link to 'Vscode_LocalHistory_Access'",
     "___rΩΩt___": {
-        "key": "1NKdK5d00BT",
+        "key": "1OkXxMX01xY",
         "nodes": [
             {
-                "key": "1NLU3hj00eQ",
+                "key": "1NKdK5d00BT",
                 "order": 1,
                 "nodes": [
                     {
-                        "key": "1NXD10y01Ws",
+                        "key": "1NLU3hj00eQ",
                         "order": 1,
                         "nodes": [
                             {
-                                "key": "1Oe22VI0124",
+                                "key": "1NXD10y01Ws",
                                 "order": 1,
                                 "nodes": [
                                     {
-                                        "key": "1Oe24IV00UF",
-                                        "order": 1
+                                        "key": "1OklCPa00ZB",
+                                        "order": 1,
+                                        "nodes": [
+                                            {
+                                                "key": "1OklYkM00Vj",
+                                                "order": 1,
+                                                "option": "Context menu?",
+                                                "isAncillary": true,
+                                                "nodes": [
+                                                    {
+                                                        "key": "1Oklfi801v9",
+                                                        "order": 1,
+                                                        "option": "Comparing files?",
+                                                        "isAncillary": true,
+                                                        "nodes": [
+                                                            {
+                                                                "key": "1Okoib1027p",
+                                                                "order": 1,
+                                                                "sharedAssetKey": "1Okteus01iz",
+                                                                "nodes": [
+                                                                    {
+                                                                        "key": "1OktdiE00Xu",
+                                                                        "order": 1,
+                                                                        "isLeaf": true
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "key": "1OkhalC028a",
+                                        "order": 2,
+                                        "option": "Toolbar buttons?",
+                                        "isLeaf": true,
+                                        "isAncillary": true
                                     }
                                 ]
+                            },
+                            {
+                                "key": "1Oeh76X023F",
+                                "order": 2,
+                                "option": "Expand Timeline?",
+                                "isLeaf": true,
+                                "isAncillary": true,
+                                "iKey": "1NLOuDz01U8"
                             }
                         ]
                     },
                     {
-                        "key": "1Oeh76X023F",
+                        "key": "1NXD99X014j",
                         "order": 2,
-                        "option": "Timeline?",
-                        "isAncillary": true
+                        "option": "Open file?",
+                        "isLeaf": true,
+                        "isAncillary": true,
+                        "iKey": "1NUI2M502B3"
                     }
                 ]
             },
             {
-                "key": "1NXD99X014j",
+                "key": "1OkY8Dx0244",
                 "order": 2,
-                "option": "Open file?",
+                "option": "What is the Timeline?",
                 "isLeaf": true,
-                "isAncillary": true,
-                "iKey": "1NUI2M502B3"
+                "isAncillary": true
             }
         ]
     },
@@ -66,13 +112,46 @@
             "relativePath": "./δ steps/δ-1NXD10y01Ws.tsstp"
         },
         {
-            "key": "δ-1Oe22VI0124",
-            "relativePath": "./δ steps/δ-1Oe22VI0124.tsstp"
+            "key": "δ-1Oeh76X023F",
+            "relativePath": "./δ steps/δ-1Oeh76X023F.tsstp"
+        },
+        {
+            "key": "δ-1OkXxMX01xY",
+            "relativePath": "./δ steps/δ-1OkXxMX01xY.tsstp"
+        },
+        {
+            "key": "δ-1OkY8Dx0244",
+            "relativePath": "./δ steps/δ-1OkY8Dx0244.tsstp"
+        },
+        {
+            "key": "δ-1OkhalC028a",
+            "relativePath": "./δ steps/δ-1OkhalC028a.tsstp"
+        },
+        {
+            "key": "δ-1OklCPa00ZB",
+            "relativePath": "./δ steps/δ-1OklCPa00ZB.tsstp"
+        },
+        {
+            "key": "δ-1OklYkM00Vj",
+            "relativePath": "./δ steps/δ-1OklYkM00Vj.tsstp"
+        },
+        {
+            "key": "δ-1Oklfi801v9",
+            "relativePath": "./δ steps/δ-1Oklfi801v9.tsstp"
+        },
+        {
+            "key": "1Okteus01iz",
+            "relativePath": "../../../../_shared/steps/VscodeCompareTwoFiles.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1OktdiE00Xu",
+            "relativePath": "./δ steps/δ-1OktdiE00Xu.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "1OehCoo00ZC",
-        "editorID": "car_65b6ae6615fe4cf19c6bde69444d9100",
-        "ticks": 1786134374374
+        "id": "1OkuB1Z00Zl",
+        "editorID": "car_6f104566f93f4fd8837c03c42a29eeb6",
+        "ticks": 1786226123757
     }
 }

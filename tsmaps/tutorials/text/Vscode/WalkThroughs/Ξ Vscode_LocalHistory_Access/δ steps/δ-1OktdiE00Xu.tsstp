@@ -1,0 +1,3 @@
+**This works across types:**
+You can even compare a local history snapshot against a Git commit, or two Git commits that are not adjacent in the branch history. The two entries do not need to be from the same source.
+

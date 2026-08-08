@@ -1,14 +1,4 @@
-¬TODO 1111 - context menu
-        - options in menu describe each one with 
-        each one should have its own shared step with an image
-        each one should flow into the next for this help 
-    - Local History Settings
+3. The **Timeline** automatically shows the history of whichever file is currently active in the editor. As you switch between open editor tabs, the **Timeline** updates to reflect the newly selected file.
 
-2. In the left sidebar, click the **Explorer** icon (or press `Ctrl+Shift+E` / `Cmd+Shift+E`).
-3. At the bottom of the Explorer pane, find the **Timeline** section and expand it.
-4. You will see two groups:
-   - **Git History** - commits from your repository (if you use Git).
-   - **Local History** - snapshots with a clock icon and a timestamp.
-
-Click any Local History entry to preview its contents in a read-only tab.
+4. To interact with the view, use the **Toolbar Buttons** at the top-right of the **Timeline** panel to control filtering, refreshing, and pinning.
 

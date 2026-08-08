@@ -1,0 +1,20 @@
+## What Is the Timeline?
+
+The **Timeline** is a panel in VS Code (located at the bottom of the Explorer sidebar) that shows the complete edit history of the currently selected file. It aggregates two distinct sources of history into a single, chronological view:
+
+1. **Local file history** — automatic snapshots that VS Code creates every time you save a file or when a workspace-wide edit (like a refactoring or search-and-replace) modifies it. These snapshots are stored locally and persist even if the file is deleted or the changes are never committed to version control.
+
+2. **Git commit history** — the sequence of commits from your repository that touched this file, showing who changed what and when.
+
+### Why It Is Helpful
+
+The Timeline solves a common problem: **you changed something and now you need to get it back**, but you didn't commit it, create a backup, or even realize the change was important at the time.
+
+- **Recover work you thought was lost.** If you accidentally delete a file, overwrite something important, or simply want to see what the file looked like an hour ago, the local history snapshots let you browse, compare, and restore previous versions without ever touching Git.
+
+- **Understand how a file evolved.** By seeing Git commits and local saves interleaved in one view, you can trace the full lifecycle of a file — from the last committed version, through your recent edits, to the current state on disk.
+
+- **Compare arbitrary points in time.** You can diff any two snapshots, any two commits, or even a local snapshot against a Git commit. This is invaluable when debugging a regression or reviewing how a specific section of code changed across multiple iterations.
+
+- **No setup required.** Local history is enabled by default and works entirely offline. You don't need to initialize a repository, configure Git, or remember to commit — VS Code quietly preserves your work in the background.
+

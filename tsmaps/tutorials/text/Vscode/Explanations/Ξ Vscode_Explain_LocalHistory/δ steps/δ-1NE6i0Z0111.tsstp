@@ -1,6 +1,6 @@
 ### How Local History Works in Practice
 
-VS Code creates a Local History entry automatically whenever you save a file - whether by pressing `Ctrl+S` (or `Cmd+S`), through Auto Save, or when an external tool writes to the file. It will not create a duplicate snapshot if the content has not actually changed.
+VS Code creates a Local History entry automatically whenever you save a file - whether by pressing `Ctrl+S`, through Auto Save, or when an external tool writes to the file. It will not create a duplicate snapshot if the content has not actually changed.
 
 These snapshots live in a hidden cache folder on your machine, not inside your project. This means they travel with your VS Code installation, not your Git repository. If you delete your project folder and clone it again from GitHub, the Local History for those files is gone.
 

@@ -1,9 +1,2 @@
-## How to Access and Use Local History
-
-
-### From the Timeline View
-
-The main way to access Local History is through the Timeline panel.
-
-1. In vscode open the file you want to investigate.
+1. Open a file in the editor. The **Timeline** tracks history per file, so you need a file open before the panel populates.
 

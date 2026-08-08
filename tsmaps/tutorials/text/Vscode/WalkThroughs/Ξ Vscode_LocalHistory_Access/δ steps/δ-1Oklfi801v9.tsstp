@@ -1,0 +1,4 @@
+## How to Compare Two Files (or Two Snapshots/Commits)
+
+VS Code uses a **two-step selection workflow** for comparing arbitrary items in the Timeline. This applies to both local history snapshots and Git commits.
+

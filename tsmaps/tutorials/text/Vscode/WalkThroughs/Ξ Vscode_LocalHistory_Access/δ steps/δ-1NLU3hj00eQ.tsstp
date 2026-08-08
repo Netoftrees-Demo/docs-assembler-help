@@ -1,23 +1,4 @@
-¬import il from "../../../../../_shared/variables/imageLinks"
-¬import vs from "../../../../../_shared/variables/Vscode_Snippets"
+2. In the **Explorer** sidebar, make sure the **Timeline** section is expanded. If you don't see it, look toward the bottom of the **Explorer** panel — it sits below the file tree.
 
-
-8. {{::vs.Vscode_OpenExplorer_1}} *- yellow ring*
-
-9. {{::vs.Vscode_OpenExplorer_2}}
-
-10. **Explorer** shows the files folders created of modified in the initialisation. *- red circles*
-
-{{::il.DA_InitialiseCompleted_Explorer_img}}
-
-
-
-
-2. In the left sidebar, click the **Explorer** icon (or press `Ctrl+Shift+E` / `Cmd+Shift+E`).
-3. At the bottom of the Explorer pane, find the **Timeline** section and expand it.
-4. You will see two groups:
-   - **Git History** - commits from your repository (if you use Git).
-   - **Local History** - snapshots with a clock icon and a timestamp.
-
-Click any Local History entry to preview its contents in a read-only tab.
+¬TODO Needs images!!!!!!!!!!
 

@@ -1,0 +1,9 @@
+**1. Select the base:**
+Right-click the older entry (the one you want on the left side of the diff) and choose **Select for Compare**. There is no immediate visual feedback in the menu, but VS Code internally marks this entry as the comparison base.
+
+**2. Compare with the target:**
+Right-click the newer entry (the one you want on the right side) and choose **Compare with Selected**. This opens a diff view showing all changes between the two points.
+
+**Why "Compare with Selected" doesn't always appear:**
+"Compare with Selected" is a *conditional* menu item. It only appears after you have first used **Select for Compare** on another entry. If you haven't marked a base, the option is hidden. This is why you won't see it on a fresh right-click — you must complete Step 1 first.
+

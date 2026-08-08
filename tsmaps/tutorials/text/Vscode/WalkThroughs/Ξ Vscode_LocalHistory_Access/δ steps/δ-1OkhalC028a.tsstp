@@ -1,0 +1,11 @@
+## VS Code Timeline: Toolbar Buttons
+
+The **Timeline** view toolbar sits at the top-right of the **Timeline** panel. These buttons control how the view behaves and what data it displays.
+
+| Button | Description |
+|--------|-------------|
+| **Pin** | Locks the Timeline to the currently selected file. By default, the **Timeline** is *live* - it automatically updates to show the history of whichever file is active in the editor. Clicking Pin freezes the view on the current file, so you can browse other files without losing the timeline you were inspecting. Click again to unpin and return to live mode. |
+| **Refresh** | Forces the **Timeline** to re-query all its data sources (**Git**, **Local History**, and any registered extensions). Use this when the view feels stale - for example, after running a **Git** command in the terminal, after an external tool modifies files, or when **Local History** snapshots aren't appearing after rapid saves. |
+| **Filter** | Opens a dropdown that lets you toggle which history sources are visible. You can show or hide **Git commits** and **local file events** independently. This is useful when you only want to see Git history and don't care about auto-saved snapshots, or vice versa. |
+| **More Actions** (the `...` menu) | Contains additional commands, including **Local History: Find Entry to Restore**. This opens a searchable Quick Pick of *all* local history entries across *all* files in the workspace - including files that have been deleted and no longer appear in the Timeline. This is the primary recovery mechanism when a file is gone but you need to restore it from a snapshot. |
+
