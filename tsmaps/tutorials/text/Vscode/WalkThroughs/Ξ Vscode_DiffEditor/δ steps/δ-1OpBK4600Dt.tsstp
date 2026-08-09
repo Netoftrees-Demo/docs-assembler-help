@@ -1,0 +1,13 @@
+## Diff Editor: Margin and Gutter Actions
+
+In the diff editor, the **gutter** is the narrow column that runs alongside each line of code, between the line numbers and the code itself. When you are viewing a Git diff (for example, from the Source Control view), interactive buttons appear in this gutter next to each block of changed lines.
+
+| Action | Description |
+|--------|-------------|
+| **Stage Change** | A plus icon that appears next to a changed block in the gutter. Clicking it stages **only that block** (or selected lines) into the Git index, leaving the rest of the file unstaged. This is useful when you want to commit only part of your changes. If you have manually selected a range of lines first, the button stages only your selection.  |
+| **Revert Change** | A curved arrow icon that appears next to a changed block in the gutter. Clicking it discards that block of changes, reverting those lines back to their state in the original file (for unstaged changes) or the last commit (for staged changes). Like staging, this can operate on a selection if you have highlighted specific lines.  |
+| **Unstage Change** | A minus icon that appears when viewing **staged** changes in the diff editor. Clicking it removes that block from the staging area, moving it back to the unstaged Changes list without discarding the edits. |
+| **Click gutter indicator** | In the normal text editor (not the diff editor), the left margin shows coloured bars indicating added, modified, or deleted lines since the last commit. Clicking one of these bars opens an inline peek diff showing the old version of those lines, along with miniature **Stage** and **Revert** buttons. This lets you review and act on changes without leaving the file editor.  |
+
+**Note:** The Stage, Revert, and Unstage gutter buttons only appear when the diff editor was opened from the **Source Control** view (i.e., when comparing working changes against Git). They do not appear for arbitrary file comparisons or local history diffs. You can hide the gutter buttons entirely with the `diffEditor.renderGutterMenu` setting if you prefer. 
+

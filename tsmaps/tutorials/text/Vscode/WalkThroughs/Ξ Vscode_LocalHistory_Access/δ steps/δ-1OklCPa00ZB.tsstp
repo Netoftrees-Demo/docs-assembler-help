@@ -1,2 +1,4 @@
-5. To act on a specific entry, right-click any item in the list to open its **Context Menu**.
+5. **Left-click** any entry to open its diff editor - this compares the snapshot against the current file for local history entries, or shows the commit changes for Git entries. 
+
+6. **Right-click** any item to open its **Context Menu** for additional actions like restoring, comparing with other entries, or copying commit details.
 

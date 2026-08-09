@@ -1,6 +1,17 @@
 ## VS Code Timeline: Context Menu Items
 
-Right-clicking any entry in the Timeline opens a context menu. The available options depend on whether the entry is a **local history snapshot** or a **Git commit**.
+
+#### Left-click
+
+Left-clicking an entry is the default action. It behaves differently depending on the entry type:
+- **Local history entry:** Opens a diff editor comparing that snapshot against the **current version of the file on disk** (equivalent to selecting **Compare with File** from the context menu).
+- **Git commit entry:** Opens a diff showing the changes introduced by that commit only (equivalent to selecting **Open Changes** from the context menu).
+
+
+#### Right-click
+
+Right-clicking any entry in the **Timeline** opens a context menu with additional actions. The context menu provides alternative and additional ways to interact with entries beyond the default left-click behavior.
+
 
 ### Local History Entries
 
@@ -8,10 +19,10 @@ These are the auto-saved snapshots that VS Code creates as you work.
 
 | Menu Item | Description |
 |-----------|-------------|
-| **Compare with File** | Opens a side-by-side diff view comparing the selected snapshot against the **current version of the file on disk**. This is useful when you want to see what has changed since a specific save point. |
-| **Compare with Previous** | Opens a diff view comparing this snapshot against the **immediately preceding local history entry** for the same file. This shows the delta of changes between two consecutive saves. |
+| **Compare with File** | Opens a side-by-side diff editor comparing the selected snapshot against the **current version of the file on disk**. This is the same as left-clicking the entry. |
+| **Compare with Previous** | Opens a diff editor comparing this snapshot against the **immediately preceding local history entry** for the same file. This shows the delta of changes between two consecutive saves. |
 | **Select for Compare** | Marks this snapshot as the **base** (left side) of a two-step comparison. After selecting this, right-click another entry and choose **Compare with Selected** to diff any two arbitrary snapshots — they do not need to be consecutive. |
-| **Show Contents** | Opens the snapshot in a read-only editor tab. This lets you inspect the file contents at that point in time without modifying the current file on disk. |
+| **Show Contents** | Opens the snapshot in a read-only editor tab. This lets you inspect the file contents at that point in time without modifying the current file on disk. Unlike left-clicking, this does not open a diff. |
 | **Restore Contents** | Overwrites the current file on disk with the contents of this snapshot. This is a destructive action — it replaces the live file, so use it when you want to roll back to a previous state. |
 | **Reveal in File Explorer** | Opens your operating system's file manager (Windows Explorer, macOS Finder, etc.) and highlights the file's location in the workspace. |
 | **Rename** | Assigns a custom label to the snapshot (e.g., "Before API refactor"). By default, snapshots are named by timestamp and trigger type (File Saved, Workspace Edit). Renaming makes it easier to identify important milestones. |
@@ -23,27 +34,10 @@ These represent commits from the Git repository that touched the current file.
 
 | Menu Item | Description |
 |-----------|-------------|
-| **Open Changes** | Opens a diff view showing the changes introduced by **this commit only** — that is, the diff between this commit and its immediate parent. This is the Git equivalent of "Compare with Previous" for local history. |
-| **Open Commit** | Opens the full commit details in a multi-file diff view. Unlike "Open Changes" (which only shows the current file), this shows every file that was modified in that commit, letting you see the complete change set. |
+| **Open Changes** | Opens a diff editor showing the changes introduced by **this commit only** — that is, the diff between this commit and its immediate parent. This is the same as left-clicking the entry. |
+| **Open Commit** | Opens the full commit details in a multi-file diff editor. Unlike **Open Changes** (which only shows the current file), this shows every file that was modified in that commit, letting you see the complete change set. |
 | **Open on GitHub** | Opens the commit's page in your default web browser on GitHub. This requires that the repository has a GitHub remote configured and that you have internet access. |
 | **Select for Compare** | Marks this commit as the **base** (left side) of a two-step comparison. After selecting this, right-click another commit and choose **Compare with Selected** to see the cumulative diff between any two commits in the file's history. |
 | **Copy Commit Hash** | Copies the full 40-character SHA-1 hash of the commit to your clipboard. |
 | **Copy Commit Message** | Copies the commit's message text to your clipboard. |
 
----
-
-## How to Compare Two Files (or Two Snapshots/Commits)
-
-VS Code uses a **two-step selection workflow** for comparing arbitrary items in the Timeline. This applies to both local history snapshots and Git commits.
-
-**Step 1 — Select the base:**
-Right-click the older entry (the one you want on the left side of the diff) and choose **Select for Compare**. There is no immediate visual feedback in the menu, but VS Code internally marks this entry as the comparison base.
-
-**Step 2 — Compare with the target:**
-Right-click the newer entry (the one you want on the right side) and choose **Compare with Selected**. This opens a diff view showing all changes between the two points.
-
-**Why "Compare with Selected" doesn't always appear:**
-"Compare with Selected" is a *conditional* menu item. It only appears after you have first used **Select for Compare** on another entry. If you haven't marked a base, the option is hidden. This is why you won't see it on a fresh right-click — you must complete Step 1 first.
-
-**This works across types:**
-You can even compare a local history snapshot against a Git commit, or two Git commits that are not adjacent in the branch history. The two entries do not need to be from the same source.

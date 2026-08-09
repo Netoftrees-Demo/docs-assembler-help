@@ -35,8 +35,6 @@
                                                     {
                                                         "key": "1Oklfi801v9",
                                                         "order": 1,
-                                                        "option": "Comparing files?",
-                                                        "isAncillary": true,
                                                         "nodes": [
                                                             {
                                                                 "key": "1Okoib1027p",
@@ -47,6 +45,14 @@
                                                                         "key": "1OktdiE00Xu",
                                                                         "order": 1,
                                                                         "isLeaf": true
+                                                                    },
+                                                                    {
+                                                                        "key": "1Op6Fll01a9",
+                                                                        "order": 2,
+                                                                        "option": "diff editor?",
+                                                                        "isLeaf": true,
+                                                                        "isAncillary": true,
+                                                                        "iKey": "1OpB0h8025r"
                                                                     }
                                                                 ]
                                                             }
@@ -147,11 +153,15 @@
         {
             "key": "δ-1OktdiE00Xu",
             "relativePath": "./δ steps/δ-1OktdiE00Xu.tsstp"
+        },
+        {
+            "key": "δ-1Op6Fll01a9",
+            "relativePath": "./δ steps/δ-1Op6Fll01a9.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "1OkuB1Z00Zl",
-        "editorID": "car_6f104566f93f4fd8837c03c42a29eeb6",
-        "ticks": 1786226123757
+        "id": "1OpBYdz00l2",
+        "editorID": "car_a246f6172fa94c3294c2bdf471e91b5e",
+        "ticks": 1786289371471
     }
 }

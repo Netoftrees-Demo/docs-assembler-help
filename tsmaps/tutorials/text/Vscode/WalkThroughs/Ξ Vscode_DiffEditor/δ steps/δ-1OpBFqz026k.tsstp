@@ -1,0 +1,13 @@
+## Diff Editor: Toolbar Buttons
+
+The toolbar sits at the top-right of the diff editor tab. These buttons control how the comparison is displayed and navigated.
+
+| Button | Description |
+|--------|-------------|
+| **Toggle Inline View** | Switches between **side-by-side** mode (two panes, original on the left and modified on the right) and **inline** mode (a single pane showing deletions followed by additions). Inline mode is useful when screen space is limited or when changes are small and scattered. When you are already in inline mode, this button becomes **Toggle Split View**.  |
+| **Show Moved Code Blocks** | Available when the experimental moved-code detection is enabled. Draws connecting lines between code that was deleted from one location and re-inserted elsewhere, helping you recognise refactors and reorders rather than treating them as separate delete and add operations.  |
+| **Collapse Unchanged Regions** | Collapses the long stretches of identical code between changes, leaving only a few context lines around each diff hunk. This lets you focus on the actual changes without scrolling through unchanged content. Click again to expand the full file.  |
+| **Previous Change** | Jumps the cursor to the previous diff hunk (the block of changed lines immediately above the current position). |
+| **Next Change** | Jumps the cursor to the next diff hunk (the block of changed lines immediately below the current position).  |
+| **More Actions** | Opens a dropdown menu with additional commands, including **Swap Left and Right Editor Side** (reverses the direction of the comparison), **Show Whitespace Differences** (reveals otherwise-hidden space and tab changes), and **Open Accessible Diff Viewer** (presents the diff in a unified patch format for screen readers, also reachable with F7).   |
+

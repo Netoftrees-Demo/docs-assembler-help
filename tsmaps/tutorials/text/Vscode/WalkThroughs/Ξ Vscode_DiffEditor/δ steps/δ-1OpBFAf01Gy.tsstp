@@ -1,0 +1,6 @@
+## VS Code Diff Editor
+
+¬TODO images
+
+The **Diff Editor** is the side-by-side (or inline) view that appears whenever you compare two versions of a file — whether from **Git** history, **Local History**, or a manual file comparison. It highlights additions, deletions, and modifications using color-coded gutters and character-level highlighting, making it easy to spot exactly what changed.
+

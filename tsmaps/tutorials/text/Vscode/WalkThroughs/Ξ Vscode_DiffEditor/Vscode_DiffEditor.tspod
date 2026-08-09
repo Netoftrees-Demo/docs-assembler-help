@@ -1,0 +1,45 @@
+{
+    "key": "1OpB0h8025r ",
+    "token": "Vscodediffeditor",
+    "name": "Vscode_DiffEditor",
+    "created": "2026-08-09T15:27:20.970Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_DiffEditor/Vscode_DiffEditor.tspod",
+    "isPod": true,
+    "iText": "Link to 'Vscode_DiffEditor'",
+    "___rΩΩt___": {
+        "key": "1OpBFAf01Gy",
+        "nodes": [
+            {
+                "key": "1OpBFqz026k",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1OpBK4600Dt",
+                        "order": 1,
+                        "isLeaf": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1OpBFAf01Gy",
+            "relativePath": "./δ steps/δ-1OpBFAf01Gy.tsstp"
+        },
+        {
+            "key": "δ-1OpBFqz026k",
+            "relativePath": "./δ steps/δ-1OpBFqz026k.tsstp"
+        },
+        {
+            "key": "δ-1OpBK4600Dt",
+            "relativePath": "./δ steps/δ-1OpBK4600Dt.tsstp"
+        }
+    ],
+    "___εdit___": {
+        "id": "1OpBUCT00Ep",
+        "editorID": "car_f2a91d80bc7b47258c2c3dcea89a82a5",
+        "ticks": 1786289354390
+    }
+}

@@ -2,3 +2,5 @@
 
 VS Code uses a **two-step selection workflow** for comparing arbitrary items in the Timeline. This applies to both local history snapshots and Git commits.
 
+The **diff editor** follows a standard convention: the **left side shows the older or base version**, and the **right side shows the newer or target version**. This makes the direction of change easy to read — additions appear on the right, deletions on the left, and you can follow the evolution from "what it was" to "what it became."
+
