@@ -130,5 +130,18 @@
             "daurl": "#ffa704"
         }
     },
-    "json.schemas": []
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "**/*.tspod"
+            ],
+            "url": "file:///d%3A/GitHub/CompositeFlows-RM/documentation-assembler-vsc/schemas/podSchema.json"
+        },
+        {
+            "fileMatch": [
+                "**/*.tsmap"
+            ],
+            "url": "file:///d%3A/GitHub/CompositeFlows-RM/documentation-assembler-vsc/schemas/tsmap-schema.json"
+        }
+    ]
 }
