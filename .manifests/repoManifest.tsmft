@@ -1,6 +1,6 @@
 {
     "migrations": {
-        "lastDocsAssemblerVersion": "0.9.47",
+        "lastDocsAssemblerVersion": "0.9.49",
         "migrations": [
             "0.8.0"
         ]

@@ -1,4 +1,20 @@
-5. **Left-click** any entry to open its diff editor - this compares the snapshot against the current file for local history entries, or shows the commit changes for Git entries. 
+¬import il from "../../../../../_shared/variables/imageLinks"
 
-6. **Right-click** any item to open its **Context Menu** for additional actions like restoring, comparing with other entries, or copying commit details.
+
+#### Left-click
+
+Left-clicking an entry is the default action, it opens a **diff editor**. *- red rectangle*
+
+The **diff editor**  behaves differently depending on the entry type:
+- **Local history entry:** Opens a diff comparing that snapshot against the **current version of the file on disk** (equivalent to selecting **Compare with File** from the context menu).
+- **Git commit entry:** Opens a diff showing the changes introduced by that commit only (equivalent to selecting **Open Changes** from the context menu).
+
+{{::il.Vscode_TimelineEntryLeftClick_img}}
+
+
+#### Right-click
+
+Right-clicking any entry in the **Timeline** opens a **Context menu** with additional actions. The **Context menu** provides alternative and additional ways to interact with entries beyond the default left-click behavior. *- yellow rectangle* 
+
+{{::il.Vscode_TimelineEntryContextMenu_img}}
 

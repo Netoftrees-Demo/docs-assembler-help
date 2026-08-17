@@ -1,4 +1,11 @@
-2. In the **Explorer** sidebar, make sure the **Timeline** section is expanded. If you don't see it, look toward the bottom of the **Explorer** panel — it sits below the file tree.
+¬import il from "../../../../../_shared/variables/imageLinks"
 
-¬TODO Needs images!!!!!!!!!!
+
+2. In the **Explorer** sidebar, make sure the **Timeline** section is expanded. *- red rectangle* 
+
+    If you don't see it, look toward the bottom of the **Explorer** panel. *- yellow rectangle*
+    
+    It sits below the file tree.
+
+{{::il.Vscode_TimelineControls_img}}
 

@@ -1,5 +1,5 @@
 
-¬logo_url: ../../../assets/images/netOfTreesIcon.png
+¬logo_url: ../../../assets/images/General/netOfTreesIcon.png
 ¬logo_image: [<img class="nt-fr-logo" src="{{::logo_url}}">]({{::logo_url}})
 
 ¬DA_select_openVsx_url: ../../../assets/images/open-vsx_docs-select.png
@@ -8,393 +8,420 @@
 ¬DA_download_openVsx_url: ../../../assets/images/open-vsx_docs-assembler_download.png
 ¬DA_download_openVsx_img: ![Download Docs Assembler from open-vsx.org]({{::DA_download_openVsx_url}})
 
-¬DA_installed_url: ../../../assets/images/vscode_DA_installed.png
+¬DA_installed_url: ../../../assets/images/Vscode/Vscode_DA_installed.png
 ¬DA_installed_img: ![Docs Assembler installed in vscode]({{::DA_installed_url}})
 
-¬DA_install_url: ../../../assets/images/vscode_install_vsix.png
+¬DA_install_url: ../../../assets/images/Vscode/Vscode_install_vsix.png
 ¬DA_install_img: ![Install Docs Assembler in vscode]({{::DA_install_url}})
 
-¬DA_install_dialogue_url: ../../../assets/images/vscode_install_vsix_dialogue.png
+¬DA_install_dialogue_url: ../../../assets/images/Vscode/Vscode_install_vsix_dialogue.png
 ¬DA_install_dialogue_img: ![Install Docs Assembler dialogue in vscode]({{::DA_install_dialogue_url}})
 
-¬DA_ShowControlView_url: ../../../assets/images/DA_ShowControlView.png
+¬DA_ShowControlView_url: ../../../assets/imagesDA//DA_ShowControlView.png
 ¬DA_ShowControlView_img: ![Install Docs Assembler dialogue in vscode]({{::DA_ShowControlView_url}})
 
-¬DA_Initialise_url: ../../../assets/images/DA_Initialise.png
+¬DA_Initialise_url: ../../../assets/imagesDA//DA_Initialise.png
 ¬DA_Initialise_img: ![Install Docs Assembler dialogue in vscode]({{::DA_Initialise_url}})
 
-¬DA_InitialiseCompleted_url: ../../../assets/images/DA_InitialiseCompleted.png
+¬DA_InitialiseCompleted_url: ../../../assets/imagesDA//DA_InitialiseCompleted.png
 ¬DA_InitialiseCompleted_img: ![Install Docs Assembler dialogue in vscode]({{::DA_InitialiseCompleted_url}})
 
-¬DA_InitialiseCompleted_Explorer_url: ../../../assets/images/DA_InitialiseCompleted_Explorer.png
+¬DA_InitialiseCompleted_Explorer_url: ../../../assets/imagesDA//DA_InitialiseCompleted_Explorer.png
 ¬DA_InitialiseCompleted_Explorer_img: ![Install Docs Assembler dialogue in vscode]({{::DA_InitialiseCompleted_Explorer_url}})
 
-¬DA_InitialiseCompleted_Git_url: ../../../assets/images/DA_InitialiseCompleted_Git.png
+¬DA_InitialiseCompleted_Git_url: ../../../assets/imagesDA//DA_InitialiseCompleted_Git.png
 ¬DA_InitialiseCompleted_Git_img: ![Install Docs Assembler dialogue in vscode]({{::DA_InitialiseCompleted_Git_url}})
 
-¬DA_InitialiseCompleted_Sync_url: ../../../assets/images/DA_InitialiseCompleted_Sync.png
+¬DA_InitialiseCompleted_Sync_url: ../../../assets/imagesDA//DA_InitialiseCompleted_Sync.png
 ¬DA_InitialiseCompleted_Sync_img: ![Install Docs Assembler dialogue in vscode]({{::DA_InitialiseCompleted_Sync_url}})
 
-¬DA_InitialiseCompleted_Commit_url: ../../../assets/images/DA_InitialiseCompleted_Commit.png
+¬DA_InitialiseCompleted_Commit_url: ../../../assets/imagesDA//DA_InitialiseCompleted_Commit.png
 ¬DA_InitialiseCompleted_Commit_img: ![Install Docs Assembler dialogue in vscode]({{::DA_InitialiseCompleted_Commit_url}})
 
-¬DA_EditTitle_BrowserInitial_url: ../../../assets/images/DA_EditTitle_BrowserInitial.png
+¬DA_EditTitle_BrowserInitial_url: ../../../assets/imagesDA//DA_EditTitle_BrowserInitial.png
 ¬DA_EditTitle_BrowserInitial_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditTitle_BrowserInitial_url}})
 
-¬DA_EditStep_Browser_NetworksInAction_url: ../../../assets/images/DA_EditStep_Browser_NetworksInAction.png
+¬DA_EditStep_Browser_NetworksInAction_url: ../../../assets/imagesDA//DA_EditStep_Browser_NetworksInAction.png
 ¬DA_EditStep_Browser_NetworksInAction_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_Browser_NetworksInAction_url}})
 
-¬DA_EditStep_Browser_NetworksInAction2_url: ../../../assets/images/DA_EditStep_Browser_NetworksInAction2.png
+¬DA_EditStep_Browser_NetworksInAction2_url: ../../../assets/imagesDA//DA_EditStep_Browser_NetworksInAction2.png
 ¬DA_EditStep_Browser_NetworksInAction2_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_Browser_NetworksInAction2_url}})
 
-¬DA_EditTitle_Vscode_Search_url: ../../../assets/images/DA_EditTitle_Vscode_Search.png
+¬DA_EditTitle_Vscode_Search_url: ../../../assets/imagesDA//DA_EditTitle_Vscode_Search.png
 ¬DA_EditTitle_Vscode_Search_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditTitle_Vscode_Search_url}})
 
-¬DA_EditStep_Browser_NetworksInAction2_Highlight_url: ../../../assets/images/DA_EditStep_Browser_NetworksInAction2_Highlight.png
+¬DA_EditStep_Browser_NetworksInAction2_Highlight_url: ../../../assets/imagesDA//DA_EditStep_Browser_NetworksInAction2_Highlight.png
 ¬DA_EditStep_Browser_NetworksInAction2_Highlight_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_Browser_NetworksInAction2_Highlight_url}})
 
-¬DA_EditStep_Search_url: ../../../assets/images/DA_EditStep_Search.png
+¬DA_EditStep_Search_url: ../../../assets/imagesDA//DA_EditStep_Search.png
 ¬DA_EditStep_Search_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_Search_url}})
 
-¬DA_EditStep_GetMapFromStep_url: ../../../assets/images/DA_EditStep_GetMapFromStep.png
+¬DA_EditStep_GetMapFromStep_url: ../../../assets/imagesDA//DA_EditStep_GetMapFromStep.png
 ¬DA_EditStep_GetMapFromStep_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_GetMapFromStep_url}})
 
-¬DA_EditStep_OpenMapFromStep_url: ../../../assets/images/DA_EditStep_OpenMapFromStep.png
+¬DA_EditStep_OpenMapFromStep_url: ../../../assets/imagesDA//DA_EditStep_OpenMapFromStep.png
 ¬DA_EditStep_OpenMapFromStep_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_OpenMapFromStep_url}})
 
-¬DA_EditStep_InsertStep_url: ../../../assets/images/DA_EditStep_InsertStep.png
+¬DA_EditStep_InsertStep_url: ../../../assets/imagesDA//DA_EditStep_InsertStep.png
 ¬DA_EditStep_InsertStep_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_InsertStep_url}})
 
-¬DA_EditStep_InsertedStep_url: ../../../assets/images/DA_EditStep_InsertedStep.png
+¬DA_EditStep_InsertedStep_url: ../../../assets/imagesDA//DA_EditStep_InsertedStep.png
 ¬DA_EditStep_InsertedStep_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_InsertedStep_url}})
 
-¬DA_EditStep_NewStep_url: ../../../assets/images/DA_EditStep_NewStep.png
+¬DA_EditStep_NewStep_url: ../../../assets/imagesDA//DA_EditStep_NewStep.png
 ¬DA_EditStep_NewStep_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_NewStep_url}})
 
-¬DA_EditStep_NewStep_1_url: ../../../assets/images/DA_EditStep_NewStep_1.png
+¬DA_EditStep_NewStep_1_url: ../../../assets/imagesDA//DA_EditStep_NewStep_1.png
 ¬DA_EditStep_NewStep_1_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_NewStep_1_url}})
 
-¬DA_EditStep_NewStep_2_url: ../../../assets/images/DA_EditStep_NewStep_2.png
+¬DA_EditStep_NewStep_2_url: ../../../assets/imagesDA//DA_EditStep_NewStep_2.png
 ¬DA_EditStep_NewStep_2_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_NewStep_2_url}})
 
-¬DA_EditStep_NewStep_3_url: ../../../assets/images/DA_EditStep_NewStep_3.png
+¬DA_EditStep_NewStep_3_url: ../../../assets/imagesDA//DA_EditStep_NewStep_3.png
 ¬DA_EditStep_NewStep_3_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_NewStep_3_url}})
 
-¬DA_EditStep_NewOption_1_url: ../../../assets/images/DA_EditStep_NewOption_1.png
+¬DA_EditStep_NewOption_1_url: ../../../assets/imagesDA//DA_EditStep_NewOption_1.png
 ¬DA_EditStep_NewOption_1_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_NewOption_1_url}})
 
-¬DA_EditStep_NewOption_2_url: ../../../assets/images/DA_EditStep_NewOption_2.png
+¬DA_EditStep_NewOption_2_url: ../../../assets/imagesDA//DA_EditStep_NewOption_2.png
 ¬DA_EditStep_NewOption_2_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_NewOption_2_url}})
 
-¬DA_EditStep_HoleActions_url: ../../../assets/images/DA_EditStep_HoleActions.png
+¬DA_EditStep_HoleActions_url: ../../../assets/imagesDA//DA_EditStep_HoleActions.png
 ¬DA_EditStep_HoleActions_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_HoleActions_url}})
 
-¬DA_EditStep_NewAncillarySolution_1_url: ../../../assets/images/DA_EditStep_NewAncillarySolution_1.png
+¬DA_EditStep_NewAncillarySolution_1_url: ../../../assets/imagesDA//DA_EditStep_NewAncillarySolution_1.png
 ¬DA_EditStep_NewAncillarySolution_1_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_NewAncillarySolution_1_url}})
 
-¬DA_EditStep_NewAncillarySolution_2_url: ../../../assets/images/DA_EditStep_NewAncillarySolution_2.png
+¬DA_EditStep_NewAncillarySolution_2_url: ../../../assets/imagesDA//DA_EditStep_NewAncillarySolution_2.png
 ¬DA_EditStep_NewAncillarySolution_2_img: ![Install Docs Assembler dialogue in vscode]({{::DA_EditStep_NewAncillarySolution_2_url}})
 
-¬DA_ExampleMarkdownFile_url: ../../../assets/images/DA_ExampleMarkdownFile.png
+¬DA_ExampleMarkdownFile_url: ../../../assets/imagesDA//DA_ExampleMarkdownFile.png
 ¬DA_ExampleMarkdownFile_img: ![Install Docs Assembler dialogue in vscode]({{::DA_ExampleMarkdownFile_url}})
 
-¬DA_BranchesStep_url: ../../../assets/images/DA_BranchesStep.png
+¬DA_BranchesStep_url: ../../../assets/imagesDA//DA_BranchesStep.png
 ¬DA_BranchesStep_img: ![Install Docs Assembler dialogue in vscode]({{::DA_BranchesStep_url}})
 
-¬DA_DiagnosticsExample_url: ../../../assets/images/DA_DiagnosticsExample.png
+¬DA_DiagnosticsExample_url: ../../../assets/imagesDA//DA_DiagnosticsExample.png
 ¬DA_DiagnosticsExample_img: ![Install Docs Assembler dialogue in vscode]({{::DA_DiagnosticsExample_url}})
 
-¬DA_GoToDefinition_Alias_url: ../../../assets/images/DA_GoToDefinition_Alias.png
+¬DA_GoToDefinition_Alias_url: ../../../assets/imagesDA//DA_GoToDefinition_Alias.png
 ¬DA_GoToDefinition_Alias_img: ![Install Docs Assembler dialogue in vscode]({{::DA_GoToDefinition_Alias_url}})
 
-¬DA_GoToDefinition_File_url: ../../../assets/images/DA_GoToDefinition_File.png
+¬DA_GoToDefinition_File_url: ../../../assets/imagesDA//DA_GoToDefinition_File.png
 ¬DA_GoToDefinition_File_img: ![Install Docs Assembler dialogue in vscode]({{::DA_GoToDefinition_File_url}})
 
-¬DA_GoToDefinition_Variable_url: ../../../assets/images/DA_GoToDefinition_Variable.png
+¬DA_GoToDefinition_Variable_url: ../../../assets/imagesDA//DA_GoToDefinition_Variable.png
 ¬DA_GoToDefinition_Variable_img: ![Install Docs Assembler dialogue in vscode]({{::DA_GoToDefinition_Variable_url}})
 
 ¬WindowsButton_desktop_url: ../../../assets/images/WindowsButton_desktop.png
 ¬WindowsButton_desktop_img: ![Windows button]({{::WindowsButton_desktop_url}})
 
-¬WindowsStartMenuSearch_url: ../../../assets/images/WindowsStartMenuSearch.png
+¬WindowsStartMenuSearch_url: ../../../assets/images/General/WindowsStartMenuSearch.png
 ¬WindowsStartMenuSearch_img: ![Windows start menu search]({{::WindowsStartMenuSearch_url}})
 
-¬WindowsStartMenuSearch_vscode_url: ../../../assets/images/WindowsStartMenuSearch_vscode.png
+¬WindowsStartMenuSearch_vscode_url: ../../../assets/images/General/WindowsStartMenuSearch_vscode.png
 ¬WindowsStartMenuSearch_vscode_img: ![Windows start menu search for vscode]({{::WindowsStartMenuSearch_vscode_url}})
 
-¬WindowsStartMenuSearch_chrome_url: ../../../assets/images/WindowsStartMenuSearch_chrome.png
+¬WindowsStartMenuSearch_chrome_url: ../../../assets/imagesGeneral/WindowsStartMenuSearch_chrome.png
 ¬WindowsStartMenuSearch_chrome_img: ![Windows start menu search for vscode]({{::WindowsStartMenuSearch_chrome_url}})
 
-¬Vscode_empty_url: ../../../assets/images/Vscode_empty.png
+¬Vscode_empty_url: ../../../assets/images/Vscode/Vscode_empty.png
 ¬Vscode_empty_img: ![Vscode - empty]({{::Vscode_empty_url}})
 
-¬Firefox_vscode_url: ../../../assets/images/Firefox-vscode.png
+¬Firefox_vscode_url: ../../../assets/images/General/Firefox-vscode.png
 ¬Firefox_vscode_img: ![Vscode - empty]({{::Firefox_vscode_url}})
 
-¬Firefox_vscode_downloaded_url: ../../../assets/images/Firefox-vscode_downloaded.png
+¬Firefox_vscode_downloaded_url: ../../../assets/images/General/Firefox-vscode_downloaded.png
 ¬Firefox_vscode_downloaded_img: ![Vscode - empty]({{::Firefox_vscode_downloaded_url}})
 
-¬Vscode_InstallDialogueStart_url: ../../../assets/images/Vscode_InstallDialogueStart.png
+¬Vscode_InstallDialogueStart_url: ../../../assets/images/Vscode/Vscode_InstallDialogueStart.png
 ¬Vscode_InstallDialogueStart_img: ![Vscode - empty]({{::Vscode_InstallDialogueStart_url}})
 
-¬Vscode_InstallDialogueLocation_url: ../../../assets/images/Vscode_InstallDialogueLocation.png
+¬Vscode_InstallDialogueLocation_url: ../../../assets/images/Vscode/Vscode_InstallDialogueLocation.png
 ¬Vscode_InstallDialogueLocation_img: ![Vscode - empty]({{::Vscode_InstallDialogueLocation_url}})
 
-¬Vscode_InstallDialogueStartFolder_url: ../../../assets/images/Vscode_InstallDialogueStartFolder.png
+¬Vscode_InstallDialogueStartFolder_url: ../../../assets/images/Vscode/Vscode_InstallDialogueStartFolder.png
 ¬Vscode_InstallDialogueStartFolder_img: ![Vscode - empty]({{::Vscode_InstallDialogueStartFolder_url}})
 
-¬Vscode_InstallDialogueCompleted_url: ../../../assets/images/Vscode_InstallDialogueCompleted.png
+¬Vscode_InstallDialogueCompleted_url: ../../../assets/images/Vscode/Vscode_InstallDialogueCompleted.png
 ¬Vscode_InstallDialogueCompleted_img: ![Vscode - empty]({{::Vscode_InstallDialogueCompleted_url}})
 
-¬Vscode_InstallDialogueSummary_url: ../../../assets/images/Vscode_InstallDialogueSummary.png
+¬Vscode_InstallDialogueSummary_url: ../../../assets/images/Vscode/Vscode_InstallDialogueSummary.png
 ¬Vscode_InstallDialogueSummary_img: ![Vscode - empty]({{::Vscode_InstallDialogueSummary_url}})
 
-¬Vscode_InstallDialogueTasks_url: ../../../assets/images/Vscode_InstallDialogueTasks.png
+¬Vscode_InstallDialogueTasks_url: ../../../assets/images/Vscode/Vscode_InstallDialogueTasks.png
 ¬Vscode_InstallDialogueTasks_img: ![Vscode - empty]({{::Vscode_InstallDialogueTasks_url}})
 
-¬Vscode_InstallDialogueTasks_2_url: ../../../assets/images/Vscode_InstallDialogueTasks_2.png
+¬Vscode_InstallDialogueTasks_2_url: ../../../assets/images/Vscode/Vscode_InstallDialogueTasks_2.png
 ¬Vscode_InstallDialogueTasks_2_img: ![Vscode - empty]({{::Vscode_InstallDialogueTasks_2_url}})
 
-¬Vscode_FreshlyInstalled_url: ../../../assets/images/Vscode_FreshlyInstalled.png
+¬Vscode_FreshlyInstalled_url: ../../../assets/images/Vscode/Vscode_FreshlyInstalled.png
 ¬Vscode_FreshlyInstalled_img: ![Vscode - empty]({{::Vscode_FreshlyInstalled_url}})
 
-¬Vscode_FolderClose_url: ../../../assets/images/vscode_FolderClose.png
+¬Vscode_FolderClose_url: ../../../assets/images/Vscode/Vscode_FolderClose.png
 ¬Vscode_FolderClose_img: ![Vscode - empty]({{::Vscode_FolderClose_url}})
 
-¬Vscode_FolderIsOpen_url: ../../../assets/images/vscode_FolderIsOpen.png
+¬Vscode_FolderIsOpen_url: ../../../assets/images/Vscode/Vscode_FolderIsOpen.png
 ¬Vscode_FolderIsOpen_img: ![Vscode - empty]({{::Vscode_FolderIsOpen_url}})
 
-¬Vscode_FolderNotOpen_url: ../../../assets/images/vscode_FolderNotOpen.png
+¬Vscode_FolderNotOpen_url: ../../../assets/images/Vscode/Vscode_FolderNotOpen.png
 ¬Vscode_FolderNotOpen_img: ![Vscode - empty]({{::Vscode_FolderNotOpen_url}})
 
-¬Vscode_CloneForkedDemo_url: ../../../assets/images/vscode_CloneForkedDemo.png
+¬Vscode_CloneForkedDemo_url: ../../../assets/images/Vscode/Vscode_CloneForkedDemo.png
 ¬Vscode_CloneForkedDemo_img: ![Vscode - empty]({{::Vscode_CloneForkedDemo_url}})
 
-¬Vscode_CloneForkedDemo_Location_url: ../../../assets/images/vscode_CloneForkedDemo_Location.png
+¬Vscode_CloneForkedDemo_Location_url: ../../../assets/images/Vscode/Vscode_CloneForkedDemo_Location.png
 ¬Vscode_CloneForkedDemo_Location_img: ![Vscode - empty]({{::Vscode_CloneForkedDemo_Location_url}})
 
-¬Vscode_CloneForkedDemo_Url_url: ../../../assets/images/vscode_CloneForkedDemo_Url.png
+¬Vscode_CloneForkedDemo_Url_url: ../../../assets/images/Vscode/Vscode_CloneForkedDemo_Url.png
 ¬Vscode_CloneForkedDemo_Url_img: ![Vscode - empty]({{::Vscode_CloneForkedDemo_Url_url}})
 
-¬Vscode_OpenClonedRepo_url: ../../../assets/images/vscode_OpenClonedRepo.png
+¬Vscode_OpenClonedRepo_url: ../../../assets/images/Vscode/Vscode_OpenClonedRepo.png
 ¬Vscode_OpenClonedRepo_img: ![Vscode - empty]({{::Vscode_OpenClonedRepo_url}})
 
-¬Vscode_GitInstall_url: ../../../assets/images/Vscode_GitInstall.png
+¬Vscode_GitInstall_url: ../../../assets/images/Vscode/Vscode_GitInstall.png
 ¬Vscode_GitInstall_img: ![Vscode - empty]({{::Vscode_GitInstall_url}})
 
-¬Vscode_GitInstall_Website_url: ../../../assets/images/Vscode_GitInstall_Website.png
+¬Vscode_GitInstall_Website_url: ../../../assets/images/Vscode/Vscode_GitInstall_Website.png
 ¬Vscode_GitInstall_Website_img: ![Vscode - empty]({{::Vscode_GitInstall_Website_url}})
 
-¬Vscode_GitInstall_Webpage_url: ../../../assets/images/Vscode_GitInstall_Webpage.png
+¬Vscode_GitInstall_Webpage_url: ../../../assets/images/Vscode/Vscode_GitInstall_Webpage.png
 ¬Vscode_GitInstall_Webpage_img: ![Vscode - empty]({{::Vscode_GitInstall_Webpage_url}})
 
-¬Vscode_GitInstall_SSH_url: ../../../assets/images/Vscode_GitInstall_SSH.png
+¬Vscode_GitInstall_SSH_url: ../../../assets/images/Vscode/Vscode_GitInstall_SSH.png
 ¬Vscode_GitInstall_SSH_img: ![Vscode - empty]({{::Vscode_GitInstall_SSH_url}})
 
-¬Vscode_GitInstall_ScmRun_url: ../../../assets/images/Vscode_GitInstall_ScmRun.png
+¬Vscode_GitInstall_ScmRun_url: ../../../assets/images/Vscode/Vscode_GitInstall_ScmRun.png
 ¬Vscode_GitInstall_ScmRun_img: ![Vscode - empty]({{::Vscode_GitInstall_ScmRun_url}})
 
-¬Vscode_GitInstall_Scm_url: ../../../assets/images/Vscode_GitInstall_Scm.png
+¬Vscode_GitInstall_Scm_url: ../../../assets/images/Vscode/Vscode_GitInstall_Scm.png
 ¬Vscode_GitInstall_Scm_img: ![Vscode - empty]({{::Vscode_GitInstall_Scm_url}})
 
-¬Vscode_GitInstall_Path_url: ../../../assets/images/Vscode_GitInstall_Path.png
+¬Vscode_GitInstall_Path_url: ../../../assets/images/Vscode/Vscode_GitInstall_Path.png
 ¬Vscode_GitInstall_Path_img: ![Vscode - empty]({{::Vscode_GitInstall_Path_url}})
 
-¬Vscode_GitInstall_Options_url: ../../../assets/images/Vscode_GitInstall_Options.png
+¬Vscode_GitInstall_Options_url: ../../../assets/images/Vscode/Vscode_GitInstall_Options.png
 ¬Vscode_GitInstall_Options_img: ![Vscode - empty]({{::Vscode_GitInstall_Options_url}})
 
-¬Vscode_GitInstall_Message_url: ../../../assets/images/Vscode_GitInstall_Message.png
+¬Vscode_GitInstall_Message_url: ../../../assets/images/Vscode/Vscode_GitInstall_Message.png
 ¬Vscode_GitInstall_Message_img: ![Vscode - empty]({{::Vscode_GitInstall_Message_url}})
 
-¬Vscode_GitInstall_Location_url: ../../../assets/images/Vscode_GitInstall_Location.png
+¬Vscode_GitInstall_Location_url: ../../../assets/images/Vscode/Vscode_GitInstall_Location.png
 ¬Vscode_GitInstall_Location_img: ![Vscode - empty]({{::Vscode_GitInstall_Location_url}})
 
-¬Vscode_GitInstall_HTTPS_url: ../../../assets/images/Vscode_GitInstall_HTTPS.png
+¬Vscode_GitInstall_HTTPS_url: ../../../assets/images/Vscode/Vscode_GitInstall_HTTPS.png
 ¬Vscode_GitInstall_HTTPS_img: ![Vscode - empty]({{::Vscode_GitInstall_HTTPS_url}})
 
-¬Vscode_GitInstall_Helper_url: ../../../assets/images/Vscode_GitInstall_Helper.png
+¬Vscode_GitInstall_Helper_url: ../../../assets/images/Vscode/Vscode_GitInstall_Helper.png
 ¬Vscode_GitInstall_Helper_img: ![Vscode - empty]({{::Vscode_GitInstall_Helper_url}})
 
-¬Vscode_GitInstall_Folder_url: ../../../assets/images/Vscode_GitInstall_Folder.png
+¬Vscode_GitInstall_Folder_url: ../../../assets/images/Vscode/Vscode_GitInstall_Folder.png
 ¬Vscode_GitInstall_Folder_img: ![Vscode - empty]({{::Vscode_GitInstall_Folder_url}})
 
-¬Vscode_GitInstall_Finish_url: ../../../assets/images/Vscode_GitInstall_Finish.png
+¬Vscode_GitInstall_Finish_url: ../../../assets/images/Vscode/Vscode_GitInstall_Finish.png
 ¬Vscode_GitInstall_Finish_img: ![Vscode - empty]({{::Vscode_GitInstall_Finish_url}})
 
-¬Vscode_GitInstall_Emulator_url: ../../../assets/images/Vscode_GitInstall_Emulator.png
+¬Vscode_GitInstall_Emulator_url: ../../../assets/images/Vscode/Vscode_GitInstall_Emulator.png
 ¬Vscode_GitInstall_Emulator_img: ![Vscode - empty]({{::Vscode_GitInstall_Emulator_url}})
 
-¬Vscode_GitInstall_Editor_url: ../../../assets/images/Vscode_GitInstall_Editor.png
+¬Vscode_GitInstall_Editor_url: ../../../assets/images/Vscode/Vscode_GitInstall_Editor.png
 ¬Vscode_GitInstall_Editor_img: ![Vscode - empty]({{::Vscode_GitInstall_Editor_url}})
 
-¬Vscode_GitInstall_Dialogue_url: ../../../assets/images/Vscode_GitInstall_Dialogue.png
+¬Vscode_GitInstall_Dialogue_url: ../../../assets/images/Vscode/Vscode_GitInstall_Dialogue.png
 ¬Vscode_GitInstall_Dialogue_img: ![Vscode - empty]({{::Vscode_GitInstall_Dialogue_url}})
 
-¬Vscode_GitInstall_Components_url: ../../../assets/images/Vscode_GitInstall_Components.png
+¬Vscode_GitInstall_Components_url: ../../../assets/images/Vscode/Vscode_GitInstall_Components.png
 ¬Vscode_GitInstall_Components_img: ![Vscode - empty]({{::Vscode_GitInstall_Components_url}})
 
-¬Vscode_GitInstall_Browser_url: ../../../assets/images/Vscode_GitInstall_Browser.png
+¬Vscode_GitInstall_Browser_url: ../../../assets/images/Vscode/Vscode_GitInstall_Browser.png
 ¬Vscode_GitInstall_Browser_img: ![Vscode - empty]({{::Vscode_GitInstall_Browser_url}})
 
-¬Vscode_GitInstall_Branch_url: ../../../assets/images/Vscode_GitInstall_Branch.png
+¬Vscode_GitInstall_Branch_url: ../../../assets/images/Vscode/Vscode_GitInstall_Branch.png
 ¬Vscode_GitInstall_Branch_img: ![Vscode - empty]({{::Vscode_GitInstall_Branch_url}})
 
-¬Vscode_GitInstall_Behaviour_url: ../../../assets/images/Vscode_GitInstall_Behaviour.png
+¬Vscode_GitInstall_Behaviour_url: ../../../assets/images/Vscode/Vscode_GitInstall_Behaviour.png
 ¬Vscode_GitInstall_Behaviour_img: ![Vscode - empty]({{::Vscode_GitInstall_Behaviour_url}})
 
-¬Vscode_GitInstall_Licence_url: ../../../assets/images/Vscode_GitInstall_Licence.png
+¬Vscode_GitInstall_Licence_url: ../../../assets/images/Vscode/Vscode_GitInstall_Licence.png
 ¬Vscode_GitInstall_Licence_img: ![Vscode - empty]({{::Vscode_GitInstall_Licence_url}})
 
-¬Vscode_GitInstall_Line_url: ../../../assets/images/Vscode_GitInstall_Line.png
+¬Vscode_GitInstall_Line_url: ../../../assets/images/Vscode/Vscode_GitInstall_Line.png
 ¬Vscode_GitInstall_Line_img: ![Vscode - empty]({{::Vscode_GitInstall_Line_url}})
 
-¬Vscode_GitHubSignIn_url: ../../../assets/images/Vscode_GitHubSignIn.png
+¬Vscode_GitHubSignIn_url: ../../../assets/images/Vscode/Vscode_GitHubSignIn.png
 ¬Vscode_GitHubSignIn_img: ![Vscode - empty]({{::Vscode_GitHubSignIn_url}})
 
-¬Vscode_GitHubSignIn_webpage2_url: ../../../assets/images/Vscode_GitHubSignIn_webpage2.png
+¬Vscode_GitHubSignIn_webpage2_url: ../../../assets/images/Vscode/Vscode_GitHubSignIn_webpage2.png
 ¬Vscode_GitHubSignIn_webpage2_img: ![Vscode - empty]({{::Vscode_GitHubSignIn_webpage2_url}})
 
-¬Vscode_GitHubSignIn_webpage_url: ../../../assets/images/Vscode_GitHubSignIn_webpage.png
+¬Vscode_GitHubSignIn_webpage_url: ../../../assets/images/Vscode/Vscode_GitHubSignIn_webpage.png
 ¬Vscode_GitHubSignIn_webpage_img: ![Vscode - empty]({{::Vscode_GitHubSignIn_webpage_url}})
 
-¬Vscode_GitHubSignIn_continue_url: ../../../assets/images/Vscode_GitHubSignIn_continue.png
+¬Vscode_GitHubSignIn_continue_url: ../../../assets/images/Vscode/Vscode_GitHubSignIn_continue.png
 ¬Vscode_GitHubSignIn_continue_img: ![Vscode - empty]({{::Vscode_GitHubSignIn_continue_url}})
 
-¬Vscode_GitHubSignIn_authorise_url: ../../../assets/images/Vscode_GitHubSignIn_authorise.png
+¬Vscode_GitHubSignIn_authorise_url: ../../../assets/images/Vscode/Vscode_GitHubSignIn_authorise.png
 ¬Vscode_GitHubSignIn_authorise_img: ![Vscode - empty]({{::Vscode_GitHubSignIn_authorise_url}})
 
-¬Vscode_GitHubSignIn_allow_url: ../../../assets/images/Vscode_GitHubSignIn_allow.png
+¬Vscode_GitHubSignIn_allow_url: ../../../assets/images/Vscode/Vscode_GitHubSignIn_allow.png
 ¬Vscode_GitHubSignIn_allow_img: ![Vscode - empty]({{::Vscode_GitHubSignIn_allow_url}})
 
-¬Vscode_Themes_url: ../../../assets/images/Vscode_Themes.png
+¬Vscode_Themes_url: ../../../assets/images/Vscode/Vscode_Themes.png
 ¬Vscode_Themes_img: ![Vscode - empty]({{::Vscode_Themes_url}})
 
-¬Vscode_Theme_Dark_url: ../../../assets/images/Vscode_Theme_Dark.png
+¬Vscode_Theme_Dark_url: ../../../assets/images/Vscode/Vscode_Theme_Dark.png
 ¬Vscode_Theme_Dark_img: ![Vscode - empty]({{::Vscode_Theme_Dark_url}})
 
-¬Vscode_SaveFile_url: ../../../assets/images/Vscode_SaveFile.png
+¬Vscode_SaveFile_url: ../../../assets/images/Vscode/Vscode_SaveFile.png
 ¬Vscode_SaveFile_img: ![Vscode - empty]({{::Vscode_SaveFile_url}})
 
-¬Vscode_UnSaveFile_url: ../../../assets/images/Vscode_UnSaveFile.png
+¬Vscode_UnSaveFile_url: ../../../assets/images/Vscode/Vscode_UnSaveFile.png
 ¬Vscode_UnSaveFile_img: ![Vscode - empty]({{::Vscode_UnSaveFile_url}})
 
-¬Vscode_OpenEditors_url: ../../../assets/images/Vscode_OpenEditors.png
+¬Vscode_OpenEditors_url: ../../../assets/images/Vscode/Vscode_OpenEditors.png
 ¬Vscode_OpenEditors_img: ![Vscode - empty]({{::Vscode_OpenEditors_url}})
 
-¬Vscode_Timeline_url: ../../../assets/images/Vscode_Timeline.png
+¬Vscode_Timeline_url: ../../../assets/images/Vscode/Vscode_Timeline.png
 ¬Vscode_Timeline_img: ![Vscode - empty]({{::Vscode_Timeline_url}})
 
-¬Vscode_importCompletion_url: ../../../assets/images/Vscode_importCompletion.png
+¬Vscode_importCompletion_url: ../../../assets/images/Vscode/Vscode_importCompletion.png
 ¬Vscode_importCompletion_img: ![Vscode - empty]({{::Vscode_importCompletion_url}})
 
-¬Vscode_fromCompletion_url: ../../../assets/images/Vscode_fromCompletion.png
+¬Vscode_fromCompletion_url: ../../../assets/images/Vscode/Vscode_fromCompletion.png
 ¬Vscode_fromCompletion_img: ![Vscode - empty]({{::Vscode_fromCompletion_url}})
 
-¬Vscode_foldersCompletion_url: ../../../assets/images/Vscode_foldersCompletion.png
+¬Vscode_foldersCompletion_url: ../../../assets/images/Vscode/Vscode_foldersCompletion.png
 ¬Vscode_foldersCompletion_img: ![Vscode - empty]({{::Vscode_foldersCompletion_url}})
 
-¬Vscode_importCompleted_url: ../../../assets/images/Vscode_importCompleted.png
+¬Vscode_importCompleted_url: ../../../assets/images/Vscode/Vscode_importCompleted.png
 ¬Vscode_importCompleted_img: ![Vscode - empty]({{::Vscode_importCompleted_url}})
 
-¬Vscode_imageLinksCompletion_url: ../../../assets/images/Vscode_imageLinksCompletion.png
+¬Vscode_imageLinksCompletion_url: ../../../assets/images/Vscode/Vscode_imageLinksCompletion.png
 ¬Vscode_imageLinksCompletion_img: ![Vscode - empty]({{::Vscode_imageLinksCompletion_url}})
 
-¬Vscode_logoCompletion_url: ../../../assets/images/Vscode_logoCompletion.png
+¬Vscode_logoCompletion_url: ../../../assets/images/Vscode/Vscode_logoCompletion.png
 ¬Vscode_logoCompletion_img: ![Vscode - empty]({{::Vscode_logoCompletion_url}})
 
-¬Vscode_varRefCompleted_url: ../../../assets/images/Vscode_varRefCompleted.png
+¬Vscode_varRefCompleted_url: ../../../assets/images/Vscode/Vscode_varRefCompleted.png
 ¬Vscode_varRefCompleted_img: ![Vscode - empty]({{::Vscode_varRefCompleted_url}})
 
-¬Vscode_OpenRepo_url: ../../../assets/images/Vscode_OpenRepo.png
+¬Vscode_OpenRepo_url: ../../../assets/images/Vscode/Vscode_OpenRepo.png
 ¬Vscode_OpenRepo_img: ![Vscode - empty]({{::Vscode_OpenRepo_url}})
 
-¬Vscode_WelcomeOpenFolder_url: ../../../assets/images/Vscode_WelcomeOpenFolder.png
+¬Vscode_WelcomeOpenFolder_url: ../../../assets/images/Vscode/Vscode_WelcomeOpenFolder.png
 ¬Vscode_WelcomeOpenFolder_img: ![Vscode - empty]({{::Vscode_WelcomeOpenFolder_url}})
 
-¬Vscode_OpenFolderDialogue_url: ../../../assets/images/Vscode_OpenFolderDialogue.png
+¬Vscode_OpenFolderDialogue_url: ../../../assets/images/Vscode/Vscode_OpenFolderDialogue.png
 ¬Vscode_OpenFolderDialogue_img: ![Vscode - empty]({{::Vscode_OpenFolderDialogue_url}})
 
-¬Vscode_ExplorerOpenWithCode_url: ../../../assets/images/Vscode_ExplorerOpenWithCode.png
+¬Vscode_ExplorerOpenWithCode_url: ../../../assets/images/Vscode/Vscode_ExplorerOpenWithCode.png
 ¬Vscode_ExplorerOpenWithCode_img: ![Vscode - empty]({{::Vscode_ExplorerOpenWithCode_url}})
 
-¬Vscode_Vscode_OpenUsingTerminal_1_url: ../../../assets/images/Vscode_OpenUsingTerminal_1.png
+¬Vscode_Vscode_OpenUsingTerminal_1_url: ../../../assets/images/Vscode/Vscode_OpenUsingTerminal_1.png
 ¬Vscode_Vscode_OpenUsingTerminal_1_img: ![Vscode - empty]({{::Vscode_Vscode_OpenUsingTerminal_1_url}})
 
-¬Vscode_Vscode_OpenUsingTerminal_2_url: ../../../assets/images/Vscode_OpenUsingTerminal_2.png
+¬Vscode_Vscode_OpenUsingTerminal_2_url: ../../../assets/images/Vscode/Vscode_OpenUsingTerminal_2.png
 ¬Vscode_Vscode_OpenUsingTerminal_2_img: ![Vscode - empty]({{::Vscode_Vscode_OpenUsingTerminal_2_url}})
 
-¬Vscode_Vscode_OpenUsingTerminal_3_url: ../../../assets/images/Vscode_OpenUsingTerminal_3.png
+¬Vscode_Vscode_OpenUsingTerminal_3_url: ../../../assets/images/Vscode/Vscode_OpenUsingTerminal_3.png
 ¬Vscode_Vscode_OpenUsingTerminal_3_img: ![Vscode - empty]({{::Vscode_Vscode_OpenUsingTerminal_3_url}})
 
-¬Vscode_ExplorerOpenFile_url: ../../../assets/images/Vscode_ExplorerOpenFile.png
+¬Vscode_ExplorerOpenFile_url: ../../../assets/images/Vscode/Vscode_ExplorerOpenFile.png
 ¬Vscode_ExplorerOpenFile_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_ExplorerOpenFile_url}})
 
-¬Vscode_QuickOpenPallet_url: ../../../assets/images/Vscode_QuickOpenPallet.png
+¬Vscode_QuickOpenPallet_url: ../../../assets/images/Vscode/Vscode_QuickOpenPallet.png
 ¬Vscode_QuickOpenPallet_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_QuickOpenPallet_url}})
 
-¬Vscode_QuickOpenPallet_FileSearch_url: ../../../assets/images/Vscode_QuickOpenPallet_FileSearch.png
+¬Vscode_QuickOpenPallet_FileSearch_url: ../../../assets/images/Vscode/Vscode_QuickOpenPallet_FileSearch.png
 ¬Vscode_QuickOpenPallet_FileSearch_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_QuickOpenPallet_FileSearch_url}})
 
-¬Vscode_QuickOpenPallet_File_url: ../../../assets/images/Vscode_QuickOpenPallet_File.png
+¬Vscode_QuickOpenPallet_File_url: ../../../assets/images/Vscode/Vscode_QuickOpenPallet_File.png
 ¬Vscode_QuickOpenPallet_File_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_QuickOpenPallet_File_url}})
 
-¬Vscode_Folder_Expand_url: ../../../assets/images/Vscode_Folder_Expand.png
+¬Vscode_Folder_Expand_url: ../../../assets/images/Vscode/Vscode_Folder_Expand.png
 ¬Vscode_Folder_Expand_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_Folder_Expand_url}})
 
-¬Vscode_Folder_Collapse_url: ../../../assets/images/Vscode_Folder_Collapse.png
+¬Vscode_Folder_Collapse_url: ../../../assets/images/Vscode/Vscode_Folder_Collapse.png
 ¬Vscode_Folder_Collapse_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_Folder_Collapse_url}})
 
-¬Vscode_OpenFile_Right_url: ../../../assets/images/Vscode_OpenFile_Right.png
+¬Vscode_OpenFile_Right_url: ../../../assets/images/Vscode/Vscode_OpenFile_Right.png
 ¬Vscode_OpenFile_Right_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_OpenFile_Right_url}})
 
-¬Vscode_OpenFile_Split_url: ../../../assets/images/Vscode_OpenFile_Split.png
+¬Vscode_OpenFile_Split_url: ../../../assets/images/Vscode/Vscode_OpenFile_Split.png
 ¬Vscode_OpenFile_Split_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_OpenFile_Split_url}})
 
-¬GitHub_ForkButton_url: ../../../assets/images/GitHub_ForkButton.png
+¬Vscode_TimelineControls_url: ../../../assets/images/Vscode/Vscode_TimelineControls.png
+¬Vscode_TimelineControls_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_TimelineControls_url}})
+
+¬Vscode_TimelineEntryContextMenu_url: ../../../assets/images/Vscode/Vscode_TimelineEntryContextMenu.png
+¬Vscode_TimelineEntryContextMenu_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_TimelineEntryContextMenu_url}})
+
+¬Vscode_TimelineEntryLeftClick_url: ../../../assets/images/Vscode/Vscode_TimelineEntryLeftClick.png
+¬Vscode_TimelineEntryLeftClick_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_TimelineEntryLeftClick_url}})
+
+¬Vscode_TimelineButtons_url: ../../../assets/images/Vscode/Vscode_TimelineButtons.png
+¬Vscode_TimelineButtons_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_TimelineButtons_url}})
+
+¬Vscode_TimelineGitEntryRightClick_url: ../../../assets/images/Vscode/Vscode_TimelineGitEntryRightClick.png
+¬Vscode_TimelineGitEntryRightClick_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_TimelineGitEntryRightClick_url}})
+
+¬Vscode_TimelineLocalEntryRightClick_url: ../../../assets/images/Vscode/Vscode_TimelineLocalEntryRightClick.png
+¬Vscode_TimelineLocalEntryRightClick_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_TimelineLocalEntryRightClick_url}})
+
+¬Vscode_TimelineCompare_url: ../../../assets/images/Vscode/Vscode_TimelineCompare.png
+¬Vscode_TimelineCompare_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_TimelineCompare_url}})
+
+¬Vscode_TimelineCompareSelect_url: ../../../assets/images/Vscode/Vscode_TimelineCompareSelect.png
+¬Vscode_TimelineCompareSelect_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_TimelineCompareSelect_url}})
+
+¬Vscode_Vscode_TimelineCompareButtons_url: ../../../assets/images/Vscode/Vscode_Vscode_TimelineCompareButtons.png
+¬Vscode_Vscode_TimelineCompareButtons_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_Vscode_TimelineCompareButtons_url}})
+
+¬GitHub_ForkButton_url: ../../../assets/images/GitHub/GitHub_ForkButton.png
 ¬GitHub_ForkButton_img: ![Vscode - empty]({{::GitHub_ForkButton_url}})
 
-¬GitHub_CreateForkView_url: ../../../assets/images/GitHub_CreateForkView.png
+¬GitHub_CreateForkView_url: ../../../assets/images/GitHub/GitHub_CreateForkView.png
 ¬GitHub_CreateForkView_img: ![Vscode - empty]({{::GitHub_CreateForkView_url}})
 
-¬GitHub_NewForkedRepo_url: ../../../assets/images/GitHub_NewForkedRepo.png
+¬GitHub_NewForkedRepo_url: ../../../assets/images/GitHub/GitHub_NewForkedRepo.png
 ¬GitHub_NewForkedRepo_img: ![Vscode - empty]({{::GitHub_NewForkedRepo_url}})
 
-¬GitHub_ConfigurePages_Browser_url: ../../../assets/images/GitHub_ConfigurePages_Browser.png
+¬GitHub_ConfigurePages_Browser_url: ../../../assets/images/GitHub/GitHub_ConfigurePages_Browser.png
 ¬GitHub_ConfigurePages_Browser_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Browser_url}})
 
-¬GitHub_ConfigurePages_ActionsRunning_url: ../../../assets/images/GitHub_ConfigurePages_ActionsRunning.png
+¬GitHub_ConfigurePages_ActionsRunning_url: ../../../assets/images/GitHub/GitHub_ConfigurePages_ActionsRunning.png
 ¬GitHub_ConfigurePages_ActionsRunning_img: ![Vscode - empty]({{::GitHub_ConfigurePages_ActionsRunning_url}})
 
-¬GitHub_ConfigurePages_ActionsFinished_url: ../../../assets/images/GitHub_ConfigurePages_ActionsFinished.png
+¬GitHub_ConfigurePages_ActionsFinished_url: ../../../assets/images/GitHub/GitHub_ConfigurePages_ActionsFinished.png
 ¬GitHub_ConfigurePages_ActionsFinished_img: ![Vscode - empty]({{::GitHub_ConfigurePages_ActionsFinished_url}})
 
-¬GitHub_ConfigurePages_Branch_url: ../../../assets/images/GitHub_ConfigurePages_Branch.png
+¬GitHub_ConfigurePages_Branch_url: ../../../assets/images/GitHub/GitHub_ConfigurePages_Branch.png
 ¬GitHub_ConfigurePages_Branch_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Branch_url}})
 
-¬GitHub_ConfigurePages_Completed_url: ../../../assets/images/GitHub_ConfigurePages_Completed.png
+¬GitHub_ConfigurePages_Completed_url: ../../../assets/images/GitHub/GitHub_ConfigurePages_Completed.png
 ¬GitHub_ConfigurePages_Completed_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Completed_url}})
 
-¬GitHub_ConfigurePages_Folder_url: ../../../assets/images/GitHub_ConfigurePages_Folder.png
+¬GitHub_ConfigurePages_Folder_url: ../../../assets/images/GitHub/GitHub_ConfigurePages_Folder.png
 ¬GitHub_ConfigurePages_Folder_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Folder_url}})
 
-¬GitHub_ConfigurePages_Pages_url: ../../../assets/images/GitHub_ConfigurePages_Pages.png
+¬GitHub_ConfigurePages_Pages_url: ../../../assets/images/GitHub/GitHub_ConfigurePages_Pages.png
 ¬GitHub_ConfigurePages_Pages_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Pages_url}})
 
-¬GitHub_ConfigurePages_Refreshed_url: ../../../assets/images/GitHub_ConfigurePages_Refreshed.png
+¬GitHub_ConfigurePages_Refreshed_url: ../../../assets/images/GitHub/GitHub_ConfigurePages_Refreshed.png
 ¬GitHub_ConfigurePages_Refreshed_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Refreshed_url}})
 
-¬GitHub_ConfigurePages_Repo_url: ../../../assets/images/GitHub_ConfigurePages_Repo.png
+¬GitHub_ConfigurePages_Repo_url: ../../../assets/images/GitHub/GitHub_ConfigurePages_Repo.png
 ¬GitHub_ConfigurePages_Repo_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Repo_url}})
 
-¬GitHub_ConfigurePages_Save_url: ../../../assets/images/GitHub_ConfigurePages_Save.png
+¬GitHub_ConfigurePages_Save_url: ../../../assets/images/GitHub/GitHub_ConfigurePages_Save.png
 ¬GitHub_ConfigurePages_Save_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Save_url}})
 
-¬GitHub_ConfigurePages_Saved_url: ../../../assets/images/GitHub_ConfigurePages_Saved.png
+¬GitHub_ConfigurePages_Saved_url: ../../../assets/images/GitHub/GitHub_ConfigurePages_Saved.png
 ¬GitHub_ConfigurePages_Saved_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Saved_url}})
 
-¬GitHub_ConfigurePages_Settings_url: ../../../assets/images/GitHub_ConfigurePages_Settings.png
+¬GitHub_ConfigurePages_Settings_url: ../../../assets/images/GitHub/GitHub_ConfigurePages_Settings.png
 ¬GitHub_ConfigurePages_Settings_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Settings_url}})
 
-¬FileExplorer_Launch_url: ../../../assets/images/FileExplorer_Launch.png
+¬FileExplorer_Launch_url: ../../../assets/images/General/FileExplorer_Launch.png
 ¬FileExplorer_Launch_img: ![Vscode - empty]({{::FileExplorer_Launch_url}})
 

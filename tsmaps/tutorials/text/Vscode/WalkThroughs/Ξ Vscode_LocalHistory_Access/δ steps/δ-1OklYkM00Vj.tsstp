@@ -1,16 +1,7 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
 ## VS Code Timeline: Context Menu Items
-
-
-#### Left-click
-
-Left-clicking an entry is the default action. It behaves differently depending on the entry type:
-- **Local history entry:** Opens a diff editor comparing that snapshot against the **current version of the file on disk** (equivalent to selecting **Compare with File** from the context menu).
-- **Git commit entry:** Opens a diff showing the changes introduced by that commit only (equivalent to selecting **Open Changes** from the context menu).
-
-
-#### Right-click
-
-Right-clicking any entry in the **Timeline** opens a context menu with additional actions. The context menu provides alternative and additional ways to interact with entries beyond the default left-click behavior.
 
 
 ### Local History Entries
@@ -28,6 +19,9 @@ These are the auto-saved snapshots that VS Code creates as you work.
 | **Rename** | Assigns a custom label to the snapshot (e.g., "Before API refactor"). By default, snapshots are named by timestamp and trigger type (File Saved, Workspace Edit). Renaming makes it easier to identify important milestones. |
 | **Delete** | Permanently removes the snapshot from VS Code's local history storage. This frees up disk space and declutters the Timeline. Deleted snapshots cannot be recovered. |
 
+{{::il.Vscode_TimelineLocalEntryRightClick_img}}
+
+
 ### Git Entries
 
 These represent commits from the Git repository that touched the current file.
@@ -40,4 +34,6 @@ These represent commits from the Git repository that touched the current file.
 | **Select for Compare** | Marks this commit as the **base** (left side) of a two-step comparison. After selecting this, right-click another commit and choose **Compare with Selected** to see the cumulative diff between any two commits in the file's history. |
 | **Copy Commit Hash** | Copies the full 40-character SHA-1 hash of the commit to your clipboard. |
 | **Copy Commit Message** | Copies the commit's message text to your clipboard. |
+
+{{::il.Vscode_TimelineGitEntryRightClick_img}}
 

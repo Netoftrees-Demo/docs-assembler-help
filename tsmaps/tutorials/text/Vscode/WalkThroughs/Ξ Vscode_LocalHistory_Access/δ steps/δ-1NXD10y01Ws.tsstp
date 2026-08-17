@@ -1,4 +1,9 @@
-3. The **Timeline** automatically shows the history of whichever file is currently active in the editor. As you switch between open editor tabs, the **Timeline** updates to reflect the newly selected file.
+¬import il from "../../../../../_shared/variables/imageLinks"
 
-4. To interact with the view, use the **Toolbar Buttons** at the top-right of the **Timeline** panel to control filtering, refreshing, and pinning.
+
+3. The **Timeline** automatically shows the history of whichever file is currently active in the editor. As you switch between open editor tabs, the **Timeline** updates to reflect the newly selected file. *- yellow rectangle* 
+
+4. To interact with the view, use the **Toolbar Buttons** at the top-right of the **Timeline** panel to control filtering, refreshing, and pinning. *- red rectangle* 
+
+{{::il.Vscode_TimelineButtons_img}}
 
