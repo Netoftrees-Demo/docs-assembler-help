@@ -1,13 +1,20 @@
 ¬import il from "../../../../_shared/variables/imageLinks"
 
-¬TODO finish
 
-#### 1. Quickly using the lens
+#### 1. Editing the step instructions quickly using the lens
 
-Click the step in the branches view to open in the lens
-Scroll down to the **Instructions** section
-Edit the markdown.
-    No undo
+1. Click the step in the branches view to open in the lens. *- red rectangle*
 
-{{::il.DA_EditStep_NewStep_3_img}}
+2. The **Edit step** lens is displayed. *- green rectangle*
+
+3. Scroll down to the **Instructions** section. *- blue rectangle*
+
+{{::il.DA_EditStep_LensInstructionEdit_1_img}}
+
+4. Edit the **Instructions** markdown directly in the lens. *- red rectangle*
+
+> **Note:** Note: Changes to the instructions are auto-saved directly to the step file. However, the Undo command (Ctrl+Z) in this lens only applies to the map file - it does not revert changes to the step file. 
+
+{{::il.DA_EditStep_LensInstructionEdit_2_img}}
+
 

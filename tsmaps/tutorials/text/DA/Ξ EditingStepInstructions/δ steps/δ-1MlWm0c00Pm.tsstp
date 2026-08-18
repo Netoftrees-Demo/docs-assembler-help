@@ -1,0 +1,15 @@
+¬import il from "../../../../_shared/variables/imageLinks"
+
+
+#### Undoing instruction changes made in the lens
+
+If after making a change to the step instructions made in the lens you want to undo it, if vscode session has not been closed you can undo those changes from the step file from vscode.
+
+5. Open the step file
+
+6. The step file opens to the side. *- red rectangle*
+
+7. With the step file focused, type `Ctrl+Z` to roll back the last edit made in the lens instructions. *- yellow rectangle*
+
+{{::il.DA_EditStepFile_Undo_img}}
+

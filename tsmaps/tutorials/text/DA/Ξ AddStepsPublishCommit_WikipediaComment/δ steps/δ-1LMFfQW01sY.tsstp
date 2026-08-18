@@ -1,4 +1,5 @@
 ¬import il from "../../../../_shared/variables/imageLinks"
+¬import das from "../../../../_shared/variables/DA_Snippets"
 
 
 5. In **Explorer** the step file should be highlighted with all its ancestor folders open. *- red ring*
@@ -39,7 +40,7 @@
 
 17. Right click the new node. *- red ring*
 
-18. In the step menu that is displayed, select **Open step in markdown editor**. *- yellow rings*
+18. {{::das.DA_OpenStepInMarkdownEditor_1}}
 
 {{::il.DA_EditStep_NewStep_1_img}}
 

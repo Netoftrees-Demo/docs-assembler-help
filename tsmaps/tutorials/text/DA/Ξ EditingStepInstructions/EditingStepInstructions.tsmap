@@ -85,8 +85,19 @@
                                                 "option": "Quick access",
                                                 "nodes": [
                                                     {
+                                                        "key": "1PfkFn801q2",
+                                                        "order": 1,
+                                                        "option": "Open step file?",
+                                                        "isLeaf": true,
+                                                        "isAncillary": true,
+                                                        "iKey": "1Pfk8lN00Vh"
+                                                    },
+                                                    {
                                                         "key": "1MlWm0c00Pm",
-                                                        "order": 1
+                                                        "order": 2,
+                                                        "option": "Undoing instruction changes made in the lens",
+                                                        "isLeaf": true,
+                                                        "isAncillary": true
                                                     }
                                                 ]
                                             },
@@ -216,11 +227,14 @@
         {
             "key": "δ-1OBSNH1008J",
             "relativePath": "./δ steps/δ-1OBSNH1008J.tsstp"
+        },
+        {
+            "key": "δ-1MlWm0c00Pm",
+            "relativePath": "./δ steps/δ-1MlWm0c00Pm.tsstp"
+        },
+        {
+            "key": "δ-1PfkFn801q2",
+            "relativePath": "./δ steps/δ-1PfkFn801q2.tsstp"
         }
-    ],
-    "___εdit___": {
-        "id": "1OBTDFu01Lm",
-        "editorID": "car_da50c4a314274a3d8e759be5f77671cb",
-        "ticks": 1785702525718
-    }
+    ]
 }
