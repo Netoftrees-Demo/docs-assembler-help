@@ -1,0 +1,20 @@
+¬import il from "../../../../_shared/variables/imageLinks"
+
+
+2. In the **branches view** of the **map editor** *- orange rectangle*
+
+3. Scroll down to the step whose file you want to open. *- red rectangle*
+
+3. Click it to open the step in the **lens**. *- purple rectangle*
+
+4. Scroll down the lens until you can see the **Instructions** section. *- blue rectangle*
+
+5. Click the **Open in markdown editor** button. *- blue rectangle*
+
+{{::il.DA_OpenStepFile_FromLens_img}}
+
+
+6. The step file opens to the side in the markdown editor
+
+{{::il.DA_OpenStepFile_img}}
+

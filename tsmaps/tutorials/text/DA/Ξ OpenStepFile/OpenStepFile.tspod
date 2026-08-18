@@ -1,0 +1,103 @@
+{
+    "key": "1Pg9kWv01kI ",
+    "token": "Openstepfile",
+    "name": "OpenStepFile",
+    "created": "2026-08-18T16:54:46.313Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/DA/Ξ OpenStepFile/OpenStepFile.tspod",
+    "isPod": true,
+    "iText": "Link to 'OpenStepFile'",
+    "___rΩΩt___": {
+        "key": "1Pg9mrW01dj",
+        "nodes": [
+            {
+                "key": "1Pg9nbF00wT",
+                "order": 1,
+                "option": "From the lens",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "1Pggrke00WR",
+                        "order": 1,
+                        "isLeaf": true
+                    },
+                    {
+                        "key": "1Pgs21W00G5",
+                        "order": 2,
+                        "option": "Open a map?",
+                        "isLeaf": true,
+                        "isAncillary": true,
+                        "iKey": "1MlfGOE00L5"
+                    }
+                ]
+            },
+            {
+                "key": "1PgmpoZ02X5",
+                "order": 2,
+                "option": "From Explorer",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "1Pgmwr7019o",
+                        "order": 1
+                    }
+                ]
+            },
+            {
+                "key": "1PgxiXT01Tu",
+                "order": 3,
+                "nodes": [
+                    {
+                        "key": "1PghCHk01bk",
+                        "order": 1,
+                        "option": "From the branches view",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "1Pgy2vr01Wn",
+                        "order": 2,
+                        "option": "Open map?",
+                        "isLeaf": true,
+                        "isAncillary": true,
+                        "iKey": "1MlfGOE00L5"
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1Pg9mrW01dj",
+            "relativePath": "./δ steps/δ-1Pg9mrW01dj.tsstp"
+        },
+        {
+            "key": "δ-1Pg9nbF00wT",
+            "relativePath": "./δ steps/δ-1Pg9nbF00wT.tsstp"
+        },
+        {
+            "key": "δ-1Pggrke00WR",
+            "relativePath": "./δ steps/δ-1Pggrke00WR.tsstp"
+        },
+        {
+            "key": "δ-1PghCHk01bk",
+            "relativePath": "./δ steps/δ-1PghCHk01bk.tsstp"
+        },
+        {
+            "key": "δ-1PgmpoZ02X5",
+            "relativePath": "./δ steps/δ-1PgmpoZ02X5.tsstp"
+        },
+        {
+            "key": "δ-1Pgs21W00G5",
+            "relativePath": "./δ steps/δ-1Pgs21W00G5.tsstp"
+        },
+        {
+            "key": "δ-1PgxiXT01Tu",
+            "relativePath": "./δ steps/δ-1PgxiXT01Tu.tsstp"
+        },
+        {
+            "key": "δ-1Pgy2vr01Wn",
+            "relativePath": "./δ steps/δ-1Pgy2vr01Wn.tsstp"
+        }
+    ]
+}

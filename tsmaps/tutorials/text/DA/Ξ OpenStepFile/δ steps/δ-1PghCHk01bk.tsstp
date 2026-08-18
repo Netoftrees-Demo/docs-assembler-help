@@ -1,0 +1,19 @@
+¬import il from "../../../../_shared/variables/imageLinks"
+¬import das from "../../../../_shared/variables/DA_Snippets"
+
+
+2. In the **branches view** of the **map editor** *- orange rectangle*
+
+3. Scroll down to the step whose file you want to open. *- red rectangle*
+
+3. Right-click it to open the **Context menu**. *- yellow rectangle*
+
+4. {{::das.DA_OpenStepInMarkdownEditor_1}} *- green rectangle*
+
+{{::il.DA_OpenStepFile_FromBranches_img}}
+
+
+6. The step file opens to the side in the markdown editor
+
+{{::il.DA_OpenStepFile_img}}
+

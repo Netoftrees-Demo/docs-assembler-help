@@ -122,6 +122,15 @@
 ¬DA_GoToDefinition_Variable_url: ../../../assets/images/DA/DA_GoToDefinition_Variable.png
 ¬DA_GoToDefinition_Variable_img: ![Install Docs Assembler dialogue in vscode]({{::DA_GoToDefinition_Variable_url}})
 
+¬DA_OpenStepFile_FromBranches_url: ../../../assets/images/DA/DA_OpenStepFile_FromBranches.png
+¬DA_OpenStepFile_FromBranches_img: ![Install Docs Assembler dialogue in vscode]({{::DA_OpenStepFile_FromBranches_url}})
+
+¬DA_OpenStepFile_FromLens_url: ../../../assets/images/DA/DA_OpenStepFile_FromLens.png
+¬DA_OpenStepFile_FromLens_img: ![Install Docs Assembler dialogue in vscode]({{::DA_OpenStepFile_FromLens_url}})
+
+¬DA_OpenStepFile_url: ../../../assets/images/DA/DA_OpenStepFile.png
+¬DA_OpenStepFile_img: ![Install Docs Assembler dialogue in vscode]({{::DA_OpenStepFile_url}})
+
 ¬WindowsButton_desktop_url: ../../../assets/images/WindowsButton_desktop.png
 ¬WindowsButton_desktop_img: ![Windows button]({{::WindowsButton_desktop_url}})
 
