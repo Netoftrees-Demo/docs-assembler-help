@@ -1,0 +1,7 @@
+#### 2. Editing the step instructions with the vscode markdown editor
+
+A step file can be opened in the **Markdown editor** in three ways:
+ - From the VS Code **Explorer** - double-click the step file.
+ - From the map editor's **branch view** - use the **Context menu** on a step.
+ - From the **Lens** - click the edit button on the **Instructions** section.
+

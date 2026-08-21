@@ -1,0 +1,21 @@
+¬import il from "../../../../_shared/variables/imageLinks"
+¬import das from "../../../../_shared/variables/DA_Snippets"
+
+
+#### Opening step file in markdown editor from the branch view
+
+1. {{::das.DA_OpenStepInMarkdownEditor_1}} *- orange rectangle*
+
+2. {{::das.DA_OpenStepInMarkdownEditor_2}} *- red rectangle*
+
+3. {{::das.DA_OpenStepInMarkdownEditor_3}} *- yellow rectangle*
+
+4. {{::das.DA_OpenStepInMarkdownEditor_4}} *- green rectangle*
+
+{{::il.DA_OpenStepFile_FromBranches_img}}
+
+
+5. {{::das.DA_OpenStepInMarkdownEditor_5}}
+
+{{::il.DA_OpenStepFile_img}}
+

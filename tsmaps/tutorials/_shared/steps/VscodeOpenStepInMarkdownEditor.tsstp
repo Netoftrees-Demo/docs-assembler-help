@@ -1,0 +1,19 @@
+¬import il from "../variables/imageLinks"
+¬import das from "../variables/DA_Snippets"
+
+
+2. {{::das.DA_OpenStepInMarkdownEditor_1}} *- orange rectangle*
+
+3. {{::das.DA_OpenStepInMarkdownEditor_2}} *- red rectangle*
+
+4. {{::das.DA_OpenStepInMarkdownEditor_3}} *- yellow rectangle*
+
+5. {{::das.DA_OpenStepInMarkdownEditor_4}} *- green rectangle*
+
+{{::il.DA_OpenStepFile_FromBranches_img}}
+
+
+6. {{::das.DA_OpenStepInMarkdownEditor_5}}
+
+{{::il.DA_OpenStepFile_img}}
+

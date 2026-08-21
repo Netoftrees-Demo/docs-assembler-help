@@ -1,3 +1,7 @@
 
-¬DA_OpenStepInMarkdownEditor_1: In the **Context menu** that is displayed, select **Open step in markdown editor**.
+¬DA_OpenStepInMarkdownEditor_1: In the **branch view** of the **map editor**
+¬DA_OpenStepInMarkdownEditor_2: Scroll down to the step whose file you want to open.
+¬DA_OpenStepInMarkdownEditor_3: Right-click it to open the **Context menu**.
+¬DA_OpenStepInMarkdownEditor_4: In the **Context menu** that is displayed, select **Open step in markdown editor**.
+¬DA_OpenStepInMarkdownEditor_5: The step file opens to the side in the markdown editor.
 

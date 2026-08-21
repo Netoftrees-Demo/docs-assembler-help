@@ -1,0 +1,22 @@
+¬TODO 111 finish
+
+
+How to use the markdown editor
+ - how to build and edit markdown
+ - how to create imports and variable refs
+    - how to create a variable file
+ - undos
+    - git
+    - local history
+    - Ctrl+Z
+ - how to add a spelling extension
+ - understanding validation errors
+
+Also the ancillaries for:
+ - Syntax highlighting
+ - Diagnostics
+ - Intellisense
+ - Undo
+
+ 
+ NB OpenStepFile and EditingStepInstructions are similar and need to reduce redundancy.

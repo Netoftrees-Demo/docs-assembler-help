@@ -85,16 +85,8 @@
                                                 "option": "Quick access",
                                                 "nodes": [
                                                     {
-                                                        "key": "1PfkFn801q2",
-                                                        "order": 1,
-                                                        "option": "Open step file?",
-                                                        "isLeaf": true,
-                                                        "isAncillary": true,
-                                                        "iKey": "1Pg9kWv01kI"
-                                                    },
-                                                    {
                                                         "key": "1MlWm0c00Pm",
-                                                        "order": 2,
+                                                        "order": 1,
                                                         "option": "Undoing instruction changes made in the lens",
                                                         "isLeaf": true,
                                                         "isAncillary": true
@@ -102,13 +94,42 @@
                                                 ]
                                             },
                                             {
-                                                "key": "1Mlg5Hn02Ec",
+                                                "key": "1PyfdGk02Eo",
                                                 "order": 2,
                                                 "option": "Open in Markdown Editor",
                                                 "nodes": [
                                                     {
-                                                        "key": "1Mm0zFg01jr",
-                                                        "order": 1
+                                                        "key": "1Pyf2X7021W",
+                                                        "order": 1,
+                                                        "option": "Open from branch view",
+                                                        "isLeaf": true,
+                                                        "isAncillary": true
+                                                    },
+                                                    {
+                                                        "key": "1PyxSxg01f5",
+                                                        "order": 2,
+                                                        "option": "Open from lens",
+                                                        "isLeaf": true,
+                                                        "isAncillary": true
+                                                    },
+                                                    {
+                                                        "key": "1PyxWKY00sc",
+                                                        "order": 3,
+                                                        "option": "Open from Explorer",
+                                                        "isLeaf": true,
+                                                        "isAncillary": true,
+                                                        "iKey": "1PwYMC101eg"
+                                                    },
+                                                    {
+                                                        "key": "1Pz4Jez01vS",
+                                                        "order": 4,
+                                                        "nodes": [
+                                                            {
+                                                                "key": "1Pz4NlU01ni",
+                                                                "order": 1,
+                                                                "option": "Next"
+                                                            }
+                                                        ]
                                                     }
                                                 ]
                                             }
@@ -166,10 +187,6 @@
         {
             "key": "δ-1MlWhTb010g",
             "relativePath": "./δ steps/δ-1MlWhTb010g.tsstp"
-        },
-        {
-            "key": "δ-1Mlg5Hn02Ec",
-            "relativePath": "./δ steps/δ-1Mlg5Hn02Ec.tsstp"
         },
         {
             "key": "δ-1Mm03pf01Oc",
@@ -233,8 +250,24 @@
             "relativePath": "./δ steps/δ-1MlWm0c00Pm.tsstp"
         },
         {
-            "key": "δ-1PfkFn801q2",
-            "relativePath": "./δ steps/δ-1PfkFn801q2.tsstp"
+            "key": "δ-1PyfdGk02Eo",
+            "relativePath": "./δ steps/δ-1PyfdGk02Eo.tsstp"
+        },
+        {
+            "key": "δ-1Pyf2X7021W",
+            "relativePath": "./δ steps/δ-1Pyf2X7021W.tsstp"
+        },
+        {
+            "key": "δ-1PyxSxg01f5",
+            "relativePath": "./δ steps/δ-1PyxSxg01f5.tsstp"
+        },
+        {
+            "key": "δ-1PyxWKY00sc",
+            "relativePath": "./δ steps/δ-1PyxWKY00sc.tsstp"
+        },
+        {
+            "key": "δ-1Pz4Jez01vS",
+            "relativePath": "./δ steps/δ-1Pz4Jez01vS.tsstp"
         }
     ]
 }
