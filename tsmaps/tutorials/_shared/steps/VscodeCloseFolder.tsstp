@@ -4,7 +4,7 @@
 
 #### Close a folder open in vscode
 
-1. If vscode is empty the **Explorer** you will see the section header **NO FOLDER OPENED** *- green ring*  
+1. If vscode is empty in the **Explorer** you will see the section header **NO FOLDER OPENED** *- green ring*  
 and an **Open folder button**. *- yellow ring*
 
 2. {{::vs.Vscode_OpenExplorer_1}} *- red ring*

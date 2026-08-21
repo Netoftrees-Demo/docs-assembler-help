@@ -1,0 +1,67 @@
+{
+    "key": "1PwUq8b00at ",
+    "token": "Vscodeexplorernavigateandopenfile",
+    "name": "Vscode_Explorer_NavigateAndOpenFile",
+    "created": "2026-08-21T11:59:38.234Z",
+    "list": true,
+    "publishFileName": "Vscode_Explorer_NavigateAndOpenFile",
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_Explorer_NavigateAndOpenFile/Vscode_Explorer_NavigateAndOpenFile.tspod",
+    "isPod": true,
+    "iText": "Link to 'Vscode_Explorer_NavigateAndOpenFile'",
+    "___rΩΩt___": {
+        "key": "1PwNTjC0Ug",
+        "nodes": [
+            {
+                "key": "1PwNTjC1jK",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1PwNTjC1os",
+                        "order": 1,
+                        "option": "Search by file name?",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "1PwNTjC1jm",
+                        "order": 2,
+                        "option": "Open references?",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            },
+            {
+                "key": "1PwNTjC0H5",
+                "order": 2,
+                "option": "Navigating Explorer?",
+                "sharedAssetKey": "1OT3hwX00np",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1PwNTjC1jK",
+            "relativePath": "./δ steps/δ-1NX95lH00Vp.tsstp"
+        },
+        {
+            "key": "δ-1PwNTjC1os",
+            "relativePath": "./δ steps/δ-1NX9fpg01Os.tsstp"
+        },
+        {
+            "key": "δ-1PwNTjC1jm",
+            "relativePath": "./δ steps/δ-1NXC62r00pm.tsstp"
+        },
+        {
+            "key": "δ-1PwNTjC0Ug",
+            "relativePath": "./δ steps/δ-1NuHGUc02Am.tsstp"
+        },
+        {
+            "key": "1OT3hwX00np",
+            "relativePath": "../../../../_shared/steps/VscodeNavigateExplorer.tsstp",
+            "isShared": true
+        }
+    ]
+}

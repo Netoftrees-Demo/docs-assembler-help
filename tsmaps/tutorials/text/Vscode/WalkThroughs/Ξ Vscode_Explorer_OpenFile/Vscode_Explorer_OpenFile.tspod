@@ -1,0 +1,45 @@
+{
+    "key": "1PwXPKN026z ",
+    "token": "Vscodeexploreropenfile",
+    "name": "Vscode_Explorer_OpenFile",
+    "created": "2026-08-21T12:09:27.150Z",
+    "list": true,
+    "publishFileName": "Vscode_Explorer_OpenFile",
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_Explorer_OpenFile/Vscode_Explorer_OpenFile.tspod",
+    "isPod": true,
+    "iText": "Link to 'Vscode_Explorer_OpenFile'",
+    "___rΩΩt___": {
+        "key": "1NuGJF901ac",
+        "nodes": [
+            {
+                "key": "1NuHGUc02Am",
+                "order": 1,
+                "isLeaf": true,
+                "iKey": "1PwUq8b00at"
+            },
+            {
+                "key": "1NuGiZn02Xt",
+                "order": 2,
+                "option": "Explorer?",
+                "sharedAssetKey": "1NuIb2c003g",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1NuGJF901ac",
+            "relativePath": "./δ steps/δ-1NuGJF901ac.tsstp"
+        },
+        {
+            "key": "1NuIb2c003g",
+            "relativePath": "../../../../_shared/steps/VscodeOpenExplorer.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1NuHGUc02Am",
+            "relativePath": "./δ steps/δ-1NuHGUc02Am.tsstp"
+        }
+    ]
+}

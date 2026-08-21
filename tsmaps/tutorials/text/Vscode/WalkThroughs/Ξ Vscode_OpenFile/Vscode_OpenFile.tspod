@@ -21,50 +21,8 @@
             {
                 "key": "1NuGJF901ac",
                 "order": 2,
-                "nodes": [
-                    {
-                        "key": "1NuHGUc02Am",
-                        "order": 1,
-                        "nodes": [
-                            {
-                                "key": "1NX95lH00Vp",
-                                "order": 1,
-                                "nodes": [
-                                    {
-                                        "key": "1NX9fpg01Os",
-                                        "order": 1,
-                                        "option": "Search by file name?",
-                                        "isLeaf": true,
-                                        "isAncillary": true
-                                    },
-                                    {
-                                        "key": "1NXC62r00pm",
-                                        "order": 2,
-                                        "option": "Open references?",
-                                        "isLeaf": true,
-                                        "isAncillary": true
-                                    }
-                                ]
-                            },
-                            {
-                                "key": "1NuHWaq00sh",
-                                "order": 2,
-                                "option": "Navigating Explorer?",
-                                "sharedAssetKey": "1OT3hwX00np",
-                                "isLeaf": true,
-                                "isAncillary": true
-                            }
-                        ]
-                    },
-                    {
-                        "key": "1NuGiZn02Xt",
-                        "order": 2,
-                        "option": "Explorer?",
-                        "sharedAssetKey": "1NuIb2c003g",
-                        "isLeaf": true,
-                        "isAncillary": true
-                    }
-                ]
+                "isLeaf": true,
+                "iKey": "1PwXPKN026z"
             }
         ]
     },
@@ -74,43 +32,12 @@
             "relativePath": "./δ steps/δ-1NUMvCm008a.tsstp"
         },
         {
-            "key": "δ-1NX95lH00Vp",
-            "relativePath": "./δ steps/δ-1NX95lH00Vp.tsstp"
-        },
-        {
-            "key": "δ-1NX9fpg01Os",
-            "relativePath": "./δ steps/δ-1NX9fpg01Os.tsstp"
-        },
-        {
             "key": "δ-1NXAKHn01Kt",
             "relativePath": "./δ steps/δ-1NXAKHn01Kt.tsstp"
         },
         {
-            "key": "δ-1NXC62r00pm",
-            "relativePath": "./δ steps/δ-1NXC62r00pm.tsstp"
-        },
-        {
             "key": "δ-1NuGJF901ac",
             "relativePath": "./δ steps/δ-1NuGJF901ac.tsstp"
-        },
-        {
-            "key": "1NuIb2c003g",
-            "relativePath": "../../../../_shared/steps/VscodeOpenExplorer.tsstp",
-            "isShared": true
-        },
-        {
-            "key": "δ-1NuHGUc02Am",
-            "relativePath": "./δ steps/δ-1NuHGUc02Am.tsstp"
-        },
-        {
-            "key": "1OT3hwX00np",
-            "relativePath": "../../../../_shared/steps/VscodeNavigateExplorer.tsstp",
-            "isShared": true
         }
-    ],
-    "___εdit___": {
-        "id": "1OT3nUo00Pm",
-        "editorID": "car_5d0e49ba2555414181bbc738c7fb11a5",
-        "ticks": 1785962442546
-    }
+    ]
 }

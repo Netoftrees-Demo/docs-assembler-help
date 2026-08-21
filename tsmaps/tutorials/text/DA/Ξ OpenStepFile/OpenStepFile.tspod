@@ -35,13 +35,9 @@
                 "key": "1PgmpoZ02X5",
                 "order": 2,
                 "option": "From Explorer",
+                "isLeaf": true,
                 "isAncillary": true,
-                "nodes": [
-                    {
-                        "key": "1Pgmwr7019o",
-                        "order": 1
-                    }
-                ]
+                "iKey": "1PwYMC101eg"
             },
             {
                 "key": "1PgxiXT01Tu",
