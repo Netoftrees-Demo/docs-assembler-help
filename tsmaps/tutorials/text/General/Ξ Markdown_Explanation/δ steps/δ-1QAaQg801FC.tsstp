@@ -1,0 +1,4 @@
+## The One Catch
+
+Markdown is not built for **complex layouts**. You can’t easily set nested column widths, fine-tune image floats, or create complex nested tables. When you hit those limits, you embed raw HTML directly — and Markdown passes it through untouched. (One caveat: Markdown *inside* a raw HTML block usually isn’t parsed, so you can’t freely nest the two.)
+

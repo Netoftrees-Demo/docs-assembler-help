@@ -12,11 +12,13 @@ How to use the markdown editor
  - how to add a spelling extension
  - understanding validation errors
 
-Also the ancillaries for:
+ 
+ ### Notes
+
+OpenStepFile and EditingStepInstructions are similar and need to reduce redundancy.
+
+The ancillaries are in the wrong place - for:
  - Syntax highlighting
  - Diagnostics
  - Intellisense
  - Undo
-
- 
- NB OpenStepFile and EditingStepInstructions are similar and need to reduce redundancy.

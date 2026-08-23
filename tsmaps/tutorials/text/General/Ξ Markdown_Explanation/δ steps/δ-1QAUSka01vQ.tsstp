@@ -1,0 +1,15 @@
+## Where the Magic Happens: Extensions
+
+Modern Markdown isn’t just for the web. Thanks to extensions (all renderer-dependent, so check what your platform supports):
+
+- **Mathematical notation** — LaTeX equations via `$$` blocks (KaTeX/MathJax).
+- **Diagrams** — flowcharts and sequence diagrams via Mermaid code fences.
+- **Definition lists** and **custom attributes** (adding CSS classes or IDs to headings).
+
+
+## Why Use It Over a Word Processor or Pure HTML?
+
+1. **Future-proofing** — your notes are plain `.md` text files. They’ll open on any OS, in any decade, without proprietary software.
+2. **Version-control friendly** — because it’s plain text, `git diff` shows you *exactly* which words changed, unlike binary `.docx` files.
+3. **Separation of content and style** — you write the content; the theme (CSS, PDF template, or LaTeX styling) is applied externally. That’s the secret sauce behind static-site generators like **Hugo**, **Jekyll**, and **Astro**.
+

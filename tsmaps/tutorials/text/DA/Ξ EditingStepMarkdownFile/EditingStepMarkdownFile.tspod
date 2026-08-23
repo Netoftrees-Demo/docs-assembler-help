@@ -11,20 +11,34 @@
         "key": "1NuL5d801EZ",
         "nodes": [
             {
-                "key": "1NyuV4H01Z0",
+                "key": "1QAJnvU01vg",
                 "order": 1,
-                "option": "Markdown Syntax Reference",
+                "option": "Markdown?",
                 "isLeaf": true,
                 "isAncillary": true,
-                "iKey": "1O0MxGA02Kl"
+                "iKey": "1MYe3uA00ba"
             },
             {
-                "key": "1O0UE9801IW",
+                "key": "1QAJtEM01Co",
                 "order": 2,
-                "option": "Variable reference",
-                "isLeaf": true,
-                "isAncillary": true,
-                "iKey": "1Nys9zK013o"
+                "nodes": [
+                    {
+                        "key": "1QAJvGi00o5",
+                        "order": 1,
+                        "option": "Writing Markdown?",
+                        "isLeaf": true,
+                        "isAncillary": true,
+                        "iKey": "1O0MxGA02Kl"
+                    },
+                    {
+                        "key": "1QAPz9L015g",
+                        "order": 2,
+                        "option": "Using variables?",
+                        "isLeaf": true,
+                        "isAncillary": true,
+                        "iKey": "1Nys9zK013o"
+                    }
+                ]
             }
         ]
     },
@@ -34,17 +48,20 @@
             "relativePath": "./δ steps/δ-1NuL5d801EZ.tsstp"
         },
         {
-            "key": "δ-1NyuV4H01Z0",
-            "relativePath": "./δ steps/δ-1NyuV4H01Z0.tsstp"
+            "key": "δ-1QAJnvU01vg",
+            "relativePath": "./δ steps/δ-1QAJnvU01vg.tsstp"
         },
         {
-            "key": "δ-1O0UE9801IW",
-            "relativePath": "./δ steps/δ-1O0UE9801IW.tsstp"
+            "key": "δ-1QAJtEM01Co",
+            "relativePath": "./δ steps/δ-1QAJtEM01Co.tsstp"
+        },
+        {
+            "key": "δ-1QAJvGi00o5",
+            "relativePath": "./δ steps/δ-1QAJvGi00o5.tsstp"
+        },
+        {
+            "key": "δ-1QAPz9L015g",
+            "relativePath": "./δ steps/δ-1QAPz9L015g.tsstp"
         }
-    ],
-    "___εdit___": {
-        "id": "1OAUViO01EU",
-        "editorID": "car_58ebfdbb2e2c4ba993ab1e28f64ca210",
-        "ticks": 1785688058668
-    }
+    ]
 }

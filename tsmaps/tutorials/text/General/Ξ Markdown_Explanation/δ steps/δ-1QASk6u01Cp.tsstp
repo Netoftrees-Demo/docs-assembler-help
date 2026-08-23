@@ -1,0 +1,13 @@
+#### How it works
+
+When you write `**bold text**` or `# A heading`, a parser recognises those patterns and builds a structured model of your document (called an Abstract Syntax Tree), which is then rendered as clean HTML. So this:
+
+```markdown
+## Hello, *world*
+```
+
+becomes this:
+
+```html
+<h2>Hello, <em>world</em></h2>
+```

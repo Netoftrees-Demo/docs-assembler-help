@@ -1,0 +1,12 @@
+#### What is a variable?
+
+A variable is a named piece of content defined in a `.tsvar` file. It can contain:
+
+- A word or phrase (a product name, a version number)
+- A sentence or paragraph (a disclaimer, a warning)
+- Markdown formatting (a table, a list, a code block)
+- An image reference with path and alt text
+- Any combination of the above
+
+You define it once, then reference it in any step file with a simple syntax like `¬{{::alias.variable_name}}`.
+

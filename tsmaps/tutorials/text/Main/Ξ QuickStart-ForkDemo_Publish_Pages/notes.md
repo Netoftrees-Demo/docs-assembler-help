@@ -1,5 +1,11 @@
 # Remember
 
+!!!!!
+THE USER IS LOOKING at the help as a way of judging how effective it is to show them everything they need to know!!!
+It has to be exceptional. This is the first contact with it, how impressed they are determines if they talk about it or use it.
+It needs to have the AI set up so at least it can use the webAI...
+!!!!!
+
 CURRENTLY the minimal instruction is not given the whole lot is...
     - The instructions MUST not make smart chaps or old hands get irritated they must be minimal for them. the purpose of auxilliaries is to add to the basic instructions
         - Navigate to github.com in a browser is a minmal instruction.
@@ -114,4 +120,10 @@ Total pathways: ~10 quintillion
 That is 1.47 trillion times the number of English Wikipedia articles (~6.9 million).
 
 "
+
+
+## Explanation of how this help file works - needs to be at the start of any new guide
+
+Not sure where to start?
+The Ancillary buttons on the right let you pull in extra detail whenever you need it. Think of them as footnotes you can expand without losing your place — click one, and that topic drops into your reading thread right here.
 

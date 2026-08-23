@@ -8,36 +8,74 @@
     "isPod": true,
     "iText": "Link to 'MarkdownImportAndRefVariable'",
     "___rΩΩt___": {
-        "key": "1NysjS802UK",
+        "key": "1QAbdI80230",
         "nodes": [
             {
-                "key": "1NysGlt0228",
+                "key": "1QAcBgl01Cm",
                 "order": 1,
-                "option": "Root",
-                "sharedAssetKey": "1NysICz02JI",
+                "sharedAssetKey": "1QAg2Uw0013",
                 "nodes": [
                     {
-                        "key": "1NysHs3025t",
+                        "key": "1QAgRct02EU",
                         "order": 1,
-                        "sharedAssetKey": "1NysLYs02TO",
+                        "sharedAssetKey": "1QAgS1R01pJ",
                         "nodes": [
                             {
-                                "key": "1NysL3F02He",
+                                "key": "1NysjS802UK",
                                 "order": 1,
                                 "nodes": [
                                     {
-                                        "key": "1OC1rCL02SK",
+                                        "key": "1NysGlt0228",
                                         "order": 1,
-                                        "option": "Diagnotics?",
-                                        "isLeaf": true,
-                                        "isAncillary": true,
-                                        "iKey": "1OBT20k00xp"
+                                        "option": "Root",
+                                        "sharedAssetKey": "1NysICz02JI",
+                                        "nodes": [
+                                            {
+                                                "key": "1NysHs3025t",
+                                                "order": 1,
+                                                "sharedAssetKey": "1NysLYs02TO",
+                                                "nodes": [
+                                                    {
+                                                        "key": "1NysL3F02He",
+                                                        "order": 1,
+                                                        "nodes": [
+                                                            {
+                                                                "key": "1OC1rCL02SK",
+                                                                "order": 1,
+                                                                "option": "Diagnotics?",
+                                                                "isLeaf": true,
+                                                                "isAncillary": true,
+                                                                "iKey": "1OBT20k00xp"
+                                                            },
+                                                            {
+                                                                "key": "1QAMQ55016v",
+                                                                "order": 2,
+                                                                "nodes": [
+                                                                    {
+                                                                        "key": "1QAMRP800dT",
+                                                                        "order": 1
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
                                     }
                                 ]
                             }
                         ]
                     }
                 ]
+            },
+            {
+                "key": "1QAdvle02Gb",
+                "order": 2,
+                "option": "Why use variables?",
+                "sharedAssetKey": "1QAe6cU01NS",
+                "isLeaf": true,
+                "isAncillary": true
             }
         ]
     },
@@ -63,11 +101,29 @@
         {
             "key": "δ-1OC1rCL02SK",
             "relativePath": "./δ steps/δ-1OC1rCL02SK.tsstp"
+        },
+        {
+            "key": "δ-1QAMQ55016v",
+            "relativePath": "./δ steps/δ-1QAMQ55016v.tsstp"
+        },
+        {
+            "key": "δ-1QAbdI80230",
+            "relativePath": "./δ steps/δ-1QAbdI80230.tsstp"
+        },
+        {
+            "key": "1QAg2Uw0013",
+            "relativePath": "../../../_shared/steps/WhatIsAVariable.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "1QAe6cU01NS",
+            "relativePath": "../../../_shared/steps/WhyUseVariables.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "1QAgS1R01pJ",
+            "relativePath": "../../../_shared/steps/WhenToUseAVariable.tsstp",
+            "isShared": true
         }
-    ],
-    "___εdit___": {
-        "id": "1OC1xaE01cl",
-        "editorID": "car_2a3af81f72b04b2e9ac80f29f79ee120",
-        "ticks": 1785710806954
-    }
+    ]
 }

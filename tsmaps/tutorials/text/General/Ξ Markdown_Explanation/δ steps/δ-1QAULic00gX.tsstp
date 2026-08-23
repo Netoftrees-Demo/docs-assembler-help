@@ -1,0 +1,10 @@
+## The "flavours" you might encounter
+
+Original Markdown (sometimes called "Vanilla" or "Gruber Markdown") is deliberately sparse: no tables, footnotes, strikethrough, or task lists. That gap is why **flavours** (dialects) exist:
+
+- **CommonMark** — a rigorous, unambiguous specification created to end the "ambiguity wars" between parsers.
+- **GitHub Flavored Markdown (GFM)** — adds tables, task lists (`- [x]`), strikethrough (`~~`), and automatic URL linking.
+- **Pandoc Markdown** — footnotes, citations, and metadata; powered by Pandoc, the engine that converts `.md` into HTML, PDF, Word, slides, and more.
+- **MultiMarkdown** — an early superset adding tables, footnotes, and glossaries.
+- **R Markdown** — a literate-programming system that weaves executable code (R/Python) into narrative prose.
+

@@ -1,0 +1,21 @@
+### Why use variables?
+
+Variables solve a problem every documentation system faces: **content drift**.
+
+Imagine your product name appears in twenty different step files. You rebrand. Now you must find and update every single occurrence — and miss one, and your documentation looks unprofessional.
+
+Or imagine a screenshot that appears in five guides. The UI changes. You must replace five copies of the image, hoping you caught them all.
+
+Variables fix this by keeping the **source in one place**.
+
+
+### The benefits
+
+| Benefit | What it means in practice |
+|---------|---------------------------|
+| **Single source of truth** | Update the variable once, every reference updates automatically |
+| **No drift** | Multiple copies of the same text cannot diverge over time |
+| **Path tracking** | When you define a URL or image path as a variable, Docs Assembler tracks it. Move, copy, or clone the file, and the path is automatically corrected for the new location |
+| **Consistency** | The same warning, the same product name, the same screenshot every time |
+| **Easier maintenance** | Less text to review, less to translate, less to keep in sync |
+

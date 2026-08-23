@@ -1,0 +1,7 @@
+#### Why Markdown for step files?
+
+- **Future-proof** — your content is plain text. It will open on any OS, in any decade, without proprietary software.
+- **Version-control friendly** — because it is plain text, `git diff` shows you exactly which words changed, unlike binary `.docx` files.
+- **Separation of content and style** — you write the content; the theme is applied externally. That is the foundational logic behind static-site generators and documentation systems like Docs Assembler.
+- **Fast to write** — no mouse required. Your fingers never leave the keyboard.
+

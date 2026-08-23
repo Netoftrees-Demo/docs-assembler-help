@@ -1,0 +1,8 @@
+#### When to use variables
+
+- **Product names, version numbers, URLs** — anything that might change
+- **Repeated warnings or disclaimers** — legal text, beta notices, support contacts
+- **Shared images or diagrams** — screenshots that appear in multiple guides
+- **Common tables or lists** — supported browsers, system requirements, feature matrices
+- **Any content reused across two or more step files** — if you find yourself copy-pasting, use a variable
+

@@ -1,4 +1,7 @@
 ### Editing a markdown step file
 
-You may need to check Markdown syntax or reuse content from variable files. The following sections cover both.
+
+A `.tsstp` file is a single step in a guide. Think of it as one page in an instruction manual — it contains the text, images, tables, and code examples that help the reader complete one part of a task.
+
+You write step files in **Markdown**, a plain-text formatting system. Instead of clicking toolbar buttons to make text bold or create headings, you use simple symbols like `**double asterisks**` for bold or `# hash symbols` for headings. The result is clean, readable text that renders beautifully when published.
 

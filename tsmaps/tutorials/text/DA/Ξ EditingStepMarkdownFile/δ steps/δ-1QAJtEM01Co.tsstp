@@ -1,0 +1,6 @@
+Step files become powerful when you combine Markdown with **variables**. Variables are reusable pieces of content — a product name, a disclaimer, a screenshot, an entire table — that are defined in separate `.tsvar` files and referenced in your step file. Change the variable in one place, and every step that uses it updates automatically.
+
+When you edit a step file in VS Code, you get live preview, syntax highlighting, and IntelliSense autocomplete that guides you through both Markdown syntax and variable references. See [The editing experience] for what is available.
+
+##### *If any of these are new to you, click the Ancillary buttons below right to pull that topic into your thread.*
+

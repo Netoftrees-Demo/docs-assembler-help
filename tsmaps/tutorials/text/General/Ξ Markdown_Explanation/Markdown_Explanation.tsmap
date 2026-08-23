@@ -6,20 +6,58 @@
     "list": true,
     "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/General/Ξ Markdown_Explanation/Markdown_Explanation.tsmap",
     "iText": "Link to 'Markdown_Explanation'",
-    "___εdit___": {
-        "id": "1NEAxcq006O",
-        "editorID": "exp_a0ef5e499e0f4e43859a28234d3d8ded",
-        "ticks": 1784826371908
-    },
     "___rΩΩt___": {
         "key": "1MYe6rv026F",
         "nodes": [
             {
                 "key": "1MYeH3F02Xb",
                 "order": 1,
-                "option": "More detail?",
+                "option": "Philosophy & Origin?",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "1QAKEr401gf",
+                        "order": 1,
+                        "nodes": [
+                            {
+                                "key": "1QAKHRh00pu",
+                                "order": 1,
+                                "option": "Next"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "1QAULic00gX",
+                "order": 2,
+                "option": "Flavours?",
                 "isLeaf": true,
                 "isAncillary": true
+            },
+            {
+                "key": "1QAUSka01vQ",
+                "order": 3,
+                "option": "Extensions?",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "1QASk6u01Cp",
+                "order": 4,
+                "nodes": [
+                    {
+                        "key": "1QASl5r00vk",
+                        "order": 1,
+                        "nodes": [
+                            {
+                                "key": "1QAaQg801FC",
+                                "order": 1,
+                                "isLeaf": true
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -31,6 +69,30 @@
         {
             "key": "δ-1MYeH3F02Xb",
             "relativePath": "./δ steps/δ-1MYeH3F02Xb.tsstp"
+        },
+        {
+            "key": "δ-1QAKEr401gf",
+            "relativePath": "./δ steps/δ-1QAKEr401gf.tsstp"
+        },
+        {
+            "key": "δ-1QASk6u01Cp",
+            "relativePath": "./δ steps/δ-1QASk6u01Cp.tsstp"
+        },
+        {
+            "key": "δ-1QASl5r00vk",
+            "relativePath": "./δ steps/δ-1QASl5r00vk.tsstp"
+        },
+        {
+            "key": "δ-1QAULic00gX",
+            "relativePath": "./δ steps/δ-1QAULic00gX.tsstp"
+        },
+        {
+            "key": "δ-1QAUSka01vQ",
+            "relativePath": "./δ steps/δ-1QAUSka01vQ.tsstp"
+        },
+        {
+            "key": "δ-1QAaQg801FC",
+            "relativePath": "./δ steps/δ-1QAaQg801FC.tsstp"
         }
     ]
 }
