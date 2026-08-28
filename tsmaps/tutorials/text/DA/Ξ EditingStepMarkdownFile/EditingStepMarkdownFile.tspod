@@ -38,68 +38,9 @@
                         "key": "1Qbg5gh01Op",
                         "order": 2,
                         "option": "Markown playground",
+                        "isLeaf": true,
                         "isAncillary": true,
-                        "nodes": [
-                            {
-                                "key": "1QbmKEz02Vd",
-                                "order": 1,
-                                "nodes": [
-                                    {
-                                        "key": "1QbjMtF01iR",
-                                        "order": 1,
-                                        "isLeaf": true
-                                    }
-                                ]
-                            },
-                            {
-                                "key": "1QblXlp00dc",
-                                "order": 2,
-                                "option": "More details?",
-                                "isAncillary": true,
-                                "nodes": [
-                                    {
-                                        "key": "1Qc50to007y",
-                                        "order": 1,
-                                        "nodes": [
-                                            {
-                                                "key": "1Qby3iq027H",
-                                                "order": 1,
-                                                "sharedAssetKey": "1Qby5Vm01LS",
-                                                "nodes": [
-                                                    {
-                                                        "key": "1Qby53y01aX",
-                                                        "order": 1,
-                                                        "nodes": [
-                                                            {
-                                                                "key": "1QbyfRP01bL",
-                                                                "order": 1,
-                                                                "isLeaf": true
-                                                            },
-                                                            {
-                                                                "key": "1Qc0Om202Ng",
-                                                                "order": 2,
-                                                                "option": "Save?",
-                                                                "isLeaf": true,
-                                                                "isAncillary": true,
-                                                                "iKey": "1LW68xy01TF"
-                                                            }
-                                                        ]
-                                                    }
-                                                ]
-                                            },
-                                            {
-                                                "key": "1Qc59Fz01hr",
-                                                "order": 2,
-                                                "option": "Navigate Explorer?",
-                                                "sharedAssetKey": "1Qc5LRF015K",
-                                                "isLeaf": true,
-                                                "isAncillary": true
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ]
+                        "iKey": "1QcQ6PA026R"
                     },
                     {
                         "key": "1QAJvGi00o5",
@@ -141,44 +82,6 @@
         {
             "key": "δ-1Qbg5gh01Op",
             "relativePath": "./δ steps/δ-1Qbg5gh01Op.tsstp"
-        },
-        {
-            "key": "δ-1QbjMtF01iR",
-            "relativePath": "./δ steps/δ-1QbjMtF01iR.tsstp"
-        },
-        {
-            "key": "δ-1QblXlp00dc",
-            "relativePath": "./δ steps/δ-1QblXlp00dc.tsstp"
-        },
-        {
-            "key": "δ-1QbmKEz02Vd",
-            "relativePath": "./δ steps/δ-1QbmKEz02Vd.tsstp"
-        },
-        {
-            "key": "1Qby5Vm01LS",
-            "relativePath": "../../../_shared/steps/VscodeCreateFile.tsstp",
-            "isShared": true
-        },
-        {
-            "key": "δ-1Qby53y01aX",
-            "relativePath": "./δ steps/δ-1Qby53y01aX.tsstp"
-        },
-        {
-            "key": "δ-1QbyfRP01bL",
-            "relativePath": "./δ steps/δ-1QbyfRP01bL.tsstp"
-        },
-        {
-            "key": "δ-1Qc0Om202Ng",
-            "relativePath": "./δ steps/δ-1Qc0Om202Ng.tsstp"
-        },
-        {
-            "key": "δ-1Qc50to007y",
-            "relativePath": "./δ steps/δ-1Qc50to007y.tsstp"
-        },
-        {
-            "key": "1Qc5LRF015K",
-            "relativePath": "../../../_shared/steps/VscodeNavigateExplorer.tsstp",
-            "isShared": true
         }
     ]
 }

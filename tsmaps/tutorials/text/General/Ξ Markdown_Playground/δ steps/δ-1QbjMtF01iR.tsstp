@@ -14,7 +14,7 @@ You can also force a line break by adding two spaces at the end of a line, like 
 **Bold text** is made with `**` or `__`.  
 *Italic text* is made with `*` or `_`.  
 ***Bold and italic*** uses three `***`.  
-~~Strikethrough~~ uses `~~`.  
+~~Strike through~~ uses `~~`.  
 `Inline code` uses backticks.
 
 ### I am a tertiary heading (h3) – Let's talk about lists
