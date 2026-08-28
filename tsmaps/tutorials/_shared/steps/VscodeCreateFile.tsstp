@@ -1,0 +1,23 @@
+¬import il from "../variables/imageLinks"
+
+
+2. Right-click that folder. *- yellow ring*
+
+3. The **Context menu** displays. *- green ring*
+
+4. Select **New File...**. *- red ring*
+
+{{::il.Vscode_CreateFile_1_img}}
+
+
+5. A new entry appears in that folder with a textbox to type in the file name. Enter the file name you want with the extension. In this case the file name was for a step file (`.tsstp`): `VscodeCreateFile.tsstp`. *- red ring*
+
+6. Click **Enter** on your keyboard to finish editing the name and create the file.
+
+{{::il.Vscode_CreateFile_2_img}}
+
+
+7. The file is created. *- red ring*
+
+8. And opened in the editor. *- yellow ring*
+

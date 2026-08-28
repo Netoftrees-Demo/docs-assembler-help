@@ -2,7 +2,7 @@
 
 
 How to use the markdown editor
- - how to build and edit markdown
+ - Need an example file for them to start with as an ancillary
  - how to create imports and variable refs
     - how to create a variable file
  - undos
@@ -12,13 +12,3 @@ How to use the markdown editor
  - how to add a spelling extension
  - understanding validation errors
 
- 
- ### Notes
-
-OpenStepFile and EditingStepInstructions are similar and need to reduce redundancy.
-
-The ancillaries are in the wrong place - for:
- - Syntax highlighting
- - Diagnostics
- - Intellisense
- - Undo

@@ -17,7 +17,21 @@
                     {
                         "key": "1O0NXMc012b",
                         "order": 1,
-                        "isLeaf": true
+                        "nodes": [
+                            {
+                                "key": "1Qbidb100LY",
+                                "order": 1,
+                                "option": "Markdown playground",
+                                "isAncillary": true,
+                                "nodes": [
+                                    {
+                                        "key": "1Qbiu8u02KQ",
+                                        "order": 1,
+                                        "isLeaf": true
+                                    }
+                                ]
+                            }
+                        ]
                     }
                 ]
             },
@@ -47,11 +61,14 @@
         {
             "key": "δ-1OAUs0p00d6",
             "relativePath": "./δ steps/δ-1OAUs0p00d6.tsstp"
+        },
+        {
+            "key": "δ-1Qbidb100LY",
+            "relativePath": "./δ steps/δ-1Qbidb100LY.tsstp"
+        },
+        {
+            "key": "δ-1Qbiu8u02KQ",
+            "relativePath": "./δ steps/δ-1Qbiu8u02KQ.tsstp"
         }
-    ],
-    "___εdit___": {
-        "id": "1OAUxLW01UT",
-        "editorID": "car_3431f6150d014ccfacffb93a76039996",
-        "ticks": 1785688164882
-    }
+    ]
 }
