@@ -23,20 +23,24 @@
                 "order": 2,
                 "nodes": [
                     {
-                        "key": "1QAJvGi00o5",
+                        "key": "1QbJAXe02PO",
                         "order": 1,
-                        "option": "Writing Markdown?",
+                        "nodes": [
+                            {
+                                "key": "1QbJCwi011Z",
+                                "order": 1,
+                                "isLeaf": true,
+                                "iKey": "1Nys9zK013o"
+                            }
+                        ]
+                    },
+                    {
+                        "key": "1QAJvGi00o5",
+                        "order": 2,
+                        "option": "Markdown syntax reference",
                         "isLeaf": true,
                         "isAncillary": true,
                         "iKey": "1O0MxGA02Kl"
-                    },
-                    {
-                        "key": "1QAPz9L015g",
-                        "order": 2,
-                        "option": "Using variables?",
-                        "isLeaf": true,
-                        "isAncillary": true,
-                        "iKey": "1Nys9zK013o"
                     }
                 ]
             }
@@ -60,8 +64,12 @@
             "relativePath": "./δ steps/δ-1QAJvGi00o5.tsstp"
         },
         {
-            "key": "δ-1QAPz9L015g",
-            "relativePath": "./δ steps/δ-1QAPz9L015g.tsstp"
+            "key": "δ-1QbJAXe02PO",
+            "relativePath": "./δ steps/δ-1QbJAXe02PO.tsstp"
+        },
+        {
+            "key": "δ-1QbJCwi011Z",
+            "relativePath": "./δ steps/δ-1QbJCwi011Z.tsstp"
         }
     ]
 }

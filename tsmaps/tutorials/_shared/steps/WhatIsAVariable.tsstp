@@ -8,5 +8,5 @@ A variable is a named piece of content defined in a `.tsvar` file. It can contai
 - An image reference with path and alt text
 - Any combination of the above
 
-You define it once, then reference it in any step file with a simple syntax like `¬{{::alias.variable_name}}`.
+You define it once, then reference it in any step file.
 

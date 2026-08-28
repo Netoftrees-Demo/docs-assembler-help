@@ -13,20 +13,8 @@
                 "key": "1MYeH3F02Xb",
                 "order": 1,
                 "option": "Philosophy & Origin?",
-                "isAncillary": true,
-                "nodes": [
-                    {
-                        "key": "1QAKEr401gf",
-                        "order": 1,
-                        "nodes": [
-                            {
-                                "key": "1QAKHRh00pu",
-                                "order": 1,
-                                "option": "Next"
-                            }
-                        ]
-                    }
-                ]
+                "isLeaf": true,
+                "isAncillary": true
             },
             {
                 "key": "1QAULic00gX",
@@ -69,10 +57,6 @@
         {
             "key": "δ-1MYeH3F02Xb",
             "relativePath": "./δ steps/δ-1MYeH3F02Xb.tsstp"
-        },
-        {
-            "key": "δ-1QAKEr401gf",
-            "relativePath": "./δ steps/δ-1QAKEr401gf.tsstp"
         },
         {
             "key": "δ-1QASk6u01Cp",

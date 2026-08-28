@@ -1,6 +1,14 @@
-Step files become powerful when you combine Markdown with **variables**. Variables are reusable pieces of content — a product name, a disclaimer, a screenshot, an entire table — that are defined in separate `.tsvar` files and referenced in your step file. Change the variable in one place, and every step that uses it updates automatically.
+### The editing experience
 
-When you edit a step file in VS Code, you get live preview, syntax highlighting, and IntelliSense autocomplete that guides you through both Markdown syntax and variable references. See [The editing experience] for what is available.
+When you open a `.tsstp` or `.tsvar` file in VS Code, the editor treats it as standard Markdown and gives you these powerful aids:
 
-##### *If any of these are new to you, click the Ancillary buttons below right to pull that topic into your thread.*
+#### Syntax highlighting
+
+Headings, lists, code blocks, bold text, and other Markdown elements are colour-coded automatically. This makes the structure of your document visible at a glance and helps you spot syntax errors — like a missing closing backtick or an unclosed emphasis marker.
+
+#### Live preview
+
+Open the Markdown preview pane with `Ctrl+Shift+V`. As you type in the editor, the preview updates in real time. This is invaluable for checking table alignment, verifying image paths, and seeing exactly how your step will look when published.
+
+> **Tip:** The live preview and IntelliSense work together. Use the preview to see the rendered result, and IntelliSense to insert variable references without errors.
 

@@ -1,7 +1,15 @@
-### Editing a markdown step file
-
+### Editing a markdown step file in VS Code
 
 A `.tsstp` file is a single step in a guide. Think of it as one page in an instruction manual — it contains the text, images, tables, and code examples that help the reader complete one part of a task.
 
 You write step files in **Markdown**, a plain-text formatting system. Instead of clicking toolbar buttons to make text bold or create headings, you use simple symbols like `**double asterisks**` for bold or `# hash symbols` for headings. The result is clean, readable text that renders beautifully when published.
 
+When you open a `.tsstp` or `.tsvar` file in VS Code, the editor treats it as standard Markdown and gives you these powerful aids:
+
+#### Syntax highlighting
+
+Headings, lists, code blocks, bold text, and other Markdown elements are colour-coded automatically. This makes the structure of your document visible at a glance and helps you spot syntax errors — like a missing closing backtick or an unclosed emphasis marker.
+
+#### Live preview
+
+Open the Markdown preview pane with `Ctrl+Shift+V`. As you type in the editor, the preview updates in real time. This is invaluable for checking table alignment, verifying image paths, and seeing exactly how your step will look when published.

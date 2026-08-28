@@ -1,0 +1,4 @@
+### Docs Assembler variables
+
+Step files become powerful when you combine Markdown with **variables**. Variables are reusable pieces of content — a product name, a disclaimer, a screenshot, an entire table — that are defined in separate `.tsvar` files and referenced in your step file. Change the variable in one place, and every step that uses it updates automatically.
+

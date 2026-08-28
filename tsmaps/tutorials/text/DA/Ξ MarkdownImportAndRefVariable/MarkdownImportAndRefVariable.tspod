@@ -21,39 +21,40 @@
                         "sharedAssetKey": "1QAgS1R01pJ",
                         "nodes": [
                             {
-                                "key": "1NysjS802UK",
+                                "key": "1QbCR9L01H6",
                                 "order": 1,
                                 "nodes": [
                                     {
-                                        "key": "1NysGlt0228",
+                                        "key": "1QbV53N02W3",
                                         "order": 1,
-                                        "option": "Root",
-                                        "sharedAssetKey": "1NysICz02JI",
                                         "nodes": [
                                             {
-                                                "key": "1NysHs3025t",
+                                                "key": "1NysjS802UK",
                                                 "order": 1,
-                                                "sharedAssetKey": "1NysLYs02TO",
                                                 "nodes": [
                                                     {
-                                                        "key": "1NysL3F02He",
+                                                        "key": "1NysGlt0228",
                                                         "order": 1,
+                                                        "sharedAssetKey": "1NysICz02JI",
                                                         "nodes": [
                                                             {
-                                                                "key": "1OC1rCL02SK",
+                                                                "key": "1NysHs3025t",
                                                                 "order": 1,
-                                                                "option": "Diagnotics?",
-                                                                "isLeaf": true,
-                                                                "isAncillary": true,
-                                                                "iKey": "1OBT20k00xp"
-                                                            },
-                                                            {
-                                                                "key": "1QAMQ55016v",
-                                                                "order": 2,
+                                                                "sharedAssetKey": "1NysLYs02TO",
                                                                 "nodes": [
                                                                     {
-                                                                        "key": "1QAMRP800dT",
-                                                                        "order": 1
+                                                                        "key": "1NysL3F02He",
+                                                                        "order": 1,
+                                                                        "nodes": [
+                                                                            {
+                                                                                "key": "1QbRGd101aP",
+                                                                                "order": 1,
+                                                                                "option": "Diagnostics?",
+                                                                                "isLeaf": true,
+                                                                                "isAncillary": true,
+                                                                                "iKey": "1OBT20k00xp"
+                                                                            }
+                                                                        ]
                                                                     }
                                                                 ]
                                                             }
@@ -99,14 +100,6 @@
             "relativePath": "./δ steps/δ-1NysjS802UK.tsstp"
         },
         {
-            "key": "δ-1OC1rCL02SK",
-            "relativePath": "./δ steps/δ-1OC1rCL02SK.tsstp"
-        },
-        {
-            "key": "δ-1QAMQ55016v",
-            "relativePath": "./δ steps/δ-1QAMQ55016v.tsstp"
-        },
-        {
             "key": "δ-1QAbdI80230",
             "relativePath": "./δ steps/δ-1QAbdI80230.tsstp"
         },
@@ -124,6 +117,18 @@
             "key": "1QAgS1R01pJ",
             "relativePath": "../../../_shared/steps/WhenToUseAVariable.tsstp",
             "isShared": true
+        },
+        {
+            "key": "δ-1QbCR9L01H6",
+            "relativePath": "./δ steps/δ-1QbCR9L01H6.tsstp"
+        },
+        {
+            "key": "δ-1QbRGd101aP",
+            "relativePath": "./δ steps/δ-1QbRGd101aP.tsstp"
+        },
+        {
+            "key": "δ-1QbV53N02W3",
+            "relativePath": "./δ steps/δ-1QbV53N02W3.tsstp"
         }
     ]
 }

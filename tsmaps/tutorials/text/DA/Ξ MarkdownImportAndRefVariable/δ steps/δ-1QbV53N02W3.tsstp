@@ -1,0 +1,10 @@
+#### IntelliSense autocomplete
+
+Docs Assembler adds IntelliSense support for its own directives:
+
+- **Import completion** — type `¬` and the editor suggests `import`, then guides you through choosing an alias and navigating to the correct `.tsvar` file
+- **Variable reference completion** — type `{{::` and the editor shows every imported alias; select one, and it lists every variable in that file
+- **Path navigation** — as you type `../` or `./`, a dropdown shows available folders and files
+
+This means you rarely need to remember exact variable names or file paths. A single typo — `logo_image` mistyped as `logo_img` — would break your build, but IntelliSense prevents that entirely.
+

@@ -1,0 +1,11 @@
+#### The import system
+
+Before you can reference variables, you **import** the `.tsvar` file that contains them. This happens at the top of your step file with a line like:
+
+```
+¬import il from "../variables/imageLinks"
+```
+
+The `il` is an alias — a short name that you choose. From then on, every variable from that file is available through that short_name followed by a full stop followed by the variable_name, like this:  
+`¬{{::il.variable_name}}`.
+
