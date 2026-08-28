@@ -1,0 +1,25 @@
+{
+    "key": "1QdFI0t01Bc ",
+    "token": "Vscodeinstallcodespellchecker",
+    "name": "Vscode_InstallCodeSpellChecker",
+    "created": "2026-08-28T19:26:50.487Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_InstallCodeSpellChecker/Vscode_InstallCodeSpellChecker.tspod",
+    "isPod": true,
+    "iText": "Link to 'Vscode_InstallCodeSpellChecker'",
+    "___rΩΩt___": {
+        "key": "1QdFUBd01pu",
+        "nodes": [
+            {
+                "key": "1QdFiPt00ZA",
+                "order": 1
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1QdFUBd01pu",
+            "relativePath": "./δ steps/δ-1QdFUBd01pu.tsstp"
+        }
+    ]
+}

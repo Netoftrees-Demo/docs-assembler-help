@@ -407,6 +407,27 @@
 ¬Vscode_CreateFile_3_url: ../../../assets/images/Vscode/vscode_CreateFile_3.png
 ¬Vscode_CreateFile_3_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_CreateFile_3_url}})
 
+¬Vscode_InstallCodeSpellChecker_1_url: ../../../assets/images/Vscode/vscode_InstallCodeSpellChecker_1.png
+¬Vscode_InstallCodeSpellChecker_1_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_InstallCodeSpellChecker_1_url}})
+
+¬Vscode_InstallCodeSpellChecker_2_url: ../../../assets/images/Vscode/vscode_InstallCodeSpellChecker_2.png
+¬Vscode_InstallCodeSpellChecker_2_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_InstallCodeSpellChecker_2_url}})
+
+¬Vscode_InstallCodeSpellChecker_3_url: ../../../assets/images/Vscode/vscode_InstallCodeSpellChecker_3.png
+¬Vscode_InstallCodeSpellChecker_3_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_InstallCodeSpellChecker_3_url}})
+
+¬Vscode_InstallCodeSpellChecker_4_url: ../../../assets/images/Vscode/vscode_InstallCodeSpellChecker_4.png
+¬Vscode_InstallCodeSpellChecker_4_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_InstallCodeSpellChecker_4_url}})
+
+¬Vscode_InstallCodeSpellChecker_5_url: ../../../assets/images/Vscode/vscode_InstallCodeSpellChecker_5.png
+¬Vscode_InstallCodeSpellChecker_5_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_InstallCodeSpellChecker_5_url}})
+
+¬Vscode_InstallCodeSpellChecker_6_url: ../../../assets/images/Vscode/vscode_InstallCodeSpellChecker_6.png
+¬Vscode_InstallCodeSpellChecker_6_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_InstallCodeSpellChecker_6_url}})
+
+¬Vscode_InstallCodeSpellChecker_7_url: ../../../assets/images/Vscode/vscode_InstallCodeSpellChecker_7.png
+¬Vscode_InstallCodeSpellChecker_7_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_InstallCodeSpellChecker_7_url}})
+
 ¬GitHub_ForkButton_url: ../../../assets/images/GitHub/GitHub_ForkButton.png
 ¬GitHub_ForkButton_img: ![Vscode - empty]({{::GitHub_ForkButton_url}})
 

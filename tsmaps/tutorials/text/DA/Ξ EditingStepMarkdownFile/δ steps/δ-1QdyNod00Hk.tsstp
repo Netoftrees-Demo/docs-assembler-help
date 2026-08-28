@@ -1,0 +1,21 @@
+#### Live preview
+
+Open the Markdown preview pane with: 
+ - `Ctrl+Shift+V` - replacing the editor view.
+ - `Ctrl+K V` - to the side - as you type in the editor, the preview updates in real time. This is invaluable for checking table alignment, verifying image paths, and seeing exactly how your step will look when published.
+
+> **Tip:** The live preview and IntelliSense work together. Use the preview to see the rendered result, and IntelliSense to insert variable references without errors.
+
+
+#### Spell checking as you type
+
+VS Code does not include spell checking out of the box. It must be added via an extension. We recommend **Code Spell Checker** — a fast, reliable tool that underlines misspelled words with a subtle squiggle while you write. It understands Markdown natively, so it skips code blocks and URLs automatically and only flags real prose errors.
+
+Because `.tsstp` files use custom syntax for variable references, the checker is configured to ignore:
+- `¬{{::variable.name}}` placeholders
+- `¬import ...` preprocessor lines
+
+This means you get clean, accurate spell checking on your actual content without noise from Docs Assembler's machinery.
+
+The extension is installed once for VS Code. But each repository must then be configured separately to activate it.
+

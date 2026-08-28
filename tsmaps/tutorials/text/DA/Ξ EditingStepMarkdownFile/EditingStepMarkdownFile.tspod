@@ -23,34 +23,62 @@
                 "order": 2,
                 "nodes": [
                     {
-                        "key": "1QbJAXe02PO",
+                        "key": "1QdyNod00Hk",
                         "order": 1,
                         "nodes": [
                             {
-                                "key": "1QbJCwi011Z",
+                                "key": "1Qca99x00pe",
                                 "order": 1,
+                                "nodes": [
+                                    {
+                                        "key": "1QbJAXe02PO",
+                                        "order": 1,
+                                        "nodes": [
+                                            {
+                                                "key": "1QbJCwi011Z",
+                                                "order": 1,
+                                                "isLeaf": true,
+                                                "iKey": "1Nys9zK013o"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "key": "1QdyksP00D3",
+                                "order": 2,
+                                "option": "Set up spell checking?",
                                 "isLeaf": true,
-                                "iKey": "1Nys9zK013o"
+                                "isAncillary": true,
+                                "iKey": "1QdFI0t01Bc"
                             }
                         ]
                     },
                     {
-                        "key": "1Qbg5gh01Op",
+                        "key": "1QcW5Lk00EQ",
                         "order": 2,
-                        "option": "Markown playground",
+                        "option": "Syntax highlighting?",
                         "isLeaf": true,
                         "isAncillary": true,
-                        "iKey": "1QcQ6PA026R"
-                    },
-                    {
-                        "key": "1QAJvGi00o5",
-                        "order": 3,
-                        "option": "Markdown syntax reference",
-                        "isLeaf": true,
-                        "isAncillary": true,
-                        "iKey": "1O0MxGA02Kl"
+                        "iKey": "1NEBJDK0tT"
                     }
                 ]
+            },
+            {
+                "key": "1QcVL8X00lo",
+                "order": 3,
+                "option": "Markdown syntax reference",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "1O0MxGA02Kl"
+            },
+            {
+                "key": "1QcVPC300LF",
+                "order": 4,
+                "option": "Markdown playground",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "1QcQ6PA026R"
             }
         ]
     },
@@ -68,10 +96,6 @@
             "relativePath": "./δ steps/δ-1QAJtEM01Co.tsstp"
         },
         {
-            "key": "δ-1QAJvGi00o5",
-            "relativePath": "./δ steps/δ-1QAJvGi00o5.tsstp"
-        },
-        {
             "key": "δ-1QbJAXe02PO",
             "relativePath": "./δ steps/δ-1QbJAXe02PO.tsstp"
         },
@@ -80,8 +104,28 @@
             "relativePath": "./δ steps/δ-1QbJCwi011Z.tsstp"
         },
         {
-            "key": "δ-1Qbg5gh01Op",
-            "relativePath": "./δ steps/δ-1Qbg5gh01Op.tsstp"
+            "key": "δ-1QcVL8X00lo",
+            "relativePath": "./δ steps/δ-1QcVL8X00lo.tsstp"
+        },
+        {
+            "key": "δ-1QcVPC300LF",
+            "relativePath": "./δ steps/δ-1QcVPC300LF.tsstp"
+        },
+        {
+            "key": "δ-1QcW5Lk00EQ",
+            "relativePath": "./δ steps/δ-1QcW5Lk00EQ.tsstp"
+        },
+        {
+            "key": "δ-1Qca99x00pe",
+            "relativePath": "./δ steps/δ-1Qca99x00pe.tsstp"
+        },
+        {
+            "key": "δ-1QdyNod00Hk",
+            "relativePath": "./δ steps/δ-1QdyNod00Hk.tsstp"
+        },
+        {
+            "key": "δ-1QdyksP00D3",
+            "relativePath": "./δ steps/δ-1QdyksP00D3.tsstp"
         }
     ]
 }

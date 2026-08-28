@@ -130,14 +130,5 @@
             "daurl": "#ffa704"
         }
     },
-    "json.schemas": [],
-    "cSpell.enabledFileTypes": {
-        "markdown": true,
-        "json": false,
-        "plaintext": false
-    },
-    "cSpell.ignorePaths": [
-        "**/*.tspod",
-        "**/*.json"
-    ]
+    "json.schemas": []
 }

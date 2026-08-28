@@ -8,7 +8,7 @@
 
 5. Click ** Opne in Terminal"". *- yellow ring*
 
-{{::il.Vscode_Vscode_OpenUsingTerminal_1_img}}
+{{::il.Vscode_OpenUsingTerminal_1_img}}
 
 
 6. Windows **Terminal** is displayed at the folder's location.
@@ -17,10 +17,10 @@
 
 **Note** There is a space between **code** and the full stop. *- red ring*
 
-{{::il.Vscode_Vscode_OpenUsingTerminal_2_img}}
+{{::il.Vscode_OpenUsingTerminal_2_img}}
 
 
 8. Vscode launches with the repo folder open in it.
 
-{{::il.Vscode_Vscode_OpenUsingTerminal_3_img}}
+{{::il.Vscode_OpenUsingTerminal_3_img}}
 ```

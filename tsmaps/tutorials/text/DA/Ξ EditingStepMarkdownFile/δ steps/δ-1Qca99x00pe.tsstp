@@ -1,0 +1,8 @@
+¬TODO 
+ - explain intellisense in markdown?
+ - then undo?
+ - then diagnostics?
+    - and how to find them in problems as well as in the file
+ - then install spelling extension
+    - spelling diagnsotics and spelling tab?
+    - explain that each repo needs a cspell.json file

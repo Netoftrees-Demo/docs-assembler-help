@@ -2,13 +2,17 @@
 
 
 How to use the markdown editor
- - Need an example file for them to start with as an ancillary
  - how to create imports and variable refs
     - how to create a variable file
+    - need to create the whole process so a user can follow it and create a simple variable and reference it.
  - undos
     - git
     - local history
     - Ctrl+Z
  - how to add a spelling extension
- - understanding validation errors
+ - understanding validation errors - diagnostics, spelling etc
+
+ Ctrl+Shift+V replace with variable... to include side by side preview/editor
+
+ like in variables pod need to explain the benefits of editing in the markdown editor and then add the 
 

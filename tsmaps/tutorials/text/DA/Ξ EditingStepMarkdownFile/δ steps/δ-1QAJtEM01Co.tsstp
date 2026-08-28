@@ -2,13 +2,8 @@
 
 When you open a `.tsstp` or `.tsvar` file in VS Code, the editor treats it as standard Markdown and gives you these powerful aids:
 
+
 #### Syntax highlighting
 
 Headings, lists, code blocks, bold text, and other Markdown elements are colour-coded automatically. This makes the structure of your document visible at a glance and helps you spot syntax errors — like a missing closing backtick or an unclosed emphasis marker.
-
-#### Live preview
-
-Open the Markdown preview pane with `Ctrl+Shift+V`. As you type in the editor, the preview updates in real time. This is invaluable for checking table alignment, verifying image paths, and seeing exactly how your step will look when published.
-
-> **Tip:** The live preview and IntelliSense work together. Use the preview to see the rendered result, and IntelliSense to insert variable references without errors.
 

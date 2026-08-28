@@ -1,0 +1,51 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
+
+{{::il.Vscode_InstallCodeSpellChecker_1_img}}
+
+{{::il.Vscode_InstallCodeSpellChecker_2_img}}
+
+{{::il.Vscode_InstallCodeSpellChecker_3_img}}
+
+{{::il.Vscode_InstallCodeSpellChecker_4_img}}
+
+{{::il.Vscode_InstallCodeSpellChecker_5_img}}
+
+{{::il.Vscode_InstallCodeSpellChecker_6_img}}
+
+
+¬TODO
+
+Open extensions
+
+
+```
+    "cSpell.enabledFileTypes": {
+        "markdown": true,
+        "json": false,
+        "plaintext": false
+    },
+    "cSpell.ignorePaths": [
+        "**/*.tspod",
+        "**/*.json"
+    ]
+```
+
+```
+{
+    "version": "0.2",
+    "language": "en-GB",
+    "ignoreRegExpList": [
+        "{{::[A-Za-z0-9_\\.]+}}",
+        "¬import\\s+.*"
+    ],
+    "words": [
+        "tsstp",
+        "Vscode",
+        "CreateFile"
+    ]
+}
+```
+
+Close and re-open vscode
