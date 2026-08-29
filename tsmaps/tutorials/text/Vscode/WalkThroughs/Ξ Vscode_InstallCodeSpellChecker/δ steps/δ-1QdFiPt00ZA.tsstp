@@ -1,0 +1,27 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
+2. In the Extensions panel search box type `Code Spell Checker`. *- yellow ring* 
+
+3. All the extensions matching the search text are displayed. *- orange ring* 
+
+4. Click the extension **Code Spell Checker**. *- blue ring* 
+
+5. The **Code Spell Checker** extension is displayed. *- green ring*
+
+6. Click either of the **Install** buttons. *- mauve rings* 
+
+{{::il.Vscode_InstallCodeSpellChecker_3_img}}
+
+
+7. If this is the first time you have installed an extension from `Street Side Software` the dialogue **Do you trust the publisher "Street Side Software"** is displayed. *- yellow ring* 
+
+8. Click the **Trust Publisher & Install** button. *- red ring* 
+
+{{::il.Vscode_InstallCodeSpellChecker_2_img}}
+
+
+9. **Code Spell Checker** is installed and the extension page is updated. *- green ring* 
+
+{{::il.Vscode_InstallCodeSpellChecker_3_img}}
+

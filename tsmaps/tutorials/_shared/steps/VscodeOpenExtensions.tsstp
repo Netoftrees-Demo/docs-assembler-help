@@ -1,0 +1,9 @@
+¬import vs from "../variables/Vscode_Snippets"
+
+
+### Open Vscode Extensions
+
+1. {{::vs.Vscode_OpenExtensions_1}} *- red ring*
+
+2. {{::vs.Vscode_OpenExtensions_2}}
+

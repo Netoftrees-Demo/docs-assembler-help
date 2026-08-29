@@ -1,0 +1,23 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
+### Install a Code Spell Checker language pack
+
+1. In the Extensions panel search box type `Code Spell Checker` + the language you want spell checked. The image below shows `Code Spell Checker English`. *- yellow ring* 
+
+2. Click the language pack you want to install. The image below shows **British English - Code Spell Checker**. *- red ring* 
+
+3. The **British English - Code Spell Checker** extension page is displayed. *- green ring*
+
+4. Click either of the **Install** buttons. *- mauve rings* 
+
+{{::il.Vscode_InstallCodeSpellChecker_4_img}}
+
+
+5. **Code Spell Checker** is installed and the extension page is updated. *- yellow ring* 
+
+{{::il.Vscode_InstallCodeSpellChecker_5_img}}
+
+
+
+
