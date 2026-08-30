@@ -1,0 +1,22 @@
+## Using Code Spell Checker
+
+### In-File Spell Checking
+
+This is the primary way you'll interact with the extension.
+
+### What you see
+
+Misspelled words are underlined with a **blue squiggle** (customizable in your VS Code theme). The check happens automatically as you type — no manual action needed.
+
+### How to respond to a flagged word
+
+| Action | Method | Result |
+|--------|--------|--------|
+| **See suggestions** | Hover over the underlined word | A popup appears with suggested corrections |
+| **Apply a fix** | Click a suggestion in the hover popup, or press `Ctrl+.` and select one | The word is replaced |
+| **Add to workspace dictionary** | Press `Ctrl+.` → **"Add '{word}' to workspace dictionary"** | Never flagged again in this repository |
+| **Add to user dictionary** | Press `Ctrl+.` → **"Add '{word}' to user dictionary"** | Never flagged again across all your VS Code projects |
+| **Ignore once** | Press `Ctrl+.` → **"Ignore '{word}'"** | Hides the underline for this session only |
+
+> **Tip:** Favour the **workspace dictionary** for project-specific terms like `tsstp`, `tsvar`, or `Vscode`. Use the **user dictionary** for your name, company name, or other terms that appear in every project.
+

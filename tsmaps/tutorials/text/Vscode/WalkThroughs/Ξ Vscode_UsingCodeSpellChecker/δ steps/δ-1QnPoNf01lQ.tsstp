@@ -1,0 +1,33 @@
+### The Diagnostics Panel
+
+This gives you a **scrollable list of all issues** in the current file or entire workspace.
+
+### How to open it
+
+- Press `Ctrl+Shift+M` (or click the error/warning count in the status bar at the bottom-left)
+- Or go to **View → Problems** from the menu
+
+### What you see
+
+| Column | Meaning |
+|--------|---------|
+| File | Which file contains the issue |
+| Message | The misspelled word and suggestion count |
+| Severity | Shows as "Information" (blue) for spelling |
+| Location | Line and column number |
+
+### How to navigate
+
+| Action | Result |
+|--------|--------|
+| Click any issue | Jumps the editor to that exact line and column |
+| Press `F8` | Cycles to the next issue in the current file |
+| Press `Shift+F8` | Cycles to the previous issue |
+
+### Filtering
+
+Use the filter box at the top of the Problems panel to narrow down:
+
+- Type `cspell` to show **only** spelling issues (hiding other diagnostics from linters, etc.)
+- Type a filename to see issues in just that file
+

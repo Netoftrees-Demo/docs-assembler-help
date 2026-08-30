@@ -47,10 +47,26 @@
                             {
                                 "key": "1QdyksP00D3",
                                 "order": 2,
-                                "option": "Set up spell checking?",
+                                "option": "Install?",
                                 "isLeaf": true,
                                 "isAncillary": true,
                                 "iKey": "1QdFI0t01Bc"
+                            },
+                            {
+                                "key": "1QnSysx01Sg",
+                                "order": 3,
+                                "option": "Repo set up?",
+                                "isLeaf": true,
+                                "isAncillary": true,
+                                "iKey": "1QnUKwc007o"
+                            },
+                            {
+                                "key": "1QnP99R02Io",
+                                "order": 4,
+                                "option": "Using?",
+                                "isLeaf": true,
+                                "isAncillary": true,
+                                "iKey": "1QnPgNN01y6"
                             }
                         ]
                     },
@@ -126,6 +142,14 @@
         {
             "key": "δ-1QdyksP00D3",
             "relativePath": "./δ steps/δ-1QdyksP00D3.tsstp"
+        },
+        {
+            "key": "δ-1QnP99R02Io",
+            "relativePath": "./δ steps/δ-1QnP99R02Io.tsstp"
+        },
+        {
+            "key": "δ-1QnSysx01Sg",
+            "relativePath": "./δ steps/δ-1QnSysx01Sg.tsstp"
         }
     ]
 }

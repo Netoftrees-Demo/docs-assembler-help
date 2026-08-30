@@ -1,0 +1,92 @@
+### Troubleshooting
+
+
+
+
+
+  Here's a troubleshooting section for common Code Spell Checker issues:
+
+---
+
+## Troubleshooting
+
+### "Spell checking isn't working in this file"
+
+| Check | How | Fix |
+|-------|-----|-----|
+| Is the file in `tsmaps/`? | Check the path in the tab or title bar | Move file to `tsmaps/` or update `files` in `.cspell.json` |
+| Is the file type enabled? | Press `Ctrl+Shift+P` → **"CSpell: Show File Info"** | Add the language ID to `cSpell.enabledFileTypes` in `settings.json` |
+| Is the file excluded? | Check `.cspell.json` `ignorePaths` or `settings.json` `cSpell.ignorePaths` | Remove the pattern blocking it |
+| Is CSpell enabled globally? | Check the status bar for a crossed-out eye icon | Click the icon to enable, or check VS Code extension settings |
+
+### "A word is flagged but it's correct"
+
+| Cause | Fix |
+|-------|-----|
+| Project-specific term | `Ctrl+.` → **"Add to workspace dictionary"** |
+| Used across all your projects | `Ctrl+.` → **"Add to user dictionary"** |
+| Matches an `ignoreRegExpList` pattern incorrectly | Refine the regex in `.cspell.json` — test at [regex101.com](https://regex101.com) |
+| British vs American spelling | Check `"language": "en-GB"` is set; add `en-US` if both are acceptable |
+
+### "A word should be flagged but isn't"
+
+| Cause | Fix |
+|-------|-----|
+| Word is in workspace dictionary by mistake | Open `.cspell.json` → remove from `words` array |
+| Word is in user dictionary by mistake | `Ctrl+Shift+P` → **"CSpell: Open User Settings"** → remove from `words` |
+| File is being skipped by `ignoreRegExpList` | Check if a regex is too broad — e.g., `` `[^`]+` `` catching more than intended |
+
+### "Too many false positives from `{{::...}}` or `¬import`"
+
+| Cause | Fix |
+|-------|-----|
+| Regex not matching your exact syntax | Check the pattern in `.cspell.json` matches your code — e.g., `{{::` not `{ { ::` |
+| File not using expected syntax | Verify the file is `.tsstp` not `.md` or another type with different conventions |
+
+### "Changes to `.cspell.json` aren't taking effect"
+
+| Cause | Fix |
+|-------|-----|
+| VS Code hasn't reloaded the config | Save the file, then press `Ctrl+Shift+P` → **"CSpell: Restart Spell Checker"** |
+| JSON syntax error in config | Check for red squiggles in `.cspell.json`; validate at [jsonlint.com](https://jsonlint.com) |
+| Config file in wrong location | `.cspell.json` must be in the workspace root, next to `.vscode/` |
+
+### "The Problems panel shows non-spelling issues"
+
+| Cause | Fix |
+|-------|-----|
+| Other extensions contribute diagnostics | Type `cspell` in the Problems panel filter box to show only spelling |
+| markdownlint or other linters active | These are separate — configure or disable them in their own settings |
+
+### "British spellings are flagged (e.g., 'colour')"
+
+| Cause | Fix |
+|-------|-----|
+| Default language is `en-US` | Set `"language": "en-GB"` in `.cspell.json` |
+| Multiple language files conflict | Ensure only one `.cspell.json` exists in the workspace root |
+
+---
+
+## Diagnostic Commands
+
+Open the Command Palette (`Ctrl+Shift+P`) and type:
+
+| Command | Purpose |
+|---------|---------|
+| **CSpell: Show File Info** | See whether the current file is enabled, its language, and matched patterns |
+| **CSpell: Create a CSpell Configuration** | Generate a new `.cspell.json` with helpful comments |
+| **CSpell: Restart Spell Checker** | Reload config without restarting VS Code |
+| **CSpell: Open User Settings** | Edit your global user dictionary |
+| **CSpell: Trace Words** | Check why specific words are or aren't flagged |
+
+---
+
+## Still Stuck?
+
+1. Check the **Output panel** (`Ctrl+Shift+U` → select **"Code Spell Checker"** from the dropdown) for error messages
+2. Verify your `.cspell.json` is valid JSON (no trailing commas, matching braces)
+3. Try the **CSpell: Trace Words** command on a problematic word to see which dictionaries and patterns apply
+
+---
+
+Want me to add a visual diagram of the config hierarchy (workspace vs user vs project settings) or a quick-start checklist for new repository setup?

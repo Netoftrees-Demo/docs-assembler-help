@@ -1,0 +1,76 @@
+{
+    "key": "1QnUKwc007o ",
+    "token": "Vscodesetuprepoforcodespellchecker",
+    "name": "Vscode_SetupRepoForCodeSpellChecker",
+    "created": "2026-08-30T13:29:20.034Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_SetupRepoForCodeSpellChecker/Vscode_SetupRepoForCodeSpellChecker.tspod",
+    "isPod": true,
+    "iText": "Link to 'Vscode_SetupRepoForCodeSpellChecker'",
+    "___rΩΩt___": {
+        "key": "1QnUWmR00iT",
+        "nodes": [
+            {
+                "key": "1QnUXO702aq",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1QnUibf01Qw",
+                        "order": 1,
+                        "isLeaf": true
+                    },
+                    {
+                        "key": "1QnVIYJ00Do",
+                        "order": 2,
+                        "option": "New file?",
+                        "isAncillary": true,
+                        "nodes": [
+                            {
+                                "key": "1QnVM8c02Ju",
+                                "order": 1,
+                                "sharedAssetKey": "1QnVT0000Pr",
+                                "isLeaf": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "1QnUvNc01Gz",
+                "order": 2,
+                "option": "Extensions?",
+                "sharedAssetKey": "1QnV1ha01cZ",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1QnUWmR00iT",
+            "relativePath": "./δ steps/δ-1QnUWmR00iT.tsstp"
+        },
+        {
+            "key": "δ-1QnUXO702aq",
+            "relativePath": "./δ steps/δ-1QnUXO702aq.tsstp"
+        },
+        {
+            "key": "δ-1QnUibf01Qw",
+            "relativePath": "./δ steps/δ-1QnUibf01Qw.tsstp"
+        },
+        {
+            "key": "1QnV1ha01cZ",
+            "relativePath": "../../../../_shared/steps/VscodeOpenExtensions.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1QnVIYJ00Do",
+            "relativePath": "./δ steps/δ-1QnVIYJ00Do.tsstp"
+        },
+        {
+            "key": "1QnVT0000Pr",
+            "relativePath": "../../../../_shared/steps/VscodeCreateFile.tsstp",
+            "isShared": true
+        }
+    ]
+}

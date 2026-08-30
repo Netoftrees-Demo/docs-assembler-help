@@ -1,0 +1,51 @@
+### The Spell Checker Panel
+
+This is Code Spell Checker's **dedicated sidebar view** for deeper control.
+
+### How to open it
+
+- Click the **CSpell icon** in the Activity Bar on the far left (looks like a magnifying glass with an "A")
+- Or press `Ctrl+Shift+P` → type **"CSpell: Open Spell Checker Panel"**
+
+### What you see
+
+The panel has several sections:
+
+| Section | Purpose |
+|---------|---------|
+| **Current Document** | Shows the file being checked, its language, and whether spell checking is enabled |
+| **Issues** | A dedicated list of spelling issues in the current file (similar to Problems, but spelling-only) |
+| **Dictionaries** | Which dictionaries are active (e.g., `en-GB`, workspace, user) |
+| **File Info** | Technical details: file type, parser used, ignored ranges |
+
+### Actions from the panel
+
+| Action | How |
+|--------|-----|
+| **Force recheck** | Click the refresh icon — useful after updating config |
+| **Jump to issue** | Click any issue in the list |
+| **See why a word was ignored** | Expand "File Info" to view matched `ignoreRegExpList` patterns |
+| **Add word to dictionary** | Right-click an issue → select dictionary |
+
+---
+
+## Quick Reference: All Keyboard Shortcuts
+
+| Task | Shortcut |
+|------|----------|
+| Show suggestions / Quick Fix | `Ctrl+.` |
+| Open Problems panel | `Ctrl+Shift+M` |
+| Next diagnostic in file | `F8` |
+| Previous diagnostic in file | `Shift+F8` |
+| Open Command Palette | `Ctrl+Shift+P` |
+
+---
+
+## Typical Workflow
+
+1. **Open a `.tsstp` file** — underlines appear automatically
+2. **Hover or `Ctrl+.` on a flagged word** — decide if it's a real typo or a false positive
+3. **Fix, ignore, or add to dictionary** — clean the file as you write
+4. **Open Problems panel (`Ctrl+Shift+M`)** — review remaining issues before committing
+5. **Use CSpell Explorer** — if something isn't behaving as expected, check which patterns are matching
+

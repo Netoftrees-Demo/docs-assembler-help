@@ -21,49 +21,8 @@
                             {
                                 "key": "1QjQ3eI02Yy",
                                 "order": 1,
-                                "nodes": [
-                                    {
-                                        "key": "1QjtQUW02C7",
-                                        "order": 1,
-                                        "nodes": [
-                                            {
-                                                "key": "1QjuNG500pD",
-                                                "order": 1,
-                                                "isLeaf": true
-                                            },
-                                            {
-                                                "key": "1QjuodA01iE",
-                                                "order": 2,
-                                                "option": "New file?",
-                                                "isAncillary": true,
-                                                "nodes": [
-                                                    {
-                                                        "key": "1Qjvneu00Z7",
-                                                        "order": 1,
-                                                        "sharedAssetKey": "1QjwSGJ01SB",
-                                                        "isLeaf": true
-                                                    },
-                                                    {
-                                                        "key": "1QjvpXv00IR",
-                                                        "order": 2,
-                                                        "option": "Explorer?",
-                                                        "sharedAssetKey": "1Qjvybo00bE",
-                                                        "isLeaf": true,
-                                                        "isAncillary": true
-                                                    }
-                                                ]
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "key": "1QjuENC01Jn",
-                                        "order": 2,
-                                        "option": "Extensions?",
-                                        "sharedAssetKey": "1QjuHjF013D",
-                                        "isLeaf": true,
-                                        "isAncillary": true
-                                    }
-                                ]
+                                "isLeaf": true,
+                                "iKey": "1QnUKwc007o"
                             }
                         ]
                     }
@@ -100,33 +59,6 @@
         {
             "key": "δ-1QjQ3eI02Yy",
             "relativePath": "./δ steps/δ-1QjQ3eI02Yy.tsstp"
-        },
-        {
-            "key": "δ-1QjtQUW02C7",
-            "relativePath": "./δ steps/δ-1QjtQUW02C7.tsstp"
-        },
-        {
-            "key": "1QjuHjF013D",
-            "relativePath": "../../../../_shared/steps/VscodeOpenExtensions.tsstp",
-            "isShared": true
-        },
-        {
-            "key": "δ-1QjuNG500pD",
-            "relativePath": "./δ steps/δ-1QjuNG500pD.tsstp"
-        },
-        {
-            "key": "δ-1QjuodA01iE",
-            "relativePath": "./δ steps/δ-1QjuodA01iE.tsstp"
-        },
-        {
-            "key": "1QjwSGJ01SB",
-            "relativePath": "../../../../_shared/steps/VscodeCreateFile.tsstp",
-            "isShared": true
-        },
-        {
-            "key": "1Qjvybo00bE",
-            "relativePath": "../../../../_shared/steps/VscodeOpenExplorer.tsstp",
-            "isShared": true
         }
     ]
 }

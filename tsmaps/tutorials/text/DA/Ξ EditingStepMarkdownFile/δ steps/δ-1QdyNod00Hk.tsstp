@@ -9,13 +9,14 @@ Open the Markdown preview pane with:
 
 #### Spell checking as you type
 
-VS Code does not include spell checking out of the box. It must be added via an extension. We recommend **Code Spell Checker** — a fast, reliable tool that underlines misspelled words with a subtle squiggle while you write. It understands Markdown natively, so it skips code blocks and URLs automatically and only flags real prose errors.
+VS Code doesn't include spell checking out of the box - to add it, you'll need to install an extension. We recommend **Code Spell Checker**, which underlines misspelled words with a subtle squiggle as you write. It understands **Markdown** natively, skipping code blocks and URLs automatically.
 
-Because `.tsstp` files use custom syntax for variable references, the checker is configured to ignore:
-- `¬{{::variable.name}}` placeholders
-- `¬import ...` preprocessor lines
+To take it a step further, we provide a `.cspell.json` configuration file and setup instructions. This extends the checker to ignore all **Docs Assembler** specific elements as well,.
 
-This means you get clean, accurate spell checking on your actual content without noise from Docs Assembler's machinery.
+So you'll see flags only on your actual prose, never on the underlying machinery.
 
-The extension is installed once for VS Code. But each repository must then be configured separately to activate it.
+
+##### Code Spell Checker
+
+The extension itself is installed once globally for VS Code. But you'll need to configure it separately for each repository to activate custom settings. 
 
