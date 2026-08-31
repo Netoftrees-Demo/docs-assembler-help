@@ -39,7 +39,7 @@
                 "key": "1QnUvNc01Gz",
                 "order": 2,
                 "option": "Extensions?",
-                "sharedAssetKey": "1QnV1ha01cZ",
+                "sharedAssetKey": "1QvcECI0084",
                 "isLeaf": true,
                 "isAncillary": true
             }
@@ -59,17 +59,17 @@
             "relativePath": "./δ steps/δ-1QnUibf01Qw.tsstp"
         },
         {
-            "key": "1QnV1ha01cZ",
-            "relativePath": "../../../../_shared/steps/VscodeOpenExtensions.tsstp",
-            "isShared": true
-        },
-        {
             "key": "δ-1QnVIYJ00Do",
             "relativePath": "./δ steps/δ-1QnVIYJ00Do.tsstp"
         },
         {
             "key": "1QnVT0000Pr",
             "relativePath": "../../../../_shared/steps/VscodeCreateFile.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "1QvcECI0084",
+            "relativePath": "../../../../_shared/steps/VscodeOpenExtensions.tsstp",
             "isShared": true
         }
     ]

@@ -2,16 +2,30 @@
     "language": "en-GB",
     "files": [
         "tsmaps/**/*.tsstp",
+        "tsmaps/**/*.tsvar",
         "tsmaps/**/*.md"
     ],
     "ignoreRegExpList": [
         "{{::[A-Za-z0-9_\\.]+}}",
         "¬import\\s+.*",
-        "`[^`]+`"
+        "`[^`]+`",
+        "^¬[A-Za-z0-9_]+"
     ],
     "words": [
         "tsstp",
         "tsvar",
         "Vscode"
+    ],
+    "dictionaries": [
+        "ui-dictionary"
+    ],
+    "dictionaryDefinitions": [
+        {
+            "name": "ui-dictionary",
+            "path": "../../UiSharedDictionary.txt"
+        }
+    ],
+    "ignoreWords": [
+        "Hoppscotch"
     ]
 }

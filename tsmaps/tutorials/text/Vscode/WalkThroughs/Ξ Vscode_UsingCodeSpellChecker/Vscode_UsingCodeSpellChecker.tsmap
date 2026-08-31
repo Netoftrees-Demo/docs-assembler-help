@@ -1,0 +1,72 @@
+{
+    "key": "1QnPgNN01y6 ",
+    "token": "Vscodeusingcodespellchecker",
+    "name": "Vscode_UsingCodeSpellChecker",
+    "created": "2026-08-30T13:10:50.777Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_UsingCodeSpellChecker/Vscode_UsingCodeSpellChecker.tsmap",
+    "iText": "Link to 'Vscode_UsingCodeSpellChecker'",
+    "___rΩΩt___": {
+        "key": "1QpeyjT01xj",
+        "nodes": [
+            {
+                "key": "1QnPnUv005g",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1QnPoNf01lQ",
+                        "order": 1,
+                        "nodes": [
+                            {
+                                "key": "1QnRmiX02U1",
+                                "order": 1,
+                                "nodes": [
+                                    {
+                                        "key": "1QnRrev02R9",
+                                        "order": 1,
+                                        "isLeaf": true
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "1QpfFrj01AX",
+                "order": 2,
+                "option": "Limitations?",
+                "sharedAssetKey": "1QpfL8K0055",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1QnPnUv005g",
+            "relativePath": "./δ steps/δ-1QnPnUv005g.tsstp"
+        },
+        {
+            "key": "δ-1QnPoNf01lQ",
+            "relativePath": "./δ steps/δ-1QnPoNf01lQ.tsstp"
+        },
+        {
+            "key": "δ-1QnRmiX02U1",
+            "relativePath": "./δ steps/δ-1QnRmiX02U1.tsstp"
+        },
+        {
+            "key": "δ-1QnRrev02R9",
+            "relativePath": "./δ steps/δ-1QnRrev02R9.tsstp"
+        },
+        {
+            "key": "δ-1QpeyjT01xj",
+            "relativePath": "./δ steps/δ-1QpeyjT01xj.tsstp"
+        },
+        {
+            "key": "1QpfL8K0055",
+            "relativePath": "../../../../_shared/steps/CodeSpellCheckerLimitations.tsstp",
+            "isShared": true
+        }
+    ]
+}

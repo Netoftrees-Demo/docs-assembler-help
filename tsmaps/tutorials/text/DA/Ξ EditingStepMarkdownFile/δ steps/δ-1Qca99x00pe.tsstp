@@ -3,15 +3,11 @@
  - then undo?
  - then diagnostics?
     - and how to find them in problems as well as in the file
- - then install spelling extension
-    - spelling diagnsotics and spelling tab?
-    - explain that each repo needs a cspell.json file
-
 
 code spell checker
     - diagnostics / spell checking tab walkthrough
     - inline spell checking walkthrough
 
 CLOSE AND REOPEN VSCODE AFTER INSTALLING EXTENSION.
-EXPALIN ABOUT CONFIG FILE AND BRITISH ENGLISH
-EACH REPO NEEDS TO BE SET UP BUT EXTENSION INSTALLED ONLY ONCE
+EXPLAIN ABOUT CONFIG FILE AND BRITISH ENGLISH -  this needs to be in the setup after installing  code spell checker extension and the config map
+

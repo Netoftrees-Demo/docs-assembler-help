@@ -1,0 +1,43 @@
+{
+    "key": "1Qv6KYT02N6 ",
+    "token": "Vscodesettingsworkspaceopen",
+    "name": "Vscode_SettingsWorkspace_Open",
+    "created": "2026-08-31T20:44:37.486Z",
+    "list": true,
+    "publishFileName": "Vscode_SettingsWorkspace_Open",
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_SettingsWorkspace_Open/Vscode_SettingsWorkspace_Open.tsmap",
+    "iText": "Link to 'Vscode_SettingsWorkspace_Open'",
+    "___rΩΩt___": {
+        "key": "1Qv5g0301Oc",
+        "nodes": [
+            {
+                "key": "1Qv5iaD00Q7",
+                "order": 1,
+                "iKey": "1QtOmwR011a",
+                "nodes": [
+                    {
+                        "key": "1Qv5usy02Ur",
+                        "order": 1,
+                        "option": "Exit",
+                        "isLeaf": true,
+                        "iExitKey": "1QtiJuQ01sD"
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1Qv5g0301Oc",
+            "relativePath": "./δ steps/δ-1Qv5g0301Oc.tsstp"
+        },
+        {
+            "key": "δ-1Qv5iaD00Q7",
+            "relativePath": "./δ steps/δ-1Qv5iaD00Q7.tsstp"
+        },
+        {
+            "key": "δ-1Qv5usy02Ur",
+            "relativePath": "./δ steps/δ-1Qv5usy02Ur.tsstp"
+        }
+    ]
+}

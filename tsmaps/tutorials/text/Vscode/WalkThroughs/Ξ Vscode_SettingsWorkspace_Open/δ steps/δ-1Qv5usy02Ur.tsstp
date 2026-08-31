@@ -1,0 +1,8 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+¬import sn from "../../../../../_shared/variables/Vscode_Snippets"
+
+
+6. {{::sn.Vscode_OpenSettings_Workspace}} *- orange ring*
+
+{{::il.Vscode_Settings_User-Workspace_img}}
+

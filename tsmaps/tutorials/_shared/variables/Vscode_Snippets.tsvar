@@ -5,3 +5,8 @@
 ¬Vscode_OpenExtensions_1: If **Extensions** is not open click the **Extensions** icon in the **Activity Bar**, or press `Ctrl+Shift+X` to show it.
 ¬Vscode_OpenExtensions_2: The **Extensions** panel displays. If the panel disappears click the icon again to re-display it.
 
+¬Vscode_OpenSettings_User: In the **Settings** window click the **User** button.
+
+¬Vscode_OpenSettings_Workspace: In the **Settings** window click the **Workspace** button.
+
+

@@ -1,0 +1,17 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
+#### From the Menu Bar
+
+1. In the **Menu Bar** click **File**. *- red ring*
+
+2. The **File menu** displays. *- orange ring*
+
+3. Select **Preferences**. *- green ring*
+
+4. The **File Preferences sub-menu** displays. *- yellow ring*
+
+5. Select **Settings**. *- blue ring*
+
+{{::il.Vscode_Settings_Open_Menu_img}}
+

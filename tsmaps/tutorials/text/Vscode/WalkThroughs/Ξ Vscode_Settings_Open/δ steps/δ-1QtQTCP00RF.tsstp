@@ -1,0 +1,15 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
+#### From the Command Palette
+
+1. With VS Code having focus press `Ctrl+Shift+P`
+
+2. The **Command textbox** gets focus. *- red ring*
+
+3. And the **Command Palette** displays. *- orange ring*
+
+4. Select **Preferences: Open Settings (UI)**. *- yellow ring*
+
+{{::il.Vscode_Settings_Open_Command_img}}
+

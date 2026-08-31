@@ -4,8 +4,7 @@
     "name": "EditingStepMarkdownFile",
     "created": "2026-07-30T22:09:19.428Z",
     "list": true,
-    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/DA/Ξ EditingStepMarkdownFile/EditingStepMarkdownFile.tspod",
-    "isPod": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/DA/Ξ EditingStepMarkdownFile/EditingStepMarkdownFile.tsmap",
     "iText": "Link to 'EditingStepMarkdownFile'",
     "___rΩΩt___": {
         "key": "1NuL5d801EZ",
@@ -45,8 +44,16 @@
                                 ]
                             },
                             {
-                                "key": "1QdyksP00D3",
+                                "key": "1QpfiEM007B",
                                 "order": 2,
+                                "option": "Limitation?",
+                                "sharedAssetKey": "1QpfmGk02XY",
+                                "isLeaf": true,
+                                "isAncillary": true
+                            },
+                            {
+                                "key": "1QdyksP00D3",
+                                "order": 3,
                                 "option": "Install?",
                                 "isLeaf": true,
                                 "isAncillary": true,
@@ -54,7 +61,7 @@
                             },
                             {
                                 "key": "1QnSysx01Sg",
-                                "order": 3,
+                                "order": 4,
                                 "option": "Repo set up?",
                                 "isLeaf": true,
                                 "isAncillary": true,
@@ -62,7 +69,7 @@
                             },
                             {
                                 "key": "1QnP99R02Io",
-                                "order": 4,
+                                "order": 5,
                                 "option": "Using?",
                                 "isLeaf": true,
                                 "isAncillary": true,
@@ -150,6 +157,11 @@
         {
             "key": "δ-1QnSysx01Sg",
             "relativePath": "./δ steps/δ-1QnSysx01Sg.tsstp"
+        },
+        {
+            "key": "1QpfmGk02XY",
+            "relativePath": "../../../_shared/steps/CodeSpellCheckerLimitations.tsstp",
+            "isShared": true
         }
     ]
 }

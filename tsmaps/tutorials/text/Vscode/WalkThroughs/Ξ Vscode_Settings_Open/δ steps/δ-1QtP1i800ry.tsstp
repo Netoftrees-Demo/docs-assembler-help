@@ -1,0 +1,13 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
+#### From the Activity Bar
+
+1. In the **Activity Bar** click the **Settings** icon. *- red ring*
+
+2. The **Context menu** displays. *- orange ring*
+
+3. Select **Settings**. *- yellow ring*
+
+{{::il.Vscode_Settings_Open_Activity_img}}
+

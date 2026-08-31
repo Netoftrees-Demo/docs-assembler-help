@@ -1,0 +1,8 @@
+> **Note** - Limitations of Code Spell Checker
+>
+> Code Spell Checker is a **local quick check** — fast and convenient, but limited by its **non-AI engine**. It checks words against dictionaries and patterns, not meaning or context.
+>
+> One known quirk: **misspellings at the start of a sentence may be missed** because capitalised words are treated as potential proper nouns. For example, "Configur the settings" might not be flagged. 
+>
+> We are working on a **comprehensive AI-powered check at publish time** that will catch spelling, grammar, and logical inconsistencies **across branches** — far beyond what a local tool can achieve. Until then, Code Spell Checker remains a useful first line of defence, not a final guarantee.
+

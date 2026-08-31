@@ -17,6 +17,7 @@ The basic one should be used for the readme with a note that the guide will geiv
 Commit should a separate map in the chain and not an ancillary
     - It needs to explain what a commit message is for ie when reading the history of commits an short message list is good if yoiu are looking a set point etc for a rollback or create a new git branch You'll work out what works for you or your team.
 
+Explain about referencing other published repos guides -  as an example link to the demo main guide. Explain about CORS which is something we will solve. Explain also about for Russian and other type languages...
 
 'The quickest option is to launch the default browser'
 XXXXX

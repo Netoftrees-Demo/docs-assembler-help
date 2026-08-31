@@ -1,8 +1,17 @@
-## Using Code Spell Checker
+¬import il from "../../../../../_shared/variables/imageLinks"
+
 
 ### In-File Spell Checking
 
 This is the primary way you'll interact with the extension.
+
+¬TODO 111 Add all images for correcting a file here
+
+{{::il.Vscode_CodeSpellChecker_File_1_img}}
+
+
+
+
 
 ### What you see
 
@@ -18,5 +27,5 @@ Misspelled words are underlined with a **blue squiggle** (customizable in your V
 | **Add to user dictionary** | Press `Ctrl+.` → **"Add '{word}' to user dictionary"** | Never flagged again across all your VS Code projects |
 | **Ignore once** | Press `Ctrl+.` → **"Ignore '{word}'"** | Hides the underline for this session only |
 
-> **Tip:** Favour the **workspace dictionary** for project-specific terms like `tsstp`, `tsvar`, or `Vscode`. Use the **user dictionary** for your name, company name, or other terms that appear in every project.
+> **Tip:** Favour the **workspace dictionary** for project-specific terms like `tsstp`, `tsvar`, or `Vscode`. Use the **user dictionary** for your name, company name, or other terms that appear in every project. Was toggleable 
 

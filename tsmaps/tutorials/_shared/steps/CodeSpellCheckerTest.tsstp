@@ -1,0 +1,12 @@
+
+
+The word ***Septembr*** is a spelling mistake — it should be ***September***. We'll correct it using Quick Fix.
+
+A ***tsgde*** file is a guide file used in Docs Assembler published guides. The spell checker doesn't recognise it, but we need it throughout this project, so we'll add it to the ***workspace dictionary***.
+
+***Frontmatter*** is the metadata block at the top of a Markdown file, used by static site generators like Jekyll during publish. Since it's needed across many documentation projects, we'll add it to the ***user dictionary***.
+
+***Toggleable*** is used in UI help files. We'll add it to a ***shared dictionary*** so multiple projects can share a common set of UI terms.
+
+Finally, ***Hoppscotch*** is an API client we evaluated but decided not to use. We mention it only once in passing, so we'll ***ignore it*** for this session rather than adding it to any dictionary.
+

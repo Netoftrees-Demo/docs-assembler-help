@@ -1,0 +1,146 @@
+{
+    "key": "1QtOmwR011a ",
+    "token": "Vscodesettingsopen",
+    "name": "Vscode_Settings_Open",
+    "created": "2026-08-31T13:44:55.703Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_Settings_Open/Vscode_Settings_Open.tsmap",
+    "iText": "Link to 'Vscode_Settings_Open'",
+    "iExits": [
+        {
+            "key": "1QtiJuQ01sD",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "1QtOwsV02Ra",
+        "nodes": [
+            {
+                "key": "1QtP1i800ry",
+                "order": 1,
+                "option": "From Activity Bar",
+                "nodes": [
+                    {
+                        "key": "1QtPrxu00FP",
+                        "order": 1,
+                        "sharedAssetKey": "1QtYs8M025B",
+                        "nodes": [
+                            {
+                                "key": "1QtYox302Zq",
+                                "order": 1,
+                                "option": "Next",
+                                "exitKey": "1QtiJuQ01sD"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "1QtQLNt00eF",
+                "order": 2,
+                "option": "From the Menu Bar",
+                "nodes": [
+                    {
+                        "key": "1QtYzfX01Rg",
+                        "order": 1,
+                        "option": "Next",
+                        "sharedAssetKey": "1QtZ5NW01vX",
+                        "nodes": [
+                            {
+                                "key": "1QtZ4xH025z",
+                                "order": 1,
+                                "option": "Next",
+                                "exitKey": "1QtiJuQ01sD"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "1QtQOuV01kb",
+                "order": 3,
+                "option": "Using Keyboard shortcuts",
+                "nodes": [
+                    {
+                        "key": "1QtZ17r00CY",
+                        "order": 1,
+                        "option": "Next",
+                        "sharedAssetKey": "1QtZB0Q00j6",
+                        "nodes": [
+                            {
+                                "key": "1QtZAgV00Vf",
+                                "order": 1,
+                                "option": "Next",
+                                "exitKey": "1QtiJuQ01sD"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "1QtQTCP00RF",
+                "order": 4,
+                "option": "From the Command Palette",
+                "nodes": [
+                    {
+                        "key": "1QtZ2Iz02Hr",
+                        "order": 1,
+                        "option": "Next",
+                        "sharedAssetKey": "1Qth5J900si",
+                        "nodes": [
+                            {
+                                "key": "1Qth4eM00kI",
+                                "order": 1,
+                                "option": "Next",
+                                "exitKey": "1QtiJuQ01sD"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1QtOwsV02Ra",
+            "relativePath": "./δ steps/δ-1QtOwsV02Ra.tsstp"
+        },
+        {
+            "key": "δ-1QtP1i800ry",
+            "relativePath": "./δ steps/δ-1QtP1i800ry.tsstp"
+        },
+        {
+            "key": "1QtYs8M025B",
+            "relativePath": "../../../../_shared/steps/VscodeOpenSettings.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1QtQLNt00eF",
+            "relativePath": "./δ steps/δ-1QtQLNt00eF.tsstp"
+        },
+        {
+            "key": "δ-1QtQOuV01kb",
+            "relativePath": "./δ steps/δ-1QtQOuV01kb.tsstp"
+        },
+        {
+            "key": "δ-1QtQTCP00RF",
+            "relativePath": "./δ steps/δ-1QtQTCP00RF.tsstp"
+        },
+        {
+            "key": "1QtZ5NW01vX",
+            "relativePath": "../../../../_shared/steps/VscodeOpenSettings.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "1QtZB0Q00j6",
+            "relativePath": "../../../../_shared/steps/VscodeOpenSettings.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "1Qth5J900si",
+            "relativePath": "../../../../_shared/steps/VscodeOpenSettings.tsstp",
+            "isShared": true
+        }
+    ]
+}
