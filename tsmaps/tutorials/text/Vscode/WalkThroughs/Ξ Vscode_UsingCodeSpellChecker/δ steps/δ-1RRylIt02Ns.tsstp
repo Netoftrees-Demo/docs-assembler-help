@@ -1,0 +1,26 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
+#### Correcting a Flagged Word
+
+1. Hover the mouse over a word flagged with a **blue squiggle** underline. 
+
+> In the image below, we hovered over **Septembr**. *- red rectangle*
+
+2. A popup appears showing the actions you can take on the flagged word. *- orange rectangle*
+
+3. Select **Quick Fix...**. *- yellow rectangle*
+
+4. A **context menu** with fixes is displayed. *- green rectangle*
+
+5. Select one. In the image below, we selected **September**. *- purple rectangle*
+
+{{::il.Vscode_CodeSpellChecker_File_1_img}}
+
+
+6. The flagged word is replaced with your selection. 
+
+> In the image below, **Septembr** was replaced with **September**.
+
+{{::il.Vscode_CodeSpellChecker_File_3_img}}
+

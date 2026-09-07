@@ -1,0 +1,6 @@
+8. Check the **JSON** for the property name `dictionaries`. *- purple rectangle*
+
+> In JSON a property name is wrapped in `""` and immediately followed by a colon (no space): `"dictionaries":`.
+
+##### *Is it present?*
+

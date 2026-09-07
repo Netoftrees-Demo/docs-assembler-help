@@ -1,0 +1,18 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
+2. In the image below, we created a file called **UiSharedDictionary.txt**. *- red rectangle*
+
+3. It was placed in the directory **D:/GitHub/**. *- orange rectangle*
+
+4. Add the words you want to include in the shared dictionary, each on a new line. 
+
+> In the image below, you can see the words **toggleable** and **netoftrees**. *- yellow rectangle*
+
+5. Save the file.
+
+{{::il.Vscode_CodeSpellChecker_SharedDictionary_img}}
+
+
+6. Open the project's **.cspell.json** file. *- red rectangle*
+

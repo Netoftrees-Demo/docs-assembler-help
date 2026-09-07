@@ -1,0 +1,5 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
+{{::il.Vscode_CodeSpellChecker_SharedDictionary_Config_img}}
+

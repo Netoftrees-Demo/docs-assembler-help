@@ -1,0 +1,299 @@
+# JSON: A Beginner's Guide for Editing Configuration Files
+
+
+## What is JSON?
+
+JSON (JavaScript Object Notation) is a simple text format used to store and organise data. It is used because it is easy for humans to read and write, and easy for computers to understand. JSON is widely used for configuration files, data exchange, and settings.
+
+A JSON file is just a plain text file with a `.json` extension. You can edit it with any text editor, such as Notepad, VS Code, or Sublime Text.
+
+
+## The Basic Structure
+
+JSON is built on two main structures:
+
+- **Objects** - A collection of name/value pairs (like a dictionary or record).
+- **Arrays** - An ordered list of values (like a list or sequence).
+
+
+## JSON Syntax Rules
+
+JSON has strict syntax rules. This strictness is to reduce the ambiguities and misunderstandings between you and the computer.  If you break them, the file will NOT work.
+
+| Rule | Description | Example |
+| --- | --- | --- |
+| **Objects** are wrapped in curly braces | `{}` | `{ }` |
+| **Arrays** are wrapped in square brackets | `[]` | `[ ]` |
+| **Properties** (names) are in double quotes | `key` | `"name"` |
+| **Values** can be strings, numbers, objects, arrays, booleans, or null | `value` | `42`, `"hello"`, `true` |
+| **Key-value pairs** are separated by a colon | `:` | `"name": "John"` |
+| **Pairs and items** are separated by commas | `,` | `"name": "John", "age": 30` |
+| **No trailing commas** | Do not put a comma after the last item | (see below) |
+| **No comments** | JSON does not support comments | Use a separate file for notes |
+
+### Trailing Comma Example (Wrong vs Right)
+
+**Wrong - trailing comma after last item:**
+
+```json
+{
+    "name": "Alice",
+    "age": 25,
+}
+```
+
+**Right - no trailing comma:**
+
+```json
+{
+    "name": "Alice",
+    "age": 25
+}
+```
+
+
+## What is a Property?
+
+A **property** (also called a key or field) is a name that identifies a piece of data. 
+
+- Properties are always written in **double quotes** (`"name"`, not `name`).
+- Properties are followed by a **colon** (`:`).
+- Properties are paired with a **value**.
+
+### Example
+
+```json
+{
+    "server_name": "blueServer",
+    "port": 8080
+}
+```
+
+In this example:
+
+- `"server_name"` and `"port"` are **properties** (keys).
+- `"blueServer"` and `8080` are their **values**.
+
+
+
+## What Can a Property Be Set To? (Value Types)
+
+A property's value can be one of six types. Below is a table of all valid types with examples and notes.
+
+| Type | Description | Example | Notes |
+| --- | --- | --- | --- |
+| **String** | Text, wrapped in double quotes | `"hello world"` | Use quotes. Escape internal quotes with backslash: `"She said: \"hello\""` |
+| **Integer** | Whole number, no quotes | `42`, `-7`, `0` | No decimal point. Can be negative. |
+| **Number (Float)** | Decimal number, no quotes | `3.14`, `-0.5`, `1.0` | Uses a decimal point. |
+| **Boolean** | True or false, no quotes | `true`, `false` | All lowercase. Not `True` or `False`. |
+| **Null** | Empty or no value | `null` | All lowercase. Means nothing or not set. |
+| **Object** | A nested collection of properties | `{ "name": "Alice", "age": 25 }` | Curly braces. Can contain any value types. |
+| **Array** | An ordered list of values | `[1, 2, 3]` or `["red", "green"]` | Square brackets. Values can be mixed types. |
+
+
+## Value Types in Detail
+
+### 1. String
+
+A string is text. It must be wrapped in double quotes.
+
+```json
+{
+    "greeting": "Hello, world!",
+    "path": "C:\\Users\\Alice\\config.json"
+}
+```
+
+**Important:** If your text contains a double quote, you must escape it with a backslash:
+
+```json
+{
+    "quote": "She said, \"Hello!\""
+}
+```
+
+Common escape sequences:
+
+| Sequence | Meaning |
+| --- | --- |
+| `\"` | Double quote |
+| `\\` | Backslash |
+| `\n` | New line |
+| `\t` | Tab |
+
+### 2. Integer
+
+A whole number. No quotes, no decimal point.
+
+```json
+{
+    "max_users": 100,
+    "timeout_seconds": 30,
+    "retry_count": -1
+}
+```
+
+### 3. Number (Float)
+
+A number with a decimal point. No quotes.
+
+```json
+{
+    "version": 2.5,
+    "scale_factor": 1.0,
+    "temperature": -3.7
+}
+```
+
+### 4. Boolean
+
+A true/false value. Must be lowercase.
+
+```json
+{
+    "enabled": true,
+    "debug_mode": false,
+    "auto_save": true
+}
+```
+
+### 5. Null
+
+Represents an empty or unknown value.
+
+```json
+{
+    "middle_name": null,
+    "deleted_at": null
+}
+```
+
+### 6. Object
+
+An object is a collection of properties inside curly braces. Objects can be nested inside other objects.
+
+```json
+{
+    "server": {
+        "host": "localhost",
+        "port": 8080,
+        "ssl": false
+    },
+    "database": {
+        "host": "db.example.com",
+        "port": 5432,
+        "credentials": {
+            "username": "admin",
+            "password": "secret123"
+        }
+    }
+}
+```
+
+**Indentation:** Use spaces or tabs to indent nested objects. This makes the file readable. 2 or 4 spaces per level is standard.
+
+### 7. Array
+
+An array is an ordered list of values inside square brackets. Values are separated by commas.
+
+```json
+{
+    "allowed_hosts": ["localhost", "192.168.1.1", "example.com"],
+    "ports": [80, 443, 8080],
+    "features": [true, false, null, "test"]
+}
+```
+
+Arrays can contain objects:
+
+```json
+{
+    "users": [
+        { "name": "Alice", "role": "admin" },
+        { "name": "Bob", "role": "editor" },
+        { "name": "Carol", "role": "viewer" }
+    ]
+}
+```
+
+
+## A Complete Example
+
+Here is a realistic configuration file that uses all value types:
+
+```json
+{
+    "application_name": "MyApp",
+    "version": 1.2,
+    "debug_mode": false,
+    "max_connections": 100,
+    "default_timeout": 30.5,
+    "primary_admin": null,
+    "server": {
+        "host": "0.0.0.0",
+        "port": 8080,
+        "use_ssl": true
+    },
+    "database_servers": [
+        {
+            "name": "primary",
+            "host": "db1.example.com",
+            "port": 5432
+        },
+        {
+            "name": "replica",
+            "host": "db2.example.com",
+            "port": 5432
+        }
+    ],
+    "features_enabled": ["authentication", "logging", "caching"],
+    "metadata": {
+        "created_by": "Admin User",
+        "created_date": "2024-01-15",
+        "tags": ["production", "stable", "v1"]
+    }
+}
+```
+
+
+## Common Mistakes to Avoid
+
+| Mistake | Why It Is Wrong | How to Fix It |
+| --- | --- | --- |
+| Using single quotes for strings | JSON only allows double quotes | Change `'name'` to `"name"` |
+| Forgetting quotes around property names | Property names must be quoted | Change `name: value` to `"name": value` |
+| Trailing comma after last item | JSON does not allow trailing commas | Remove the last comma |
+| Using `True` or `False` | Booleans must be lowercase | Change to `true` or `false` |
+| Using `None` instead of `null` | JSON uses `null`, not `None` | Change to `null` |
+| Comments inside the file | JSON does not support comments | Remove comments or use a sidecar file |
+| Missing comma between items | Each item must be separated | Add a comma between items |
+| Extra comma before closing brace | No comma before `}` or `]` | Remove the extra comma |
+
+
+## How to Edit a JSON File Safely
+
+1. **Make a backup** - Copy the file before you change it.
+2. **Use a text editor with JSON support** - VS Code, Sublime Text, and Notepad++ highlight syntax errors.
+3. **Validate your file** - Use an online JSON validator (search for "JSON validator") to check for syntax errors.
+4. **Check every quote** - Ensure all strings and property names use double quotes.
+5. **Check every comma** - No trailing commas. No missing commas between items.
+6. **Match braces and brackets** - Every opening `{` must have a closing `}`. Every opening `[` must have a closing `]`.
+
+
+## Quick Reference Card
+
+```javascript
+Property: always in double quotes
+String:   always in double quotes
+Integer:  no quotes, no decimal
+Float:    no quotes, has decimal
+Boolean:  true or false (lowercase)
+Null:     null (lowercase)
+Object:   { ... }
+Array:    [ ... ]
+Comma:    between items, NOT after last item
+No comments allowed
+```
+
+
+*This guide is intended for users who need to edit JSON configuration files but are not familiar with the format. For more advanced topics, consult the official JSON specification at json.org.*
