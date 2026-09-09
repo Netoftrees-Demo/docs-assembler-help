@@ -1,0 +1,37 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+¬import vs from "../../../../../_shared/variables/Vscode_Snippets"
+
+
+##### Add to dictionaries
+
+1. Find the **dictionaries** list.
+
+1. {{::vs.Vscode_JsonArray_AddString_1}} *- red rectangle*
+
+{{::il.Vscode_CodeSpellChecker_SharedDictionary_ConfigEdit_1_img}}
+
+2. {{::vs.Vscode_JsonArray_AddString_2}}
+
+3. {{::vs.Vscode_JsonArray_AddString_3}}
+
+4. {{::vs.Vscode_JsonArray_AddString_4}} the name of your dictionary, exactly as you wrote it above, {{::vs.Vscode_JsonArray_AddString_5}} *- yellow outline*
+
+5. {{::vs.Vscode_JsonArray_AddString_3}}
+
+> In the image below this is the text text that was added: *- yellow rectangle*
+
+```JSON
+,
+"ui-dictionary"
+```
+
+{{::il.Vscode_CodeSpellChecker_SharedDictionary_ConfigEdit_2_img}}
+
+
+6. Format the file.
+
+6. Save the file.
+
+
+{{::vs.Vscode_JsonArray_CommaGoldenRule}}
+

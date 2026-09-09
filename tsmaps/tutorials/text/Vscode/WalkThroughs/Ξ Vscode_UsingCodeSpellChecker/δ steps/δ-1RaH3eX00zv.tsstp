@@ -1,2 +1,45 @@
-¬TODO
+¬import il from "../../../../../_shared/variables/imageLinks"
+¬import vs from "../../../../../_shared/variables/Vscode_Snippets"
+
+
+#### Adding a new shared dictionary where others already exist
+
+##### Add the dictionary definition
+
+1. Find the **dictionaryDefinitions** list.
+
+2. {{::vs.Vscode_JsonArray_AddString_1}} *- yellow rectangle*
+
+{{::il.Vscode_CodeSpellChecker_SharedDictionary_ConfigEdit_1_img}}
+
+
+3. {{::vs.Vscode_JsonArray_AddString_2}}
+
+4. {{::vs.Vscode_JsonArray_AddString_3}}
+
+5. Type exactly this: `{ "name": "` pay careful attention to the `{ " :`.
+
+6. Now type a name for your dictionary.
+
+> Use upper and lowercase letters, numbers and `-` or `_`. 
+> The name must not start with a number.
+> In the image you can see we called our shared dictionary `ui-dictionary`
+
+7. Now type exactly this: `", "path": "` pay careful attention to the `{ " : ,`.
+
+8. Then type the path to the dictionary text you created earlier relative to this file.
+
+9. Then type exactly this: `" }`
+
+> In the image below this is the text text that was added: *- green outline*
+
+```JSON
+,
+{
+    "name": "ui-dictionary",
+    "path": "../../UiSharedDictionary.txt"
+}
+```
+
+{{::il.Vscode_CodeSpellChecker_SharedDictionary_ConfigEdit_2_img}}
 

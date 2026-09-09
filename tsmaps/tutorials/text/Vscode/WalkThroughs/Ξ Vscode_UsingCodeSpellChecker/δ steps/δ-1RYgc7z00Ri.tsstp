@@ -1,6 +1,12 @@
-8. Check the **JSON** for the property name `dictionaries`. *- purple rectangle*
+8. Before you start editing, save the file. 
+ 
+9. Then format it. 
+ 
+> This gives you a clean, well-indented starting point, making it much easier to see where your array begins and ends.
 
-> In JSON a property name is wrapped in `""` and immediately followed by a colon (no space): `"dictionaries":`.
+10. Check the **JSON** for the property name `dictionaryDefinitions`. *- purple rectangle*
+
+> In JSON a property name is wrapped in `""` and immediately followed by a colon (no space): `"dictionaryDefinitions":`.
 
 ##### *Is it present?*
 

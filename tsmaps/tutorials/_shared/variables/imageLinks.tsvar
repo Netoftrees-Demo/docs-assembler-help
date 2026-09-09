@@ -473,6 +473,15 @@
 ¬Vscode_CodeSpellChecker_File_10_url: ../../../assets/images/Vscode/Vscode_CodeSpellChecker_File_10.png
 ¬Vscode_CodeSpellChecker_File_10_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_CodeSpellChecker_File_10_url}})
 
+¬Vscode_CodeSpellChecker_SharedDictionary_ConfigEdit_1_url: ../../../assets/images/Vscode/Vscode_CodeSpellChecker_SharedDictionary_ConfigEdit_1.png
+¬Vscode_CodeSpellChecker_SharedDictionary_ConfigEdit_1_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_CodeSpellChecker_SharedDictionary_ConfigEdit_1_url}})
+
+¬Vscode_CodeSpellChecker_SharedDictionary_ConfigEdit_2_url: ../../../assets/images/Vscode/Vscode_CodeSpellChecker_SharedDictionary_ConfigEdit_2.png
+¬Vscode_CodeSpellChecker_SharedDictionary_ConfigEdit_2_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_CodeSpellChecker_SharedDictionary_ConfigEdit_2_url}})
+
+¬Vscode_CodeSpellChecker_SharedDictionary_ConfigNew_1_url: ../../../assets/images/Vscode/Vscode_CodeSpellChecker_SharedDictionary_ConfigNew_1.png
+¬Vscode_CodeSpellChecker_SharedDictionary_ConfigNew_1_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_CodeSpellChecker_SharedDictionary_ConfigNew_1_url}})
+
 ¬Vscode_CodeSpellChecker_SharedDictionary_Config_url: ../../../assets/images/Vscode/Vscode_CodeSpellChecker_SharedDictionary_Config.png
 ¬Vscode_CodeSpellChecker_SharedDictionary_Config_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_CodeSpellChecker_SharedDictionary_Config_url}})
 

@@ -46,25 +46,8 @@
                                                 "order": 2,
                                                 "nodes": [
                                                     {
-                                                        "key": "1QnPoNf01lQ",
-                                                        "order": 1,
-                                                        "nodes": [
-                                                            {
-                                                                "key": "1QnRmiX02U1",
-                                                                "order": 1,
-                                                                "nodes": [
-                                                                    {
-                                                                        "key": "1QnRrev02R9",
-                                                                        "order": 1,
-                                                                        "isLeaf": true
-                                                                    }
-                                                                ]
-                                                            }
-                                                        ]
-                                                    },
-                                                    {
                                                         "key": "1RS9ebt01Yp",
-                                                        "order": 2,
+                                                        "order": 1,
                                                         "option": "Create shared dictionary?",
                                                         "isAncillary": true,
                                                         "nodes": [
@@ -94,8 +77,30 @@
                                                                                         "option": "Yes \"dictionaryDefinitions\": is present",
                                                                                         "nodes": [
                                                                                             {
-                                                                                                "key": "1RaQJH901FY",
-                                                                                                "order": 1
+                                                                                                "key": "1RlcsyL0079",
+                                                                                                "order": 1,
+                                                                                                "nodes": [
+                                                                                                    {
+                                                                                                        "key": "1RaQJH901FY",
+                                                                                                        "order": 1,
+                                                                                                        "sharedAssetKey": "1RagWxW00Ob",
+                                                                                                        "isLeaf": true
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "key": "1RliHBZ01S5",
+                                                                                                        "order": 2,
+                                                                                                        "option": "Format?",
+                                                                                                        "isAncillary": true
+                                                                                                    },
+                                                                                                    {
+                                                                                                        "key": "1RliMTi02UW",
+                                                                                                        "order": 3,
+                                                                                                        "option": "Save?",
+                                                                                                        "isLeaf": true,
+                                                                                                        "isAncillary": true,
+                                                                                                        "iKey": "1LW68xy01TF"
+                                                                                                    }
+                                                                                                ]
                                                                                             }
                                                                                         ]
                                                                                     },
@@ -106,20 +111,33 @@
                                                                                         "nodes": [
                                                                                             {
                                                                                                 "key": "1RaJ6p2003N",
-                                                                                                "order": 1
+                                                                                                "order": 1,
+                                                                                                "sharedAssetKey": "1RaRO9300BD",
+                                                                                                "isLeaf": true
+                                                                                            },
+                                                                                            {
+                                                                                                "key": "1RmP3JG02Ad",
+                                                                                                "order": 2,
+                                                                                                "option": "Format?",
+                                                                                                "isAncillary": true
+                                                                                            },
+                                                                                            {
+                                                                                                "key": "1RmP5Q600iV",
+                                                                                                "order": 3,
+                                                                                                "option": "Save?",
+                                                                                                "isLeaf": true,
+                                                                                                "isAncillary": true,
+                                                                                                "iKey": "1LW68xy01TF"
                                                                                             }
                                                                                         ]
                                                                                     },
                                                                                     {
-                                                                                        "key": "1RYgijJ02Qr",
+                                                                                        "key": "1RklAAH005Y",
                                                                                         "order": 3,
-                                                                                        "nodes": [
-                                                                                            {
-                                                                                                "key": "1RaG0oD00wX",
-                                                                                                "order": 1,
-                                                                                                "option": "Next"
-                                                                                            }
-                                                                                        ]
+                                                                                        "option": "JSON?",
+                                                                                        "sharedAssetKey": "1RklO6M0048",
+                                                                                        "isLeaf": true,
+                                                                                        "isAncillary": true
                                                                                     }
                                                                                 ]
                                                                             }
@@ -132,6 +150,29 @@
                                                                         "isLeaf": true,
                                                                         "isAncillary": true,
                                                                         "iKey": "1Ra9dVM01h2"
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "key": "1RmPUA701b8",
+                                                        "order": 2,
+                                                        "nodes": [
+                                                            {
+                                                                "key": "1QnPoNf01lQ",
+                                                                "order": 1,
+                                                                "nodes": [
+                                                                    {
+                                                                        "key": "1QnRmiX02U1",
+                                                                        "order": 1,
+                                                                        "nodes": [
+                                                                            {
+                                                                                "key": "1QnRrev02R9",
+                                                                                "order": 1,
+                                                                                "isLeaf": true
+                                                                            }
+                                                                        ]
                                                                     }
                                                                 ]
                                                             }
@@ -232,16 +273,43 @@
             "relativePath": "./δ steps/δ-1RYgc7z00Ri.tsstp"
         },
         {
-            "key": "δ-1RYgijJ02Qr",
-            "relativePath": "./δ steps/δ-1RYgijJ02Qr.tsstp"
-        },
-        {
             "key": "δ-1RaH59X011V",
             "relativePath": "./δ steps/δ-1RaH59X011V.tsstp"
         },
         {
+            "key": "1RaRO9300BD",
+            "relativePath": "./δ steps/SharedDictionaryConfigurationEnd.tsstp",
+            "isShared": true
+        },
+        {
             "key": "δ-1RaH3eX00zv",
             "relativePath": "./δ steps/δ-1RaH3eX00zv.tsstp"
+        },
+        {
+            "key": "1RagWxW00Ob",
+            "relativePath": "./δ steps/SharedDictionaryConfigurationEnd.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "1RklO6M0048",
+            "relativePath": "../../../../_shared/steps/JsonBeginnerGuideToEdit.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1RlcsyL0079",
+            "relativePath": "./δ steps/δ-1RlcsyL0079.tsstp"
+        },
+        {
+            "key": "δ-1RliMTi02UW",
+            "relativePath": "./δ steps/δ-1RliMTi02UW.tsstp"
+        },
+        {
+            "key": "δ-1RmP5Q600iV",
+            "relativePath": "./δ steps/δ-1RmP5Q600iV.tsstp"
+        },
+        {
+            "key": "δ-1RmPUA701b8",
+            "relativePath": "./δ steps/δ-1RmPUA701b8.tsstp"
         }
     ]
 }

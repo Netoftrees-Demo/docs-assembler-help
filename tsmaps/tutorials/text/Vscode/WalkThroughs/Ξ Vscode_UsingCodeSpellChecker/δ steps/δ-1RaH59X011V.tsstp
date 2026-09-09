@@ -1,1 +1,39 @@
-¬TODO
+¬import il from "../../../../../_shared/variables/imageLinks"
+¬import vs from "../../../../../_shared/variables/Vscode_Snippets"
+
+
+#### Adding a new shared dictionary where none already exist
+
+1. Place the cursor right before the very last closing curly bracket `}` in the file. *- red rectangle*
+
+{{::il.Vscode_CodeSpellChecker_SharedDictionary_ConfigNew_1_img}}
+
+
+2. Paste in the following text: *- yellow rectangle*
+
+```JSON
+,
+"dictionaries": [
+    "dictionary-name"
+],
+"dictionaryDefinitions": [
+    {
+        "name": "dictionary-name",
+        "path": "../../sharedDictionary.txt"
+    }
+]
+```
+
+> Change both occurences of `dictionary-name` with a name you prefer for your dictionary.
+> Change `"../../sharedDictionary.txt"` for the relative path from this file to the dictionary text file you created earlier.
+
+{{::il.Vscode_CodeSpellChecker_SharedDictionary_ConfigNew_1_img}}
+
+
+6. Format the file.
+
+6. Save the file.
+
+
+{{::vs.Vscode_JsonArray_CommaGoldenRule}}
+

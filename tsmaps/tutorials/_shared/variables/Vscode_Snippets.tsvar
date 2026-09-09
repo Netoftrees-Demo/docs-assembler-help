@@ -9,4 +9,19 @@
 
 ¬Vscode_OpenSettings_Workspace: In the **Settings** window click the **Workspace** button.
 
+¬Vscode_JsonArray_AddString_1: In the list place the cursor right before the closing bracket `]`.
+¬Vscode_JsonArray_AddString_2: Type a **comma** `,`.
+¬Vscode_JsonArray_AddString_3: Press the **Enter** key to start a new line.
+¬Vscode_JsonArray_AddString_4: Type a **double-quote** `"` followed by 
+¬Vscode_JsonArray_AddString_5: followed by a **double-quote** `"`.
+
+
+¬Vscode_JsonArray_CommaGoldenRule:
+#####  The Golden Rule You MUST Remember
+
+In JSON, every entry in a list must be separated by a comma (,).
+Crucial: The very last item in the list cannot have a comma after it.
+
+*** If you put a comma after the last item, VS Code will warn you with a red squiggle under the offending comma***
+¬
 

@@ -68,7 +68,9 @@ If you want the full instructions - but need to indicate to them why this is pow
 
  Need to provide a tutorial to show how intellisense works and a video and this needs to be added the intellisense explanation map.
  
- 
+ The difference between reusing a map, a shared step, and a variable is that the step and variable text is duplicated in the guide for each instance it is used. So in the published guide it is not a reference but text. A map on the other hand is referenced. It is a separate guide. There are pros and cons to using the three approaches. Text is a small part of the size of a website, image and video take up far more bandwidth and storage.
+
+
 -----------------------------
 
 

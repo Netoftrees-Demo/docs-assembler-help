@@ -16,6 +16,9 @@
         "tsvar",
         "Vscode"
     ],
+    "ignoreWords": [
+        "Hoppscotch"
+    ],
     "dictionaries": [
         "ui-dictionary"
     ],
@@ -24,8 +27,5 @@
             "name": "ui-dictionary",
             "path": "../../UiSharedDictionary.txt"
         }
-    ],
-    "ignoreWords": [
-        "Hoppscotch"
     ]
 }
