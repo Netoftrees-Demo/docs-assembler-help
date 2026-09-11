@@ -486,7 +486,16 @@
 ¬Vscode_CodeSpellChecker_SharedDictionary_Config_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_CodeSpellChecker_SharedDictionary_Config_url}})
 
 ¬Vscode_CodeSpellChecker_SharedDictionary_url: ../../../assets/images/Vscode/Vscode_CodeSpellChecker_SharedDictionary.png
-¬Vscode_CodeSpellChecker_SharedDictionary_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_CodeSpellChecker_SharedDictionary__url}})
+¬Vscode_CodeSpellChecker_SharedDictionary_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_CodeSpellChecker_SharedDictionary_url}})
+
+¬Vscode_FormatTextDocument_url: ../../../assets/images/Vscode/Vscode_FormatTextDocument.png
+¬Vscode_FormatTextDocument_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_FormatTextDocument_url}})
+
+¬Vscode_CommandFormatTextDocument_url: ../../../assets/images/Vscode/Vscode_CommandFormatTextDocument.png
+¬Vscode_CommandFormatTextDocument_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_CommandFormatTextDocument_url}})
+
+¬Vscode_CommandFormatTextSelection_url: ../../../assets/images/Vscode/Vscode_CommandFormatTextSelection.png
+¬Vscode_CommandFormatTextSelection_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_CommandFormatTextSelection_url}})
 
 ¬GitHub_ForkButton_url: ../../../assets/images/GitHub/GitHub_ForkButton.png
 ¬GitHub_ForkButton_img: ![Vscode - empty]({{::GitHub_ForkButton_url}})

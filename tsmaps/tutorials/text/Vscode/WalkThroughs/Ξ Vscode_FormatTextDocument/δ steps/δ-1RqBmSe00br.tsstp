@@ -1,0 +1,27 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
+#### Command palette
+
+1. Press `Ctrl+Shift+P` to open the Command Palette.
+
+2. The Command Palette appears. *- red rectangle*
+
+
+##### Format whole document
+
+Formats the entire active file.
+
+2. Type `Format Document` and select the command **Format Document**. *- orange rectangle*
+
+{{::il.Vscode_CommandFormatTextDocument_img}}
+
+
+##### Format highlighted selection
+
+Formats the block of text you have selected
+
+2. Type `![alt text](image.png)` and select the command **Format Selection**. *- orange rectangle*
+
+{{::il.Vscode_CommandFormatTextSelection_img}}
+

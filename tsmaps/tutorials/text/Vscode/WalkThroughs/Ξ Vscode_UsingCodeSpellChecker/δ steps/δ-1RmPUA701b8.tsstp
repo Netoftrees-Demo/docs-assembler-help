@@ -1,4 +1,43 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
 #### Add flagged word to ignore list
 
+1. Hover the mouse over a word flagged with a **blue squiggle** underline. 
 
-¬TODO
+> In the image below, we hovered over **Hoppscotch**. *- red rectangle*
+
+2. The **Context menu** appears. *- orange rectangle*
+
+3. Select **Spelling**. *- yellow rectangle*
+
+4. A sub-menu appears. *- green rectangle*
+
+5. Select **Ignore Words**. *- purple rectangle*
+
+{{::il.Vscode_CodeSpellChecker_File_7_img}}
+
+
+6. The Command Palette appears. *- red rectangle*
+
+> It will offer you choices of ignore list to add the word to:
+ - In the **Workspace settings**
+ - In the **User settings**
+ - In the project **.cspell.json**
+
+> In the image below the project **.cspell.json** is selected. 
+
+{{::il.Vscode_CodeSpellChecker_File_8_img}}
+
+
+7. The flagging then disappears from the the word in the text. *- red rectangle*
+
+{{::il.Vscode_CodeSpellChecker_File_9_img}}
+
+
+8. The word is added to **ignoreWords**.
+
+> In the image below **ignoreWords** is in the project **.cspell.json** file. 
+
+{{::il.Vscode_CodeSpellChecker_File_10_img}}
+

@@ -18,9 +18,9 @@
 {{::il.Vscode_CodeSpellChecker_File_2_img}}
 
 
-6. The word is added to the **Code Spell Checker** words in the workspace settings. 
+6. The word is added to the **cSpell.words** in the workspace settings. 
 
-> In the image below the wrd added is **tsgde**. The flagging disappears from the the word in the text. *- red rectangle*
+> In the image below the word added is **tsgde**. The flagging disappears from the the word in the text. *- red rectangle*
 
 {{::il.Vscode_Settings_WorkspaceJson_Cspell_img}}
 

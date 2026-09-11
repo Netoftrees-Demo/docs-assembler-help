@@ -1,0 +1,9 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
+2. Copy a word flagged with a **blue squiggle** underline.
+
+> In the image below that is **Toggleable**. *- red rectangle*
+
+{{::il.Vscode_CodeSpellChecker_File_6_img}}
+

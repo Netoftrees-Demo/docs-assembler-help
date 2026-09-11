@@ -24,6 +24,8 @@ XXXXX
 'If you don't want that...'
 YYYYY
 
+Don't use the way we have built our helps to judge the underlying tech. Theya re not the same. Need to phrase this better ie not negative!!!!
+
 For launching a browser offer options of laucnhing default or choosing one so add the following to the launch browser map (remember be helpful without being intrusive or annoying):
 Start menu search: Press the Windows key, type a web address (e.g., google.com), and press Enter - it opens in your default browser.
 

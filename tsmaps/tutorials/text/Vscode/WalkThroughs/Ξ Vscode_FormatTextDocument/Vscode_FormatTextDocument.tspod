@@ -1,0 +1,54 @@
+{
+    "key": "1Rpw5NM02Xr ",
+    "token": "Vscodeformattextdocument",
+    "name": "Vscode_FormatTextDocument",
+    "created": "2026-09-10T14:00:58.876Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_FormatTextDocument/Vscode_FormatTextDocument.tspod",
+    "isPod": true,
+    "iText": "Link to 'Vscode_FormatTextDocument'",
+    "___rΩΩt___": {
+        "key": "1RpwASZ029v",
+        "nodes": [
+            {
+                "key": "1RpwBcO01Nr",
+                "order": 1,
+                "option": "Keyboard shortcuts?",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "1RqBjzf01qo",
+                "order": 2,
+                "option": "Context menu?",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "1RqBmSe00br",
+                "order": 3,
+                "option": "Command palette?",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1RpwASZ029v",
+            "relativePath": "./δ steps/δ-1RpwASZ029v.tsstp"
+        },
+        {
+            "key": "δ-1RpwBcO01Nr",
+            "relativePath": "./δ steps/δ-1RpwBcO01Nr.tsstp"
+        },
+        {
+            "key": "δ-1RqBjzf01qo",
+            "relativePath": "./δ steps/δ-1RqBjzf01qo.tsstp"
+        },
+        {
+            "key": "δ-1RqBmSe00br",
+            "relativePath": "./δ steps/δ-1RqBmSe00br.tsstp"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+#### Keyboard shortcuts
+
+##### Format whole document
+
+Formats the entire active file.
+
+1. Press `Shift+Alt+F` on the keyboard (all keys pressed together).
+
+
+##### Format highlighted selection
+
+Formats the block of text you have selected
+
+1. Press `Ctrl+K` on the keyboard (all keys pressed together), then release keys and press `Ctrl+F` (all keys pressed together).
+

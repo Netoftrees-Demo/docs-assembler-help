@@ -1,0 +1,13 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
+#### Context menu
+
+1. Right-click anywhere in the editor. *- red rectangle*
+
+2. The **Context Menu** is displayed. *- orange rectangle*
+
+3. Select **Format Document**. *- yellow rectangle*
+
+{{::il.Vscode_FormatTextDocument_img}}
+

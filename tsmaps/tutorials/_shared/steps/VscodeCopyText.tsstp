@@ -1,0 +1,44 @@
+<!-- ¬import il from "../variables/imageLinks"
+
+ -->
+#### Copy text
+
+¬TDOD 111 Copy text
+
+Vscode_CodeSpellChecker_File_5
+
+### Copy a word
+
+1. **Select the word** using any of these methods:
+
+   - **Drag cursor**  
+     Place the mouse pointer just before the first letter of the word.  
+     Press and hold the left mouse button.  
+     Drag the pointer across the word to just after the last letter.  
+     Release the mouse button.  
+     The word is now highlighted.  
+     > If you drag too far, you may select extra spaces or punctuation.  
+     > If you don’t drag far enough, only part of the word will be selected.
+
+   - **Double-click**  
+     Double-click the word.
+
+   - **Keyboard**  
+     Place the cursor next to the word, then press `Ctrl+Shift+→` or `Ctrl+Shift+←`  
+     (Windows/Linux) or `Option+Shift+→` / `Option+Shift+←` (macOS).
+
+2. **Copy the selected word** using any of these methods:
+
+   - **Keyboard shortcut**  
+     `Ctrl+C` (Windows/Linux) or `Cmd+C` (macOS).  
+     Alternative on Windows: `Ctrl+Insert`.
+
+   - **Context menu**  
+     Right-click the selected word, then choose **Copy**.
+
+   - **Edit menu**  
+     Go to **Edit > Copy**.
+
+   - **Command Palette** *(VS Code)*  
+     Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (macOS),  
+     type `Copy`, then select **Copy**.

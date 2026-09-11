@@ -1,0 +1,10 @@
+1. Paste the word into the shared dictionary text file. Each entry in the dictionary should be on a new line. *- yellow rectangle*
+
+> In the image below you can see the shared dictionary text file open in the **VS Code text editor**. *- red rectangle*
+
+> Its location is shown in the breadcrumbs. *- orange rectangle*
+
+3. Save the file.
+
+> The flagging then disappears from the the word in the text.
+
