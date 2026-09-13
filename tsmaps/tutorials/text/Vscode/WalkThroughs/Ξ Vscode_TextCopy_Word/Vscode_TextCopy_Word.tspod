@@ -1,0 +1,47 @@
+{
+    "key": "1S6twiM01q2 ",
+    "token": "Vscodetextcopyword",
+    "name": "Vscode_TextCopy_Word",
+    "created": "2026-09-13T11:39:06.638Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_TextCopy_Word/Vscode_TextCopy_Word.tspod",
+    "isPod": true,
+    "iText": "Link to 'Vscode_TextCopy_Word'",
+    "___εdit___": {
+        "id": "1S6yE0M01CB",
+        "editorID": "exp_db5508c0d6c045c4b3e8ffd948e0bbe9",
+        "ticks": 1789300566414
+    },
+    "___rΩΩt___": {
+        "key": "1S6u43P01Rr",
+        "nodes": [
+            {
+                "key": "1S6uBm001LX",
+                "order": 1,
+                "isLeaf": true
+            },
+            {
+                "key": "1S6vHMF00Rs",
+                "order": 2,
+                "option": "Select?",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "1S6qWeL00im"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1S6u43P01Rr",
+            "relativePath": "./δ steps/δ-1S6u43P01Rr.tsstp"
+        },
+        {
+            "key": "δ-1S6uBm001LX",
+            "relativePath": "./δ steps/δ-1S6uBm001LX.tsstp"
+        },
+        {
+            "key": "δ-1S6vHMF00Rs",
+            "relativePath": "./δ steps/δ-1S6vHMF00Rs.tsstp"
+        }
+    ]
+}

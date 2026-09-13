@@ -1,0 +1,11 @@
+### Multi-cursor selection
+
+Editing in multiple places simultaneously.
+
+1. **Manual Placement (Mouse)**: Hold `Alt` and click at each location where you want a cursor.
+2. **Adding Cursors Vertically (Keyboard)**: Use `Ctrl + Alt + Up Arrow / Down Arrow` to add a cursor on the line above or below. This creates a vertical column of cursors for editing aligned text.
+3. **Selecting Next Occurrence**: Place your cursor on a word and press `Ctrl + D`. The next instance of that word is selected, and a new cursor is added. Press the shortcut again to select subsequent occurrences one by one.
+4. **Selecting All Occurrences**: To select every instance of a word in the file at once, press `Ctrl + Shift + L`. Be careful with this in large files.
+5. **Undoing a Cursor**: If you accidentally add one cursor too many, press `Ctrl + U` to remove the last added cursor.
+6. **Insert Cursor at End of Each Line**: After making a multi-line selection, you can use `Shift + Alt + I` to place a cursor at the end of every selected line. This is useful for appending text to multiple lines at once.
+

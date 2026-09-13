@@ -1,0 +1,40 @@
+### Selecting a word in VS Code
+
+
+#### With the cursor 
+  
+1. Place the mouse pointer just before the first letter of the word. 
+
+2. Press and hold the left mouse button.  
+
+3. Drag the pointer across the word to just after the last letter. 
+
+4. Release the mouse button. 
+
+5. The word is now highlighted. 
+
+> **Note:** 
+ - If you drag too far, you may select extra spaces or punctuation.  
+ - If you don’t drag far enough, only part of the word will be selected.
+
+
+#### Double-clicking  
+
+1. Double-click the word.
+
+
+#### With the keyboard
+
+##### Forwards: 
+
+1. Place the cursor before the first letter of the word.
+
+2. Then press `Ctrl + Shift + Right Arrow`.
+
+
+##### Backwards:
+
+1. Place the cursor after the last letter of the word.
+
+2. Then press `Ctrl + Shift + Left Arrow`.
+

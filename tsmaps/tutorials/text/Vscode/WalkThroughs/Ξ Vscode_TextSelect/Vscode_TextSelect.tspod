@@ -1,0 +1,60 @@
+{
+    "key": "1S6Hx7d006J ",
+    "token": "Vscodetextselect",
+    "name": "Vscode_TextSelect",
+    "created": "2026-09-13T09:08:11.741Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_TextSelect/Vscode_TextSelect.tspod",
+    "isPod": true,
+    "iText": "Link to 'Vscode_TextSelect'",
+    "___rΩΩt___": {
+        "key": "1S6I5Mq007C",
+        "nodes": [
+            {
+                "key": "1S6I7I60196",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1S6pyiF00KU",
+                        "order": 1,
+                        "nodes": [
+                            {
+                                "key": "1S6q5J000vs",
+                                "order": 1,
+                                "nodes": [
+                                    {
+                                        "key": "1S6qAff00rK",
+                                        "order": 1,
+                                        "isLeaf": true
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1S6I5Mq007C",
+            "relativePath": "./δ steps/δ-1S6I5Mq007C.tsstp"
+        },
+        {
+            "key": "δ-1S6I7I60196",
+            "relativePath": "./δ steps/δ-1S6I7I60196.tsstp"
+        },
+        {
+            "key": "δ-1S6pyiF00KU",
+            "relativePath": "./δ steps/δ-1S6pyiF00KU.tsstp"
+        },
+        {
+            "key": "δ-1S6q5J000vs",
+            "relativePath": "./δ steps/δ-1S6q5J000vs.tsstp"
+        },
+        {
+            "key": "δ-1S6qAff00rK",
+            "relativePath": "./δ steps/δ-1S6qAff00rK.tsstp"
+        }
+    ]
+}

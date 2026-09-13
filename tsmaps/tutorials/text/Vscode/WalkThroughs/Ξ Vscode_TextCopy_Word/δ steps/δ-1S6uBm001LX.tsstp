@@ -1,0 +1,25 @@
+#### Using the keyboard
+
+1. Press `Ctrl + C`.  
+
+#### From the context menu
+
+1. Right-click the selected word, then choose **Copy**.
+
+#### From the main menu 
+
+1. From the **Main menu** click **Edit**.
+
+2. The **Edit menu** is displayed.
+
+3. Select **Copy**.
+
+
+#### From the command palette
+
+1. Press `Ctrl + Shift + P` to open the Command Palette.
+
+2. The Command Palette appears. *- red rectangle*
+
+3. Type `Copy`, then select **Copy**.
+

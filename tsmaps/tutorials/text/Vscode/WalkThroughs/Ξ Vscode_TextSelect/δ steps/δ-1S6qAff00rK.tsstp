@@ -1,0 +1,8 @@
+### Column (Box) Selection
+
+Selecting a rectangular block of text - useful for editing text formatted in columns.
+
+1. **Mouse Method**: Hold `Shift + Alt` and drag the mouse vertically. A rectangular selection will be created.
+2. **Keyboard Method**: You can also use `Shift + Alt + Left Arrow / Right Arrow / Up Arrow / Down Arrow` to create and expand a column selection.
+3. **Column Selection Mode**: You can toggle a dedicated mode from the **Selection** menu or the **Status Bar**. When active, regular mouse selection and `Shift`+arrow keys will create column selections.
+

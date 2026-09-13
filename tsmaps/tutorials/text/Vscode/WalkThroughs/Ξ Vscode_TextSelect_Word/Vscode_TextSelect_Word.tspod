@@ -1,0 +1,33 @@
+{
+    "key": "1S6qWeL00im ",
+    "token": "Vscodetextselectword",
+    "name": "Vscode_TextSelect_Word",
+    "created": "2026-09-13T11:37:41.808Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_TextSelect_Word/Vscode_TextSelect_Word.tspod",
+    "isPod": true,
+    "iText": "Link to 'Vscode_TextSelect_Word'",
+    "___rΩΩt___": {
+        "key": "1S6qeOZ004N",
+        "nodes": [
+            {
+                "key": "1S6sioG00qM",
+                "order": 1,
+                "option": "Select text?",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "1S6Hx7d006J"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1S6qeOZ004N",
+            "relativePath": "./δ steps/δ-1S6qeOZ004N.tsstp"
+        },
+        {
+            "key": "δ-1S6sioG00qM",
+            "relativePath": "./δ steps/δ-1S6sioG00qM.tsstp"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+## Selecting text in VS Code
+
+Text selection in VS Code ranges from the single cursor to multi-cursor and column (box) selection. Multi-cursor editing allows you to make the same edit in multiple places simultaneously. Column selection lets you select a rectangular block of text across multiple lines.
+
+### Single-cursor selection
+

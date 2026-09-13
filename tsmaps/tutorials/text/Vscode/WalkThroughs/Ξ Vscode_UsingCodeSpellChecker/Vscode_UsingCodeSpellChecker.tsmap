@@ -185,22 +185,7 @@
                                                                                 "nodes": [
                                                                                     {
                                                                                         "key": "1QnPoNf01lQ",
-                                                                                        "order": 1,
-                                                                                        "nodes": [
-                                                                                            {
-                                                                                                "key": "1QnRmiX02U1",
-                                                                                                "order": 1,
-                                                                                                "nodes": [
-                                                                                                    {
-                                                                                                        "key": "1QnRrev02R9",
-                                                                                                        "order": 1,
-                                                                                                        "option": "Troubleshooting",
-                                                                                                        "isLeaf": true,
-                                                                                                        "isAncillary": true
-                                                                                                    }
-                                                                                                ]
-                                                                                            }
-                                                                                        ]
+                                                                                        "order": 1
                                                                                     }
                                                                                 ]
                                                                             }
@@ -210,9 +195,9 @@
                                                                         "key": "1RxbEMv0243",
                                                                         "order": 2,
                                                                         "option": "Copy word?",
-                                                                        "sharedAssetKey": "1RxbcjY007R",
                                                                         "isLeaf": true,
-                                                                        "isAncillary": true
+                                                                        "isAncillary": true,
+                                                                        "iKey": "1S6twiM01q2"
                                                                     }
                                                                 ]
                                                             },
@@ -249,18 +234,6 @@
         {
             "key": "δ-1QnPnUv005g",
             "relativePath": "./δ steps/δ-1QnPnUv005g.tsstp"
-        },
-        {
-            "key": "δ-1QnPoNf01lQ",
-            "relativePath": "./δ steps/δ-1QnPoNf01lQ.tsstp"
-        },
-        {
-            "key": "δ-1QnRmiX02U1",
-            "relativePath": "./δ steps/δ-1QnRmiX02U1.tsstp"
-        },
-        {
-            "key": "δ-1QnRrev02R9",
-            "relativePath": "./δ steps/δ-1QnRrev02R9.tsstp"
         },
         {
             "key": "δ-1QpeyjT01xj",
@@ -383,13 +356,12 @@
             "relativePath": "./δ steps/δ-1RxZ6Sx01NQ.tsstp"
         },
         {
-            "key": "1RxbcjY007R",
-            "relativePath": "../../../../_shared/steps/VscodeCopyText.tsstp",
-            "isShared": true
-        },
-        {
             "key": "δ-1Rxde9G01qu",
             "relativePath": "./δ steps/δ-1Rxde9G01qu.tsstp"
+        },
+        {
+            "key": "δ-1RxbEMv0243",
+            "relativePath": "./δ steps/δ-1RxbEMv0243.tsstp"
         }
     ]
 }

@@ -1,0 +1,12 @@
+#### With the keyboard
+
+1. **Character by Character**: Use `Shift + Left Arrow / Right Arrow` to extend your selection one character at a time in either direction.
+2. **Word by word**: Use `Ctrl + Shift + Left Arrow / Right Arrow` to select text word by word.
+3. **Current line**: Press `Ctrl + L` to instantly select the entire line where your cursor is located.
+4. **Line by line**: Use `Ctrl + Shift + Up Arrow / Down Arrow` to select lines above or below the cursor.
+5. **To the beginning of the line**: Use `Shift + Home` to select from the cursor to the start of the line.
+6. **To the end of the line**: Use `Shift + End` to select to the end of the line.
+7. **To the beginning of the document**: Use `Ctrl + Shift + Home` to select from the cursor to the start of the file.
+8. **To the end of the document**: Use `Ctrl + Shift + End` to select to the end of the file.
+6. **Entire document**: Use `Ctrl + A` to select the entire content of the active file.
+
