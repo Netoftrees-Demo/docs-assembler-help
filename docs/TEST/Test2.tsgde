@@ -1,0 +1,18 @@
+---
+title: null
+isGuide: true
+mapFolderPath: tsmaps/TEST/%CE%9E%20Test2
+fragsFolderPath: TEST/Test2_frags
+
+---
+
+
+<!-- tsGuideRenderComment {"guide":{"id":"1SECeap016V","path":"TEST","fragmentFolderPath":"TEST/Test2_frags"},"fragment":{"id":"1SECeap016V","topLevelMapKey":"1SECctj00TV","mapKeyChain":"1SECctj00TV","guideID":"1SECctj00TV","chartKey":"1SECctj00TV","isLeaf":true,"options":[]}} -->
+
+Test2 root
+
+£££
+
+Test2 end
+
+*Is this followed by a 'Next' option?*

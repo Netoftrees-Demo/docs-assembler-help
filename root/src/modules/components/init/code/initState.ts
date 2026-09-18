@@ -77,8 +77,9 @@ const buildSegmentsRenderDisplay = (
 
     if (!firstSegment.start.isLast
         && firstSegment.start.type !== OutlineType.Link
+        && firstSegment.start.type !== OutlineType.Inline
     ) {
-        throw new Error("Invalid query string format - it should start with '-' or '~'");
+        throw new Error("Invalid query string format - it should start with '-' or '~' or '!");
     }
 
     return [

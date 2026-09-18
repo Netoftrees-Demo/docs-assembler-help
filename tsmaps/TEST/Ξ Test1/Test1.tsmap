@@ -1,0 +1,53 @@
+{
+    "key": "1SDeJ8B0022 ",
+    "token": "Test1",
+    "name": "Test1",
+    "created": "2026-09-14T15:20:53.911Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/TEST/Ξ Test1/Test1.tsmap",
+    "iText": "Link to 'Test1'",
+    "___rΩΩt___": {
+        "key": "1SDeMop01Nv",
+        "nodes": [
+            {
+                "key": "1SaKu3s02Mp",
+                "order": 1,
+                "option": "Next?",
+                "nodes": [
+                    {
+                        "key": "1SDePLv027M",
+                        "order": 1,
+                        "iKey": "1SECctj00TV",
+                        "isInline": true,
+                        "nodes": [
+                            {
+                                "key": "1SFFRgE02VB",
+                                "order": 1,
+                                "option": "Next",
+                                "isLeaf": true
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1SDeMop01Nv",
+            "relativePath": "./δ steps/δ-1SDeMop01Nv.tsstp"
+        },
+        {
+            "key": "δ-1SDePLv027M",
+            "relativePath": "./δ steps/δ-1SDePLv027M.tsstp"
+        },
+        {
+            "key": "δ-1SFFRgE02VB",
+            "relativePath": "./δ steps/δ-1SFFRgE02VB.tsstp"
+        },
+        {
+            "key": "δ-1SaKu3s02Mp",
+            "relativePath": "./δ steps/δ-1SaKu3s02Mp.tsstp"
+        }
+    ]
+}

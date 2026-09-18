@@ -44,8 +44,9 @@ const checkForLinkErrors = (
 
         throw new Error('Mismatch between fragment and outline node - link iKey');
     }
-    else if (linkSegment.start.type !== OutlineType.Link) {
-
+    else if (linkSegment.start.type !== OutlineType.Link
+        && linkSegment.start.type !== OutlineType.Inline
+    ) {
         throw new Error('Mismatch between fragment and outline node - link');
     }
 };
@@ -58,6 +59,10 @@ const getIdentifierCharacter = (identifierChar: string): { type: OutlineType, is
     if (identifierChar === '~') {
 
         startOutlineType = OutlineType.Link;
+    }
+    else if (identifierChar === '!') {
+
+        startOutlineType = OutlineType.Inline;
     }
     else if (identifierChar === '_') {
 
@@ -83,7 +88,7 @@ const getKeyEndIndex = (remainingChain: string): { index: number, isLast: boolea
 
     const startKeyEndIndex = U.indexOfAny(
         remainingChain,
-        ['~', '-', '_'],
+        ['~', '-', '_', '!'],
         1
     );
 

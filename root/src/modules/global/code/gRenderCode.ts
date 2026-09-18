@@ -189,11 +189,8 @@ const gRenderCode = {
 
             return;
         }
-    },
-
-    registerFragmentComment: () => {
-
     }
 }
 
 export default gRenderCode;
+

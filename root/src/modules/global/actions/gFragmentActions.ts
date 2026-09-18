@@ -48,8 +48,9 @@ const processChainFragmentType = (
             throw new Error('Mismatch between fragment id and outline fragment id');
         }
 
-        if (outlineNode.type === OutlineType.Link) {
-
+        if (outlineNode.type === OutlineType.Link
+            || outlineNode.type === OutlineType.Inline
+        ) {
             processLink(
                 state,
                 segment,

@@ -582,7 +582,7 @@ const gFragmentCode = {
 
             gFragmentCode.autoExpandSingleBlankOption(
                 state,
-                result.fragment
+                fragment
             );
 
             if (!fragment.link) {
@@ -728,6 +728,31 @@ const gFragmentCode = {
                 fragment.option
             );
         }
+        else if (!fragment.options
+            || fragment.options.length === 0
+        ) {
+            const displayChart = fragment.section as IDisplayChart;
+
+            if (displayChart
+                && displayChart.parent
+                && displayChart.parent.isInline === true
+                && displayChart.parent.options
+                && displayChart.parent.options.length > 0
+            ) {
+                const parent = displayChart.parent;
+
+                if (parent.isInline === true
+                    && parent.options
+                    && parent.options.length > 0
+                ) {
+                    // TODO Process its options
+                    // gOutlineCode.getLinkOutline_subscripion(
+                    //     state,
+                    //     fragment
+                    // );
+                }
+            }
+        }
     },
 
     expandOptionPods: (
@@ -844,6 +869,7 @@ const gFragmentCode = {
         fragment.mapKeyChain = rawFragment.mapKeyChain ?? '';
         fragment.guideID = rawFragment.guideID ?? '';
         fragment.iKey = rawFragment.iKey ?? null;
+        fragment.isInline = rawFragment.isInline === true;
         fragment.exitKey = rawFragment.exitKey ?? null;
         fragment.variable = rawFragment.variable ?? [];
         fragment.classes = rawFragment.classes ?? [];

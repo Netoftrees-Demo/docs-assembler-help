@@ -38,7 +38,15 @@ const printSegmentEnd = (
     if (fragment.link?.root) {
 
         let url = urlAssembler.url;
-        url = `${url}~${fragment.id}`;
+
+        let delimiter = '~';
+
+        if (fragment.isInline === true) {
+
+            delimiter = '!'
+        }
+
+        url = `${url}${delimiter}${fragment.id}`;
         urlAssembler.url = url;
 
         printSegmentEnd(

@@ -1,0 +1,29 @@
+{
+    "key": "1SECctj00TV ",
+    "token": "Test2",
+    "name": "Test2",
+    "created": "2026-09-14T17:37:13.047Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/TEST/Ξ Test2/Test2.tsmap",
+    "iText": "Link to 'Test2'",
+    "___rΩΩt___": {
+        "key": "1SECeap016V",
+        "nodes": [
+            {
+                "key": "1SECfr000cZ",
+                "order": 1,
+                "isLeaf": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1SECeap016V",
+            "relativePath": "./δ steps/δ-1SECeap016V.tsstp"
+        },
+        {
+            "key": "δ-1SECfr000cZ",
+            "relativePath": "./δ steps/δ-1SECfr000cZ.tsstp"
+        }
+    ]
+}

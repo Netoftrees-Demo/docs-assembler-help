@@ -1,0 +1,44 @@
+{
+    "key": "1SKdkhW01ov ",
+    "token": "Test3",
+    "name": "Test3",
+    "created": "2026-09-15T20:02:35.914Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/TEST/Ξ Test3/Test3.tsmap",
+    "iText": "Link to 'Test3'",
+    "___rΩΩt___": {
+        "key": "1SKdn0K00ns",
+        "nodes": [
+            {
+                "key": "1SKee6l00lW",
+                "order": 1,
+                "gPath": {
+                    "guidePath": "LuSenlinTech/produce/Pods/Modules/AeroHerb_frags",
+                    "bankUrl": "https://netoftrees.com/docs-assembler-demo/"
+                },
+                "nodes": [
+                    {
+                        "key": "1SKnuzl01V0",
+                        "order": 1,
+                        "option": "Next",
+                        "isLeaf": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1SKdn0K00ns",
+            "relativePath": "./δ steps/δ-1SKdn0K00ns.tsstp"
+        },
+        {
+            "key": "δ-1SKee6l00lW",
+            "relativePath": "./δ steps/δ-1SKee6l00lW.tsstp"
+        },
+        {
+            "key": "δ-1SKnuzl01V0",
+            "relativePath": "./δ steps/δ-1SKnuzl01V0.tsstp"
+        }
+    ]
+}
