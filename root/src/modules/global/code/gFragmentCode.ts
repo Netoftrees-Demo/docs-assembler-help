@@ -732,26 +732,22 @@ const gFragmentCode = {
                 fragment.option
             );
         }
-        else if (!fragment.options
-            || fragment.options.length === 0
-        ) {
+        else if (optionsAndAncillaries.options.length === 0) {
+
             const displayChart = fragment.section as IDisplayChart;
+            const parent = displayChart.parent;
 
-            if (displayChart
-                && displayChart.parent
-                && displayChart.parent.isInline === true
-                && displayChart.parent.options
-                && displayChart.parent.options.length > 0
+            if (parent
+                && parent.isInline === true
             ) {
-                const parent = displayChart.parent;
+                const parentOptionsAndAncillaries = gFragmentCode.splitOptionsAndAncillaries(parent.options);
 
-                if (parent.isInline === true
-                    && parent.options
-                    && parent.options.length > 0
+                if (parentOptionsAndAncillaries.options.length === 1
+                    && parentOptionsAndAncillaries.options[0].option === ''
                 ) {
-                    gFragmentCode.autoExpandSingleBlankOption(
+                    return showOptionNode_subscripton(
                         state,
-                        parent
+                        parentOptionsAndAncillaries.options[0]
                     );
                 }
             }
@@ -962,7 +958,7 @@ const gFragmentCode = {
         /*
                 <script type=\"module\" src=\"/@vite/client\"></script>
                 <!-- tsFragmentRenderComment {\"node\":{\"id\":\"dBt7Km2Ml\",\"topLevelMapKey\":\"cv1TRl01rf\",\"mapKeyChain\":\"cv1TRl01rf\",\"guideID\":\"dBt7JN1He\",\"guidePath\":\"c:/GitHub/TEST.Documentation/tsmapsdataOptionsFolder/Holder/dataOptions.tsmap\",\"parentFragmentID\":\"dBt7JN1vt\",\"chartKey\":\"cv1TRl01rf\",\"options\":[]}} -->
-
+ 
                 <h4 id=\"option-1-solution\">Option 1 solution</h4>
                 <p>Option 1 solution</p>
         */
