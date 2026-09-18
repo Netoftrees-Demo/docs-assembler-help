@@ -409,7 +409,11 @@ const gFragmentCode = {
         gFragmentCode.clearOrphanedSteps(fragment.selected);
 
         fragment.selected = null;
-        fragment.link = null;
+
+        if (!fragment.isInline) {
+
+            fragment.link = null;
+        }
     },
 
     getFragmentAndLinkOutline_subscripion: (
@@ -745,11 +749,10 @@ const gFragmentCode = {
                     && parent.options
                     && parent.options.length > 0
                 ) {
-                    // TODO Process its options
-                    // gOutlineCode.getLinkOutline_subscripion(
-                    //     state,
-                    //     fragment
-                    // );
+                    gFragmentCode.autoExpandSingleBlankOption(
+                        state,
+                        parent
+                    );
                 }
             }
         }
@@ -940,6 +943,12 @@ const gFragmentCode = {
                 // option.ui.discussionLoaded = false;
                 option.ui.doNotPaint = false;
             }
+        }
+
+        if (state.renderState.displayGuide?.root
+            && state.renderState.displayGuide.root.id === fragment.id) {
+
+            state.renderState.displayGuide.root.value = '';
         }
 
         gHookRegistryCode.executeStepHook(

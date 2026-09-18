@@ -1,0 +1,41 @@
+{
+    "key": "1Sc3brO00TX ",
+    "token": "Test4",
+    "name": "Test4",
+    "created": "2026-09-18T19:31:56.170Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/TEST/Ξ Test4/Test4.tsmap",
+    "iText": "Link to 'Test4'",
+    "___rΩΩt___": {
+        "key": "1Sc3eKx02Cv",
+        "nodes": [
+            {
+                "key": "1Sc3fn901I1",
+                "order": 1,
+                "iKey": "1SECctj00TV",
+                "isInline": true,
+                "nodes": [
+                    {
+                        "key": "1Sc3lR2001L",
+                        "order": 1,
+                        "isLeaf": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1Sc3eKx02Cv",
+            "relativePath": "./δ steps/δ-1Sc3eKx02Cv.tsstp"
+        },
+        {
+            "key": "δ-1Sc3fn901I1",
+            "relativePath": "./δ steps/δ-1Sc3fn901I1.tsstp"
+        },
+        {
+            "key": "δ-1Sc3lR2001L",
+            "relativePath": "./δ steps/δ-1Sc3lR2001L.tsstp"
+        }
+    ]
+}
