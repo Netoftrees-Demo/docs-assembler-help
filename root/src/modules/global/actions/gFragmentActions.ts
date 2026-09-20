@@ -97,9 +97,62 @@ const processChainFragmentType = (
         else {
             throw new Error('Unexpected fragment type.');
         }
+
+        checkAncestorsForInline(
+            state,
+            segment,
+            fragment
+        );
     }
 
     return gStateCode.cloneState(state);
+};
+
+const checkAncestorsForInline = (
+    state: IState,
+    segment: IChainSegment,
+    fragment: IRenderFragment
+) => {
+
+    const optionsAndAncillaries = gFragmentCode.splitOptionsAndAncillaries(fragment.options);
+
+    if (optionsAndAncillaries.options.length === 0) {
+
+        // Chain ends check ancestors for inline
+        const section = fragment.section as IDisplayChart;
+        const parent = section?.parent;
+
+        if (parent) {
+
+            const parentOptionsAndAncillaries = gFragmentCode.splitOptionsAndAncillaries(parent.options);
+
+            if (parentOptionsAndAncillaries.options?.length === 0) {
+                // Not inline - Inlined fragments must have options - hence inline
+                // Check grandparent for inline
+                checkAncestorsForInline(
+                    state,
+                    segment,
+                    parent
+                );
+
+                return;
+            }
+
+            if (parent.isInline === true) {
+                //process options
+
+                gFragmentCode.loadNextChainFragment(
+                    state,
+                    segment
+                );
+
+                processFragment(
+                    state,
+                    parent
+                );
+            }
+        }
+    }
 };
 
 const checkForLastFragmentErrors = (

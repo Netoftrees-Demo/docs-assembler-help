@@ -6,7 +6,6 @@ import ISegmentNode from "./ISegmentNode";
 export default interface IChainSegment {
 
     index: number;
-    text: string;
     outlineNodes: Array<IRenderOutlineNode>;
     outlineNodesLoaded: boolean;
 

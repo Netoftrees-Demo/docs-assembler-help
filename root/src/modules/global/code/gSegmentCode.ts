@@ -84,9 +84,9 @@ const getIdentifierCharacter = (identifierChar: string): { type: OutlineType, is
     };
 };
 
-const getKeyEndIndex = (remainingChain: string): { index: number, isLast: boolean | null } => {
+const getKeyEndIndex = (remainingChain: string): number => {
 
-    const startKeyEndIndex = U.indexOfAny(
+    let startKeyEndIndex = U.indexOfAny(
         remainingChain,
         ['~', '-', '_', '!'],
         1
@@ -94,16 +94,10 @@ const getKeyEndIndex = (remainingChain: string): { index: number, isLast: boolea
 
     if (startKeyEndIndex === -1) {
 
-        return {
-            index: remainingChain.length,
-            isLast: true
-        };
+        startKeyEndIndex = remainingChain.length;
     }
 
-    return {
-        index: startKeyEndIndex,
-        isLast: null
-    };
+    return startKeyEndIndex;
 };
 
 const getOutlineType = (remainingChain: string): { type: OutlineType, isLast: boolean } => {
@@ -114,7 +108,10 @@ const getOutlineType = (remainingChain: string): { type: OutlineType, isLast: bo
     return outlineType;
 };
 
-const getNextSegmentNode = (remainingChain: string): { segmentNode: ISegmentNode | null, endChain: string } => {
+const getNextSegmentNode = (
+    remainingChain: string,
+    segmentIndex: number
+): { segmentNode: ISegmentNode | null, endChain: string } => {
 
     let segmentNode: ISegmentNode | null = null;
     let endChain = "";
@@ -122,27 +119,26 @@ const getNextSegmentNode = (remainingChain: string): { segmentNode: ISegmentNode
     if (!U.isNullOrWhiteSpace(remainingChain)) {
 
         const outlineType = getOutlineType(remainingChain);
-        const keyEnd: { index: number, isLast: boolean | null } = getKeyEndIndex(remainingChain);
+        const keyEndIndex = getKeyEndIndex(remainingChain);
 
         const key = remainingChain.substring(
             1,
-            keyEnd.index
+            keyEndIndex
         );
 
+        endChain = remainingChain.substring(keyEndIndex);
+
+        let isLast = outlineType.isLast === true
+            && U.isNullOrWhiteSpace(endChain) === true;
+
         segmentNode = new SegmentNode(
-            remainingChain.substring(0, keyEnd.index),
+            remainingChain,
             key,
             outlineType.type,
             false,
-            outlineType.isLast
+            isLast,
+            segmentIndex
         );
-
-        if (keyEnd.isLast === true) {
-
-            segmentNode.isLast = true;
-        }
-
-        endChain = remainingChain.substring(keyEnd.index);
     }
 
     return {
@@ -151,20 +147,72 @@ const getNextSegmentNode = (remainingChain: string): { segmentNode: ISegmentNode
     };
 };
 
+const getInlineStart = (
+    segments: Array<IChainSegment>,
+    start: { segmentNode: ISegmentNode | null, endChain: string }
+): void => {
+
+    if (!start.segmentNode) {
+        return;
+    }
+
+    const startNode = start.segmentNode;
+    let segment: IChainSegment;
+    let segmentStartNode: ISegmentNode;
+    let segmentEndNode: ISegmentNode;
+
+    for (let i = segments.length - 1; i >= 0; i--) {
+
+        segment = segments[i];
+        segmentStartNode = segment.start;
+        segmentEndNode = segment.end;
+
+        if (segmentEndNode.type === OutlineType.Node
+            && !segmentEndNode.isLast
+            && segmentEndNode.key !== startNode.key
+        ) {
+            throw new Error('Error: encountered another potential inline close node before finding a inline node.');
+        }
+
+        if (segmentStartNode.type === OutlineType.Inline) {
+
+            start.segmentNode = segmentStartNode;
+
+            return;
+        }
+    }
+};
+
 const buildSegment = (
     segments: Array<IChainSegment>,
     remainingChain: string
 ): { remainingChain: string, segment: IChainSegment } => {
 
-    const segmentStart = getNextSegmentNode(remainingChain);
+    let segmentStart = getNextSegmentNode(
+        remainingChain,
+        segments.length
+    );
 
     if (!segmentStart.segmentNode) {
 
         throw new Error("Segment start node was null");
     }
 
+    if (segmentStart.segmentNode.type === OutlineType.Node
+        && !segmentStart.segmentNode.isLast
+    ) {
+        getInlineStart(
+            segments,
+            segmentStart
+        );
+    }
+
     remainingChain = segmentStart.endChain;
-    const segmentEnd = getNextSegmentNode(remainingChain);
+
+    const segmentEnd = getNextSegmentNode(
+        remainingChain,
+        segments.length
+    );
 
     if (!segmentEnd.segmentNode) {
 
@@ -191,14 +239,18 @@ const buildRootSegment = (
 ): { remainingChain: string, segment: IChainSegment } => {
 
     const rootSegmentStart = new SegmentNode(
-        "guideRoot",
+        `GuideRoot${remainingChain}`,
         '',
         OutlineType.Node,
         true,
-        false
+        false,
+        0
     );
 
-    const rootSegmentEnd = getNextSegmentNode(remainingChain);
+    const rootSegmentEnd = getNextSegmentNode(
+        remainingChain,
+        0
+    );
 
     if (!rootSegmentEnd.segmentNode) {
 
@@ -466,9 +518,9 @@ const gSegmentCode = {
         segment: IChainSegment
     ): void => {
 
-        if (segment.outlineNodesLoaded === true) {
-            return;
-        }
+        // if (segment.outlineNodesLoaded === true) {
+        //     return;
+        // }
 
         segment.outlineNodesLoaded = true;
         const nextSegmentIndex = segment.index + 1;
@@ -526,19 +578,41 @@ const gSegmentCode = {
                 throw new Error('NextSegment was null');
             }
 
-            if (!nextSegment.segmentInSection) {
+            if (nextSegment.end.segmentIndex !== nextSegment.start.segmentIndex) {
 
-                nextSegment.segmentInSection = segment.segmentSection;
+                // Then it is an inline close segment
+                const inlineSegment = state.renderState.segments[nextSegment.start.segmentIndex];
+
+                if (!nextSegment.segmentInSection) {
+
+                    nextSegment.segmentInSection = inlineSegment.segmentInSection;
+                }
+
+                if (!nextSegment.segmentSection) {
+
+                    nextSegment.segmentSection = inlineSegment.segmentInSection;
+                }
+
+                if (!nextSegment.segmentOutSection) {
+
+                    nextSegment.segmentOutSection = inlineSegment.segmentInSection;
+                }
             }
+            else {
+                if (!nextSegment.segmentInSection) {
 
-            if (!nextSegment.segmentSection) {
+                    nextSegment.segmentInSection = segment.segmentSection;
+                }
 
-                nextSegment.segmentSection = segment.segmentOutSection;
-            }
+                if (!nextSegment.segmentSection) {
 
-            if (!nextSegment.segmentOutSection) {
+                    nextSegment.segmentSection = segment.segmentOutSection;
+                }
 
-                nextSegment.segmentOutSection = segment.segmentOutSection;
+                if (!nextSegment.segmentOutSection) {
+
+                    nextSegment.segmentOutSection = segment.segmentOutSection;
+                }
             }
         }
 

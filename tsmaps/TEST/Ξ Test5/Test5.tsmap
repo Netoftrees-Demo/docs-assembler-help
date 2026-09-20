@@ -1,0 +1,73 @@
+{
+    "key": "1SmyvRq01HB ",
+    "token": "Test5",
+    "name": "Test5",
+    "created": "2026-09-20T16:22:19.522Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/TEST/Ξ Test5/Test5.tsmap",
+    "iText": "Link to 'Test5'",
+    "___rΩΩt___": {
+        "key": "1SmywgA02No",
+        "nodes": [
+            {
+                "key": "1SmyxLm00cG",
+                "order": 1,
+                "option": "Next1",
+                "nodes": [
+                    {
+                        "key": "1Smz1HY02Kt",
+                        "order": 1,
+                        "option": "Next1.1",
+                        "nodes": [
+                            {
+                                "key": "1Smz4bT001y",
+                                "order": 1,
+                                "option": "Next1.1-2",
+                                "isLeaf": true
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "key": "1Sn2ZiL01Wt",
+                "order": 2,
+                "option": "Next2",
+                "nodes": [
+                    {
+                        "key": "1Sn2hm702Ff",
+                        "order": 1,
+                        "option": "Next2.1",
+                        "isLeaf": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1SmywgA02No",
+            "relativePath": "./δ steps/δ-1SmywgA02No.tsstp"
+        },
+        {
+            "key": "δ-1SmyxLm00cG",
+            "relativePath": "./δ steps/δ-1SmyxLm00cG.tsstp"
+        },
+        {
+            "key": "δ-1Smz1HY02Kt",
+            "relativePath": "./δ steps/δ-1Smz1HY02Kt.tsstp"
+        },
+        {
+            "key": "δ-1Smz4bT001y",
+            "relativePath": "./δ steps/δ-1Smz4bT001y.tsstp"
+        },
+        {
+            "key": "δ-1Sn2ZiL01Wt",
+            "relativePath": "./δ steps/δ-1Sn2ZiL01Wt.tsstp"
+        },
+        {
+            "key": "δ-1Sn2hm702Ff",
+            "relativePath": "./δ steps/δ-1Sn2hm702Ff.tsstp"
+        }
+    ]
+}

@@ -5,6 +5,7 @@ export enum OutlineType {
     Node = 'node',
     Exit = 'exit',
     Link = 'link',
-    Inline = 'inline'
+    Inline = 'inline',
+    Close = 'close'
 }
 

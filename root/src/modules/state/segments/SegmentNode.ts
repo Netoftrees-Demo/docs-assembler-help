@@ -9,13 +9,15 @@ export default class SegmentNode implements ISegmentNode{
         key: string,
         type: OutlineType,
         isRoot: boolean,
-        isLast: boolean
+        isLast: boolean,
+        segmentIndex: number
     ) {
         this.text = text;
         this.key = key;
         this.type = type;
         this.isRoot = isRoot;
         this.isLast = isLast;
+        this.segmentIndex = segmentIndex;
     }
 
     public text: string;
@@ -23,5 +25,6 @@ export default class SegmentNode implements ISegmentNode{
     public type: OutlineType;
     public isRoot: boolean;
     public isLast: boolean;
+    public segmentIndex: number;
 }
 
