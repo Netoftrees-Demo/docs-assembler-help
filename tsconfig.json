@@ -3,7 +3,7 @@
     "allowJs": true,
     "forceConsistentCasingInFileNames": true,
     "useDefineForClassFields": true,
-    "moduleResolution": "Node",
+    "moduleResolution": "bundler",
     "strict": true,
     "strictNullChecks": true,
     "sourceMap": true,
