@@ -186,7 +186,7 @@ const getInlineStart = (
 const buildSegment = (
     segments: Array<IChainSegment>,
     remainingChain: string
-): { remainingChain: string, segment: IChainSegment } => {
+): { remainingChain: string, segment: IChainSegment } | null => {
 
     let segmentStart = getNextSegmentNode(
         remainingChain,
@@ -216,7 +216,9 @@ const buildSegment = (
 
     if (!segmentEnd.segmentNode) {
 
-        throw new Error("Segment end node was null");
+        // The end node of a segment will become the start node of the next segment.
+        // So if a segment has no end node the start node was the end node of the last segment.
+        return null;
     }
 
     const segment = new ChainSegment(
@@ -564,8 +566,10 @@ const gSegmentCode = {
 
         let outlineNode = segment.outlineNodes.pop() ?? null;
 
-        if (outlineNode?.isLast === true) {
+        if (outlineNode?.i === segment.end.key) {
 
+            outlineNode.isLast = true;
+            
             return outlineNode;
         }
 
@@ -635,7 +639,7 @@ const gSegmentCode = {
 
         const segments: Array<IChainSegment> = [];
         let remainingChain = queryString;
-        let result: { remainingChain: string, segment: IChainSegment };
+        let result: { remainingChain: string, segment: IChainSegment } | null;
 
         result = buildRootSegment(
             segments,
@@ -649,7 +653,8 @@ const gSegmentCode = {
                 remainingChain
             );
 
-            if (result.segment.end.isLast === true) {
+            if (!result
+                || result.segment.end.isLast === true) {
                 break;
             }
 
