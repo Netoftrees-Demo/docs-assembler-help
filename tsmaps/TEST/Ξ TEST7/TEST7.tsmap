@@ -1,0 +1,44 @@
+{
+    "key": "1U7l4i801ks ",
+    "token": "Test7",
+    "name": "TEST7",
+    "created": "2026-10-04T20:07:54.424Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/TEST/Ξ TEST7/TEST7.tsmap",
+    "iText": "Link to 'TEST7'",
+    "iExits": [
+        {
+            "key": "1U7lREM02OT",
+            "text": "Exit",
+            "order": 1
+        }
+    ],
+    "___rΩΩt___": {
+        "key": "1U7l6E201ee",
+        "nodes": [
+            {
+                "key": "1U7l7Lu01L6",
+                "order": 1,
+                "option": "Test7 1.1",
+                "nodes": [
+                    {
+                        "key": "1U7lHu601I9",
+                        "order": 1,
+                        "option": "Test7 1.1-2.1 exit",
+                        "exitKey": "1U7lREM02OT"
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1U7l6E201ee",
+            "relativePath": "./δ steps/δ-1U7l6E201ee.tsstp"
+        },
+        {
+            "key": "δ-1U7l7Lu01L6",
+            "relativePath": "./δ steps/δ-1U7l7Lu01L6.tsstp"
+        }
+    ]
+}

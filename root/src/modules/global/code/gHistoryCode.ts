@@ -60,6 +60,12 @@ const printSegmentEnd = (
         url = `${url}_${fragment.id}`;
         urlAssembler.url = url;
     }
+    else if (fragment.isLeaf === true) {
+
+        let url = urlAssembler.url;
+        url = `${url}-${fragment.id}`;
+        urlAssembler.url = url;
+    }
     else if (!fragment.link
         && !fragment.selected
     ) {

@@ -12,8 +12,11 @@ export default interface IChainSegment {
     start: ISegmentNode;
     end: ISegmentNode;
 
+    // Which map (link) to search when looking for this segment's parent node
     segmentInSection: IDisplaySection | null;
+    // Which map (link) to search when looking for this segment's nodes
     segmentSection: IDisplaySection | null;
+    // Which map (link) to search when looking for the first node in the next segment
     segmentOutSection: IDisplaySection | null;
 }
 

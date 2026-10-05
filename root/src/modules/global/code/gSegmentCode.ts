@@ -311,6 +311,50 @@ const loadSegment = (
     );
 };
 
+const setSectionDefaults = (
+    state: IState,
+    segment: IChainSegment,
+    nextSegment: IChainSegment
+): void => {
+
+    if (nextSegment.end.segmentIndex !== nextSegment.start.segmentIndex) {
+
+        // Then it is an inline close segment
+        const inlineSegment = state.renderState.segments[nextSegment.start.segmentIndex];
+
+        if (!nextSegment.segmentInSection) {
+
+            nextSegment.segmentInSection = inlineSegment.segmentInSection;
+        }
+
+        if (!nextSegment.segmentSection) {
+
+            nextSegment.segmentSection = inlineSegment.segmentInSection;
+        }
+
+        if (!nextSegment.segmentOutSection) {
+
+            nextSegment.segmentOutSection = inlineSegment.segmentInSection;
+        }
+    }
+    else {
+        if (!nextSegment.segmentInSection) {
+
+            nextSegment.segmentInSection = segment.segmentSection;
+        }
+
+        if (!nextSegment.segmentSection) {
+
+            nextSegment.segmentSection = segment.segmentOutSection;
+        }
+
+        if (!nextSegment.segmentOutSection) {
+
+            nextSegment.segmentOutSection = segment.segmentOutSection;
+        }
+    }
+};
+
 const gSegmentCode = {
 
     setNextSegmentSection: (
@@ -385,7 +429,15 @@ const gSegmentCode = {
         nextSegment.outlineNodesLoaded = true;
         nextSegment.segmentInSection = currentSegment.segmentSection;
         nextSegment.segmentSection = link;
-        nextSegment.segmentOutSection = link;
+
+        if (nextSegment.start.type === OutlineType.Inline) {
+
+            nextSegment.segmentOutSection = currentSegment.segmentSection;
+        }
+        else {
+
+            nextSegment.segmentOutSection = link;
+        }
 
         if (!nextSegment.segmentInSection) {
 
@@ -399,7 +451,14 @@ const gSegmentCode = {
 
         if (!nextSegment.segmentOutSection) {
 
-            nextSegment.segmentOutSection = currentSegment.segmentOutSection;
+            if (nextSegment.start.type === OutlineType.Inline) {
+
+                nextSegment.segmentOutSection = currentSegment.segmentSection;
+            }
+            else {
+
+                nextSegment.segmentOutSection = currentSegment.segmentOutSection;
+            }
         }
 
         if (U.isNullOrWhiteSpace(nextSegment.segmentSection.outline?.r.i) === true) {
@@ -537,20 +596,11 @@ const gSegmentCode = {
 
         if (nextSegment) {
 
-            if (!nextSegment.segmentInSection) {
-
-                nextSegment.segmentInSection = segment.segmentSection;
-            }
-
-            if (!nextSegment.segmentSection) {
-
-                nextSegment.segmentSection = segment.segmentOutSection;
-            }
-
-            if (!nextSegment.segmentOutSection) {
-
-                nextSegment.segmentOutSection = segment.segmentOutSection;
-            }
+            setSectionDefaults(
+                state,
+                segment,
+                nextSegment
+            );
 
             loadSegment(
                 state,
@@ -569,7 +619,7 @@ const gSegmentCode = {
         if (outlineNode?.i === segment.end.key) {
 
             outlineNode.isLast = true;
-            
+
             return outlineNode;
         }
 
@@ -582,42 +632,11 @@ const gSegmentCode = {
                 throw new Error('NextSegment was null');
             }
 
-            if (nextSegment.end.segmentIndex !== nextSegment.start.segmentIndex) {
-
-                // Then it is an inline close segment
-                const inlineSegment = state.renderState.segments[nextSegment.start.segmentIndex];
-
-                if (!nextSegment.segmentInSection) {
-
-                    nextSegment.segmentInSection = inlineSegment.segmentInSection;
-                }
-
-                if (!nextSegment.segmentSection) {
-
-                    nextSegment.segmentSection = inlineSegment.segmentInSection;
-                }
-
-                if (!nextSegment.segmentOutSection) {
-
-                    nextSegment.segmentOutSection = inlineSegment.segmentInSection;
-                }
-            }
-            else {
-                if (!nextSegment.segmentInSection) {
-
-                    nextSegment.segmentInSection = segment.segmentSection;
-                }
-
-                if (!nextSegment.segmentSection) {
-
-                    nextSegment.segmentSection = segment.segmentOutSection;
-                }
-
-                if (!nextSegment.segmentOutSection) {
-
-                    nextSegment.segmentOutSection = segment.segmentOutSection;
-                }
-            }
+            setSectionDefaults(
+                state,
+                segment,
+                nextSegment
+            );
         }
 
         return outlineNode;
