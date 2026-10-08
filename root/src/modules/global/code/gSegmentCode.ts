@@ -176,7 +176,15 @@ const getInlineStart = (
 
         if (segmentStartNode.type === OutlineType.Inline) {
 
-            start.segmentNode = segmentStartNode;
+            start.segmentNode = new SegmentNode(
+                segmentStartNode.text,
+                segmentStartNode.key,
+                segmentStartNode.type,
+                segmentStartNode.isRoot,
+                segmentStartNode.isLast,
+                segmentStartNode.segmentIndex,
+                true
+            );
 
             return;
         }
@@ -588,8 +596,7 @@ const gSegmentCode = {
         const segments = state.renderState.segments;
 
         if (nextSegmentIndex >= segments.length) {
-
-            throw new Error('Next index >= array length');
+           return;
         }
 
         const nextSegment = segments[nextSegmentIndex];
@@ -617,8 +624,6 @@ const gSegmentCode = {
         let outlineNode = segment.outlineNodes.pop() ?? null;
 
         if (outlineNode?.i === segment.end.key) {
-
-            outlineNode.isLast = true;
 
             return outlineNode;
         }
@@ -700,6 +705,7 @@ const gSegmentCode = {
         }
 
         let segmentOutlineNodes: Array<IRenderOutlineNode> = [];
+        let startIsSilent = false;
 
         if (!startOutlineNode) {
 
@@ -712,6 +718,11 @@ const gSegmentCode = {
             if (!startOutlineNode) {
 
                 throw new Error("Start outline node was null");
+            }
+
+            if (segment.start.isSilent === true) {
+
+                startIsSilent = true;
             }
 
             startOutlineNode.type = segment.start.type;
@@ -734,16 +745,18 @@ const gSegmentCode = {
 
         while (parent) {
 
+            if (startIsSilent === true
+                && parent?.i === startOutlineNode.i
+            ) {
+                break;
+            }
+
             segmentOutlineNodes.push(parent);
 
             if (!firstLoop
                 && parent?.isChart === true
                 && parent?.isRoot === true
             ) {
-                break;
-            }
-
-            if (parent?.i === startOutlineNode.i) {
                 break;
             }
 
