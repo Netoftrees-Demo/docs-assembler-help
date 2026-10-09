@@ -1,0 +1,13 @@
+---
+title: null
+isGuide: true
+mapFolderPath: tsmaps/TEST/%CE%9E%20Test9
+fragsFolderPath: TEST/Test9_frags
+
+---
+
+
+<!-- tsGuideRenderComment {"guide":{"id":"1UbX3T0007L","path":"TEST","fragmentFolderPath":"TEST/Test9_frags"},"fragment":{"id":"1UbX3T0007L","topLevelMapKey":"1UbX1R500qG","mapKeyChain":"1UbX1R500qG","guideID":"1UbX1R500qG","chartKey":"1UbX1R500qG","isLeaf":false,"options":[{"id":"1UbX50700Ni","option":"Ancillary","order":1},{"id":"1UbXDU901sy","option":"Inline","order":2},{"id":"1UbXuaG00gN","option":"Map","order":3},{"id":"1UbYB3i00hl","option":"Exits","order":4}]}} -->
+
+Test9 root
+

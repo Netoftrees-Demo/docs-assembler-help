@@ -1,0 +1,108 @@
+{
+    "key": "1UbX1R500qG ",
+    "token": "Test9",
+    "name": "Test9",
+    "created": "2026-10-09T22:20:15.323Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/TEST/Ξ Test9/Test9.tsmap",
+    "iText": "Link to 'Test9'",
+    "___rΩΩt___": {
+        "key": "1UbX3T0007L",
+        "nodes": [
+            {
+                "key": "1UbX50700Ni",
+                "order": 1,
+                "option": "Ancillary",
+                "nodes": [
+                    {
+                        "key": "1UbXG0X02Un",
+                        "order": 1,
+                        "isLeaf": true
+                    },
+                    {
+                        "key": "1UbXHwN02LE",
+                        "order": 2,
+                        "option": "Ancillary",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            },
+            {
+                "key": "1UbXDU901sy",
+                "order": 2,
+                "option": "Inline",
+                "iKey": "1UbYaRS00He",
+                "isInline": true,
+                "nodes": [
+                    {
+                        "key": "1UbZ9yg00ft",
+                        "order": 1,
+                        "option": "Next",
+                        "isLeaf": true
+                    }
+                ]
+            },
+            {
+                "key": "1UbXuaG00gN",
+                "order": 3,
+                "option": "Map",
+                "isLeaf": true,
+                "iKey": "1SmyvRq01HB"
+            },
+            {
+                "key": "1UbYB3i00hl",
+                "order": 4,
+                "option": "Exits",
+                "iKey": "1U7l4i801ks",
+                "nodes": [
+                    {
+                        "key": "1UbYM5g00Ns",
+                        "order": 1,
+                        "option": "Exit",
+                        "isLeaf": true,
+                        "iExitKey": "1U7lREM02OT"
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1UbX3T0007L",
+            "relativePath": "./δ steps/δ-1UbX3T0007L.tsstp"
+        },
+        {
+            "key": "δ-1UbX50700Ni",
+            "relativePath": "./δ steps/δ-1UbX50700Ni.tsstp"
+        },
+        {
+            "key": "δ-1UbXDU901sy",
+            "relativePath": "./δ steps/δ-1UbXDU901sy.tsstp"
+        },
+        {
+            "key": "δ-1UbXG0X02Un",
+            "relativePath": "./δ steps/δ-1UbXG0X02Un.tsstp"
+        },
+        {
+            "key": "δ-1UbXHwN02LE",
+            "relativePath": "./δ steps/δ-1UbXHwN02LE.tsstp"
+        },
+        {
+            "key": "δ-1UbXuaG00gN",
+            "relativePath": "./δ steps/δ-1UbXuaG00gN.tsstp"
+        },
+        {
+            "key": "δ-1UbYB3i00hl",
+            "relativePath": "./δ steps/δ-1UbYB3i00hl.tsstp"
+        },
+        {
+            "key": "δ-1UbYM5g00Ns",
+            "relativePath": "./δ steps/δ-1UbYM5g00Ns.tsstp"
+        },
+        {
+            "key": "δ-1UbZ9yg00ft",
+            "relativePath": "./δ steps/δ-1UbZ9yg00ft.tsstp"
+        }
+    ]
+}
