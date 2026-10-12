@@ -596,7 +596,7 @@ const gSegmentCode = {
         const segments = state.renderState.segments;
 
         if (nextSegmentIndex >= segments.length) {
-           return;
+            return;
         }
 
         const nextSegment = segments[nextSegmentIndex];
@@ -757,6 +757,10 @@ const gSegmentCode = {
                 && parent?.isChart === true
                 && parent?.isRoot === true
             ) {
+                break;
+            }
+
+            if (parent?.i === startOutlineNode.i) {
                 break;
             }
 
