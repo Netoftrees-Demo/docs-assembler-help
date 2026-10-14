@@ -13,6 +13,29 @@ import gFragmentCode from "./gFragmentCode";
 import gStateCode from "./gStateCode";
 
 
+const getInlineStartFromLinkID = (
+    state: IState,
+    segmentIndex: number,
+    linkID: number
+): SegmentNode | null => {
+
+    const segments = state.renderState.segments;
+    let segment: IChainSegment;
+
+    for (let i = segmentIndex - 1; i >= 0; i--) {
+
+        segment = segments[i];
+
+        if (segment.segmentInSection
+            && segment.segmentInSection.linkID === linkID
+        ) {
+            return segment.start;
+        }
+    }
+
+    return null;
+};
+
 const checkForLinkErrors = (
     segment: IChainSegment,
     linkSegment: IChainSegment,
@@ -328,21 +351,56 @@ const setSectionDefaults = (
     if (nextSegment.end.segmentIndex !== nextSegment.start.segmentIndex) {
 
         // Then it is an inline close segment
-        const inlineSegment = state.renderState.segments[nextSegment.start.segmentIndex];
 
         if (!nextSegment.segmentInSection) {
 
-            nextSegment.segmentInSection = inlineSegment.segmentInSection;
+            nextSegment.segmentInSection = segment.segmentSection;
         }
 
         if (!nextSegment.segmentSection) {
 
-            nextSegment.segmentSection = inlineSegment.segmentInSection;
+            nextSegment.segmentSection = segment.segmentOutSection;
+
+            if (!nextSegment.segmentSection) {
+
+                throw new Error(`nextSegment segmentSection is null`);
+            }
+
+            const inlineSegmentStart = getInlineStartFromLinkID(
+                state,
+                nextSegment.index,
+                nextSegment.segmentSection.linkID
+            );
+
+            if (!inlineSegmentStart) {
+
+                throw new Error(`inlineSegmentStart is null`);
+            }
+
+            nextSegment.start = new SegmentNode(
+                inlineSegmentStart.text,
+                inlineSegmentStart.key,
+                inlineSegmentStart.type,
+                inlineSegmentStart.isRoot,
+                inlineSegmentStart.isLast,
+                inlineSegmentStart.segmentIndex,
+                true
+            );
         }
 
         if (!nextSegment.segmentOutSection) {
 
-            nextSegment.segmentOutSection = inlineSegment.segmentInSection;
+            const displayChart = nextSegment.segmentSection as IDisplayChart;
+            const parent = displayChart.parent;
+
+            if (parent) {
+
+                nextSegment.segmentOutSection = parent.section;
+            }
+            else {
+
+                nextSegment.segmentSection = segment.segmentOutSection;
+            }
         }
     }
     else {
@@ -711,7 +769,7 @@ const gSegmentCode = {
 
             startOutlineNode = gStateCode.getCached_outlineNode(
                 state,
-                segment.segmentInSection.linkID,
+                segment.segmentSection.linkID,
                 segment.start.key
             );
 

@@ -405,7 +405,11 @@ const gFragmentCode = {
             return;
         }
 
-        gFragmentCode.clearOrphanedSteps(fragment.link?.root);
+        if (!fragment.isInline) {
+
+            gFragmentCode.clearOrphanedSteps(fragment.link?.root);
+        }
+
         gFragmentCode.clearOrphanedSteps(fragment.selected);
 
         fragment.selected = null;

@@ -19,6 +19,7 @@ export default class ChainSegment implements IChainSegment {
     public index: number;
     public outlineNodes: Array<IRenderOutlineNode> = [];
     public outlineNodesLoaded: boolean = false;
+    public inlineEnded: boolean = false;
 
     public start: ISegmentNode;
     public end: ISegmentNode;

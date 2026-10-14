@@ -1,4 +1,16 @@
 
+## Inline
+ - Check that inside and inline the following work:
+    - Inline
+    - One or many options
+    - multiple nodes with multiple options
+    - links
+    - ancillaries
+    - links with inline embedded within or sublinks
+    - exits
+    - urls for each case work
+    
+
 root discussion:
     What if your documentation could think like you do, navigating "if this, then that, except when…" logic to deliver precisely the right information?
     No LLM hallucinations. No decision-tree duplication. Just deterministic content.
