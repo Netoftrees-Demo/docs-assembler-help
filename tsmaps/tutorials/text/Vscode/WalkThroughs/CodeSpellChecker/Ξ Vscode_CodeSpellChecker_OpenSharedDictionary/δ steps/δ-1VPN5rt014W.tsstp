@@ -1,0 +1,12 @@
+2. In **Explorer**, locate the `.cspell.json` file in the root of your workspace. *- red rectangle*
+
+¬TODO add image
+
+If you cannot see the file, ensure **Explorer > Exclude Git Ignore** is disabled or check **Files: Exclude** in your VS Code settings, as dotfiles are sometimes hidden.
+
+¬TODO :
+- At this point need an ancillary for "If file not presetn in explorer"
+- The first part of this should be Settings - Explorer: Exclude Git Ignore
+- This should be inlined
+- then followed by if still does not exist then create it.
+- After that need to carry on with finding stuff from shared dicts

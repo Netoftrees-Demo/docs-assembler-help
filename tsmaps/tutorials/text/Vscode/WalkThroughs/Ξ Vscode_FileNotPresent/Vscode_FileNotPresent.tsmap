@@ -1,0 +1,61 @@
+{
+    "key": "1VRKkcW009h ",
+    "token": "Vscodefilenotpresent",
+    "name": "Vscode_FileNotPresent",
+    "created": "2026-10-18T18:57:40.220Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_FileNotPresent/Vscode_FileNotPresent.tsmap",
+    "iText": "Link to 'Vscode_FileNotPresent'",
+    "___rΩΩt___": {
+        "key": "1VRKrg902Jq",
+        "nodes": [
+            {
+                "key": "1VRKtCz01mm",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1VRsi8Q010i",
+                        "order": 1,
+                        "option": "Next",
+                        "isLeaf": true
+                    }
+                ]
+            },
+            {
+                "key": "1VRMGe200W8",
+                "order": 2,
+                "option": "Settings?",
+                "isAncillary": true,
+                "iKey": "1QtOmwR011a",
+                "nodes": [
+                    {
+                        "key": "1VRQoL0015w",
+                        "order": 1,
+                        "option": "Exit",
+                        "isLeaf": true,
+                        "isHeadless": true,
+                        "iExitKey": "1QtiJuQ01sD"
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1VRKrg902Jq",
+            "relativePath": "./δ steps/δ-1VRKrg902Jq.tsstp"
+        },
+        {
+            "key": "δ-1VRMGe200W8",
+            "relativePath": "./δ steps/δ-1VRMGe200W8.tsstp"
+        },
+        {
+            "key": "δ-1VRKtCz01mm",
+            "relativePath": "./δ steps/δ-1VRKtCz01mm.tsstp"
+        },
+        {
+            "key": "δ-1VRsi8Q010i",
+            "relativePath": "./δ steps/δ-1VRsi8Q010i.tsstp"
+        }
+    ]
+}

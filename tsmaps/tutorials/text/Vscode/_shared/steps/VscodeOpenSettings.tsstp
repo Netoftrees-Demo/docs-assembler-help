@@ -1,4 +1,4 @@
-¬import il from "../variables/imageLinks"
+¬import il from "../../../../_shared/variables/imageLinks"
 
 
 4. The **Settings** window is displayed. *- green ring*

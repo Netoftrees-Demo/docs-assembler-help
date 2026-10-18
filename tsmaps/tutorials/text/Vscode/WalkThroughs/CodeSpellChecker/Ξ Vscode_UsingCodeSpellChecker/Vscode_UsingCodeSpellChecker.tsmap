@@ -206,7 +206,8 @@
                                                                 "order": 2,
                                                                 "option": "Open shared dictionary?",
                                                                 "isLeaf": true,
-                                                                "isAncillary": true
+                                                                "isAncillary": true,
+                                                                "iKey": "1VPMSxI01TC"
                                                             }
                                                         ]
                                                     }

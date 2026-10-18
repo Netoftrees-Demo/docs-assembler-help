@@ -2,10 +2,10 @@
 ¬logo_url: ../../../assets/images/General/netOfTreesIcon.png
 ¬logo_image: [<img class="nt-fr-logo" src="{{::logo_url}}">]({{::logo_url}})
 
-¬DA_select_openVsx_url: ../../../assets/images/open-vsx_docs-select.png
+¬DA_select_openVsx_url: ../../../assets/images/General/open-vsx_docs-assembler_select.png
 ¬DA_select_openVsx_img: ![Select Docs Assembler on open-vsx.org]({{::DA_select_openVsx_url}})
 
-¬DA_download_openVsx_url: ../../../assets/images/open-vsx_docs-assembler_download.png
+¬DA_download_openVsx_url: ../../../assets/images/General/open-vsx_docs-assembler_download.png
 ¬DA_download_openVsx_img: ![Download Docs Assembler from open-vsx.org]({{::DA_download_openVsx_url}})
 
 ¬DA_installed_url: ../../../assets/images/Vscode/Vscode_DA_installed.png
@@ -134,16 +134,16 @@
 ¬DA_Explorer_OpenStepFile_url: ../../../assets/images/DA/DA_Explorer_OpenStepFile.png
 ¬DA_Explorer_OpenStepFile_img: ![Install Docs Assembler dialogue in vscode]({{::DA_Explorer_OpenStepFile_url}})
 
-¬WindowsButton_desktop_url: ../../../assets/images/WindowsButton_desktop.png
+¬WindowsButton_desktop_url: ../../../assets/images/Windows/WindowsButton_desktop.png
 ¬WindowsButton_desktop_img: ![Windows button]({{::WindowsButton_desktop_url}})
 
-¬WindowsStartMenuSearch_url: ../../../assets/images/General/WindowsStartMenuSearch.png
+¬WindowsStartMenuSearch_url: ../../../assets/images/Windows/WindowsStartMenuSearch.png
 ¬WindowsStartMenuSearch_img: ![Windows start menu search]({{::WindowsStartMenuSearch_url}})
 
-¬WindowsStartMenuSearch_vscode_url: ../../../assets/images/General/WindowsStartMenuSearch_vscode.png
+¬WindowsStartMenuSearch_vscode_url: ../../../assets/images/Windows/WindowsStartMenuSearch_vscode.png
 ¬WindowsStartMenuSearch_vscode_img: ![Windows start menu search for vscode]({{::WindowsStartMenuSearch_vscode_url}})
 
-¬WindowsStartMenuSearch_chrome_url: ../../../assets/imagesGeneral/WindowsStartMenuSearch_chrome.png
+¬WindowsStartMenuSearch_chrome_url: ../../../assets/images/Windows/WindowsStartMenuSearch_chrome.png
 ¬WindowsStartMenuSearch_chrome_img: ![Windows start menu search for vscode]({{::WindowsStartMenuSearch_chrome_url}})
 
 ¬Vscode_empty_url: ../../../assets/images/Vscode/Vscode_empty.png
@@ -425,10 +425,7 @@
 ¬Vscode_InstallCodeSpellChecker_6_url: ../../../assets/images/Vscode/vscode_InstallCodeSpellChecker_6.png
 ¬Vscode_InstallCodeSpellChecker_6_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_InstallCodeSpellChecker_6_url}})
 
-¬Vscode_InstallCodeSpellChecker_7_url: ../../../assets/images/Vscode/vscode_InstallCodeSpellChecker_7.png
-¬Vscode_InstallCodeSpellChecker_7_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_InstallCodeSpellChecker_7_url}})
-
-¬Vscode_Settings_Open_Activity_url: ../../../assets/images/Vscode/Vscode_Settings_Open_Activity.png
+¬Vscode_Settings_Open_Activity_url: ../../../assets/images/Vscode/Vscode_Settings_Open.png
 ¬Vscode_Settings_Open_Activity_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_Settings_Open_Activity_url}})
 
 ¬Vscode_Settings_Open_Menu_url: ../../../assets/images/Vscode/Vscode_Settings_Open_Menu.png
@@ -449,7 +446,7 @@
 ¬Vscode_CodeSpellChecker_File_1_url: ../../../assets/images/Vscode/Vscode_CodeSpellChecker_File_1.png
 ¬Vscode_CodeSpellChecker_File_1_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_CodeSpellChecker_File_1_url}})
 
-¬Vscode_CodeSpellChecker_File_2_url: ../../../assets/images/Vscode_CodeSpellChecker_File_2.png
+¬Vscode_CodeSpellChecker_File_2_url: ../../../assets/images/Vscode/Vscode_CodeSpellChecker_File_2.png
 ¬Vscode_CodeSpellChecker_File_2_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_CodeSpellChecker_File_2_url}})
 
 ¬Vscode_CodeSpellChecker_File_3_url: ../../../assets/images/Vscode/Vscode_CodeSpellChecker_File_3.png
@@ -542,6 +539,6 @@
 ¬GitHub_ConfigurePages_Settings_url: ../../../assets/images/GitHub/GitHub_ConfigurePages_Settings.png
 ¬GitHub_ConfigurePages_Settings_img: ![Vscode - empty]({{::GitHub_ConfigurePages_Settings_url}})
 
-¬FileExplorer_Launch_url: ../../../assets/images/General/FileExplorer_Launch.png
+¬FileExplorer_Launch_url: ../../../assets/images/Windows/FileExplorer_Launch.png
 ¬FileExplorer_Launch_img: ![Vscode - empty]({{::FileExplorer_Launch_url}})
 

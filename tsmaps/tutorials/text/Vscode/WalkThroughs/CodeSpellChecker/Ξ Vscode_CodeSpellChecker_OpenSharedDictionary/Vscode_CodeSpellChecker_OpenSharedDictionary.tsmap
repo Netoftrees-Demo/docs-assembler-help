@@ -1,0 +1,69 @@
+{
+    "key": "1VPMSxI01TC ",
+    "token": "Vscodecodespellcheckeropenshareddictionary",
+    "name": "Vscode_CodeSpellChecker_OpenSharedDictionary",
+    "created": "2026-10-18T10:51:56.300Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/CodeSpellChecker/Ξ Vscode_CodeSpellChecker_OpenSharedDictionary/Vscode_CodeSpellChecker_OpenSharedDictionary.tsmap",
+    "iText": "Link to 'Vscode_CodeSpellChecker_OpenSharedDictionary'",
+    "___rΩΩt___": {
+        "key": "1VPMdoa01gF",
+        "nodes": [
+            {
+                "key": "1VPN5rt014W",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1VPQAIx00iW",
+                        "order": 1,
+                        "nodes": [
+                            {
+                                "key": "1VPTE10019d",
+                                "order": 1,
+                                "option": "Next",
+                                "isLeaf": true
+                            }
+                        ]
+                    },
+                    {
+                        "key": "1VRK90e018D",
+                        "order": 2,
+                        "option": "Cannot see the file?",
+                        "isAncillary": true
+                    }
+                ]
+            },
+            {
+                "key": "1VPN8hk02Q3",
+                "order": 2,
+                "option": "Explorer?",
+                "sharedAssetKey": "1VPNPGp00ez",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1VPMdoa01gF",
+            "relativePath": "./δ steps/δ-1VPMdoa01gF.tsstp"
+        },
+        {
+            "key": "δ-1VPN5rt014W",
+            "relativePath": "./δ steps/δ-1VPN5rt014W.tsstp"
+        },
+        {
+            "key": "1VPNPGp00ez",
+            "relativePath": "../../../_shared/steps/VscodeOpenExplorer.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1VPQAIx00iW",
+            "relativePath": "./δ steps/δ-1VPQAIx00iW.tsstp"
+        },
+        {
+            "key": "δ-1VPTE10019d",
+            "relativePath": "./δ steps/δ-1VPTE10019d.tsstp"
+        }
+    ]
+}
