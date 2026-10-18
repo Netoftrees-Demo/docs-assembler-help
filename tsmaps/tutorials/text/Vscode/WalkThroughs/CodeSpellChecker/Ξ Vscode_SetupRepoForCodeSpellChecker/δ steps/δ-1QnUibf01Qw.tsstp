@@ -1,0 +1,35 @@
+¬import il from "../../../../../../_shared/variables/imageLinks"
+
+
+2. Replace the contents of the `.cspell.json` file with: *- yellow ring* 
+
+
+```json
+{
+    "language": "en-GB",
+    "files": [
+        "tsmaps/**/*.tsstp",
+        "tsmaps/**/*.md"
+    ],
+    "ignoreRegExpList": [
+        "{{::[A-Za-z0-9_\\.]+}}",
+        "¬import\\s+.*",
+        "`[^`]+`"
+    ],
+    "words": [
+        "tsstp",
+        "tsvar",
+        "Vscode"
+    ]
+}
+```
+
+{{::il.Vscode_InstallCodeSpellChecker_6_img}}
+
+
+3. Save the `.cspell.json` file.
+
+4. Then copy the `.cspell.json` file to the root directory of every repo that uses **Docs Assembler**.
+
+> **Note:** When you create a new **Docs Assembler** repo be sure to copy the `.cspell.json` file into it.
+

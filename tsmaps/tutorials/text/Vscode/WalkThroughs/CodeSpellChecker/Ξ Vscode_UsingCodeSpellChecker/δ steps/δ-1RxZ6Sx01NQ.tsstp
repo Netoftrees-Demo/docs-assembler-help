@@ -1,0 +1,18 @@
+¬TODO Open shared dictionary
+
+#### Open the shared dictionary
+
+1. In the **Explorer** sidebar, locate the `.cspell.json` file in the root of your workspace. *- red rectangle*
+
+> If you cannot see the file, ensure **Explorer > Exclude Git Ignore** is disabled or check **Files: Exclude** in your VS Code settings, as dotfiles are sometimes hidden.
+
+2. Click the `.cspell.json` file to open it in the editor. *- orange rectangle*
+
+3. Locate the `dictionaryDefinitions` section. *- yellow rectangle*
+
+4. Find the entry for your shared dictionary (for example, `ui-dictionary`) and note the `path` value. *- green rectangle*
+
+5. In the **Explorer**, navigate to the file path shown in the `path` property. If the path is relative (such as `../../UiSharedDictionary.txt`), navigate up from the workspace folder to locate the file. *- blue rectangle*
+
+6. Click the dictionary file (for example, `UiSharedDictionary.txt`) to open it. *- purple rectangle*
+
