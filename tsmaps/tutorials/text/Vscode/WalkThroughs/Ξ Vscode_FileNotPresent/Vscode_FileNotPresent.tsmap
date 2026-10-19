@@ -12,12 +12,61 @@
             {
                 "key": "1VRKtCz01mm",
                 "order": 1,
+                "sharedAssetKey": "1VVh9gN01FU",
                 "nodes": [
                     {
                         "key": "1VRsi8Q010i",
                         "order": 1,
-                        "option": "Next",
-                        "isLeaf": true
+                        "nodes": [
+                            {
+                                "key": "1VXEYqw02JM",
+                                "order": 1,
+                                "nodes": [
+                                    {
+                                        "key": "1VVwAPI01UH",
+                                        "order": 1,
+                                        "sharedAssetKey": "1VXFCK602Le",
+                                        "nodes": [
+                                            {
+                                                "key": "1VXFN9W01ZO",
+                                                "order": 1,
+                                                "option": "Remove glob pattern?",
+                                                "sharedAssetKey": "1VXFbdT01tr",
+                                                "isLeaf": true,
+                                                "isAncillary": true
+                                            },
+                                            {
+                                                "key": "1VXGCDa00XF",
+                                                "order": 2,
+                                                "nodes": [
+                                                    {
+                                                        "key": "1VVwBqm00kV",
+                                                        "order": 1,
+                                                        "nodes": [
+                                                            {
+                                                                "key": "1VXGluT01pe",
+                                                                "order": 1,
+                                                                "sharedAssetKey": "1VXGqAX00v0",
+                                                                "nodes": [
+                                                                    {
+                                                                        "key": "1VXGoZB00lq",
+                                                                        "order": 1,
+                                                                        "option": "Remove glob pattern?",
+                                                                        "sharedAssetKey": "1VXH9cs016P",
+                                                                        "isLeaf": true,
+                                                                        "isAncillary": true
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
                     }
                 ]
             },
@@ -50,12 +99,45 @@
             "relativePath": "./δ steps/δ-1VRMGe200W8.tsstp"
         },
         {
-            "key": "δ-1VRKtCz01mm",
-            "relativePath": "./δ steps/δ-1VRKtCz01mm.tsstp"
+            "key": "1VVh9gN01FU",
+            "relativePath": "../../_shared/steps/VscodeOpenSettings.tsstp",
+            "isShared": true
         },
         {
             "key": "δ-1VRsi8Q010i",
             "relativePath": "./δ steps/δ-1VRsi8Q010i.tsstp"
+        },
+        {
+            "key": "1VXFCK602Le",
+            "relativePath": "../../_shared/steps/VscodeSettingsExcludeGitIgnore.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1VXEYqw02JM",
+            "relativePath": "./δ steps/δ-1VXEYqw02JM.tsstp"
+        },
+        {
+            "key": "1VXFbdT01tr",
+            "relativePath": "../../_shared/steps/VscodeSettings_User_RemovePattern.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1VVwBqm00kV",
+            "relativePath": "./δ steps/δ-1VVwBqm00kV.tsstp"
+        },
+        {
+            "key": "δ-1VXGCDa00XF",
+            "relativePath": "./δ steps/δ-1VXGCDa00XF.tsstp"
+        },
+        {
+            "key": "1VXGqAX00v0",
+            "relativePath": "../../_shared/steps/VscodeSettingsExcludeGitIgnore.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "1VXH9cs016P",
+            "relativePath": "../../_shared/steps/VscodeSettings_User_RemovePattern.tsstp",
+            "isShared": true
         }
     ]
 }

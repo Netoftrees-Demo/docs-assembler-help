@@ -494,6 +494,12 @@
 ¬Vscode_CommandFormatTextSelection_url: ../../../assets/images/Vscode/Vscode_CommandFormatTextSelection.png
 ¬Vscode_CommandFormatTextSelection_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_CommandFormatTextSelection_url}})
 
+¬Vscode_Settings_User_ExcludeGitIgnore_url: ../../../assets/images/Vscode/Vscode_Settings_User_ExcludeGitIgnore.png
+¬Vscode_Settings_User_ExcludeGitIgnore_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_Settings_User_ExcludeGitIgnore_url}})
+
+¬Vscode_Settings_User_ExcludeGitIgnore_2_url: ../../../assets/images/Vscode/Vscode_Settings_User_ExcludeGitIgnore_2.png
+¬Vscode_Settings_User_ExcludeGitIgnore_2_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_Settings_User_ExcludeGitIgnore_2_url}})
+
 ¬GitHub_ForkButton_url: ../../../assets/images/GitHub/GitHub_ForkButton.png
 ¬GitHub_ForkButton_img: ![Vscode - empty]({{::GitHub_ForkButton_url}})
 

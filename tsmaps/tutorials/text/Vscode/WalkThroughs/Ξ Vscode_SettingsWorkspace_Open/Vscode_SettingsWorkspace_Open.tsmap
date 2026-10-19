@@ -19,8 +19,15 @@
                         "key": "1Qv5usy02Ur",
                         "order": 1,
                         "option": "Exit",
-                        "isLeaf": true,
-                        "iExitKey": "1QtiJuQ01sD"
+                        "sharedAssetKey": "1VVba6I00Tj",
+                        "iExitKey": "1QtiJuQ01sD",
+                        "nodes": [
+                            {
+                                "key": "1VVbRNZ00TT",
+                                "order": 1,
+                                "isLeaf": true
+                            }
+                        ]
                     }
                 ]
             }
@@ -36,8 +43,13 @@
             "relativePath": "./δ steps/δ-1Qv5iaD00Q7.tsstp"
         },
         {
-            "key": "δ-1Qv5usy02Ur",
-            "relativePath": "./δ steps/δ-1Qv5usy02Ur.tsstp"
+            "key": "1VVba6I00Tj",
+            "relativePath": "../../_shared/steps/VscodeOpenSettings.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1VVbRNZ00TT",
+            "relativePath": "./δ steps/δ-1VVbRNZ00TT.tsstp"
         }
     ]
 }

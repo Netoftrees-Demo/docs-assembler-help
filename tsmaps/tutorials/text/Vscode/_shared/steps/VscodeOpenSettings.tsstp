@@ -1,9 +1,9 @@
 ¬import il from "../../../../_shared/variables/imageLinks"
 
 
-4. The **Settings** window is displayed. *- green ring*
+The **Settings** window is displayed. *- green ring*
 
-5. VS Code distinguishes between **User Settings (global)** and **Workspace Settings (project-specific)**. You can toggle between them using the buttons at the top-right of the **Settings** panel:
+VS Code distinguishes between **User Settings (global)** and **Workspace Settings (project-specific)**. You can toggle between them using the buttons at the top-right of the **Settings** panel:
  - For **User** Settings click the **User** button. *- red ring*
  - For **Workspace** Settings click the **Workspace** button. *- orange ring*
 

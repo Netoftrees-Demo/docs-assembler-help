@@ -1,0 +1,13 @@
+¬import il from "../../../../_shared/variables/imageLinks"
+
+
+## Remove a glob pattern from a settings list
+
+1. In the list hover the mouse over the **glob pattern** to be removed. *- red rectangle
+
+2. Two icon buttons appear at the end of the item line. Click the `X` button. *- yellow rectangle
+
+{{::il.Vscode_Settings_User_ExcludeGitIgnore_img}}
+
+3. The row is removed from the list.
+

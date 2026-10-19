@@ -9,7 +9,11 @@
     - links with inline embedded within or sublinks
     - exits
     - urls for each case work
-    
+
+## Manual
+    -text intro
+        - manual might not be how the reader would design it, but its a tool how you use it anyway you like.
+        - Explain that for an experienced vscode developer, installing an extension and the configuring it on an existing system is not going to be a problem. but for a documentation writer who has never used vscode will require more hand holding. This type of manual attempts to deliver for both cases and all those inbetween, with the minimum instructions and reading each time.
 
 root discussion:
     What if your documentation could think like you do, navigating "if this, then that, except when…" logic to deliver precisely the right information?

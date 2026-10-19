@@ -1,0 +1,16 @@
+3. In the settings **Filter** text box type or paste: `Explorer: Exclude Git Ignore`. *- red rectangle in the image below
+
+4. The settings are filtered to show the matches.
+
+5. Locate the setting `Explorer: Exclude Git Ignore`. *- orange rectangle in the image below
+
+6. Ensure its checkbox is unchecked (disabled). *- yellow rectangle in the image below
+
+> When unchecked, VS Code will not hide files and folders that are listed in **.gitignore** from the **Explorer**.
+
+7. Locate the setting `Files: Exclude`. *- green rectangle in the image below
+
+8. Review the list of glob patterns shown there. *- blue rectangle in the image below
+
+9. If the file you are looking for matches any pattern in this list, it will be hidden from the **Explorer**. To stop hiding that file, remove the matching pattern.
+
