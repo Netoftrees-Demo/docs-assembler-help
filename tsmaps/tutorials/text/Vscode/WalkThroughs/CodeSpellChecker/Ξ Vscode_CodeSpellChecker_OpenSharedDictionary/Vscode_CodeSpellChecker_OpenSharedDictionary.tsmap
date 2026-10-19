@@ -16,19 +16,12 @@
                     {
                         "key": "1VPQAIx00iW",
                         "order": 1,
-                        "nodes": [
-                            {
-                                "key": "1VPTE10019d",
-                                "order": 1,
-                                "option": "Next",
-                                "isLeaf": true
-                            }
-                        ]
+                        "isLeaf": true
                     },
                     {
                         "key": "1VRK90e018D",
                         "order": 2,
-                        "option": "Cannot see the file?",
+                        "option": "Cannot see the \".cspell.json\" file?",
                         "isAncillary": true,
                         "iKey": "1VRKkcW009h",
                         "isInline": true,
@@ -36,7 +29,7 @@
                             {
                                 "key": "1VXJoE201kM",
                                 "order": 1,
-                                "option": "Cannot see the file?",
+                                "option": "Still cannot see the \".cspell.json\" file?",
                                 "isAncillary": true,
                                 "nodes": [
                                     {
@@ -78,10 +71,6 @@
         {
             "key": "δ-1VPQAIx00iW",
             "relativePath": "./δ steps/δ-1VPQAIx00iW.tsstp"
-        },
-        {
-            "key": "δ-1VPTE10019d",
-            "relativePath": "./δ steps/δ-1VPTE10019d.tsstp"
         },
         {
             "key": "δ-1VRK90e018D",

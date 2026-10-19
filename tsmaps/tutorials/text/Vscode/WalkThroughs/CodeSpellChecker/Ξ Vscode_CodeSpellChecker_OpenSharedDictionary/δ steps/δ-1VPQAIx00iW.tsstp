@@ -1,10 +1,49 @@
-2. Click the `.cspell.json` file to open it in the editor. *- orange rectangle*
+¬import il from "../../../../../../_shared/variables/imageLinks"
 
-3. Locate the `dictionaryDefinitions` section. *- yellow rectangle*
 
-4. Find the entry for your shared dictionary (for example, `ui-dictionary`) and note the `path` value. *- green rectangle*
+3. Click the `.cspell.json` file to open it in the editor.
 
-5. In the **Explorer**, navigate to the file path shown in the `path` property. If the path is relative (such as `../../UiSharedDictionary.txt`), navigate up from the workspace folder to locate the file. *- blue rectangle*
+4. Locate the `dictionaryDefinitions` section. *- yellow rectangle*
 
-6. Click the dictionary file (for example, `UiSharedDictionary.txt`) to open it. *- purple rectangle*
+5. Find the entry for your shared dictionary (for example, `ui-dictionary`) *- purple rectangle*
+
+6. Note the `path` value, in this example it is `../../UiSharedDictionary.txt`. *- mauve rectangle*
+
+{{::il.Vscode_CodeSpellChecker_Config_img}}
+
+
+7. In **Explorer** right-click the `.cspell.json` file. *- red rectangle*
+
+8. The file's **Context Menu** opens. *- orange rectangle*
+
+9. Select **Reveal in File Explorer**. *- yellow rectangle*
+
+{{::il.Vscode_CodeSpellChecker_Config_2_img}}
+
+
+10. **Windows File Explorer** opens with the `.cspell.json` file highlighted. *- red rectangle*
+
+11. In this example the path is `../../UiSharedDictionary.txt` so it is 2 folders up from the **Workspace folder** where the `.cspell.json` file is located. So in **File Explorer** count back two folders either by:
+ - clicking the **Up** button twice. *- yellow rectangle*
+ - or in the **Explorer** **Path** textbox *- orange rectangle*
+    - by counting two folders back from the end of the path *- green rectangles*
+    - and clicking the third folder, in this example `GitHub` *- blue rectangle*
+
+{{::il.Vscode_CodeSpellChecker_Config_3_img}}
+
+
+12. The `GitHub` folder opens in **File Explorer**. 
+
+13. Right-click the shared dictionary file, in this example `UiSharedDictionary.txt` *- blue rectangle*
+
+14. The file's **Context Menu** opens. *- orange rectangle*
+
+15. Select **Open with Code** to open in **VsCode** or **Open** to open in **Notepad**. *- yellow rectangle*
+
+{{::il.Vscode_CodeSpellChecker_Config_4_img}}
+
+
+16. The shared dictionary file: `UiSharedDictionary.txt` opens in **VsCode**. *- red rectangle*
+
+{{::il.Vscode_CodeSpellChecker_Config_5_img}}
 
