@@ -1,0 +1,10 @@
+¬import vs from "../../../../../../_shared/variables/Vscode_Snippets"
+
+
+6. Format the file.
+
+6. Save the file.
+
+
+{{::vs.Vscode_JsonArray_CommaGoldenRule}}
+

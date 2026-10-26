@@ -83,24 +83,8 @@
                                                                                                     {
                                                                                                         "key": "1RaQJH901FY",
                                                                                                         "order": 1,
-                                                                                                        "sharedAssetKey": "1RagWxW00Ob",
-                                                                                                        "isLeaf": true
-                                                                                                    },
-                                                                                                    {
-                                                                                                        "key": "1RliHBZ01S5",
-                                                                                                        "order": 2,
-                                                                                                        "option": "Format?",
                                                                                                         "isLeaf": true,
-                                                                                                        "isAncillary": true,
-                                                                                                        "iKey": "1Rpw5NM02Xr"
-                                                                                                    },
-                                                                                                    {
-                                                                                                        "key": "1RliMTi02UW",
-                                                                                                        "order": 3,
-                                                                                                        "option": "Save?",
-                                                                                                        "isLeaf": true,
-                                                                                                        "isAncillary": true,
-                                                                                                        "iKey": "1LW68xy01TF"
+                                                                                                        "iKey": "1WAwvkI01Wq"
                                                                                                     }
                                                                                                 ]
                                                                                             }
@@ -114,24 +98,8 @@
                                                                                             {
                                                                                                 "key": "1RaJ6p2003N",
                                                                                                 "order": 1,
-                                                                                                "sharedAssetKey": "1RaRO9300BD",
-                                                                                                "isLeaf": true
-                                                                                            },
-                                                                                            {
-                                                                                                "key": "1RmP3JG02Ad",
-                                                                                                "order": 2,
-                                                                                                "option": "Format?",
                                                                                                 "isLeaf": true,
-                                                                                                "isAncillary": true,
-                                                                                                "iKey": "1Rpw5NM02Xr"
-                                                                                            },
-                                                                                            {
-                                                                                                "key": "1RmP5Q600iV",
-                                                                                                "order": 3,
-                                                                                                "option": "Save?",
-                                                                                                "isLeaf": true,
-                                                                                                "isAncillary": true,
-                                                                                                "iKey": "1LW68xy01TF"
+                                                                                                "iKey": "1WAwvkI01Wq"
                                                                                             }
                                                                                         ]
                                                                                     },
@@ -182,12 +150,7 @@
                                                                             {
                                                                                 "key": "1RmPUA701b8",
                                                                                 "order": 2,
-                                                                                "nodes": [
-                                                                                    {
-                                                                                        "key": "1QnPoNf01lQ",
-                                                                                        "order": 1
-                                                                                    }
-                                                                                ]
+                                                                                "isLeaf": true
                                                                             }
                                                                         ]
                                                                     },
@@ -298,18 +261,8 @@
             "relativePath": "./δ steps/δ-1RaH59X011V.tsstp"
         },
         {
-            "key": "1RaRO9300BD",
-            "relativePath": "../../Ξ Vscode_UsingCodeSpellChecker/δ steps/SharedDictionaryConfigurationEnd.tsstp",
-            "isShared": true
-        },
-        {
             "key": "δ-1RaH3eX00zv",
             "relativePath": "./δ steps/δ-1RaH3eX00zv.tsstp"
-        },
-        {
-            "key": "1RagWxW00Ob",
-            "relativePath": "../../Ξ Vscode_UsingCodeSpellChecker/δ steps/SharedDictionaryConfigurationEnd.tsstp",
-            "isShared": true
         },
         {
             "key": "1RklO6M0048",
@@ -321,24 +274,8 @@
             "relativePath": "./δ steps/δ-1RlcsyL0079.tsstp"
         },
         {
-            "key": "δ-1RliMTi02UW",
-            "relativePath": "./δ steps/δ-1RliMTi02UW.tsstp"
-        },
-        {
-            "key": "δ-1RmP5Q600iV",
-            "relativePath": "./δ steps/δ-1RmP5Q600iV.tsstp"
-        },
-        {
             "key": "δ-1RmPUA701b8",
             "relativePath": "./δ steps/δ-1RmPUA701b8.tsstp"
-        },
-        {
-            "key": "δ-1RliHBZ01S5",
-            "relativePath": "./δ steps/δ-1RliHBZ01S5.tsstp"
-        },
-        {
-            "key": "δ-1RmP3JG02Ad",
-            "relativePath": "./δ steps/δ-1RmP3JG02Ad.tsstp"
         },
         {
             "key": "δ-1RxW6ZS00Tl",
@@ -363,6 +300,14 @@
         {
             "key": "δ-1RxbEMv0243",
             "relativePath": "./δ steps/δ-1RxbEMv0243.tsstp"
+        },
+        {
+            "key": "δ-1RaJ6p2003N",
+            "relativePath": "./δ steps/δ-1RaJ6p2003N.tsstp"
+        },
+        {
+            "key": "δ-1RaQJH901FY",
+            "relativePath": "./δ steps/δ-1RaQJH901FY.tsstp"
         }
     ]
 }

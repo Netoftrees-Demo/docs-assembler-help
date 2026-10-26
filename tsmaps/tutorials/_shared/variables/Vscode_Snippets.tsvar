@@ -17,7 +17,7 @@
 
 
 ¬Vscode_JsonArray_CommaGoldenRule:
-#####  The Golden Rule You MUST Remember
+#### The Golden Rule You MUST Remember
 
 In JSON, every entry in a list must be separated by a comma (,).
 Crucial: The very last item in the list cannot have a comma after it.

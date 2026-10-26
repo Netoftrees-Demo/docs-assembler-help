@@ -1,0 +1,55 @@
+{
+    "key": "1WAwvkI01Wq ",
+    "token": "Vscodecodespellcheckershareddictionaryconfigurationend",
+    "name": "Vscode_CodeSpellChecker_SharedDictionaryConfigurationEnd",
+    "created": "2026-10-26T14:11:34.571Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/CodeSpellChecker/Ξ Vscode_CodeSpellChecker_SharedDictionaryConfigurationEnd/Vscode_CodeSpellChecker_SharedDictionaryConfigurationEnd.tspod",
+    "isPod": true,
+    "iText": "Link to 'Vscode_CodeSpellChecker_SharedDictionaryConfigurationEnd'",
+    "___rΩΩt___": {
+        "key": "1WAx6Qi004E",
+        "nodes": [
+            {
+                "key": "1WAx7tu016K",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1WAyCFl01cm",
+                        "order": 1,
+                        "option": "Save?",
+                        "isLeaf": true,
+                        "isAncillary": true,
+                        "iKey": "1LW68xy01TF"
+                    }
+                ]
+            },
+            {
+                "key": "1WAySRq01WV",
+                "order": 2,
+                "option": "Format?",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "1Rpw5NM02Xr"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1WAx6Qi004E",
+            "relativePath": "./δ steps/δ-1WAx6Qi004E.tsstp"
+        },
+        {
+            "key": "δ-1WAx7tu016K",
+            "relativePath": "./δ steps/δ-1WAx7tu016K.tsstp"
+        },
+        {
+            "key": "δ-1WAyCFl01cm",
+            "relativePath": "./δ steps/δ-1WAyCFl01cm.tsstp"
+        },
+        {
+            "key": "δ-1WAySRq01WV",
+            "relativePath": "./δ steps/δ-1WAySRq01WV.tsstp"
+        }
+    ]
+}
