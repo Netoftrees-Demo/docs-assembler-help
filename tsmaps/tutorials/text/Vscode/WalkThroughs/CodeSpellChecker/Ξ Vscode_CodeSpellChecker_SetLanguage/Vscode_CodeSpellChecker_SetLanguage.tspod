@@ -1,0 +1,88 @@
+{
+    "key": "1WBU0E401HI ",
+    "token": "Vscodecodespellcheckersetlanguage",
+    "name": "Vscode_CodeSpellChecker_SetLanguage",
+    "created": "2026-10-26T16:23:39.642Z",
+    "list": true,
+    "publishFileName": "Vscode_CodeSpellChecker_SetLanguage",
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/CodeSpellChecker/Ξ Vscode_CodeSpellChecker_SetLanguage/Vscode_CodeSpellChecker_SetLanguage.tspod",
+    "isPod": true,
+    "iText": "Link to 'Vscode_CodeSpellChecker_SetLanguage'",
+    "___rΩΩt___": {
+        "key": "1QnUWmR00iT",
+        "nodes": [
+            {
+                "key": "1QnUXO702aq",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1QnUibf01Qw",
+                        "order": 1,
+                        "nodes": [
+                            {
+                                "key": "1WCAbDS00Nj",
+                                "order": 1,
+                                "isLeaf": true
+                            },
+                            {
+                                "key": "1WCDpv801tm",
+                                "order": 2,
+                                "option": "Save?",
+                                "isLeaf": true,
+                                "isAncillary": true,
+                                "iKey": "1LW68xy01TF"
+                            }
+                        ]
+                    },
+                    {
+                        "key": "1WC9mER00YA",
+                        "order": 2,
+                        "option": "Language codes",
+                        "sharedAssetKey": "1WC9w4b00o8",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            },
+            {
+                "key": "1QnUvNc01Gz",
+                "order": 2,
+                "option": ".cspell.json file?",
+                "isLeaf": true,
+                "isAncillary": true,
+                "iKey": "1Ra9dVM01h2"
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1QnUWmR00iT",
+            "relativePath": "./δ steps/δ-1QnUWmR00iT.tsstp"
+        },
+        {
+            "key": "δ-1QnUXO702aq",
+            "relativePath": "./δ steps/δ-1QnUXO702aq.tsstp"
+        },
+        {
+            "key": "δ-1QnUibf01Qw",
+            "relativePath": "./δ steps/δ-1QnUibf01Qw.tsstp"
+        },
+        {
+            "key": "δ-1QnUvNc01Gz",
+            "relativePath": "./δ steps/δ-1QnUvNc01Gz.tsstp"
+        },
+        {
+            "key": "1WC9w4b00o8",
+            "relativePath": "../_shared/steps/Vscode_CodeSpellChecker_LanguageVariants.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1WCAbDS00Nj",
+            "relativePath": "./δ steps/δ-1WCAbDS00Nj.tsstp"
+        },
+        {
+            "key": "δ-1WCDpv801tm",
+            "relativePath": "./δ steps/δ-1WCDpv801tm.tsstp"
+        }
+    ]
+}

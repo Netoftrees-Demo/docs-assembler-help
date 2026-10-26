@@ -1,0 +1,6 @@
+## Still Stuck?
+
+1. Check the **Output panel** (`Ctrl+Shift+U` → select **"Code Spell Checker"** from the dropdown) for error messages
+2. Verify your `.cspell.json` is valid JSON (no trailing commas, matching braces)
+3. Try the **CSpell: Trace Words** command on a problematic word to see which dictionaries and patterns apply
+

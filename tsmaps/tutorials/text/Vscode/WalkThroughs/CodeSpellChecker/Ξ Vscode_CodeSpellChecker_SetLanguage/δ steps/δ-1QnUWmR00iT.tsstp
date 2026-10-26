@@ -1,0 +1,6 @@
+### Configure Code Spell Checker Language
+
+**Note:** **Code Spell Checker** language has to be configured per repo.
+
+1. Open the project's **.cspell.json** file. *- green rectangle*
+

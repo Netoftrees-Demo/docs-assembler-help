@@ -28,10 +28,12 @@
                             {
                                 "key": "1QnPnUv005g",
                                 "order": 1,
+                                "sharedAssetKey": "1WBOGBk00JR",
                                 "nodes": [
                                     {
                                         "key": "1RS1z0R00mZ",
                                         "order": 1,
+                                        "sharedAssetKey": "1WBPeQs00nI",
                                         "nodes": [
                                             {
                                                 "key": "1RS3rwf01jU",
@@ -150,6 +152,7 @@
                                                                             {
                                                                                 "key": "1RmPUA701b8",
                                                                                 "order": 2,
+                                                                                "sharedAssetKey": "1WBQDoM0074",
                                                                                 "isLeaf": true
                                                                             }
                                                                         ]
@@ -196,8 +199,9 @@
     },
     "___αssεts___": [
         {
-            "key": "δ-1QnPnUv005g",
-            "relativePath": "./δ steps/δ-1QnPnUv005g.tsstp"
+            "key": "1WBOGBk00JR",
+            "relativePath": "../_shared/steps/Vscode_CodeSpellChecker_AddWordUserDictionary.tsstp",
+            "isShared": true
         },
         {
             "key": "δ-1QpeyjT01xj",
@@ -221,8 +225,9 @@
             "relativePath": "./δ steps/δ-1RRyuQf00hr.tsstp"
         },
         {
-            "key": "δ-1RS1z0R00mZ",
-            "relativePath": "./δ steps/δ-1RS1z0R00mZ.tsstp"
+            "key": "1WBPeQs00nI",
+            "relativePath": "../_shared/steps/Vscode_CodeSpellChecker_AddWordUserDictionary.tsstp",
+            "isShared": true
         },
         {
             "key": "δ-1RS3rwf01jU",
@@ -274,8 +279,9 @@
             "relativePath": "./δ steps/δ-1RlcsyL0079.tsstp"
         },
         {
-            "key": "δ-1RmPUA701b8",
-            "relativePath": "./δ steps/δ-1RmPUA701b8.tsstp"
+            "key": "1WBQDoM0074",
+            "relativePath": "../_shared/steps/Vscode_CodeSpellChecker_AddWordIgnoreList.tsstp",
+            "isShared": true
         },
         {
             "key": "δ-1RxW6ZS00Tl",

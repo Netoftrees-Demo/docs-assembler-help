@@ -1,0 +1,25 @@
+#### Code Spell Checker languages and variants
+
+| Code | Language (variant) |
+| :--- | :--- |
+| **nl** | Dutch |
+| **en-US** | English (American) |
+| **en-AU** | English (Australian) |
+| **en-GB** | English (British) |
+| **en-CA** | English (Canadian) |
+| **en** | English (generic; defaults to US English) |
+| **fr** | French |
+| **fr-FR** | French (France) |
+| **de** | German |
+| **de-AT** | German (Austrian) |
+| **id** | Indonesian |
+| **fa** | Persian |
+| **pl** | Polish |
+| **pt** | Portuguese |
+| **pt-BR** | Portuguese (Brazilian) |
+| **ru** | Russian |
+| **es** | Spanish |
+| **tr** | Turkish |
+| **uk** | Ukrainian |
+| **vi** | Vietnamese |
+

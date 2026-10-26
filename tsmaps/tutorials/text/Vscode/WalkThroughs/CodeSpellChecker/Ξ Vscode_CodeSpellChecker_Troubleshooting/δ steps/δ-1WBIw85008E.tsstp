@@ -1,0 +1,8 @@
+### "Changes to `.cspell.json` aren't taking effect"
+
+| Cause | Fix |
+|-------|-----|
+| VS Code hasn't reloaded the config | Save the file, then press `Ctrl+Shift+P` → **"CSpell: Restart Spell Checker"** |
+| JSON syntax error in config | Check for red squiggles in `.cspell.json`; validate at [jsonlint.com](https://jsonlint.com) |
+| Config file in wrong location | `.cspell.json` must be in the workspace root, next to `.vscode/` |
+

@@ -1,0 +1,19 @@
+¬import il from "../../../../../../_shared/variables/imageLinks"
+
+
+2.  Locate the **`"language"`** property. *- red rectangle*
+
+    - This property tells CSpell which spoken language locale to use when selecting its general dictionary.
+
+3. Change its value to the language code for the language you want the dictionary to use. *- yellow rectangle*
+    - To use **Canadian English** for example, set the value to `"en-CA"`.
+
+    ```json
+    "language": "en-CA",
+    ```
+
+    > You can also enable multiple languages by separating the codes with a comma, for example: `"language": "en,fr"`.
+
+
+{{::il.Vscode_CodeSpellChecker_LanguageVariants_img}}
+

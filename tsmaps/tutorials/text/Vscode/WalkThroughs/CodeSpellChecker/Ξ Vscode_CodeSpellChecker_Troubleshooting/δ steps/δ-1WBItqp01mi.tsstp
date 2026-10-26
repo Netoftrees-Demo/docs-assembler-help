@@ -1,0 +1,8 @@
+### "A word should be flagged but isn't"
+
+| Cause | Fix |
+|-------|-----|
+| Word is in workspace dictionary by mistake | Open `.cspell.json` → remove from `words` array |
+| Word is in user dictionary by mistake | `Ctrl+Shift+P` → **"CSpell: Open User Settings"** → remove from `words` |
+| File is being skipped by `ignoreRegExpList` | Check if a regex is too broad — e.g., `` `[^`]+` `` catching more than intended |
+

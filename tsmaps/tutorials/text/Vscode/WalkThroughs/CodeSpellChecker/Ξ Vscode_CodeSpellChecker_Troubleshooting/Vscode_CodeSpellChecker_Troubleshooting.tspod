@@ -12,7 +12,147 @@
         "nodes": [
             {
                 "key": "1S6ztg701KQ",
-                "order": 1
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1WBItqp01mi",
+                        "order": 1,
+                        "nodes": [
+                            {
+                                "key": "1WBIw85008E",
+                                "order": 1,
+                                "nodes": [
+                                    {
+                                        "key": "1WBIwe801Vk",
+                                        "order": 1,
+                                        "nodes": [
+                                            {
+                                                "key": "1WBJCgK019V",
+                                                "order": 1,
+                                                "nodes": [
+                                                    {
+                                                        "key": "1WBJHsH019W",
+                                                        "order": 1,
+                                                        "nodes": [
+                                                            {
+                                                                "key": "1WBJNv101LI",
+                                                                "order": 1,
+                                                                "nodes": [
+                                                                    {
+                                                                        "key": "1WBJeF900I2",
+                                                                        "order": 1
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "key": "1WCRap302Gn",
+                                                        "order": 2,
+                                                        "option": "Language and spelling?",
+                                                        "isLeaf": true,
+                                                        "isAncillary": true,
+                                                        "iKey": "1WBU0E401HI"
+                                                    },
+                                                    {
+                                                        "key": "1WCS3Bp01pF",
+                                                        "order": 3,
+                                                        "option": "Multiple .cspell.json files?",
+                                                        "isAncillary": true
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "key": "1WCROCr00ny",
+                                                "order": 2,
+                                                "option": "Filter?",
+                                                "isAncillary": true
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "key": "1WCQuXm01DK",
+                                        "order": 2,
+                                        "option": "Restart Code Spell Checker?",
+                                        "isAncillary": true
+                                    },
+                                    {
+                                        "key": "1WCQznD01EY",
+                                        "order": 3,
+                                        "option": "Syntax errors in .cspell.json?",
+                                        "isAncillary": true
+                                    },
+                                    {
+                                        "key": "1WCR8K6023Y",
+                                        "order": 4,
+                                        "option": "Location .cspell.json?",
+                                        "isAncillary": true
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "key": "1WBLsEL0191",
+                        "order": 2,
+                        "option": "Project specific?",
+                        "sharedAssetKey": "1WBOTae01yC",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "1WBM6kG00Xl",
+                        "order": 3,
+                        "option": "User specific?",
+                        "sharedAssetKey": "1WBPkeL00nw",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "1WBMG2q02DF",
+                        "order": 4,
+                        "option": "Ignore list?",
+                        "sharedAssetKey": "1WBQHRu00Zp",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    },
+                    {
+                        "key": "1WBMMGi01Fs",
+                        "order": 5,
+                        "option": "Language & spelling?",
+                        "isLeaf": true,
+                        "isAncillary": true,
+                        "iKey": "1WBU0E401HI"
+                    }
+                ]
+            },
+            {
+                "key": "1WBJyYH01sV",
+                "order": 2,
+                "option": "Check file path?",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "1WBK2nV00ye",
+                "order": 3,
+                "option": "File type enabled?",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "1WBK8ar0284",
+                "order": 4,
+                "option": "File excluded?",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "1WBKQrN01dy",
+                "order": 5,
+                "option": "CSPell enabled?",
+                "isLeaf": true,
+                "isAncillary": true
             }
         ]
     },
@@ -20,6 +160,73 @@
         {
             "key": "δ-1S6zoLq01zw",
             "relativePath": "./δ steps/δ-1S6zoLq01zw.tsstp"
+        },
+        {
+            "key": "δ-1S6ztg701KQ",
+            "relativePath": "./δ steps/δ-1S6ztg701KQ.tsstp"
+        },
+        {
+            "key": "δ-1WBItqp01mi",
+            "relativePath": "./δ steps/δ-1WBItqp01mi.tsstp"
+        },
+        {
+            "key": "δ-1WBIw85008E",
+            "relativePath": "./δ steps/δ-1WBIw85008E.tsstp"
+        },
+        {
+            "key": "δ-1WBIwe801Vk",
+            "relativePath": "./δ steps/δ-1WBIwe801Vk.tsstp"
+        },
+        {
+            "key": "δ-1WBJCgK019V",
+            "relativePath": "./δ steps/δ-1WBJCgK019V.tsstp"
+        },
+        {
+            "key": "δ-1WBJHsH019W",
+            "relativePath": "./δ steps/δ-1WBJHsH019W.tsstp"
+        },
+        {
+            "key": "δ-1WBJNv101LI",
+            "relativePath": "./δ steps/δ-1WBJNv101LI.tsstp"
+        },
+        {
+            "key": "δ-1WBJyYH01sV",
+            "relativePath": "./δ steps/δ-1WBJyYH01sV.tsstp"
+        },
+        {
+            "key": "δ-1WBK2nV00ye",
+            "relativePath": "./δ steps/δ-1WBK2nV00ye.tsstp"
+        },
+        {
+            "key": "δ-1WBK8ar0284",
+            "relativePath": "./δ steps/δ-1WBK8ar0284.tsstp"
+        },
+        {
+            "key": "δ-1WBKQrN01dy",
+            "relativePath": "./δ steps/δ-1WBKQrN01dy.tsstp"
+        },
+        {
+            "key": "1WBOTae01yC",
+            "relativePath": "../_shared/steps/Vscode_CodeSpellChecker_AddWordUserDictionary.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "1WBQHRu00Zp",
+            "relativePath": "../_shared/steps/Vscode_CodeSpellChecker_AddWordIgnoreList.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1WBMMGi01Fs",
+            "relativePath": "./δ steps/δ-1WBMMGi01Fs.tsstp"
+        },
+        {
+            "key": "1WBPkeL00nw",
+            "relativePath": "../_shared/steps/Vscode_CodeSpellChecker_AddWordUserDictionary.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1WCRap302Gn",
+            "relativePath": "./δ steps/δ-1WCRap302Gn.tsstp"
         }
     ]
 }

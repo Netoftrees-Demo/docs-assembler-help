@@ -1,0 +1,10 @@
+Open the Command Palette (`Ctrl+Shift+P`) and type:
+
+| Command | Purpose |
+|---------|---------|
+| **CSpell: Show File Info** | See whether the current file is enabled, its language, and matched patterns |
+| **CSpell: Create a CSpell Configuration** | Generate a new `.cspell.json` with helpful comments |
+| **CSpell: Restart Spell Checker** | Reload config without restarting VS Code |
+| **CSpell: Open User Settings** | Edit your global user dictionary |
+| **CSpell: Trace Words** | Check why specific words are or aren't flagged |
+

@@ -1,0 +1,7 @@
+### "British spellings are flagged (e.g., 'colour')"
+
+| Cause | Fix |
+|-------|-----|
+| Default language is `en-US` | Set `"language": "en-GB"` in `.cspell.json` |
+| Multiple language files conflict | Ensure only one `.cspell.json` exists in the workspace root |
+

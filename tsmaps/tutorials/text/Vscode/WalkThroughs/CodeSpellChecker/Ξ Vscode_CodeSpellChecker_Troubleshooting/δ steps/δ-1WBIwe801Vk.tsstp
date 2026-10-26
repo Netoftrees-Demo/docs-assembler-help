@@ -1,0 +1,7 @@
+### "The Problems panel shows non-spelling issues"
+
+| Cause | Fix |
+|-------|-----|
+| Other extensions contribute diagnostics | Type `cspell` in the Problems panel filter box to show only spelling |
+| markdownlint or other linters active | These are separate — configure or disable them in their own settings |
+

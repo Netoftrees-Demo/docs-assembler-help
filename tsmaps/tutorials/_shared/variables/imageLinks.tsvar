@@ -500,6 +500,9 @@
 ¬Vscode_CodeSpellChecker_SharedDictionary_url: ../../../assets/images/Vscode/Vscode_CodeSpellChecker_SharedDictionary.png
 ¬Vscode_CodeSpellChecker_SharedDictionary_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_CodeSpellChecker_SharedDictionary_url}})
 
+¬Vscode_CodeSpellChecker_LanguageVariants_url: ../../../assets/images/Vscode/Vscode_CodeSpellChecker_LanguageVariants.png
+¬Vscode_CodeSpellChecker_LanguageVariants_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_CodeSpellChecker_LanguageVariants_url}})
+
 ¬Vscode_FormatTextDocument_url: ../../../assets/images/Vscode/Vscode_FormatTextDocument.png
 ¬Vscode_FormatTextDocument_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_FormatTextDocument_url}})
 
