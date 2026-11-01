@@ -1,0 +1,25 @@
+{
+    "key": "1WaPHfn01Eo ",
+    "token": "Vscodemovefile",
+    "name": "Vscode_MoveFile",
+    "created": "2026-10-30T22:41:00.443Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_MoveFile/Vscode_MoveFile.tspod",
+    "isPod": true,
+    "iText": "Link to 'Vscode_MoveFile'",
+    "___rΩΩt___": {
+        "key": "1WaPLmD01VW",
+        "nodes": [
+            {
+                "key": "1WaPMkT00Xp",
+                "order": 1
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "δ-1WaPLmD01VW",
+            "relativePath": "./δ steps/δ-1WaPLmD01VW.tsstp"
+        }
+    ]
+}

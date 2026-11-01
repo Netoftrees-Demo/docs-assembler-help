@@ -1,0 +1,9 @@
+
+### Fix: Moving the file or updating files filter
+
+The `.cspell.json` file can contain a `files` array (a list). This list is the *filter* that tells the **Code Spell Checker** exactly which files or folders it is allowed to analyse. If a file is not matched by any pattern in this list, it is ignored.
+
+You have two options to solve this: move the file, or edit the *filter*:
+1. If the file is will contribute to a map that will be published, move it into the `tsmaps/` folder. This is often the quickest fix as step and variables files within `tsmaps` are already included in the list.
+2. If moving the file isn’t right, or it is not a step or variable file, and you want spell checking you need to tell **Code Spell Checker** to include this file by editing the *filter*.
+

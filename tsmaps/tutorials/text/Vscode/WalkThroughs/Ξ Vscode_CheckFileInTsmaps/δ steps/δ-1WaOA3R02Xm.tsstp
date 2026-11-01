@@ -1,0 +1,17 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
+2. Find the `files` property, its value should be an array. *- red rectangle*
+
+```json
+    "files": [
+        "tsmaps/**/*.tsstp",
+        "tsmaps/**/*.tsvar"
+    ],
+```
+
+{{::il.Vscode_CodeSpellChecker_ConfigFiles_img}}
+
+
+3. Add a new entry to the array for the file's location or a matching pattern.
+

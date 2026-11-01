@@ -1,3 +1,6 @@
+## Comments for manual
+    - You might disagree with how the manual is structured, the language, layout, or even what is included. Or you might be able to do better. But that is yours to change etc.
+
 
 ## Inline
  - Check that inside and inline the following work:

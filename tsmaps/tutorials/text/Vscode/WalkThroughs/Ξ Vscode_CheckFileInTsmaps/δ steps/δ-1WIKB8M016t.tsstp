@@ -1,0 +1,9 @@
+¬import il from "../../../../../_shared/variables/imageLinks"
+
+
+2. The **Breadcrumb bar** at the at the top of the editor shows the file's path. *- red rectangle*
+
+3. If the first segment isn’t `tsmaps`, the `.cspell.json` filter will exclude the file from **Code Spell Checker** analysis. *- yellow rectangle*
+
+{{::il.Vscode_CheckFileInTsmaps_img}}
+

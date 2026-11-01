@@ -4,8 +4,7 @@
     "name": "Vscode_CodeSpellChecker_Troubleshooting",
     "created": "2026-10-18T10:39:12.768Z",
     "list": true,
-    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/CodeSpellChecker/Ξ Vscode_CodeSpellChecker_Troubleshooting/Vscode_CodeSpellChecker_Troubleshooting.tspod",
-    "isPod": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/CodeSpellChecker/Ξ Vscode_CodeSpellChecker_Troubleshooting/Vscode_CodeSpellChecker_Troubleshooting.tsmap",
     "iText": "Link to 'Vscode_CodeSpellChecker_Troubleshooting'",
     "___rΩΩt___": {
         "key": "1S6zoLq01zw",
@@ -131,7 +130,8 @@
                 "order": 2,
                 "option": "Check file path?",
                 "isLeaf": true,
-                "isAncillary": true
+                "isAncillary": true,
+                "iKey": "1WIJt5A028i"
             },
             {
                 "key": "1WBK2nV00ye",

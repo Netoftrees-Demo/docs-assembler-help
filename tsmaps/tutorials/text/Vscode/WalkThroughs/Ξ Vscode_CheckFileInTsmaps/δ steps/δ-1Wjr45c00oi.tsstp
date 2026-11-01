@@ -1,0 +1,39 @@
+¬import vs from "../../../../../_shared/variables/Vscode_Snippets"
+
+
+#### Understanding filter patterns (the glob)
+
+```json
+"files": [
+    "tsmaps/**/*.tsstp",
+    "tsmaps/**/*.tsvar"
+],
+```
+
+The text inside each entry e.g. `"tsmaps/**/*.tsvar"` in the array is called a **glob pattern**. 
+It works like a wildcard:
+- `*` means “anything here.”
+- `**` means “any folder depth.”
+- So `"tsmaps/**/*.tsstp"` means: *“Look inside the `tsmaps` folder and every subfolder, for any file ending in `.tsstp`.”*
+
+> **Note:** The paths in the `files` array are relative to the location of the `.cspell.json` file. If `.cspell.json` is in the project root, `"tsmaps/**"` points to the `tsmaps` folder next to it.
+
+#### Add a new pattern
+
+If your file is in a different folder, add a new line to the list. For example, to also analyse Markdown files in a `notes` folder alongside the `.cspell.json` file, you would edit the array to look like this:
+
+```json
+"files": [
+    "tsmaps/**/*.tsstp",
+    "tsmaps/**/*.tsvar",
+    "notes/**/*.md"
+],
+```
+
+{{::vs.Vscode_JsonArray_CommaGoldenRule}}
+
+
+#### Edit an existing pattern
+
+If a pattern is almost right but not quite, you can change it. For example, if the pattern is `"tsmaps/*.tsstp"` (which only checks files directly in `tsmaps`, not subfolders), you can change it to `"tsmaps/**/*.tsstp"` to include subfolders.
+
