@@ -1,7 +1,0 @@
-
-#### 2. Edit the Code Spell Checker filter
-
-The `.cspell.json` file can contain a `files` array (a list). This list is the *filter* that tells the **Code Spell Checker** exactly which files or folders it is allowed to analyse. If a file is not matched by any pattern in this list, it is ignored.
-
-1. open `.cspell.json` in the project root.
-

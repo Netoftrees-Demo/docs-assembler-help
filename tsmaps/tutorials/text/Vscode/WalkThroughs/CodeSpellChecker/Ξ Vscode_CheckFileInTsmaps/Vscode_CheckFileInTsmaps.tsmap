@@ -4,7 +4,7 @@
     "name": "Vscode_CheckFileInTsmaps",
     "created": "2026-10-27T20:26:40.228Z",
     "list": true,
-    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/Ξ Vscode_CheckFileInTsmaps/Vscode_CheckFileInTsmaps.tsmap",
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/CodeSpellChecker/Ξ Vscode_CheckFileInTsmaps/Vscode_CheckFileInTsmaps.tsmap",
     "iText": "Link to 'Vscode_CheckFileInTsmaps'",
     "___rΩΩt___": {
         "key": "1WIKAEt01E8",
@@ -44,9 +44,19 @@
                                                         "order": 1,
                                                         "nodes": [
                                                             {
-                                                                "key": "1Wk6OMY00VH",
+                                                                "key": "1WkGG2x00cM",
                                                                 "order": 1,
-                                                                "option": "Next"
+                                                                "option": "Not workding?",
+                                                                "isAncillary": true,
+                                                                "nodes": [
+                                                                    {
+                                                                        "key": "1Wk6OMY00VH",
+                                                                        "order": 1,
+                                                                        "option": "Check Docs Assembler configuration",
+                                                                        "isLeaf": true,
+                                                                        "isAncillary": true
+                                                                    }
+                                                                ]
                                                             }
                                                         ]
                                                     },
@@ -64,14 +74,8 @@
                                                 "key": "1Wjr45c00oi",
                                                 "order": 2,
                                                 "option": "How?",
-                                                "isAncillary": true,
-                                                "nodes": [
-                                                    {
-                                                        "key": "1WjrFVK01ws",
-                                                        "order": 1,
-                                                        "option": "Next"
-                                                    }
-                                                ]
+                                                "isLeaf": true,
+                                                "isAncillary": true
                                             }
                                         ]
                                     },
@@ -109,12 +113,12 @@
             "relativePath": "./δ steps/δ-1WIKB8M016t.tsstp"
         },
         {
-            "key": "δ-1WaNN0F01Gc",
-            "relativePath": "./δ steps/δ-1WaNN0F01Gc.tsstp"
-        },
-        {
             "key": "δ-1WaNhZt01Jc",
             "relativePath": "./δ steps/δ-1WaNhZt01Jc.tsstp"
+        },
+        {
+            "key": "δ-1WaTRal01pl",
+            "relativePath": "./δ steps/δ-1WaTRal01pl.tsstp"
         },
         {
             "key": "δ-1WaNsgO01ZI",
@@ -125,14 +129,6 @@
             "relativePath": "./δ steps/δ-1WaOA3R02Xm.tsstp"
         },
         {
-            "key": "δ-1WaTRal01pl",
-            "relativePath": "./δ steps/δ-1WaTRal01pl.tsstp"
-        },
-        {
-            "key": "δ-1Wjki2n009J",
-            "relativePath": "./δ steps/δ-1Wjki2n009J.tsstp"
-        },
-        {
             "key": "δ-1Wjkw2G004K",
             "relativePath": "./δ steps/δ-1Wjkw2G004K.tsstp"
         },
@@ -141,12 +137,28 @@
             "relativePath": "./δ steps/δ-1WjoaeJ0279.tsstp"
         },
         {
-            "key": "δ-1Wjr45c00oi",
-            "relativePath": "./δ steps/δ-1Wjr45c00oi.tsstp"
+            "key": "δ-1WkGG2x00cM",
+            "relativePath": "./δ steps/δ-1WkGG2x00cM.tsstp"
+        },
+        {
+            "key": "δ-1Wk6OMY00VH",
+            "relativePath": "./δ steps/δ-1Wk6OMY00VH.tsstp"
         },
         {
             "key": "δ-1Wk6Hrk00E3",
             "relativePath": "./δ steps/δ-1Wk6Hrk00E3.tsstp"
+        },
+        {
+            "key": "δ-1Wjr45c00oi",
+            "relativePath": "./δ steps/δ-1Wjr45c00oi.tsstp"
+        },
+        {
+            "key": "δ-1Wjki2n009J",
+            "relativePath": "./δ steps/δ-1Wjki2n009J.tsstp"
+        },
+        {
+            "key": "δ-1WaNN0F01Gc",
+            "relativePath": "./δ steps/δ-1WaNN0F01Gc.tsstp"
         }
     ]
 }

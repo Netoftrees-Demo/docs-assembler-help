@@ -1,4 +1,4 @@
-¬import il from "../../../../../_shared/variables/imageLinks"
+¬import il from "../../../../../../_shared/variables/imageLinks"
 
 
 2. Find the `files` property, its value should be an array. *- red rectangle*

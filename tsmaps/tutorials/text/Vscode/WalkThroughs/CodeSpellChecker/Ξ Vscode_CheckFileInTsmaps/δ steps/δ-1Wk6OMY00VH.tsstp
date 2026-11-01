@@ -1,0 +1,45 @@
+¬import il from "../../../../../../../../_shared/variables/imageLinks"
+
+
+### Checking the configured mapsFolderName is tsmaps
+
+When the repo was initialised as a Docs Assembler repo in VS Code, the extension writes a configuration file named **`docs-assembler-config.json`** to the **project root**. This file records, among other things, the name of the folder where your maps live. The default value is `tsmaps`.
+
+1. In the VS Code Explorer panel, open **`docs-assembler-config.json`** in the project root.
+
+> In the image below, `docs-assembler-config.json` is at the same level as the `tsmaps/` folder. *- red rectangle*
+
+2. Find the **`repoConfig`** section. *- red rectangle* 
+
+3. Then look for **`mapsFolderName`**. *- green rectangle*
+
+
+```json
+{
+    "organisation": "netoftrees",
+    "contact": "team@netoftrees.com",
+    "gitConfig": {
+        "owner": "netoftrees",
+        "repo": "docs-assembler-help",
+        "branch": "main",
+        "publishUrl": "https://netoftrees.com/docs-assembler-help/"
+    },
+    "repoConfig": {
+        "assetFolderName": "δ steps",
+        "variableFolderName": "Ω variables",
+        "publishFolderName": "pub",
+        "docsFolderName": "docs",
+        "mapsFolderName": "tsmaps"
+    },
+    "devConfig": {
+        "forceJsDelivr": false
+    }
+}
+```
+
+4. If the value is something **other than `tsmaps`** (for example, `"maps"`), then the default spell-checker filters will not match your maps folder. You must edit the filters in `.cspell.json` to use that value instead.
+
+> For example, if `mapsFolderName` is `"maps"`, change the pattern in `.cspell.json` from `"tsmaps/**/*.tsstp"` to `"maps/**/*.tsstp"`.
+
+{{::il.DA_Config_img}}
+

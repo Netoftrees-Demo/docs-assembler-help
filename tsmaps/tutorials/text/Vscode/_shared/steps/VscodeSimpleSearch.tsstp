@@ -3,9 +3,9 @@
 
 ##### Vscode - simple text search
 
-1. If **Search** is not open click the **Search** icon in the **Activity Bar** to show it. *- red ring*
+1. {{::vs.Vscode_OpenSearch_1}} *- red ring*
 
-2. The **Search** panel displays. If the panel disappears click the icon again to re-display it.
+2. {{::vs.Vscode_OpenSearch_2}}
 
 3. In the search box type or paste the text you want to search for, in this case the search text is **From Doubt to Direction**. *- yellow ring*
 

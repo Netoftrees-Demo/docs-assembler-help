@@ -1,4 +1,4 @@
-¬import vs from "../../../../../_shared/variables/Vscode_Snippets"
+¬import vs from "../../../../../../_shared/variables/Vscode_Snippets"
 
 
 #### Understanding filter patterns (the glob)
@@ -16,11 +16,11 @@ It works like a wildcard:
 - `**` means “any folder depth.”
 - So `"tsmaps/**/*.tsstp"` means: *“Look inside the `tsmaps` folder and every subfolder, for any file ending in `.tsstp`.”*
 
-> **Note:** The paths in the `files` array are relative to the location of the `.cspell.json` file. If `.cspell.json` is in the project root, `"tsmaps/**"` points to the `tsmaps` folder next to it.
+> **Note:** The paths in the `files` array are relative to the location of the `.cspell.json` file, the project root, so`"tsmaps/**"` points to the `tsmaps` folder in the project root.
 
 #### Add a new pattern
 
-If your file is in a different folder, add a new line to the list. For example, to also analyse Markdown files in a `notes` folder alongside the `.cspell.json` file, you would edit the array to look like this:
+If your file is in a different folder, add a new line to the list. For example, to also analyse Markdown files in a `notes` folder on the project root, you would edit the array to look like this:
 
 ```json
 "files": [
