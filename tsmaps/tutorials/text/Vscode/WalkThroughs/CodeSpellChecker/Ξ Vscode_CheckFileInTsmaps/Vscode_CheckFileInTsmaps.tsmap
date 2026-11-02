@@ -55,6 +55,21 @@
                                                                         "option": "Check Docs Assembler configuration",
                                                                         "isLeaf": true,
                                                                         "isAncillary": true
+                                                                    },
+                                                                    {
+                                                                        "key": "1WmLYGk01Kd",
+                                                                        "order": 2,
+                                                                        "option": "Check for multiple .cspell.json files",
+                                                                        "isLeaf": true,
+                                                                        "isAncillary": true
+                                                                    },
+                                                                    {
+                                                                        "key": "1WmPjHq02N5",
+                                                                        "order": 3,
+                                                                        "option": "Check the contents of the .cspell.json file",
+                                                                        "isLeaf": true,
+                                                                        "isAncillary": true,
+                                                                        "iKey": "1WmQ3Tm01K3"
                                                                     }
                                                                 ]
                                                             }
@@ -159,6 +174,14 @@
         {
             "key": "δ-1WaNN0F01Gc",
             "relativePath": "./δ steps/δ-1WaNN0F01Gc.tsstp"
+        },
+        {
+            "key": "δ-1WmLYGk01Kd",
+            "relativePath": "./δ steps/δ-1WmLYGk01Kd.tsstp"
+        },
+        {
+            "key": "δ-1WmPjHq02N5",
+            "relativePath": "./δ steps/δ-1WmPjHq02N5.tsstp"
         }
     ]
 }

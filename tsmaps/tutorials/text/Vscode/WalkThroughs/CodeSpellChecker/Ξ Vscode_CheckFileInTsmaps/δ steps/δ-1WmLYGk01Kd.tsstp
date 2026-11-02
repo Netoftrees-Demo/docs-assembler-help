@@ -1,0 +1,28 @@
+¬import il from "../../../../../../_shared/variables/imageLinks"
+¬import vs from "../../../../../../_shared/variables/Vscode_Snippets"
+
+
+### Check for multiple .cspell.json files in workspace
+
+1. {{::vs.Vscode_OpenSearch_1}} *- red ring*
+
+2. {{::vs.Vscode_OpenSearch_2}}
+
+3. In the search box type `{`, the search box can't be empty and the open curly bracket character appears in all json files. *- yellow ring*
+
+4. Make sure the 3 search type buttons are unchecked. *- blue ring*
+
+5. In the **files to include** box type or paste `.cspell.json`. *- orange ring*
+
+> If the **files to include** box is not showing click the `...` button to display it. *- mauve ring*
+
+5. Press the **Return** key on the keyboard to run the search.
+
+6. The search results display. *- green ring*
+
+7. Searches are listed by file, with the name first and the path afterwards. *- purple ring*
+
+8. There should be only one `.cspell.json` file. In the example image below there are two. Delete any that are not in the workspace root.
+
+{{::il.Vscode_CodeSpellChecker_ConfigSearch_img}}
+
