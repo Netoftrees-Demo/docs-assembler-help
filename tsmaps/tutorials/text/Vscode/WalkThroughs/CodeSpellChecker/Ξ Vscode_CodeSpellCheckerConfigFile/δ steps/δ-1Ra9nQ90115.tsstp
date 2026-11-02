@@ -1,8 +1,11 @@
-¬TODO 111 .cspell.json file
 
-What it is
-Where is it
-How to open it
-how to create it - link to create config file
+### Code Spell Checker configuration
 
-Check Vscode_SetupRepoForCodeSpellChecker as some of the steps might be duplicated with here...
+This as a set of instructions that tells **Code Spell Checker** exactly how to behave in your project. These instructions can be stored in various locations including the **Vscode Settings**, but we recommend storing in them in a separate file located in the root of your project called `.cspell.json`.
+
+
+¬TODO
+ - Open a .cspell.json file
+ - Create a .cspell.json file
+
+ 

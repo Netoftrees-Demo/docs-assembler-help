@@ -1,0 +1,8 @@
+### Why have a configuration file?
+
+The default dictionary in any spell checker is general-purpose. However, the text in your repo could be full of technical terms, project-specific jargon, acronyms, and variable names (like `userId`, `numItems`, `config`) that are not in a standard dictionary. The `.cspell.json` file solves this problem. It allows you to:
+
+*   **Stop False Positives:** Teach the spell checker that words like `colour`, `frobnicate`, or `MyCompanyName` are correct, so they no longer get flagged with squiggly lines.
+*   **Customise the Rules:** Tell the spell checker to ignore certain files (like minified JavaScript or test data) or skip specific patterns of text (like URLs or base64 strings) that shouldn't be spell-checked.
+*   **Share Settings with Your Team:** By committing this file to your project, everyone on the team uses the same spelling rules, ensuring consistency across the codebase.
+

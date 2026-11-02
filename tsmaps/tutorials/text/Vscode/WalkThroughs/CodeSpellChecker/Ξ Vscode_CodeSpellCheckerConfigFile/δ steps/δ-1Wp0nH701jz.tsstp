@@ -1,0 +1,11 @@
+### What sections can it contain?
+
+The file uses JSON format. Here are the most common and useful sections:
+
+| Section | What it Does | Example |
+| :--- | :--- | :--- |
+| **`words`** | A list of custom words to be always considered correct. This is the most common use case. | `"words": ["kubectl", "config", "myAPIname"]` |
+| **`ignoreWords`** | A list of words to be ignored completely (they won't be flagged even if they look wrong). Useful for specific code tokens you don't want to add to the main dictionary. | `"ignoreWords": ["xunit", "ipynb"]` |
+| **`ignorePaths`** | A list of file or folder patterns that the spell checker should skip entirely. | `"ignorePaths": ["node_modules/**", "*.min.js"]` |
+| **`dictionaries`** | Allows you to load custom dictionary files (like a `.txt` file full of words) in addition to the built-in ones. | `"dictionaries": ["my-custom-dict"]` |
+

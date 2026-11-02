@@ -1,0 +1,9 @@
+¬import il from "../../../../../../_shared/variables/imageLinks"
+¬import vs from "../../../../../../_shared/variables/Vscode_Snippets"
+
+
+### Opening the .cspell.json file
+
+1. Open vscode **Explorer**.
+
+

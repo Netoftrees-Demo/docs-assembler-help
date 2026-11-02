@@ -9,12 +9,98 @@
     "iText": "Link to 'Vscode_CodeSpellCheckerConfigFile'",
     "___rΩΩt___": {
         "key": "1Ra9nQ90115",
-        "isLeaf": true
+        "nodes": [
+            {
+                "key": "1Wp0mdk01nb",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1Wp1PZ101qA",
+                        "order": 1,
+                        "nodes": [
+                            {
+                                "key": "1Wp3MBZ026T",
+                                "order": 1,
+                                "nodes": [
+                                    {
+                                        "key": "1Wp3pNS006t",
+                                        "order": 1,
+                                        "nodes": [
+                                            {
+                                                "key": "1Wp512X00nV",
+                                                "order": 1
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "key": "1Wp4Rqs01HV",
+                                "order": 2,
+                                "option": "Cannot see the \".cspell.json\" file?",
+                                "isAncillary": true
+                            }
+                        ]
+                    },
+                    {
+                        "key": "1Wp2jth00UE",
+                        "order": 2,
+                        "option": "Explorer?",
+                        "sharedAssetKey": "1Wp3Bic00aJ",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            },
+            {
+                "key": "1Wp0mtQ01wY",
+                "order": 2,
+                "option": "Why have a configuration file?",
+                "isLeaf": true,
+                "isAncillary": true
+            },
+            {
+                "key": "1Wp0nH701jz",
+                "order": 3,
+                "option": "What sections can it contain?",
+                "isLeaf": true,
+                "isAncillary": true
+            }
+        ]
     },
     "___αssεts___": [
         {
             "key": "δ-1Ra9nQ90115",
             "relativePath": "./δ steps/δ-1Ra9nQ90115.tsstp"
+        },
+        {
+            "key": "δ-1Wp0mdk01nb",
+            "relativePath": "./δ steps/δ-1Wp0mdk01nb.tsstp"
+        },
+        {
+            "key": "δ-1Wp0mtQ01wY",
+            "relativePath": "./δ steps/δ-1Wp0mtQ01wY.tsstp"
+        },
+        {
+            "key": "δ-1Wp0nH701jz",
+            "relativePath": "./δ steps/δ-1Wp0nH701jz.tsstp"
+        },
+        {
+            "key": "δ-1Wp1PZ101qA",
+            "relativePath": "./δ steps/δ-1Wp1PZ101qA.tsstp"
+        },
+        {
+            "key": "1Wp3Bic00aJ",
+            "relativePath": "../../../_shared/steps/VscodeOpenExplorer.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1Wp3MBZ026T",
+            "relativePath": "./δ steps/δ-1Wp3MBZ026T.tsstp"
+        },
+        {
+            "key": "δ-1Wp3pNS006t",
+            "relativePath": "./δ steps/δ-1Wp3pNS006t.tsstp"
         }
     ]
 }
