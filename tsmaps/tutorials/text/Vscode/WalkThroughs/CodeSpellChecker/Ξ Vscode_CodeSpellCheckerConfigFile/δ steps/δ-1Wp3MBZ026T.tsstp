@@ -1,7 +1,7 @@
 ¬import il from "../../../../../../_shared/variables/imageLinks"
 
 
-3. Click the `.cspell.json` file to open it in the editor.
+3. Click the `.cspell.json` file to open it in the editor. *- blue rectangle*
 
 {{::il.Vscode_CodeSpellChecker_Config_img}}
 

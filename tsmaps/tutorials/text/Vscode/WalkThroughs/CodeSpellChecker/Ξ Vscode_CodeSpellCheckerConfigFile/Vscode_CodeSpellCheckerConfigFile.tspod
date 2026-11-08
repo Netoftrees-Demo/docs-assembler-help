@@ -21,24 +21,31 @@
                             {
                                 "key": "1Wp3MBZ026T",
                                 "order": 1,
-                                "nodes": [
-                                    {
-                                        "key": "1Wp3pNS006t",
-                                        "order": 1,
-                                        "nodes": [
-                                            {
-                                                "key": "1Wp512X00nV",
-                                                "order": 1
-                                            }
-                                        ]
-                                    }
-                                ]
+                                "isLeaf": true
                             },
                             {
                                 "key": "1Wp4Rqs01HV",
                                 "order": 2,
                                 "option": "Cannot see the \".cspell.json\" file?",
-                                "isAncillary": true
+                                "isAncillary": true,
+                                "iKey": "1VRKkcW009h",
+                                "isInline": true,
+                                "nodes": [
+                                    {
+                                        "key": "1WpAWBa02FS",
+                                        "order": 1,
+                                        "option": "Still cannot see the \".cspell.json\" file?",
+                                        "isAncillary": true,
+                                        "nodes": [
+                                            {
+                                                "key": "1WpAtlx00MQ",
+                                                "order": 1,
+                                                "isLeaf": true,
+                                                "iKey": "1QnUKwc007o"
+                                            }
+                                        ]
+                                    }
+                                ]
                             }
                         ]
                     },
@@ -99,8 +106,16 @@
             "relativePath": "./δ steps/δ-1Wp3MBZ026T.tsstp"
         },
         {
-            "key": "δ-1Wp3pNS006t",
-            "relativePath": "./δ steps/δ-1Wp3pNS006t.tsstp"
+            "key": "δ-1Wp4Rqs01HV",
+            "relativePath": "./δ steps/δ-1Wp4Rqs01HV.tsstp"
+        },
+        {
+            "key": "δ-1WpAWBa02FS",
+            "relativePath": "./δ steps/δ-1WpAWBa02FS.tsstp"
+        },
+        {
+            "key": "δ-1WpAtlx00MQ",
+            "relativePath": "./δ steps/δ-1WpAtlx00MQ.tsstp"
         }
     ]
 }
