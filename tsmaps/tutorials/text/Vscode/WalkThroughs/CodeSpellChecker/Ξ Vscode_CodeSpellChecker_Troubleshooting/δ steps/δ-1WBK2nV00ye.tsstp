@@ -1,2 +1,23 @@
-¬TODO check file type enabled, enable it if not, comment if type not netoftrees type
+
+### Is the file type spell check enabled?
+
+1. With VS Code having focus press the keys `Ctrl + Shift + P` at the same time.
+
+3. The **Command Palette** displays. *- orange ring*
+
+2. And the **Command textbox** gets focus, type or paste `Show Spell Checker Configuration Info`. *- red ring*
+
+3. Select *>Show Spell Checker Configuration Info**. *- yellow ring*
+
+{{::il.Vscode_Settings_Open_Command_img}}
+
+
+
+2. Type **"CSpell: Show File Info"** and select it from the list.
+
+> In the image below, the command is highlighted in the Command Palette. *- red rectangle*
+
+3. A panel opens showing the file's language ID and whether CSpell is enabled for that file type.
+
+> In the image below, the panel shows `Language ID: markdown` and `Enabled: false`. *- orange rectangle*
 

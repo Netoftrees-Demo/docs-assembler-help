@@ -4,5 +4,5 @@
 - **Prevent broken links:** Missing files and incorrect paths are caught before they reach your readers.
 - **Save time:** No more guessing why a publish failed - diagnostics tell you exactly what's wrong and where.
 
-**Note:** Diagnostics are different from IntelliSense. IntelliSense helps you write correctly (autocomplete), while diagnostics help you catch mistakes (error checking). Both work together to ensure your documentation is accurate and complete.
+> **Note:** Diagnostics are different from IntelliSense. IntelliSense helps you write correctly (autocomplete), while diagnostics help you catch mistakes (error checking). Both work together to ensure your documentation is accurate and complete.
 

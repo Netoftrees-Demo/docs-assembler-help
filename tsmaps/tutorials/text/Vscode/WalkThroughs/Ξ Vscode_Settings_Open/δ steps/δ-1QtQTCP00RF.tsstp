@@ -3,13 +3,50 @@
 
 #### From the Command Palette
 
-1. With VS Code having focus press `Ctrl + Shift + P`
+1. With VS Code having focus press the keys `Ctrl + Shift + P` at the same time.
 
-2. The **Command textbox** gets focus. *- red ring*
+3. The **Command Palette** displays. *- orange ring*
 
-3. And the **Command Palette** displays. *- orange ring*
+2. And the **Command textbox** gets focus, type or paste `Open Settings`. *- red ring*
 
-4. Select **Preferences: Open Settings (UI)**. *- yellow ring*
+> **Note:** The **Command textbox** should have a `>` at the start e.g `>Open Settings`, if it doesn't add it, it tells vscode to search for **executable commands**.
+
+3. Select **Preferences: Open Settings (UI)**. *- yellow ring*
 
 {{::il.Vscode_Settings_Open_Command_img}}
 
+
+
+¬TODO 
+
+Need to explain all this about commands:
+
+
+In VS Code, the command palette is actually a multi-purpose input box, and the first character you type acts as a **mode selector**. This is why adding a `>` fundamentally changes what you're searching through.
+
+### 🎯 The Core Difference: Mode Switching
+
+The character at the start of your input tells VS Code *what kind* of items to search for.
+
+*   **With `>` (Command Mode)**: When you type `>`, you are telling VS Code to search only for **executable commands** (like `Format Document`, `Toggle Terminal`, etc.). This mode is filtered to the commands registered by VS Code and its extensions.
+*   **Without `>` (File Search Mode)**: If you omit the `>`, the palette defaults to a different mode—most commonly **file search**. In this mode, typing text will search for filenames in your workspace, not commands. This is the same behavior as pressing `Ctrl+P` (or `Cmd+P` on macOS).
+
+### 💡 Why It Feels Inconsistent with Shortcuts
+
+This behavior often causes confusion because of how the keyboard shortcuts work:
+
+*   **`Ctrl+Shift+P` (or `Cmd+Shift+P`)**: This shortcut opens the palette **already in command mode**, with a `>` pre-filled. If you use this shortcut, you can start typing a command immediately without needing to add the `>` yourself.
+*   **`Ctrl+P` (or `Cmd+P`)**: This opens the palette in **file search mode** (no `>`). To search for a command from here, you must manually type `>` first to switch modes.
+
+So, if you are used to `Ctrl+Shift+P`, the `>` is already there. If you ever open the palette with `Ctrl+P`, you'll see the difference: without `>`, it searches files; with `>`, it searches commands.
+
+### 🔍 Other Mode Prefixes
+
+The `>` is just one of several prefixes that change the palette's function. You can even type `?` in an empty palette to see the full list of available modes. Some common ones are:
+
+*   **`@`**: Search for symbols (variables, functions) in the **current file**.
+*   **`#`**: Search for symbols across the **entire workspace**.
+*   **`:`**: Jump to a specific **line number** in the current file.
+*   **`>`**: Run a **command** (as discussed).
+
+In short, the `>` is not a search term—it's a **filter switch** that determines whether you are looking for commands or files.

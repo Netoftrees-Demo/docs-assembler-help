@@ -6,7 +6,7 @@
 
 4. The **Context Menu** is displayed.
 
-5. Click ** Opne in Terminal"". *- yellow ring*
+5. Click ** Open in Terminal"". *- yellow ring*
 
 {{::il.Vscode_OpenUsingTerminal_1_img}}
 
@@ -15,7 +15,7 @@
 
 7. Type ```code .```. 
 
-**Note** There is a space between **code** and the full stop. *- red ring*
+> **Note** There is a space between **code** and the full stop. *- red ring*
 
 {{::il.Vscode_OpenUsingTerminal_2_img}}
 
