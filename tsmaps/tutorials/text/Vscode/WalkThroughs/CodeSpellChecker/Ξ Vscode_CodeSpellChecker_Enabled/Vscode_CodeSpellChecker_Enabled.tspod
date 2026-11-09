@@ -1,0 +1,44 @@
+{
+    "key": "1XUcgNn013F ",
+    "token": "Vscodecodespellcheckerenabled",
+    "name": "Vscode_CodeSpellChecker_Enabled",
+    "created": "2026-11-09T13:25:28.507Z",
+    "list": true,
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-help/tsmaps/tutorials/text/Vscode/WalkThroughs/CodeSpellChecker/Ξ Vscode_CodeSpellChecker_Enabled/Vscode_CodeSpellChecker_Enabled.tspod",
+    "isPod": true,
+    "iText": "Link to 'Vscode_CodeSpellChecker_Enabled'",
+    "___rΩΩt___": {
+        "key": "1XUckzk01Yq",
+        "sharedAssetKey": "1XUcn9X00SC",
+        "nodes": [
+            {
+                "key": "1XUcm4500yW",
+                "order": 1,
+                "nodes": [
+                    {
+                        "key": "1XUfHJS00B9",
+                        "order": 1,
+                        "sharedAssetKey": "1XUfLAy00O0",
+                        "isLeaf": true
+                    }
+                ]
+            }
+        ]
+    },
+    "___αssεts___": [
+        {
+            "key": "1XUcn9X00SC",
+            "relativePath": "../_shared/steps/Vscode_CodeSpellChecker_Info_Open.tsstp",
+            "isShared": true
+        },
+        {
+            "key": "δ-1XUcm4500yW",
+            "relativePath": "./δ steps/δ-1XUcm4500yW.tsstp"
+        },
+        {
+            "key": "1XUfLAy00O0",
+            "relativePath": "../_shared/steps/Vscode_CodeSpellChecker_Config_Multiple.tsstp",
+            "isShared": true
+        }
+    ]
+}

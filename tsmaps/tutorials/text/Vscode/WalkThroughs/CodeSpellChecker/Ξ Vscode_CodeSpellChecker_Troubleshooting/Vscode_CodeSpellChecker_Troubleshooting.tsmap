@@ -152,7 +152,8 @@
                 "order": 5,
                 "option": "CSPell enabled?",
                 "isLeaf": true,
-                "isAncillary": true
+                "isAncillary": true,
+                "iKey": "1XUcgNn013F"
             }
         ]
     },
@@ -194,10 +195,6 @@
             "relativePath": "./δ steps/δ-1WBJyYH01sV.tsstp"
         },
         {
-            "key": "δ-1WBK2nV00ye",
-            "relativePath": "./δ steps/δ-1WBK2nV00ye.tsstp"
-        },
-        {
             "key": "δ-1WBK8ar0284",
             "relativePath": "./δ steps/δ-1WBK8ar0284.tsstp"
         },
@@ -227,6 +224,10 @@
         {
             "key": "δ-1WCRap302Gn",
             "relativePath": "./δ steps/δ-1WCRap302Gn.tsstp"
+        },
+        {
+            "key": "δ-1WBK2nV00ye",
+            "relativePath": "./δ steps/δ-1WBK2nV00ye.tsstp"
         }
     ]
 }

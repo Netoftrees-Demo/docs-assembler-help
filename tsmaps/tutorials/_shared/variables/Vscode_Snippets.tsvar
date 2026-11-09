@@ -28,3 +28,7 @@ Crucial: The very last item in the list cannot have a comma after it.
 *** If you put a comma after the last item, VS Code will warn you with a red squiggle under the offending comma***
 ¬
 
+¬Vscode_OpenCommand_1: With VS Code having focus press the keys `Ctrl + Shift + P` at the same time to open the **Command Palette**.
+¬Vscode_OpenCommand_2: The **Command Palette** displays.
+¬Vscode_OpenCommand_3: And the **Command textbox** gets focus, type or paste 
+

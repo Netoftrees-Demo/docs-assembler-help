@@ -1,0 +1,25 @@
+¬import il from "../../../../../../_shared/variables/imageLinks"
+¬import vs from "../../../../../../_shared/variables/Vscode_Snippets"
+
+
+### Opening the Code Spell Checker document information panel
+
+1. {{::vs.Vscode_OpenCommand_1}}
+
+2. {{::vs.Vscode_OpenCommand_2}} *- orange ring*
+
+3. {{::vs.Vscode_OpenCommand_3}} `Show Spell Checker Info`. *- red ring*
+
+4. Select *Show Spell Checker Configuration Info**. *- yellow ring*
+
+{{::il.Vscode_CodeSpellChecker_Info_Open_img}}
+
+
+5. The **Code Spell Checker** panel opens in the **Primary Sidebar**. *- red ring*
+
+> **Note:** Which ever text document has focus will have its details displayed in the **Code Spell Checker** panel. *- yellow, green, blue rings*
+
+6. The **Code Spell Checker** button appears in the **Activity Bar**. *- orange ring*
+
+{{::il.Vscode_CodeSpellChecker_Info_Panel_img}}
+

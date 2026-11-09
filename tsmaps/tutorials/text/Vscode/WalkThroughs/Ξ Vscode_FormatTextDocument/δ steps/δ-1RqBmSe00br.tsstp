@@ -1,18 +1,21 @@
 ¬import il from "../../../../../_shared/variables/imageLinks"
+¬import vs from "../../../../../_shared/variables/Vscode_Snippets"
 
 
 #### Command palette
 
-1. Press `Ctrl + Shift + P` to open the Command Palette.
+1. {{::vs.Vscode_OpenCommand_1}}
 
-2. The Command Palette appears. *- red rectangle*
+2. {{::vs.Vscode_OpenCommand_2}} *- orange ring*
+
+3. {{::vs.Vscode_OpenCommand_3}} `Show Spell Checker Info`. *- red rectangle*
 
 
 ##### Format whole document
 
 Formats the entire active file.
 
-2. Type `Format Document` and select the command **Format Document**. *- orange rectangle*
+4. {{::vs.Vscode_OpenCommand_3}} `Format Document` and select the command **Format Document**. *- orange rectangle*
 
 {{::il.Vscode_CommandFormatTextDocument_img}}
 
@@ -21,7 +24,7 @@ Formats the entire active file.
 
 Formats the block of text you have selected
 
-2. Type `![alt text](image.png)` and select the command **Format Selection**. *- orange rectangle*
+4. {{::vs.Vscode_OpenCommand_3}} `![alt text](image.png)` and select the command **Format Selection**. *- orange rectangle*
 
 {{::il.Vscode_CommandFormatTextSelection_img}}
 

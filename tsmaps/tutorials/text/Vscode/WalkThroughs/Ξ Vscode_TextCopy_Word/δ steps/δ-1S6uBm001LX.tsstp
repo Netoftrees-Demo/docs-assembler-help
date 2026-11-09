@@ -1,3 +1,6 @@
+¬import vs from "../../../../../../_shared/variables/Vscode_Snippets"
+
+
 #### Using the keyboard
 
 1. Press `Ctrl + C`.  
@@ -17,9 +20,11 @@
 
 #### From the command palette
 
-1. Press `Ctrl + Shift + P` to open the Command Palette.
+1. {{::vs.Vscode_OpenCommand_1}}
 
-2. The Command Palette appears. *- red rectangle*
+2. {{::vs.Vscode_OpenCommand_2}} *- red ring*
 
-3. Type `Copy`, then select **Copy**.
+3. {{::vs.Vscode_OpenCommand_3}} `Copy`.
+
+4. Select **Copy**. *- yellow ring*
 

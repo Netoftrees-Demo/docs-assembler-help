@@ -530,6 +530,12 @@
 ¬Vscode_CodeSpellChecker_ConfigSearch_url: ../../../assets/images/Vscode/Vscode_CodeSpellChecker_ConfigSearch.png
 ¬Vscode_CodeSpellChecker_ConfigSearch_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_CodeSpellChecker_ConfigSearch_url}})
 
+¬Vscode_CodeSpellChecker_Info_Open_url: ../../../assets/images/Vscode/Vscode_CodeSpellChecker_Info_Open.png
+¬Vscode_CodeSpellChecker_Info_Open_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_CodeSpellChecker_Info_Open_url}})
+
+¬Vscode_CodeSpellChecker_Info_Panel_url: ../../../assets/images/Vscode/Vscode_CodeSpellChecker_Info_Panel.png
+¬Vscode_CodeSpellChecker_Info_Panel_img: ![Install Docs Assembler dialogue in vscode]({{::Vscode_CodeSpellChecker_Info_Panel_url}})
+
 ¬GitHub_ForkButton_url: ../../../assets/images/GitHub/GitHub_ForkButton.png
 ¬GitHub_ForkButton_img: ![Vscode - empty]({{::GitHub_ForkButton_url}})
 

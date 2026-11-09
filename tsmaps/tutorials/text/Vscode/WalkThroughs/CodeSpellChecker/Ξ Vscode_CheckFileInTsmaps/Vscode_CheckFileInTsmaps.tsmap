@@ -60,6 +60,7 @@
                                                                         "key": "1WmLYGk01Kd",
                                                                         "order": 2,
                                                                         "option": "Check for multiple .cspell.json files",
+                                                                        "sharedAssetKey": "1XUdls601ef",
                                                                         "isLeaf": true,
                                                                         "isAncillary": true
                                                                     },
@@ -176,8 +177,9 @@
             "relativePath": "./δ steps/δ-1WaNN0F01Gc.tsstp"
         },
         {
-            "key": "δ-1WmLYGk01Kd",
-            "relativePath": "./δ steps/δ-1WmLYGk01Kd.tsstp"
+            "key": "1XUdls601ef",
+            "relativePath": "../_shared/steps/Vscode_CodeSpellChecker_Config_Multiple.tsstp",
+            "isShared": true
         },
         {
             "key": "δ-1WmPjHq02N5",

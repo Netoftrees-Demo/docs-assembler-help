@@ -1,13 +1,14 @@
 ¬import il from "../../../../../_shared/variables/imageLinks"
+¬import vs from "../../../../../_shared/variables/Vscode_Snippets"
 
 
 #### From the Command Palette
 
-1. With VS Code having focus press the keys `Ctrl + Shift + P` at the same time.
+1. {{::vs.Vscode_OpenCommand_1}}
 
-3. The **Command Palette** displays. *- orange ring*
+2. {{::vs.Vscode_OpenCommand_2}} *- orange ring*
 
-2. And the **Command textbox** gets focus, type or paste `Open Settings`. *- red ring*
+3. {{::vs.Vscode_OpenCommand_3}} `Open Settings`. *- red ring*
 
 > **Note:** The **Command textbox** should have a `>` at the start e.g `>Open Settings`, if it doesn't add it, it tells vscode to search for **executable commands**.
 
